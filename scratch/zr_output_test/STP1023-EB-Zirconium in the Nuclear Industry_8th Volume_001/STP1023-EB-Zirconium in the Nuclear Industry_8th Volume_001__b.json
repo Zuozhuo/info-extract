@@ -1,0 +1,290 @@
+[
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001_chunk1",
+    "page_or_fig": "20",
+    "evidence_span": "Corrosion and Hydriding of N Reactor Pressure Tubes",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "Pressure Tubes",
+    "process_step": null,
+    "test_type": "Corrosion and Hydriding",
+    "property_name": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "time_h": null,
+      "dose_dpa": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.7,
+    "domain": "corrosion"
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001_chunk1",
+    "page_or_fig": "20",
+    "evidence_span": "Oxidation and Deuterium Uptake of Zr-2.5Nb Pressure Tubes in CANDU-PHW Reactors",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-2.5Nb",
+    "specimen_state": "Pressure Tubes",
+    "process_step": null,
+    "test_type": "Oxidation and Deuterium Uptake",
+    "property_name": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "time_h": null,
+      "dose_dpa": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.8,
+    "domain": "corrosion"
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001_chunk1",
+    "page_or_fig": "35",
+    "evidence_span": "Evaluation of Zircaloy-2 Pressure Tubes from NPD",
+    "alloy_name": "Zircaloy-2",
+    "composition": {},
+    "composition_raw": "Zircaloy-2",
+    "specimen_state": "Pressure Tubes",
+    "process_step": null,
+    "test_type": "Evaluation",
+    "property_name": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "time_h": null,
+      "dose_dpa": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.7,
+    "domain": null
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001_chunk1",
+    "page_or_fig": "35",
+    "evidence_span": "Growth, Fracture, and Nondestructive Evaluation of Hydride Blisters in Zr-2.5-Nb Pressure Tubes",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-2.5-Nb",
+    "specimen_state": "Pressure Tubes",
+    "process_step": null,
+    "test_type": "Growth, Fracture, and Nondestructive Evaluation",
+    "property_name": "Hydride Blisters",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "time_h": null,
+      "dose_dpa": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.8,
+    "domain": "irradiation_swelling"
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001_chunk1",
+    "page_or_fig": "35",
+    "evidence_span": "Effects of Hydride Morphology on Zr-2.5Nb Fracture Toughness",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-2.5Nb",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Fracture Toughness",
+    "property_name": "Fracture Toughness",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "time_h": null,
+      "dose_dpa": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.8,
+    "domain": "elastoplastic_model"
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001_chunk1",
+    "page_or_fig": "35",
+    "evidence_span": "Effects of Loading and Thermal Maneuvers on Delayed Hydride Cracking in Zr-2.5-Nb Alloys",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-2.5-Nb",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Delayed Hydride Cracking",
+    "property_name": "Delayed Hydride Cracking",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "time_h": null,
+      "dose_dpa": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.8,
+    "domain": "irradiation_creep"
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001_chunk1",
+    "page_or_fig": "113",
+    "evidence_span": "Influence of Chemical Composition on Uniform Corrosion of Zirconium-Base Alloy in Autoclave Tests",
+    "alloy_name": "Zirconium-Base Alloy",
+    "composition": {},
+    "composition_raw": "Zirconium-Base Alloy",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Autoclave Tests",
+    "property_name": "Uniform Corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "time_h": null,
+      "dose_dpa": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.8,
+    "domain": "corrosion"
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001_chunk1",
+    "page_or_fig": "128",
+    "evidence_span": "Correlation Between 400°C Steam Corrosion Behavior, Heat Treatment, and Microstructure of Zircaloy-4 Tubing",
+    "alloy_name": "Zircaloy-4",
+    "composition": {},
+    "composition_raw": "Zircaloy-4",
+    "specimen_state": "Tubing",
+    "process_step": "Heat Treatment",
+    "test_type": "Steam Corrosion",
+    "property_name": "Corrosion Behavior",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 400,
+      "temp_K": 673.15,
+      "medium": "Steam",
+      "pressure_MPa": null,
+      "time_h": null,
+      "dose_dpa": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9,
+    "domain": "corrosion"
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001_chunk1",
+    "page_or_fig": "141",
+    "evidence_span": "Influence of the Manufacturing Process on the Corrosion Resistance of Zircaloy-4 Cladding",
+    "alloy_name": "Zircaloy-4",
+    "composition": {},
+    "composition_raw": "Zircaloy-4",
+    "specimen_state": "Cladding",
+    "process_step": "Manufacturing Process",
+    "test_type": "Corrosion Resistance",
+    "property_name": "Corrosion Resistance",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "time_h": null,
+      "dose_dpa": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.8,
+    "domain": "corrosion"
+  }
+]

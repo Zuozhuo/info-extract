@@ -1,0 +1,10 @@
+alloy_name,composition,conditions,conditions_hash,confidence,domain,evidence_span,metric_type,note,page_or_fig,process_step,property_name,raw_unit,source_id,specimen_state,test_type,unit,value,value_max,value_min
+Zircaloy-2,"[{'element': 'Sn', 'value': 1.46, 'unit': 'wt%'}, {'element': 'Fe', 'value': 0.13, 'unit': 'wt%'}, {'element': 'Cr', 'value': 0.09, 'unit': 'wt%'}, {'element': 'Ni', 'value': 0.06, 'unit': 'wt%'}, {'element': 'O', 'value': 0.086, 'unit': 'wt%'}]","{'temp_C': None, 'temp_K': None}",e014854ad60a,,irradiation_creep,not_mentioned_in_text,not_available,auto_filled_domain_placeholder,Table 1,annealing at 800°C followed by cold-rolling 50%,,,核材料文档3,,,,,,
+Zircaloy-2,,"{'temp_C': 20, 'temp_K': 293.15}",3e781c9d3858,,irradiation_creep,not_mentioned_in_text,not_available,auto_filled_domain_placeholder,Table 2,,,,核材料文档3,Annealed,,,,,
+Zircaloy-2,,"{'temp_C': 20, 'temp_K': 293.15}",3e781c9d3858,,irradiation_creep,not_mentioned_in_text,not_available,auto_filled_domain_placeholder,Table 2,,,,核材料文档3,Cold-worked,,,,,
+Zircaloy-2,,"{'temp_C': 20, 'temp_K': 293.15}",3e781c9d3858,,irradiation_creep,not_mentioned_in_text,not_available,auto_filled_domain_placeholder,Table 2,,,,核材料文档极简3,Cold-worked,,,,,
+Zircaloy-2,,"{'极简temp_C': 20, 'temp_K': 293.15}",bb342d9e099c,,irradiation_creep,not_mentioned_in_text,not_available,auto_filled_domain_placeholder,Table 2,,,,核材料文档3,Cold-worked,,,,,
+Zircaloy-2,,"{'temp_C': None, 'temp_K': None}",e014854ad60a,,irradiation_creep,not_mentioned_in_text,not_available,auto_filled_domain_placeholder,Experimental,,,,核材料文档3,Annealed,,,,,
+Zircaloy-2,,"{'temp_C': 300, 'temp_K': 573.15}",61ddf5235107,,irradiation_creep,not_mentioned_in_text,not_available,auto_filled_domain_placeholder,Abstract,,,,核材料文档3,,,,,,
+Zircaloy-2,,"{'temp_C': None, 'temp_K': None}",e014854ad60a,,irradiation_creep,not_mentioned_in_text,not_available,auto_filled_domain_placeholder,Results,,,,核材料文档3,crept,,,,,
+Zircaloy-2,,"{'temp_C': None, 'temp_K': None}",e014854ad60a,,irradiation_creep,not_mentioned_in_text,not_available,auto_filled_domain_placeholder,Results,,,,核材料文档3,极简crept,,,,,

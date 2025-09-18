@@ -1,0 +1,2 @@
+alloy_name,composition,composition_raw,conditions,conditions_hash,confidence,domain,evidence_span,metric_type,page_or_fig,process_step,property_name,raw_unit,source_id,specimen_state,test_type,unit,value,value_max,value_min
+Zircaloy-2,{},Zircaloy-2,"{'temp_C': None, 'temp_K': None, 'medium': None, 'pressure_MPa': None, 'time_h': None, 'dose_dpa': None}",99444d32f8f2,0.7,,Evaluation of Zircaloy-2 Pressure Tubes from NPD,judgement,35,,,,STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001_chunk1,Pressure Tubes,Evaluation,,,,

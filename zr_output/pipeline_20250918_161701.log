@@ -1,0 +1,125 @@
+2025-09-18 16:17:01,038 [INFO] 开始处理文件夹 zr_pdfs_split, 日志保存到 zr_output/pipeline_20250918_161701.log
+2025-09-18 16:18:19,413 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:19:07,041 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001] A 阶段得到 5 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001__a.json
+2025-09-18 16:19:07,292 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:20:00,079 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001] B 阶段得到 5 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001__b.json
+2025-09-18 16:20:00,084 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001] 最终宽表导出完成: zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001__final.csv
+2025-09-18 16:20:00,084 [INFO] ✅ STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_001.pdf: long=45 (A=5, B=5)
+2025-09-18 16:20:05,808 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:23:03,068 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:23:23,439 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_002] A 阶段得到 25 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_002/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_002__a.json
+2025-09-18 16:23:23,791 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:26:22,761 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_002] B 阶段得到 18 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_002/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_002__b.json
+2025-09-18 16:26:22,777 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_002] 最终宽表导出完成: zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_002/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_002__final.csv
+2025-09-18 16:26:22,778 [INFO] ✅ STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_002.pdf: long=89 (A=25, B=18)
+2025-09-18 16:26:27,604 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:27:25,902 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:28:55,861 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_003] A 阶段得到 20 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_003/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_003__a.json
+2025-09-18 16:28:56,176 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:31:53,129 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_003] B 阶段得到 18 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_003/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_003__b.json
+2025-09-18 16:31:53,147 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_003] 最终宽表导出完成: zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_003/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_003__final.csv
+2025-09-18 16:31:53,148 [INFO] ✅ STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_003.pdf: long=67 (A=20, B=18)
+2025-09-18 16:32:30,523 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:35:06,159 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:36:10,884 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:39:10,728 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:41:32,500 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:43:09,281 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:44:12,366 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:44:59,728 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_004] A 阶段得到 109 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_004/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_004__a.json
+2025-09-18 16:45:00,043 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:48:11,012 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:51:22,159 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:54:34,753 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:57:44,829 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_004] B 阶段得到 73 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_004/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_004__b.json
+2025-09-18 16:57:44,862 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_004] 最终宽表导出完成: zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_004/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_004__final.csv
+2025-09-18 16:57:44,863 [INFO] ✅ STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_004.pdf: long=363 (A=109, B=73)
+2025-09-18 16:58:02,085 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 16:59:54,166 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:02:45,710 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:05:58,141 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:07:06,647 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:09:01,761 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:10:39,997 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:11:51,898 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005] A 阶段得到 101 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005__a.json
+2025-09-18 17:11:52,311 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:15:00,742 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:18:13,946 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:21:33,574 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:23:23,462 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005] B 阶段得到 61 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005__b.json
+2025-09-18 17:23:23,494 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005] 最终宽表导出完成: zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005__final.csv
+2025-09-18 17:23:23,495 [INFO] ✅ STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005.pdf: long=271 (A=101, B=61)
+2025-09-18 17:23:38,016 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:25:27,602 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:27:21,595 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:29:59,500 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:32:08,236 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:33:52,562 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_006] A 阶段得到 62 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_006/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_006__a.json
+2025-09-18 17:33:52,899 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:37:14,958 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:40:37,133 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:40:59,114 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_006] B 阶段得到 39 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_006/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_006__b.json
+2025-09-18 17:40:59,130 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_006] 最终宽表导出完成: zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_006/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_006__final.csv
+2025-09-18 17:40:59,130 [INFO] ✅ STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_006.pdf: long=209 (A=62, B=39)
+2025-09-18 17:41:16,722 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:44:02,146 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:47:08,726 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:49:39,817 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:50:37,527 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:51:42,934 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:53:25,048 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_007] A 阶段得到 94 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_007/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_007__a.json
+2025-09-18 17:53:25,386 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:56:32,980 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 17:59:46,207 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:03:03,189 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:03:47,641 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_007] B 阶段得到 52 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_007/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_007__b.json
+2025-09-18 18:03:47,682 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_007] 最终宽表导出完成: zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_007/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_007__final.csv
+2025-09-18 18:03:47,683 [INFO] ✅ STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_007.pdf: long=221 (A=94, B=52)
+2025-09-18 18:04:11,315 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:07:25,985 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:10:44,770 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:14:04,864 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:16:56,661 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:20:15,760 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:22:41,302 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:24:05,873 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_008] A 阶段得到 138 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_008/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_008__a.json
+2025-09-18 18:24:06,208 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:27:02,140 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:29:56,090 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:32:47,428 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:35:35,499 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:38:19,737 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_008] B 阶段得到 80 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_008/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_008__b.json
+2025-09-18 18:38:19,781 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_008] 最终宽表导出完成: zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_008/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_008__final.csv
+2025-09-18 18:38:19,782 [INFO] ✅ STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_008.pdf: long=434 (A=138, B=80)
+2025-09-18 18:38:42,415 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:39:48,305 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:42:43,872 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:45:12,539 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:47:17,774 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:49:11,741 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:50:30,126 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:51:16,890 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:52:43,150 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_009] A 阶段得到 112 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_009/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_009__a.json
+2025-09-18 18:52:43,473 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:55:38,113 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 18:58:34,258 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 19:01:28,074 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 19:04:24,459 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_009] B 阶段得到 67 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_009/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_009__b.json
+2025-09-18 19:04:24,495 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_009] 最终宽表导出完成: zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_009/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_009__final.csv
+2025-09-18 19:04:24,496 [INFO] ✅ STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_009.pdf: long=355 (A=112, B=67)
+2025-09-18 19:04:47,893 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 19:07:39,762 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 19:09:04,513 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 19:11:56,063 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 19:14:50,786 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 19:17:44,660 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 19:19:51,890 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 19:21:12,932 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010] A 阶段得到 131 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010__a.json
+2025-09-18 19:21:13,261 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 19:24:01,946 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 19:26:53,124 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 19:29:47,973 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 19:32:56,469 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"
+2025-09-18 19:34:42,941 [INFO] [STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010] B 阶段得到 74 条记录，已保存到 zr_output/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010/STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010__b.json
+2025-09-18 19:34:42,963 [ERROR] ❌ STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010.pdf: 'list' object has no attribute 'get'
+2025-09-18 19:34:57,179 [INFO] HTTP Request: POST https://api.deepseek.com/chat/completions "HTTP/1.1 200 OK"

@@ -1,0 +1,455 @@
+[
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_024_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Content, wtLot Identification Sn Fe Cr Ni 0; B 1.63 0.16 0.13 0.06 0.109; C 1.46 0.14 0.10 0.05 0.111; K 1.42 0.14 0.10 0.05 0.120; U 1.53 0.14 0.10 0.05 0.119; S 1.54 0.17 0.11 0.05 0.119; CRa 1.47 0.14 0.11 0.05 0.123",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.63,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.16,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.13,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.06,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": 0.109,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "recrystallizing annealed",
+    "process_step": "final heat treatment at 577°C for 3h",
+    "test_type": "steam corrosion test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "duration": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_size": "No. 12.5 to 13.5 (average grain diameter of 3 to 5 μm)"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_024_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Content, wtLot Identification Sn Fe Cr Ni 0; B 1.63 0.16 0.13 0.06 0.109; C 1.46 0.14 0.10 0.05 0.111; K 1.42 0.14 0.10 极 0.05 0.120; U 1.53 0.14 0.10 0.05 0.119; S 1.54 0.17 0.11 0.05 0.119; CRa 1.47 0.14 0.11 0.05 0.123",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.46,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.14,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.05,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": 0.111,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "recrystallizing annealed",
+    "process_step": "final heat treatment at 577°C for 3h",
+    "test_type": "steam corrosion test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "duration": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_size": "No. 12.5 to 13.5 (average grain diameter of 3 to 5 μm)"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_024_chunk1",
+    "page_or_f极": "Table 1",
+    "evidence_span": "Content, wtLot Identification Sn Fe Cr Ni 0; B 1.63 0.16 0.13 0.06 0.109; C 1.46 0.14 0.10 0.05 0.111; K 1.42 0.14 0.10 0.05 0.120; U 1.53 0.14 0.10 0.05 0.119; S 1.54 0.17 0.11 0.05 0.119; CRa 1.47 0.14 0.11 0.05 0.123",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.42,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.14,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.05,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": 0.12,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "recrystallizing annealed",
+    "process_step": "final heat treatment at 577°C for 3h",
+    "test_type": "steam corrosion test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "duration": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_极eat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_size": "No. 12.5 to 13.5 (average grain diameter of 3 to 5 μm)"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_024_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Content, wtLot Identification Sn Fe Cr Ni 0; B 1.63 0.16 0.13 0.06 0.109; C 1.46 0.14 0.10 0.05 0.111; K 1.42 0.14 0.10 0.05 0.120; U 1.53 0.14 0.10 0.05 极.119; S 1.54 0.17 0.11 0.05 0.119; CRa 1.47 极.14 0.11 0.05 0.123",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.53,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.14,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.05,
+        "unit": "wt%",
+        "极aw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": 0.119,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "recrystallizing annealed",
+    "process_step": "final heat treatment at 577°C for 3h",
+    "test_type": "steam corrosion test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "duration": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_size": "No. 12.5 to 13.5 (average grain diameter of 3 to 5 μm)"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_024_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Content, wtLot Identification Sn Fe Cr Ni 0; B 1.63 0.16 0.13 0.06 0.109; C 1.46 0.14 0.10 0.05 0.111; K 1.42 0.14 0.10 0.05 0.120; U 1.53 0.14 0.10 0.05 0.119; S 1.54 0.17 0.11 0.05 0.119; CRa 1.47 0.14 0.11 0.05 0.123",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.54,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.17,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.11,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.05,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": 0.119,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "recrystallizing annealed",
+    "process_step": "final heat treatment at 577°C for 3h",
+    "test_type": "steam corrosion test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "duration": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "极rradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_size": "No. 12.5 to 13.5 (average grain diameter of 3 to 5 μm)"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_024_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Content, wtLot Identification Sn Fe Cr Ni 0; B 1.63 0.16 0.13 0.06 0.109; C 1.46 0.14 0.10 0.05 0.111; K 1.42 0.14 0.10 0.05 0.120; U 1.53 0.14 0.10 0.05 0.119; S 1.54 0.17 0.11 0.05 0.119; CRa 1.47 0.14 0.11 0.05 0.123",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.47,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.14,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.11,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "极i",
+        "value": 0.05,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": 0.123,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "recrystallizing annealed",
+    "process_step": "final heat treatment at 577°C for 3h",
+    "test_type": "steam corrosion test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "duration": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_size": "No. 12.5 to 13.5 (average grain diameter of 3 to 5 μm)"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_024_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Both (α+β) and β-quenching homogenized the concentrations of iron, chromium, and nickel; hence these treatments improved the nodular corrosion resistance.",
+    "alloy_name": "Zircaloy-2",
+    "composition": [],
+    "specimen_state": "(α+β) quenched",
+    "process_step": "(α+β) quenching at 900°C for 2min, water-quenching, mechanical polishing, annealed at 577°C for 3h",
+    "test_type": "steam corrosion test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "duration": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "heat_treatment": "(α+β) quenching at 900°C",
+      "corrosion_resistance": "improved nodular corrosion resistance"
+    }
+  }
+]

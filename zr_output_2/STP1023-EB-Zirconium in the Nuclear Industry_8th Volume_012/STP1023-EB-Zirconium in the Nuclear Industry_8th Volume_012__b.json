@@ -1,0 +1,374 @@
+[
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_012_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Tin, %: 1.43-1.46; Iron, ppm: 2003-2076; Chromium, ppm: 1032-1046; Silicon, ppm: 58-60; Oxygen, ppm: 1270-1250; Carbon, ppm: 132-129; Nitrogen, ppm: 29",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": [
+          1.43,
+          1.46
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": [
+          2003,
+          2076
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Cr",
+        "value": [
+          1032,
+          1046
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Si",
+        "value": [
+          58,
+          60
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "O",
+        "value": [
+          1250,
+          1270
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "C",
+        "value": [
+          129,
+          132
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "N",
+        "value": [
+          29,
+          29
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "triple melted ingot",
+    "process_step": "billet stock",
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "medium": null,
+      "time": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosive_medium": null,
+      "ph": null,
+      "load": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_size": null,
+      "hydrogen_content": null,
+      "elastic_modulus": null,
+      "phase_composition": null,
+      "impurities": "usual range"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_012_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "corrosion tests on the extruded and tube reduced tube hollows without an anneal",
+    "alloy_name": "Zircaloy-4",
+    "composition": null,
+    "specimen_state": "extruded and tube reduced tube hollows",
+    "process_step": "extrusion, tube reduction",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": 673.0,
+      "pressure": null,
+      "medium": "steam",
+      "time": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosive_medium": null,
+      "ph": null,
+      "load": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "adverse effect of very high quench rates on outer surface",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "quench_rate": "very high",
+      "surface_effect": "outer surface adverse effect",
+      "anneal_status": "without anneal"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_012_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "cooling rate of about 20 to 40 K/s produced a minimum in the weight gain",
+    "alloy_name": "Zircaloy-4",
+    "composition": null,
+    "specimen_state": null,
+    "process_step": "billet stage",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": 673.0,
+      "pressure": null,
+      "medium": null,
+      "time": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosive_medium": null,
+      "ph": null,
+      "load": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "minimum weight gain at 20-40 K/s cooling rate",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "cooling_rate": "20-40 K/s",
+      "corrosion_performance": "minimum weight gain"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_012_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "annealing parameter from 2.3×10⁻¹⁸ to 29×10⁻¹⁸ h improved corrosion resistance of unannealed cold-worked tubes",
+    "alloy_name": "Zircaloy-4",
+    "composition": null,
+    "specimen_state": "unannealed cold-worked tubes",
+    "process_step": "final heat treatment",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "medium": null,
+      "time": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosive_medium": null,
+      "ph": null,
+      "load": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "improved with increasing annealing parameter",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "annealing_parameter": "2.3×10⁻¹⁸ to 29×10⁻¹⁸ h",
+      "corrosion_resistance": "improved"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_012_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "cumulative annealing parameter greater than 10⁻¹⁸ h is sufficient to provide uniformly good corrosion resistance",
+    "alloy_name": "Zircaloy-4",
+    "composition": null,
+    "specimen_state": null,
+    "process_step": "heat treatment",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "medium": null,
+      "time": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosive_medium": null,
+      "ph": null,
+      "load": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "uniformly good corrosion resistance",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "annealing_parameter": ">10⁻¹⁸ h",
+      "corrosion_resistance": "uniformly good"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_012_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Billet heating for beta quenching was done both by induction and by electric furnace to get two different soak times in the beta field. The soak time in the induction quench was only $9 0 \\thinspace s$ The bar was soaked for $1 5 \\mathrm { { m i n } }$ in the electric furnace. Both beat treatments were done at $1 0 5 0 ^ { \\circ } \\mathrm { C }$ Quenching from the induction coil was done as single billets, both in cold agitated water at about $2 9 0 ~ \\mathbf { K }$ and in static hot water at about $3 5 8 ~ \\mathrm { K }$ .",
+    "alloy_name": null,
+    "composition": null,
+    "specimen_state": "billet",
+    "process_step": "beta quenching",
+    "test_type": null,
+    "conditions": {
+      "temperature": 1050.0,
+      "pressure": null,
+      "medium": null,
+      "time": 90.0,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosive_medium": null,
+      "ph": null,
+      "load": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "beta_grain_size": "0.7 mm",
+      "cooling_rate": "varied",
+      "microstructure": "fine quasi-martensitic needle-like structure",
+      "precipitate_size": "<0.05 μm"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_012_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Billet heating for beta quenching was done both by induction and by electric furnace to get two different soak times in the beta field. The soak time in the induction quench was only $9 0 \\thinspace s$ The bar was soaked for $1 5 \\mathrm { { m i n } }$ in the electric furnace. Both beat treatments were done at $1 0 5 0 ^ { \\circ } \\mathrm { C }$ Quenching from the induction coil was done as single billets, both in cold agitated water at about $2 9 0 ~ \\mathbf { K }$ and in static hot water at about $3 5 8 ~ \\mathrm { K }$ .",
+    "alloy_name": null,
+    "composition": null,
+    "specimen_state": "billet",
+    "process_step": "beta quenching",
+    "test_type": null,
+    "conditions": {
+      "temperature": 1050.0,
+      "pressure": null,
+      "medium": null,
+      "time": 900.0,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosive_medium": null,
+      "ph": null,
+      "load": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "beta_grain_size": "1.4 mm",
+      "cooling_rate": "varied",
+      "microstructure": "varied lamellar spacing and precipitate sizes"
+    }
+  }
+]

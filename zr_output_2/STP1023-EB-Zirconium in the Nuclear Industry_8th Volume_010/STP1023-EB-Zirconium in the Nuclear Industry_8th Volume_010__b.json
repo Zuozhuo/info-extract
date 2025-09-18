@@ -1,0 +1,1015 @@
+[
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Three different types of materials were used. Types I and II are Zircaloy-4 melts, totaling 38 different heats, which have been produced with variations in tin over the range of 1.12 to 1.79%, iron + chromium 0.21 to 0.36%, oxygen 0.13 to 0.20%, carbon 40 to 283 ppm, silicon 14 to 177 ppm phosphorus 3 to 22 ppm, and aluminum 25 to 82 ppm.",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": [
+          1.12,
+          1.79
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe+Cr",
+        "value": [
+          0.21,
+          0.36
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": [
+          0.13,
+          0.2
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "C",
+        "value": [
+          40,
+          283
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Si",
+        "value": [
+          14,
+          177
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "P",
+        "value": [
+          3,
+          22
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Al",
+        "value": [
+          25,
+          82
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "strip",
+    "process_step": "beta-forged, beta-quenched, hot rolled to 6 mm, air annealed at 780°C for 30-60 min, oxide removed, cold rolled with 25-35% reduction, intermediate and final anneals at 730°C for 120 min",
+    "test_type": "autoclave corrosion testing",
+    "conditions": {
+      "temperature": [
+        350,
+        400
+      ],
+      "temperature_unit": "°C",
+      "medium": [
+        "pressurized water",
+        "high pressure steam"
+      ],
+      "pressure": null,
+      "time": [
+        180,
+        840
+      ],
+      "time_unit": "days"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "time to transition from cubic to linear rate increases and post transition rate decreases with decreasing tin and carbon and increasing silicon content",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "material_type": "Type I",
+      "grain_size": null,
+      "hydrogen_content": null,
+      "elastic_modulus": null,
+      "phase_composition": null,
+      "cooling_rate": "25 K/s",
+      "precipitate_characteristics": "intermetallic precipitates characterized by SEM and TEM"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Type II material consists of nine special melts beyond the Zircaloy-4 specification. The alloy elements covered the following ranges: tin: 0.24 to 1.64%; iron: 0.05 to 0.53%; chromium: 0.04 to 1.05%; and nickel: 0.003 to 0.046%.",
+    "alloy_name": "Zircaloy-type (beyond Zircaloy-4 spec)",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": [
+          0.24,
+          1.64
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": [
+          0.05,
+          0.53
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": [
+          0.04,
+          1.05
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Ni",
+        "value": [
+          0.003,
+          0.046
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "strip",
+    "process_step": "beta-forged, beta-quenched into 30% polyethylene glycol solution (2 K/s cooling rate), hot rolled to 3 mm at 780°C, air annealed at 780°C for 30-60 min, oxide removed, cold rolled with 25-35% reduction, intermediate and final anneals at 730°C for 120 min",
+    "test_type": "autoclave corrosion testing",
+    "conditions": {
+      "temperature": [
+        350,
+        400
+      ],
+      "temperature_unit": "°C",
+      "medium": [
+        "pressurized water",
+        "high pressure steam"
+      ],
+      "pressure": null,
+      "time": [
+        180,
+        840
+      ],
+      "time_unit": "days"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "markedly accelerated corrosion at Fe+Cr ≤ 0.15% especially in steam; high Cr/Fe ratios resulted in high corrosion even at moderately high levels of both elements",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "material_type": "Type II",
+      "grain_size": null,
+      "hydrogen_content": null,
+      "elastic_modulus": null,
+      "phase_composition": null,
+      "cooling_rate": "2 K/s",
+      "precipitate_characteristics": "intermetallic precipitates characterized by SEM and TEM"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "The range of oxygen, carbon, silicon, and phosphorus contents in the Type III material was typical of standard Zircaloy.",
+    "alloy_name": "Zircaloy",
+    "composition": [],
+    "specimen_state": "strip",
+    "process_step": "beta-forged, beta-quenched, hot rolled to 4-8 mm thickness, air annealed at 780°C for 30-60 min (no cold rolling)",
+    "test_type": "autoclave corrosion testing",
+    "conditions": {
+      "temperature": [
+        350,
+        400
+      ],
+      "temperature_unit": "°C",
+      "medium": [
+        "pressurized water",
+        "high pressure steam"
+      ],
+      "pressure": null,
+      "time": [
+        180,
+        840
+      ],
+      "time_unit": "days"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "material_type": "Type III",
+      "grain_size": null,
+      "hydrogen_content": null,
+      "elastic_modulus": null,
+      "phase_composition": null,
+      "cooling_rate": "25 K/s",
+      "precipitate_characteristics": "intermetallic precipitates characterized by SEM and TEM"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Specimens of the Type I material were obtained after annealing at 6 mm thickness (hot The ype Iaal s p a clol 1 mm and annealing at either 730°C/2 h (RX) or 480°C/2 h (SR)",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": [
+          1.12,
+          1.79
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe+Cr",
+        "value": [
+          0.21,
+          0.36
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": [
+          0.13,
+          0.2
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "C",
+        "value": [
+          40,
+          283
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Si",
+        "value": [
+          14,
+          177
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "P",
+        "value": [
+          3,
+          22
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Al",
+        "value": [
+          25,
+          82
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "strip",
+    "process_step": "final annealing at 730°C/2 h (RX)",
+    "test_type": "autoclave corrosion testing",
+    "conditions": {
+      "temperature": [
+        350,
+        400
+      ],
+      "temperature_unit": "°C",
+      "medium": [
+        "pressurized water",
+        "high pressure steam"
+      ],
+      "pressure": null,
+      "time": [
+        180,
+        840
+      ],
+      "time_unit": "days"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "material_type": "Type I",
+      "anneal_condition": "RX (730°C/2 h)",
+      "grain_size": null,
+      "hydrogen_content": null,
+      "elastic_modulus": null,
+      "phase_composition": null
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Specimens of the Type I material were obtained after annealing at 6 mm thickness (hot The ype Iaal s p a clol 1 mm and annealing at either 730°C/2 h (RX) or 480°C/2 h (SR)",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": [
+          1.12,
+          1.79
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe+Cr",
+        "value": [
+          0.21,
+          0.36
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": [
+          0.13,
+          0.2
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "C",
+        "value": [
+          40,
+          283
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Si",
+        "value": [
+          14,
+          177
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "P",
+        "value": [
+          3,
+          22
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Al",
+        "value": [
+          25,
+          82
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "strip",
+    "process_step": "final annealing at 480°C/2 h (SR)",
+    "test_type": "autoclave corrosion testing",
+    "conditions": {
+      "temperature": [
+        350,
+        400
+      ],
+      "temperature_unit": "°C",
+      "medium": [
+        "pressurized water",
+        "high pressure steam"
+      ],
+      "pressure": null,
+      "time": [
+        180,
+        840
+      ],
+      "time_unit": "days"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "material_type": "Type I",
+      "anneal_condition": "SR (480°C/2 h)",
+      "grain_size": null,
+      "hydrogen_content": null,
+      "elastic_modulus": null,
+      "phase_composition": null
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Table 1; 33 special Zircaloy-4 melts 10 to 20-kg ingots; double vacuum arc melted; beta-forged, beta- quenched at 38-mm, alpha hot rolling at 780°C, cold rolling, intermediate annealing at 510730°C and final anneal at 670760°C",
+    "alloy_name": "Zircaloy-4",
+    "composition": [],
+    "specimen_state": "fully recrystallized",
+    "process_step": "double vacuum arc melted; beta-forged; beta-quenched; alpha hot rolling; cold rolling; intermediate annealing; final anneal",
+    "test_type": "corrosion testing",
+    "conditions": {
+      "temperature": 350,
+      "temperature_unit": "°C",
+      "medium": "deionized water",
+      "pressure": 185,
+      "pressure_unit": "bar",
+      "oxygen_content": 0.01,
+      "oxygen_content_unit": "ppm",
+      "time": [
+        380,
+        840
+      ],
+      "time_unit": "days"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "weight gain measurements",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "annealing_parameter": "2 to 8×10^-17 h",
+      "precipitate_characterization": "TEM and energy dispersive x-ray analysis",
+      "time_to_transition": "reported in Tables 2-3",
+      "weight_gain_at_transition": "reported in Tables 2-3",
+      "post_transition_rate": "reported in Tables 2-3"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010_chunk5",
+    "page_or_fig": "table",
+    "evidence_span": "Zr-12; Sn, wt%: 0.24; Fe, wt%: 0.53; Cr. wt%: 0.05; Ni, ppm: 30; SEM: 1.31 × 10⁷; TEM: 1.82 × 10⁷; Average Size. μm SEM: 0.33; TEM: 0.30; Type of Precipitates: Zr(FeoCro 2)2 and Zr,Fe",
+    "alloy_name": "Zr-12",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 0.24,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.53,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.05,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 30.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_density_SEM_cm⁻²": "13100000.0",
+      "precipitate_density_TEM_cm⁻²": "18200000.0",
+      "precipitate_size_SEM_μm": "0.33",
+      "precipitate_size_TEM_μm": "0.3",
+      "precipitate_type": "Zr(Fe₀Cr₀₂)₂ and Zr₃Fe"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010_chunk5",
+    "page_or_fig": "table",
+    "evidence_span": "Zr-4; Sn, wt%: 0.28; Fe, wt%: 0.05; Cr. wt%: 1.05; Ni, ppm: 30; SEM: 1.51 × 10⁸; TEM: ·.•; Average Size. μm SEM: 0.21; TEM: .; Type of Precipitates: ·.•",
+    "alloy_name": "Zr-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 0.28,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.05,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 1.05,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 30.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_density_SEM_cm⁻²": "151000000.0",
+      "precipitate_size_SEM_μm": "0.21"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010_chunk5",
+    "page_or_fig": "table",
+    "evidence_span": "Zr-10; Sn, wt%: 1.22; Fe, wt%: 0.34; Cr. wt%: 0.57; Ni, ppm: 30; SEM: 2.65 × 10⁷; TEM: ..•; Average Size. μm SEM: 0.21; TEM: .…; Type of Precipitates: .….",
+    "alloy_name": "Zr-10",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.22,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.34,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.57,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 30.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_density_SEM_cm⁻²": "26500000.0",
+      "precipitate_size_SEM_μm": "0.21"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010_chunk5",
+    "page_or_fig": "table",
+    "evidence_span": "Zr-13; Sn, wt%: 1.52; Fe, wt%: 0.10; Cr. wt%: 0.04; Ni, ppm: 30; SEM: 1.08 × 10⁷; TEM: 2.17 × 10⁷; Average Size. μm SEM: 0.29; TEM: 0.26; Type of Precipitates: Zr(Fe) 7Cro 3)2 and Zr,Fe",
+    "alloy_name": "Zr-13",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.52,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.04,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 30.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_density_SEM_cm⁻²": "10800000.0",
+      "precipitate_density_TEM_cm⁻²": "21700000.0",
+      "precipitate_size_SEM_μm": "0.29",
+      "precipitate_size_TEM_μm": "0.26",
+      "precipitate_type": "Zr(Fe₇Cr₀₃)₂ and Zr₃Fe"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010_chunk5",
+    "page_or_fig": "table",
+    "evidence_span": "Zr-1; Sn, wt%: 1.58; Fe, wt%: 0.21; Cr. wt%: 0.12; Ni, ppm: 30; SEM: 2.37 × 10⁷; TEM: ...; Average Size. μm SEM: 0.30; TEM: …·; Type of Precipitates: ..·",
+    "alloy_name": "Zr-1",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.58,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.21,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.12,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 30.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_density_SEM_cm⁻²": "23700000.0",
+      "precipitate_size_SEM_μm": "0.3"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010_chunk5",
+    "page_or_fig": "table",
+    "evidence_span": "Zr-9; Sn, wt%: 1.64; Fe, wt%: 0.12; Cr. wt%: 0.58; Ni, ppm: 30; SEM: 1.00 × 10*; TEM: ..•; Average Size. μm SEM: 0.18; TEM: ….·; Type of Precipitates: ·•",
+    "alloy_name": "Zr-9",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.64,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.12,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.58,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 30.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_size_SEM_μm": "0.18"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_010_chunk5",
+    "page_or_fig": "table",
+    "evidence_span": "Zr-14; Sn, wt%: 1.58; Fe, wt%: 0.42; Cr. wt%: 0.24; Ni, ppm: 30; SEM: 2.87 × 10⁷; TEM: ..•; Average Size. μm SEM: 0.30; TEM: ..·; Type of Precipitates: ·.•",
+    "alloy_name": "Zr-14",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.58,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.42,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.24,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 30.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_density_SEM_cm⁻²": "28700000.0",
+      "precipitate_size_SEM_μm": "0.3"
+    }
+  }
+]

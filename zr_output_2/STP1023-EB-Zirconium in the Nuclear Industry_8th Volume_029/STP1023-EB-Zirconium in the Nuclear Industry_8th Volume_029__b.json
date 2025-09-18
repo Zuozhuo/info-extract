@@ -1,0 +1,469 @@
+[
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_029_chunk1",
+    "page_or_fig": "Text",
+    "evidence_span": "Two differently heat treated Zr-4 materials have been analyzed",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Fe",
+        "value": 0.2,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "needle-shaped specimen",
+    "process_step": "heat treated",
+    "test_type": "atom probe microanalysis",
+    "conditions": {
+      "temperature": "cryogenic",
+      "pressure": "<10^-8 Pa",
+      "electric_field": "35 GV/m",
+      "environment": "ultra-high vacuum"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "spatial_resolution": "1 nm",
+      "analytical_accuracy": "0.01%",
+      "matrix_iron_content": "depleted",
+      "matrix_chromium_content": "depleted",
+      "precipitate_type": "hexagonal zirconium chromate (ZrCr2)",
+      "precipitate_distribution": "dense (typical distance 1 μm)",
+      "correlation": "material with higher matrix iron content showed better uniform corrosion properties"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_029_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Two different Zr-4 fuel cladding materials were studied...",
+    "alloy_name": "Zr-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.6,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.195,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.096,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe+Cr",
+        "value": 0.29,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": 0.114,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "C",
+        "value": 0.012,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "tube sections",
+    "process_step": "belt ground",
+    "test_type": "autoclave corrosion test",
+    "conditions": {
+      "temperature": 400.0,
+      "unit": "MPa",
+      "raw_unit": "MPa",
+      "pressure": 10.3,
+      "environment": "steam"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "corrosion_resistance": "measured"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_029_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Thin foils of the two materials were studied in a JEOL 2000 FX transmission electron microscope...",
+    "alloy_name": "Zr-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.6,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.195,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.096,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe+Cr",
+        "value": 0.29,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": 0.114,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "C",
+        "value": 0.012,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "thin foils",
+    "process_step": "annealed at 565°C/1.5h, chemically thinned, electropolished",
+    "test_type": "TEM analysis",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "microstructure": "fully recrystallized structure",
+      "precipitate_observation": "facilitated"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_029_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "To produce atom probe specimens, samples from Zr-4 tubes were cut into rods...",
+    "alloy_name": "Zr-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.6,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.195,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.096,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe+Cr",
+        "value": 0.29,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": 0.114,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "C",
+        "value": 0.012,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "sharp needles",
+    "process_step": "cut into rods, electropolished",
+    "test_type": "atom probe analysis",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "specimen_preparation": "electropolished into sharp needles",
+      "anodic_oxide_film": "as thin as possible"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_029_chunk3",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Material A was annealed at 675℃, Material B at 565℃",
+    "alloy_name": "Zr-4",
+    "composition": null,
+    "specimen_state": "annealed",
+    "process_step": "α phase annealing after β quenching",
+    "test_type": "heat treatment",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "normalized_annealing_time_A": "4.5×10⁻¹⁴ h",
+      "normalized_annealing_time_final": "2.8×10⁻¹⁸ h",
+      "annealing_temperature": "675℃"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_029_chunk3",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Material B is β quenched from 1050℃ in the second last intermediate anneal",
+    "alloy_name": "Zr-4",
+    "composition": null,
+    "specimen_state": "β quenched",
+    "process_step": "intermediate annealing",
+    "test_type": "heat treatment",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "normalized_annealing_time_intermediate": "3.7×10⁻¹⁷ h",
+      "normalized_annealing_time_final": "5.4×10⁻¹⁸ h",
+      "annealing_temperature": "565℃",
+      "quenching_temperature": "1050℃"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_029_chunk3",
+    "page_or_fig": "Fig. 5",
+    "evidence_span": "Static autoclave corrosion test in steam at 400℃ and 10.3 MPa",
+    "alloy_name": "Zr-4",
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 400.0,
+      "unit": "MPa",
+      "raw_unit": "MPa",
+      "pressure": 10.3,
+      "environment": "steam"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "Material A has considerably higher uniform corrosion resistance than Material B",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "corrosion_environment": "steam",
+      "corrosion_measurement": "weight gain per unit area"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_029_chunk3",
+    "page_or_fig": "Fig. 6",
+    "evidence_span": "Material A contains large, sparsely dispersed intermetallic precipitates",
+    "alloy_name": "Zr-4",
+    "composition": null,
+    "specimen_state": "annealed",
+    "process_step": null,
+    "test_type": "microstructure analysis",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_size": "large",
+      "precipitate_dispersion": "sparse",
+      "mean_precipitate_distance": "2.0-2.1 μm",
+      "microstructure": "coarse dispersion of large precipitates"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_029_chunk3",
+    "page_or_fig": "Fig. 6",
+    "evidence_span": "Material B has small, finely dispersed precipitates",
+    "alloy_name": "Zr-4",
+    "composition": null,
+    "specimen_state": "β quenched",
+    "process_step": null,
+    "test_type": "microstructure analysis",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_size": "small",
+      "precipitate_dispersion": "fine",
+      "mean_precipitate_distance": "0.3 μm",
+      "microstructure": "finely dispersed precipitates"
+    }
+  }
+]

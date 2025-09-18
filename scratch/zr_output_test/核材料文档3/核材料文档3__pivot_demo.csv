@@ -1,0 +1,10 @@
+conditions_hash,corrosion,density,elastoplastic_model,hardening,irradiation_creep,irradiation_swelling,source_id,specific_heat,specimen_state,thermal_conductivity,thermal_expansion
+e014854ad60a,,,,,,,核材料文档3,,,,
+3e781c9d3858,,,10.0,158,,,核材料文档3,,Annealed,,
+3e781c9d3858,,,2.5,201,,,核材料文档3,,Cold-worked,,
+3e781c9d3858,,,2.0,,,,核材料文档极简3,,Cold-worked,,
+bb342d9e099c,,,1.5,,,,核材料文档3,,Cold-worked,,
+e014854ad60a,,,,20,,,核材料文档3,,Annealed,,
+61ddf5235107,,,,,,,核材料文档3,,,,
+e014854ad60a,,,,kink bands and cell structure,,,核材料文档3,,crept,,
+e014854ad60a,,,little or no,,,,核材料文档3,,极简crept,,

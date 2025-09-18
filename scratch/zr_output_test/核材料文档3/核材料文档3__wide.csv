@@ -1,0 +1,10 @@
+文献ID,合金名称,样品状态,条件哈希,页码/图表,证据片段,成分,工艺步骤,测试类型,密度,比热容,热传导率,弹塑性模型,热膨胀,辐照蠕变,辐照肿胀,腐蚀,硬化性能数据
+核材料文档3,Zircaloy-2,,e014854ad60a,Table 1,Zircaloy-2 Cold-rolled~ Batch A . . . 50% after annealing Sn 1.46 Fe 0.13 Cr 0.09 Ni 0.06 O 0.086,"[{'element': 'Sn', 'value': 1.46, 'unit': 'wt%'}, {'element': 'Fe', 'value': 0.13, 'unit': 'wt%'}, {'element': 'Cr', 'value': 0.09, 'unit': 'wt%'}, {'element': 'Ni', 'value': 0.06, 'unit': 'wt%'}, {'element': 'O', 'value': 0.086, 'unit': 'wt%'}]",annealing at 800°C followed by cold-rolling 50%,,,,,,,,,,
+核材料文档3,Zircaloy-2,Annealed,3e781c9d3858,Table 2,Annealed Longitudinal Hardness 158 VHN for Material A,,,tensile test,,,,10.0,,,,,158
+核材料文档3,Zircaloy-2,Cold-worked,3e781c9d3858,Table 2,Cold-worked Longitudinal Hardness 201 VHN for Material A,,,tensile test,,,,2.5,,,,,201
+核材料文档极简3,Zircaloy-2,Cold-worked,3e781c9d3858,Table 2,Cold-worked Short-transverse Un.El. 2.0% for Material A,,,tensile test,,,,2.0,,,,,
+核材料文档3,Zircaloy-2,Cold-worked,bb342d9e099c,Table 2,Cold-worked Short-transverse Un.El. 1.5% for Material B,,,tensile test,,,,1.5,,,,,
+核材料文档3,Zircaloy-2,Annealed,e014854ad60a,Experimental,The average grain size of the annealed specimens was 20 microns.,,,,,,,,,,,,20
+核材料文档3,Zircaloy-2,,61ddf5235107,Abstract,极简The material exhibited strong dynamic strain aging which reached maximum intensity around 300 C,,,,,,,,,,,,
+核材料文档3,Zircaloy-2,crept,e014854ad60a,Results,Optical and electron microscope investigations of crept specimens revealed the formation of kink bands and a cell structure,,,microscopy,,,,,,,,,kink bands and cell structure
+核材料文档3,Zircaloy-2,极简crept,e014854ad60a,Results,little or no twinning,,,microscopy,,,,little or no,,,,,

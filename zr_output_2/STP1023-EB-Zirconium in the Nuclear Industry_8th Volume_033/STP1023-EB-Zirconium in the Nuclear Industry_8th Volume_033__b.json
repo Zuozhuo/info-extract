@@ -1,0 +1,473 @@
+[
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_033_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "TABLE 1—Composilions of Zircaloy-2 and -4.",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.4,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.13,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.11,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.06,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "as-received",
+    "process_step": "β-quench at 1030-1050°C, annealed at 700°C for 2 h, further annealed at 480°C for 2 h in vacuum",
+    "test_type": "magnetic susceptibility and magnetization",
+    "conditions": {
+      "temperature": "from liquid nitrogen to room temperature",
+      "magnetic_field_intensity": "0.1 to 1 T"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "magnetic_susceptibility": "temperature independent paramagnetic",
+      "precipitate_state": "nonmagnetic precipitates",
+      "specimen_dimensions": "15 × 2.5 × 0.70 mm pillar-shape"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_033_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "TABLE 1—Composilions of Zircaloy-2 and -4.",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.56,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.21,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.11,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "as-received",
+    "process_step": "β-quench at 1030-1050°C, annealed at 680°C for 2 h, further annealed at 475°C for 3 h in vacuum",
+    "test_type": "magnetic susceptibility and magnetization",
+    "conditions": {
+      "temperature": "from liquid nitrogen to room temperature",
+      "magnetic_field_intensity": "0.1 to 1 T"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "magnetic_susceptibility": "increasing with decreasing temperature (paramagnetic-like)",
+      "magnetization_behavior": "follows Langevin function at liquid nitrogen temperature",
+      "precipitate_state": "superparamagnetic state with Zr(Fe₁₋ₓCrₓ) particles (10-20 Å)",
+      "specimen_dimensions": "15 × 2.5 × 0.70 mm pillar-shape",
+      "magnetization_increase": "more than three times after heat treatments above 900°C"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_033_chunk1",
+    "page_or_fig": "Procedure",
+    "evidence_span": "Heat treatment was performed on these specimens sealed into a quartz tube under vacuum...",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.56,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.21,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.11,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "heat treated",
+    "process_step": "650°C for 2 h quenching, 800°C for 2 h, 830°C for 2 h, 900°C for 2 h annealing, or 1030°C for 10 min",
+    "test_type": "magnetic susceptibility and magnetization",
+    "conditions": {
+      "temperature": "from liquid nitrogen to room temperature",
+      "magnetic_field_intensity": "0.1 to 1 T"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "magnetization_increase": "more than three times after heat treatments above 900°C",
+      "precipitate_formation": "increased amount of small ferromagnetic precipitate particles",
+      "particle_size": "10 to 20 Å",
+      "phase_state": "superparamagnetic state",
+      "cooling_rate": "quenching in ice water or slow cooling at 10°C/min"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_033_chunk2",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Zr(Feo.5Cro.5)2, 30, 30, 2.7, 6",
+    "alloy_name": "Zr(Fe0.5Cr0.5)2",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 1.0,
+        "unit": "mol",
+        "raw_unit": "mol"
+      },
+      {
+        "element": "Fe",
+        "value": 0.5,
+        "unit": "mol",
+        "raw_unit": "mol"
+      },
+      {
+        "element": "Cr",
+        "value": 0.5,
+        "unit": "mol",
+        "raw_unit": "mol"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "magnetic measurement",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Curie_temperature_Tc": "30 K",
+      "Curie_temperature_TF": "30 K",
+      "magnetic_moment": "2.7 μB/Fe atom"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_033_chunk2",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Zr(Fe0.8Cr0.2)2, 190, 160, 3.9, 6",
+    "alloy_name": "Zr(Fe0.8Cr0.2)2",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 1.0,
+        "unit": "mol",
+        "raw_unit": "mol"
+      },
+      {
+        "element": "Fe",
+        "value": 0.8,
+        "unit": "mol",
+        "raw_unit": "mol"
+      },
+      {
+        "element": "Cr",
+        "value": 0.2,
+        "unit": "mol",
+        "raw_unit": "mol"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "magnetic measurement",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Curie_temperature_Tc": "190 K",
+      "Curie_temperature_TF": "160 K",
+      "magnetic_moment": "3.9 μB/Fe atom"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_033_chunk2",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Zr(Fe0.65Cr0.35)2, 180, 150, ··, 7",
+    "alloy_name": "Zr(Fe0.65Cr0.35)2",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 1.0,
+        "unit": "mol",
+        "raw_unit": "mol"
+      },
+      {
+        "element": "Fe",
+        "value": 0.65,
+        "unit": "mol",
+        "raw_unit": "mol"
+      },
+      {
+        "element": "Cr",
+        "value": 0.35,
+        "unit": "mol",
+        "raw_unit": "mol"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "magnetic measurement",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Curie_temperature_Tc": "180 K",
+      "Curie_temperature_TF": "150 K",
+      "magnetic_moment": "not reported"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_033_chunk2",
+    "page_or_fig": "Table 2",
+    "evidence_span": "ZrFe2, 586, 586, ·…·, 8",
+    "alloy_name": "ZrFe2",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 1.0,
+        "unit": "mol",
+        "raw_unit": "mol"
+      },
+      {
+        "element": "Fe",
+        "value": 2.0,
+        "unit": "mol",
+        "raw_unit": "mol"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "magnetic measurement",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Curie_temperature_Tc": "586 K",
+      "Curie_temperature_TF": "586 K",
+      "magnetic_moment": "not reported"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_033_chunk2",
+    "page_or_fig": "Text",
+    "evidence_span": "Zircaloy-4 as-received, magnetization at temperature of liquid nitrogen and room temperature",
+    "alloy_name": "Zircaloy-4",
+    "composition": null,
+    "specimen_state": "as-received",
+    "process_step": null,
+    "test_type": "magnetic measurement",
+    "conditions": {
+      "temperature": [
+        "liquid nitrogen temperature",
+        "room temperature"
+      ]
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "magnetic_behavior": "paramagnetic at room temperature, superparamagnetic at liquid nitrogen temperature",
+      "precipitate_type": "Zr(Fe0.65Cr0.35)2",
+      "particle_size": "15.6 Å"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_033_chunk2",
+    "page_or_fig": "Text",
+    "evidence_span": "Zircaloy-4 after quenching, heat treatments above 830°C quenching dramatically increase magnetization",
+    "alloy_name": "Zircaloy-4",
+    "composition": null,
+    "specimen_state": "quenched",
+    "process_step": "heat treatment above 830°C",
+    "test_type": "magnetic measurement",
+    "conditions": {
+      "temperature": "liquid nitrogen temperature"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "magnetization_increase": "dramatic",
+      "particle_size_range": "10-20 Å",
+      "phase_transition": "β phase begins to appear above 830°C"
+    }
+  }
+]

@@ -1,0 +1,967 @@
+[
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_028_chunk1",
+    "page_or_fig": "Table 2 and Fig. 1",
+    "evidence_span": "Iron additions varying up to 528 ppm by weight were studied in a Zr-1.4% Sn-0.1% O matrix. The results obtained are summarized in Table 2 and Fig. 1. The maximum solubility of iron in the alpha phase is 120 ppm at 820°C",
+    "alloy_name": "Zr-1.4% Sn-0.1% O",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.4,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "O": {
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Fe": {
+        "value": "up to 528",
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    },
+    "specimen_state": "sheet",
+    "process_step": "heat treated at 820°C",
+    "test_type": "solubility study",
+    "conditions": {
+      "temperature": 820.0,
+      "temperature_unit": "°C",
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "iron_solubility": "120 ppm",
+      "matrix_composition": "Zr-1.4% Sn-0.1% O",
+      "phase": "alpha",
+      "temperature": "820°C"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_028_chunk2",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Iron Content, ppm by weight 47; Heat Treatment 600 24 h; Phase Identification alpha",
+    "alloy_name": "Zr-1.4%Sn-0.1%O-Fe",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.4,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "O": {
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Fe": {
+        "value": 47,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    },
+    "specimen_state": "water quenched",
+    "process_step": "600°C 24h",
+    "test_type": "phase identification",
+    "conditions": {
+      "temperature": 600.0,
+      "temperature_unit": "°C",
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "time": 24.0
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "iron_content": "47 ppm",
+      "phases_identified": "alpha"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_028_chunk2",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Iron Content, ppm by weight 47; Heat Treatment 700 4 h; Phase Identification alpha",
+    "alloy_name": "Zr-1.4%Sn-0.1%O-Fe",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.4,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "O": {
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Fe": {
+        "value": 47,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    },
+    "specimen_state": "water quenched",
+    "process_step": "700°C 4h",
+    "test_type": "phase identification",
+    "conditions": {
+      "temperature": 700.0,
+      "temperature_unit": "°C",
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "time": 4.0
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "iron_content": "47 ppm",
+      "phases_identified": "alpha"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_028_chunk2",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Iron Content, ppm by weight 47; Heat Treatment 820 4 h; Phase Identification alpha",
+    "alloy_name": "Zr-1.4%Sn-0.1%O-Fe",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.4,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "O": {
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Fe": {
+        "value": 47,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    },
+    "specimen_state": "water quenched",
+    "process_step": "820°C 4h",
+    "test_type": "phase identification",
+    "conditions": {
+      "temperature": 820.0,
+      "temperature_unit": "°C",
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "time": 4.0
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "iron_content": "47 ppm",
+      "phases_identified": "alpha"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_028_chunk2",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Iron Content, ppm by weight 47; Heat Treatment 880 4 h; Phase Identification alpha",
+    "alloy_name": "Zr-1.4%Sn-0.1%O-Fe",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.4,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "O": {
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Fe": {
+        "value": 47,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    },
+    "specimen_state": "water quenched",
+    "process_step": "880°C 4h",
+    "test_type": "phase identification",
+    "conditions": {
+      "temperature": 880.0,
+      "temperature_unit": "°C",
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "time": 4.0
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "iron_content": "47 ppm",
+      "phases_identified": "alpha"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_028_chunk2",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Iron Content, ppm by weight 47; Heat Treatment 900 4 h; Phase Identification alpha + beta",
+    "alloy_name": "Zr-1.4%Sn-0.1%O-Fe",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.4,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "O": {
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Fe": {
+        "value": 47,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    },
+    "specimen_state": "water quenched",
+    "process_step": "900°C 4h",
+    "test_type": "phase identification",
+    "conditions": {
+      "temperature": 900.0,
+      "temperature_unit": "°C",
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "time": 4.0
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "iron_content": "47 ppm",
+      "phases_identified": "alpha + beta"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_028_chunk2",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Iron Content, ppm by weight 47; Heat Treatment 700 4 h; Phase Identification alpha + ZrFe",
+    "alloy_name": "Zr-1.4%Sn-0.1%O-Fe",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.4,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "O": {
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Fe": {
+        "value": 47,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    },
+    "specimen_state": "water quenched",
+    "process_step": "700°C 4h",
+    "test_type": "phase identification",
+    "conditions": {
+      "temperature": 700.0,
+      "temperature_unit": "°C",
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "time": 4.0
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "iron_content": "47 ppm",
+      "phases_identified": "alpha + ZrFe"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_028_chunk2",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Iron Content, ppm by weight 47; Heat Treatment 750 4 h; Phase Identification alpha + ZrFe",
+    "alloy_name": "Zr-1.4%Sn-0.1%O-Fe",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.4,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "O": {
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Fe": {
+        "value": 47,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    },
+    "specimen_state": "water quenched",
+    "process_step": "750°C 4h",
+    "test_type": "phase identification",
+    "conditions": {
+      "temperature": 750.0,
+      "temperature_unit": "°C",
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "time": 4.0
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "iron_content": "47 ppm",
+      "phases_identified": "alpha + ZrFe"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_028_chunk4",
+    "page_or_fig": "Fig. 13",
+    "evidence_span": "iron and chromium precipitate within about 1 min (600°C) and 5 min (500°C)",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Fe",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Cr",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "composition_raw": "Zircaloy-4",
+    "specimen_state": "quenched and annealed",
+    "process_step": "water quenching and annealing",
+    "test_type": "TEP measurements",
+    "conditions": {
+      "temperature": "600°C and 500°C",
+      "environment": "molten lead bath",
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitation_kinetics": "{\"600°C\": \"within 1 min\", \"500°C\": \"within 5 min\"}",
+      "matrix_solute_content": "remains constant at longer times",
+      "measurement_technique": "low-temperature TEP measurements"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_028_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "The maximum solubilities of iron and chromium are 120 ppm for iron at 820°C, 200 ppm for chromium at 860°C, and 150 ppm for iron + chromium at 810°C",
+    "alloy_name": null,
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "solubility measurement",
+    "conditions": {
+      "temperature": "820°C, 860°C, 810°C",
+      "environment": null,
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "maximum_solubility_iron": "120 ppm",
+      "maximum_solubility_chromium": "200 ppm",
+      "maximum_solubility_iron_chromium": "150 ppm",
+      "temperature_iron": "820°C",
+      "temperature_chromium": "860°C",
+      "temperature_iron_chromium": "810°C"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_028_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "When the Fe/Cr ratio is less than 4 in matrices of this composition, the only precipitate phase is Zr(Fe,Cr)₂, in which the relative proportions of iron and chromium are close to their nominal values in the alloy",
+    "alloy_name": null,
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "phase analysis",
+    "conditions": {
+      "temperature": null,
+      "environment": null,
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_phase": "Zr(Fe,Cr)₂",
+      "Fe/Cr_ratio_condition": "<4",
+      "proportions_in_precipitate": "close to nominal alloy values"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_028_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "Comparison of the experimentally determined size distribution curves for the Zr(Fe,Cr)₂ particles with those calculated from Kahlweit's laws shows that precipitate growth involves second order kinetics",
+    "alloy_name": null,
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "precipitate growth analysis",
+    "conditions": {
+      "temperature": null,
+      "environment": null,
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_growth_kinetics": "second order",
+      "analysis_method": "Kahlweit's laws",
+      "precipitate_type": "Zr(Fe,Cr)₂"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_028_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "The precipitate volume grows as a linear function of time",
+    "alloy_name": null,
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "precipitate growth analysis",
+    "conditions": {
+      "temperature": null,
+      "environment": null,
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_volume_growth": "linear function of time"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_028_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "Particle size increases with temperature, but is not affected by the concentration of iron + chromium in the alloy, up to levels of at least 1.5%",
+    "alloy_name": null,
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "particle size analysis",
+    "conditions": {
+      "temperature": null,
+      "environment": null,
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "particle_size_dependence": "increases with temperature",
+      "iron_chromium_concentration_effect": "no effect up to 1.5%"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_028_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "The iron and chromium precipitation followed by thermoelectric power measurements is very fast (a few minutes at 500 and 600°C)",
+    "alloy_name": null,
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "annealing",
+    "test_type": "thermoelectric power measurement",
+    "conditions": {
+      "temperature": "500°C, 600°C",
+      "environment": null,
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitation_rate": "very fast (few minutes)",
+      "measurement_method": "thermoelectric power",
+      "annealing_temperatures": "500°C, 600°C"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_028_chunk5",
+    "page_or_fig": "Fig. 12",
+    "evidence_span": "Influence of Fe + Cr content at different temperatures on modal diameter of particles",
+    "alloy_name": null,
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "particle size analysis",
+    "conditions": {
+      "temperature": "different temperatures",
+      "environment": null,
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "analysis_type": "modal diameter of particles",
+      "parameters": "Fe+Cr content, temperature"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_028_chunk5",
+    "page_or_fig": "Fig. 13",
+    "evidence_span": "Evolution of the normalized thermoelectric power with the annealing time (ΔS t = 0 is the TEP of the as-quenched material in micro-volt/kelvin)",
+    "alloy_name": null,
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": "as-quenched",
+    "process_step": "annealing",
+    "test_type": "thermoelectric power measurement",
+    "conditions": {
+      "temperature": null,
+      "environment": null,
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "measurement": "normalized thermoelectric power",
+      "reference_state": "as-quenched material",
+      "units": "micro-volt/kelvin",
+      "parameter": "annealing time"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_028_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "Two differently heat treated Zr-4 materials have been analyzed",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Fe",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Cr",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "composition_raw": "Zr-4",
+    "specimen_state": null,
+    "process_step": "heat treatment",
+    "test_type": "atom probe analysis",
+    "conditions": {
+      "temperature": null,
+      "environment": null,
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "analysis_technique": "atom probe microanalysis",
+      "materials_count": "2",
+      "treatment_difference": "different heat treatments"
+    }
+  }
+]

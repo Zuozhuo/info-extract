@@ -1,0 +1,548 @@
+[
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "extruded tubes contain alpha grains up to about 10 μm long, about 1 μm wide, and about 0.5 μm thick",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "extruded",
+    "process_step": "extrusion",
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "time": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "corrosion_time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_size": "10 μm long, 1 μm wide, 0.5 μm thick",
+      "phase_composition": "80% beta zirconium phase, 20% alpha zirconium phase",
+      "niobium_content_beta_phase": "18-20 wt% Nb"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Cold drawing causes additional elongation of the alpha grains and introduces a high density of dislocations to the microstructure",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "cold-worked",
+    "process_step": "cold drawing",
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "time": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "corrosion_time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "dislocation_density": "high",
+      "grain_morphology": "elongated alpha grains"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Stress relieving pressure tubes at 473 K reduces the dislocation density without causing any recrystallization to occur",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "stress-relieved",
+    "process_step": "stress relieving",
+    "test_type": null,
+    "conditions": {
+      "temperature": 473.0,
+      "pressure": null,
+      "environment": null,
+      "time": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "corrosion_time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "dislocation_density": "reduced",
+      "recrystallization": "none",
+      "phase_transformation": "metastable beta phase decomposition to alpha zirconium and beta niobium"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Heating at 673 K for 72 h before testing had accelerated this transformation to the omega phase",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "thermally aged",
+    "process_step": "heat treatment",
+    "test_type": null,
+    "conditions": {
+      "temperature": 673.0,
+      "pressure": null,
+      "environment": null,
+      "time": 72.0,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "corrosion_time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "phase_transformation": "omega phase formation",
+      "beta_phase_morphology": "globular precipitates",
+      "boundary_morphology": "rough alpha-beta boundaries"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "heating at 773 K for 10 h before testing with the beta phase network showing decomposition to alpha phase and chains of discrete niobium rich particles",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "thermally aged",
+    "process_step": "heat treatment",
+    "test_type": null,
+    "conditions": {
+      "temperature": 773.0,
+      "pressure": null,
+      "environment": null,
+      "time": 10.0,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "corrosion_time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "phase_decomposition": "beta phase to alpha phase and niobium-rich particles",
+      "precipitate_morphology": "chains of discrete particles"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005_chunk2",
+    "page_or_fig": "Fig. 1",
+    "evidence_span": "Effect of thermal ageing on the corrosion of a cold-worked Zr-2.5Nb pressure tube in 589 K water",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "cold-worked",
+    "process_step": "thermal ageing",
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 589.0,
+      "pressure": null,
+      "environment": "water",
+      "time": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosion_medium": "water",
+      "corrosion_time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "corrosion_kinetics": "two stage paralinear kinetics",
+      "weight_gain": "up to 70 mg/dm²"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005_chunk2",
+    "page_or_fig": "Fig. 2",
+    "evidence_span": "Microstructural changes in a cold-worked Zr-2.5Nb pressure tube after thermal ageing treatments and corrosion testing in 589 K water for 672 days",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "cold-worked",
+    "process_step": "thermal ageing + corrosion testing",
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 589.0,
+      "pressure": null,
+      "environment": "water",
+      "time": 672.0,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosion_medium": "water",
+      "corrosion_time": 672.0
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "testing_duration": "672 days",
+      "microstructural_changes": "omega phase precipitates, beta phase decomposition"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "oxidation rates for Zr-2.5Nb are considerably lower than those observed on Zircaloy-2",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "in-reactor",
+      "time": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "corrosion_time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "corrosion_resistance": "higher than Zircaloy-2",
+      "oxide_thickness": "lower than Zircaloy-2"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005_chunk3",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Zr-2.5Nb, Pickering 3, J09, 3488, 6.9",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "pressure tube",
+    "process_step": "operated",
+    "test_type": "deuterium concentration measurement",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "reactor",
+      "time": 3488.0,
+      "strain_rate": null,
+      "irradiation_dose": 6.9e+25,
+      "corrosion_medium": null,
+      "corrosion_time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "deuterium_uptake_percentage": "<20% theoretical",
+      "oxide_morphology": "compact and granular with sub-micron-sized grains",
+      "hydride_orientation": "circumferential"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_005_chunk7",
+    "page_or_fig": "text",
+    "evidence_span": "The Canadian Deuterium Uranium (CANDU) reactor has an enviable record of performance...The main interests are changes in shape and resistance to fracture",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "in-service pressure tubes",
+    "process_step": "reactor operation",
+    "test_type": "in-situ measurements, destructive examination",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "CANDU reactor service conditions",
+      "irradiation_dose": null,
+      "strain_rate": null,
+      "loading_type": null,
+      "corrosive_medium": null,
+      "time": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "component_type": "pressure tubes",
+      "material": "zirconium alloys",
+      "design_standard": "ASME Boiler and Pressure Vessel code",
+      "monitored_properties": "shape changes, fracture resistance, elongation, diameter expansion",
+      "replacement_accessibility": "ready access for in-situ measurements and easy replacement"
+    }
+  }
+]

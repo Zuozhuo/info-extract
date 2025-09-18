@@ -1,0 +1,1044 @@
+[
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Tubing was produced from sponge-based ingots of the following nominal compositions: Zr-0.5Nb, Zr-1.0Nb, Zr-2.5Nb, and Zr-1.0Nb-1.0Sn-0.1Fe. These compositions are designated alloys A, B, C, and E, respectively.",
+    "alloy_name": "Zr-0.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Nb",
+        "value": 0.5,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "tubing",
+    "process_step": "beta treated, pilgered and annealed",
+    "test_type": null,
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "designation": "alloy A",
+      "iron_content": "reduced to 0.1%",
+      "processing_philosophy": "beta treat at intermediate stage, alternately pilger and anneal"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Tubing was produced from sponge-based ingots of the following nominal compositions: Zr-0.5Nb, Zr-1.0Nb, Zr-2.5Nb, and Zr-1.0Nb-1.0Sn-0.1Fe. These compositions are designated alloys A, B, C, and E, respectively.",
+    "alloy_name": "Zr-1.0Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Nb",
+        "value": 1.0,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "tubing",
+    "process_step": "beta treated, pilgered and annealed",
+    "test_type": null,
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "designation": "alloy B",
+      "iron_content": "reduced to 0.1%",
+      "processing_philosophy": "beta treat at intermediate stage, alternately pilger and anneal"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Tubing was produced from sponge-based ingots of the following nominal compositions: Zr-0.5Nb, Zr-1.0Nb, Zr-2.5Nb, and Zr-1.0Nb-1.0Sn-0.1Fe. These compositions are designated alloys A, B, C, and E, respectively.",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "tubing",
+    "process_step": "beta treated, pilgered and annealed",
+    "test_type": null,
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "designation": "alloy C",
+      "iron_content": "reduced to 0.1%",
+      "processing_philosophy": "beta treat at intermediate stage, alternately pilger and anneal"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Tubing was produced from sponge-based ingots of the following nominal compositions: Zr-0.5Nb, Zr-1.0Nb, Zr-2.5Nb, and Zr-1.0Nb-1.0Sn-0.1Fe. These compositions are designated alloys A, B, C, and E, respectively.",
+    "alloy_name": "Zr-1.0Nb-1.0Sn-0.1Fe",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Nb",
+        "value": 1.0,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Sn",
+        "value": 1.0,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Fe",
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "tubing",
+    "process_step": "beta treated, pilgered and annealed",
+    "test_type": null,
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "designation": "alloy E",
+      "iron_content": "0.1%",
+      "processing_philosophy": "beta treat at intermediate stage, alternately pilger and anneal"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Ingots were based on sponge zirconium; a listing of the major constituents is given in Table 1",
+    "alloy_name": "A",
+    "composition": [
+      {
+        "element": "Nb",
+        "value": 0.49,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "C",
+        "value": 90.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Fe",
+        "value": 379.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "O",
+        "value": 1560.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "TREX",
+    "process_step": "extruded to 6.350 cm OD/1.092 cm wall thickness, α-annealed, cold pilgered to 4.445/0.762 cm, α-annealed",
+    "test_type": null,
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "particle_size": "42 nm",
+      "particle_number_density": "1×10²⁰/m³"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Ingots were based on sponge zirconium; a listing of the major constituents is given in Table 1",
+    "alloy_name": "B",
+    "composition": [
+      {
+        "element": "Nb",
+        "value": 1.0,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "C",
+        "value": 90.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Fe",
+        "value": 345.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "O",
+        "value": 1425.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "TREX",
+    "process_step": "extruded to 6.350 cm OD/1.092 cm wall thickness, β-annealed and air cooled, cold pilgered to 4.445/0.762 cm, α-annealed",
+    "test_type": null,
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "particle_size": "23 nm",
+      "particle_number_density": "11×10²⁰/m³"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Ingots were based on sponge zirconium; a listing of the major constituents is given in Table 1",
+    "alloy_name": "C",
+    "composition": [
+      {
+        "element": "Nb",
+        "value": 2.6,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "C",
+        "value": 125.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Fe",
+        "value": 504.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "O",
+        "value": 1330.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "TREX",
+    "process_step": "extruded to 6.350 cm OD/1.092 cm wall thickness, no anneal after extrusion, cold pilgered to 4.445/0.762 cm, α-annealed",
+    "test_type": null,
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "particle_size": "42 nm",
+      "particle_number_density": "12×10²⁰/m³"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Ingots were based on sponge zirconium; a listing of the major constituents is given in Table 1",
+    "alloy_name": "E",
+    "composition": [
+      {
+        "element": "Nb",
+        "value": 0.99,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Sn",
+        "value": 0.96,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "C",
+        "value": 65.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "O",
+        "value": 1430.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "TREX",
+    "process_step": "extruded to 6.350 cm OD/1.092 cm wall thickness, β-annealed and air cooled, cold pilgered to 4.445/0.762 cm, α-annealed",
+    "test_type": null,
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "particle_size": "33 nm",
+      "particle_number_density": "4×10²⁰/m³"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk4",
+    "page_or_fig": "Table",
+    "evidence_span": "Alloy C, Temperature 589 K, Weight Gain 41.9 mg/dm², Hydrogen Pickup 0.5 μg/dm²/day, % Theoretical 7.6",
+    "alloy_name": "C",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 589.0,
+      "temperature_unit": "K",
+      "environment": "LiOH solution",
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "irradiation_temperature": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "value": 41.9,
+      "unit": "mg/dm²",
+      "raw_unit": "mg/dm²"
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Hydrogen Pickup": "0.5 μg/dm²/day",
+      "% Theoretical": "7.6"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk4",
+    "page_or_fig": "Table",
+    "evidence_span": "Alloy C, Temperature 633 K, Weight Gain 70.3 mg/dm², Hydrogen Pickup 1.5 μg/dm²/day, % Theoretical 4.2",
+    "alloy_name": "C",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 633.0,
+      "temperature_unit": "K",
+      "environment": "LiOH solution",
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "irradiation_temperature": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "value": 70.3,
+      "unit": "mg/dm²",
+      "raw_unit": "mg/dm²"
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Hydrogen Pickup": "1.5 μg/dm²/day",
+      "% Theoretical": "4.2"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk4",
+    "page_or_fig": "Table",
+    "evidence_span": "Alloy C, Temperature 700 K, Weight Gain 263 mg/dm², Hydrogen Pickup 32.3 μg/dm²/day, % Theoretical 15.8",
+    "alloy_name": "C",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 700.0,
+      "temperature_unit": "K",
+      "environment": "LiOH solution",
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "irradiation_temperature": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "value": 263.0,
+      "unit": "mg/dm²",
+      "raw_unit": "mg/dm²"
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Hydrogen Pickup": "32.3 μg/dm²/day",
+      "% Theoretical": "15.8"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk4",
+    "page_or_fig": "Table",
+    "evidence_span": "Alloy E, Temperature 727 K, Weight Gain 319 mg/dm², Hydrogen Pickup 95.5 μg/dm²/day, % Theoretical 24.5",
+    "alloy_name": "E",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 727.0,
+      "temperature_unit": "K",
+      "environment": "LiOH solution",
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "irradiation_temperature": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "value": 319.0,
+      "unit": "mg/dm²",
+      "raw_unit": "mg/dm²"
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Hydrogen Pickup": "95.5 μg/dm²/day",
+      "% Theoretical": "24.5"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk4",
+    "page_or_fig": "Table",
+    "evidence_span": "Alloy E, Temperature 589 K, Weight Gain 54.7 mg/dm², Hydrogen Pickup 0.6 μg/dm²/day, % Theoretical 7.1",
+    "alloy_name": "E",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 589.0,
+      "temperature_unit": "K",
+      "environment": "LiOH solution",
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "irradiation_temperature": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "value": 54.7,
+      "unit": "mg/dm²",
+      "raw_unit": "mg/dm²"
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Hydrogen Pickup": "0.6 μg/dm²/day",
+      "% Theoretical": "7.1"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk4",
+    "page_or_fig": "Table",
+    "evidence_span": "Alloy E, Temperature 633 K, Weight Gain 91.7 mg/dm², Hydrogen Pickup 3.3 μg/dm²/day, % Theoretical 7.2",
+    "alloy_name": "E",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 633.0,
+      "temperature_unit": "K",
+      "environment": "LiOH solution",
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "irradiation_temperature": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "value": 91.7,
+      "unit": "mg/dm²",
+      "raw_unit": "mg/dm²"
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Hydrogen Pickup": "3.3 μg/dm²/day",
+      "% Theoretical": "7.2"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk4",
+    "page_or_fig": "Table",
+    "evidence_span": "Alloy E, Temperature 700 K, Weight Gain 366 mg/dm², Hydrogen Pickup 71.3 μg/dm²/day, % Theoretical 25.2",
+    "alloy_name": "E",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 700.0,
+      "temperature_unit": "K",
+      "environment": "LiOH solution",
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "irradiation_temperature": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "value": 366.0,
+      "unit": "mg/dm²",
+      "raw_unit": "mg/dm²"
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Hydrogen Pickup": "71.3 μg/dm²/day",
+      "% Theoretical": "25.2"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk4",
+    "page_or_fig": "Table",
+    "evidence_span": "Zr-4, Temperature 589 K, Weight Gain 77.8 mg/dm², Hydrogen Pickup 3.4 μg/dm²/day, % Theoretical 29.4",
+    "alloy_name": "Zr-4",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 589.0,
+      "temperature_unit": "K",
+      "environment": "LiOH solution",
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "irradiation_temperature": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "value": 77.8,
+      "unit": "mg/dm²",
+      "raw_unit": "mg/dm²"
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Hydrogen Pickup": "3.4 μg/dm²/day",
+      "% Theoretical": "29.4"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk4",
+    "page_or_fig": "Table",
+    "evidence_span": "Zr-4, Temperature 633 K, Weight Gain 128 mg/dm², Hydrogen Pickup 11.2 μg/dm²/day, % Theoretical 17.6",
+    "alloy_name": "Zr-4",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 633.0,
+      "temperature_unit": "K",
+      "environment": "LiOH solution",
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "irradiation_temperature": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "value": 128.0,
+      "unit": "mg/dm²",
+      "raw_unit": "mg/dm²"
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Hydrogen Pickup": "11.2 μg/dm²/day",
+      "% Theoretical": "17.6"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk4",
+    "page_or_fig": "Table",
+    "evidence_span": "Zr-4, Temperature 700 K, Weight Gain 253 mg/dm², Hydrogen Pickup 204 μg/dm²/day, % Theoretical 65.6",
+    "alloy_name": "Zr-4",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 700.0,
+      "temperature_unit": "K",
+      "environment": "LiOH solution",
+      "pressure": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "irradiation_temperature": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "value": 253.0,
+      "unit": "mg/dm²",
+      "raw_unit": "mg/dm²"
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Hydrogen Pickup": "204 μg/dm²/day",
+      "% Theoretical": "65.6"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk7",
+    "page_or_fig": "text",
+    "evidence_span": "The ZIRLO alloy showed significantly lower in-reactor creep and rod growth than Zircaloy-4 and the niobium binary alloys.",
+    "alloy_name": "ZIRLO",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "in-reactor creep",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "reactor environment",
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "stress": null,
+      "pH": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": "significantly lower than Zircaloy-4 and Nb binaries",
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "rod_growth": "significantly lower than Zircaloy-4 and Nb binaries"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk7",
+    "page_or_fig": "text",
+    "evidence_span": "The corrosion performance of the binary zirconium-niobium alloys showed locally thicker oxides and greater variability than exhibited by either ZIRLO or Zircaloy-4.",
+    "alloy_name": "Zr-Nb binary",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "stress": null,
+      "pH": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "locally thicker oxides and greater variability",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "oxide_thickness": "locally thicker",
+      "performance_variability": "greater than ZIRLO or Zircaloy-4"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_018_chunk7",
+    "page_or_fig": "text",
+    "evidence_span": "Enhanced Low-Temperature Oxidation of Zirconium Alloys Under Irradiation",
+    "alloy_name": "zirconium alloys",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "oxidation",
+    "conditions": {
+      "temperature": "low-temperature",
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "stress": null,
+      "pH": null,
+      "other": "under irradiation"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "enhanced oxidation under irradiation",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "oxidation_behavior": "enhanced under irradiation at low temperatures"
+    }
+  }
+]
