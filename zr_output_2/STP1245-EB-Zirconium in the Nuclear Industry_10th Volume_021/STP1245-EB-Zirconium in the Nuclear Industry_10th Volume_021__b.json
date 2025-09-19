@@ -1,0 +1,462 @@
+[
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_021_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Sn, % wt 1.23 to 1.40; Fe, % wt 0.19 to 0.24; Cr, % wt 0.09 to 0.13; O, % wt 0.108 to 0.135; C, ppm 100 to 174; Si, ppm 77 to 113",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": [
+          1.23,
+          1.4
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": [
+          0.19,
+          0.24
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": [
+          0.09,
+          0.13
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": [
+          0.108,
+          0.135
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "C",
+        "value": [
+          100,
+          174
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Si",
+        "value": [
+          77,
+          113
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "stress-relieved cladding tubes",
+    "process_step": "forged, β-quenched, hot-extruded process, cold-working/annealing cycles, final stress-relieving treatment",
+    "test_type": "out-of-pile tests (corrosion, creep, mechanical properties)",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "time": null,
+      "strain_rate": null,
+      "stress": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "quench_rate_range": "5 to 100°C/s",
+      "annealing_parameter_range": "1×10^-18 to 2×10^-16 h",
+      "final_anneal_temperature": "450-530°C",
+      "final_anneal_time": "2-4 hours",
+      "number_of_melts": "2, 3, and 4"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_021_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Autoclave corrosion tests: short-term three days at 400°C as per ASTM Practice for Preparing, Cleaning, and Evaluating Corrosion Test Specimens (G 2-88) on a nonpickled specimen and long-term tests in steam at 400°C on pickled specimens.",
+    "alloy_name": "Zircaloy-4",
+    "composition": null,
+    "specimen_state": "nonpickled",
+    "process_step": "corrosion test",
+    "test_type": "autoclave corrosion",
+    "conditions": {
+      "temperature": "400°C",
+      "pressure": null,
+      "environment": "steam",
+      "time": "3 days",
+      "strain_rate": null,
+      "stress": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "corrosion_test_method": "ASTM G 2-88",
+      "specimen_preparation": "nonpickled"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_021_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Autoclave corrosion tests: short-term three days at 400°C as per ASTM Practice for Preparing, Cleaning, and Evaluating Corrosion Test Specimens (G 2-88) on a nonpickled specimen and long-term tests in steam at 400°C on pickled specimens.",
+    "alloy_name": "Zircaloy-4",
+    "composition": null,
+    "specimen_state": "pickled",
+    "process_step": "corrosion test",
+    "test_type": "autoclave corrosion",
+    "conditions": {
+      "temperature": "400°C",
+      "pressure": null,
+      "environment": "steam",
+      "time": null,
+      "strain_rate": null,
+      "stress": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "corrosion_test_method": "ASTM G 2-88",
+      "specimen_preparation": "pickled"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_021_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Internal pressurization tests with and without iodine at 350°C and slow tension tests EY (1.7×10-5 s-1) on a ring at room temperature in inert atmosphere and in iodine.",
+    "alloy_name": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": "mechanical testing",
+    "test_type": "internal pressurization",
+    "conditions": {
+      "temperature": "350°C",
+      "pressure": null,
+      "environment": "with/without iodine",
+      "time": null,
+      "strain_rate": null,
+      "stress": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "test_environment": "iodine/inert atmosphere"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_021_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "slow tension tests EY (1.7×10-5 s-1) on a ring at room temperature in inert atmosphere and in iodine",
+    "alloy_name": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": "mechanical testing",
+    "test_type": "slow tension",
+    "conditions": {
+      "temperature": "room temperature",
+      "pressure": null,
+      "environment": "iodine/inert atmosphere",
+      "time": null,
+      "strain_rate": "1.7×10-5 s-1",
+      "stress": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "strain_rate": "1.7×10-5 s-1",
+      "test_environment": "iodine/inert atmosphere",
+      "specimen_type": "ring"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_021_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "thermal creep tests (400°C, 130 MPa, 240 h) on pre-pressurized specimens",
+    "alloy_name": null,
+    "composition": null,
+    "specimen_state": "pre-pressurized",
+    "process_step": "creep testing",
+    "test_type": "thermal creep",
+    "conditions": {
+      "temperature": "400°C",
+      "pressure": null,
+      "environment": null,
+      "time": "240 h",
+      "strain_rate": null,
+      "stress": "130 MPa",
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "stress": "130 MPa",
+      "duration": "240 h"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_021_chunk2",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Sn (1.20 to 1.29%) 9391 23 513 35 243",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": [
+          1.2,
+          1.29
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "CWSR",
+    "process_step": "irradiation",
+    "test_type": "irradiation performance",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "time": null,
+      "strain_rate": null,
+      "stress": null,
+      "other": "Burnup: 9391-35243 MWd/tM, Fast fluence: 1.6-6.3×10^21 n·cm-2"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "burnup_range": "9391-35243 MWd/tM",
+      "fast_fluence_range": "1.6-6.3×10^21 n·cm-2",
+      "tin_content": "1.20-1.29%",
+      "assembly_type": "A CLADDING"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_021_chunk2",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Sn (1.38 to 1.50%) 9378 23 728 34 550",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": [
+          1.38,
+          1.5
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "CWSR",
+    "process_step": "irradiation",
+    "test_type": "irradiation performance",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "time": null,
+      "strain_rate": null,
+      "stress": null,
+      "other": "Burnup: 9378-34550 MWd/tM, Fast fluence: 1.6-6.1×10^21 n·cm-2"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "burnup_range": "9378-34550 MWd/tM",
+      "fast_fluence_range": "1.6-6.1×10^21 n·cm-2",
+      "tin_content": "1.38-1.50%",
+      "assembly_type": "B CLADDING"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_021_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "silicon in the 50 to 90 ppm range",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Si",
+        "value": [
+          50,
+          90
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "time": null,
+      "strain_rate": null,
+      "stress": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "silicon_content": "50-90 ppm",
+      "corrosion_optimization": "beneficial effect"
+    }
+  }
+]

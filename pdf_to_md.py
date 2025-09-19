@@ -193,5 +193,5 @@ def pdf_to_md(pdf_path: str, output_dir: str = "output") -> str:
 
 
 if __name__ == "__main__":
-    md_text = pdf_to_md("/home/zuozhuo/info-extract/pdfs/核材料文档3.pdf")
+    md_text = pdf_to_md("/home/zuozhuo/info-extract/scratch/核材料文档3.pdf")
     print(md_text[:500])  # 打印前 500 个字符
