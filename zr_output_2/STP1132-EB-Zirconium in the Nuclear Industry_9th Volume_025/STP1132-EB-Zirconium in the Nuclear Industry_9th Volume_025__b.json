@@ -1,0 +1,503 @@
+[
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Table 1 summarizes the chemical composition ranges of the alloying elements",
+    "alloy_name": "Zirconium-base alloys",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": [
+          0.5,
+          1.5
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe+Cr",
+        "value": [
+          0.3,
+          0.7
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": [
+          0.05,
+          1.0
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Mo",
+        "value": [
+          0.05,
+          0.5
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "V",
+        "value": [
+          0.1,
+          0.5
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "sheet",
+    "process_step": "beta-forging at 1283 K, beta-quenching, alpha-hot rolling at 873 K, cold-rolling with intermediate alpha-annealing at 903 K for 2.5 h, final stress-relieved or fully recrystallized annealing",
+    "test_type": "static autoclave corrosion test, tensile test, analytical electron microscopy",
+    "conditions": {
+      "temperature": [
+        673,
+        298
+      ],
+      "pressure": 10.3,
+      "environment": "steam",
+      "duration": 7200,
+      "irradiation": null,
+      "stress": null,
+      "strain_rate": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "improved corrosion resistance compared to Zircaloy-4",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_size": "0.05-0.1 μm",
+      "Fe/Cr_ratio": "0.5-6.0",
+      "ultimate_tensile_strength": "decreased with Sn reduction",
+      "yield_strength": "decreased with Sn reduction",
+      "mechanical_properties": "improved with Fe+Cr increase from 0.3 to 0.7 wt%",
+      "annealing_temperature_effect": "lowered optimal annealing temperature with increased Nb content"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk2",
+    "page_or_fig": "Fig. 2",
+    "evidence_span": "Typical weight gain versus time curves for three specimens tested in steam at 673 K",
+    "alloy_name": "Zircaloy-4 and Nb-containing alloys",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "base",
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Sn",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Nb",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Fe",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Cr",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "corroded",
+    "process_step": "corrosion testing",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": 673,
+      "pressure": null,
+      "environment": "steam",
+      "duration": null,
+      "irradiation": null,
+      "stress": null,
+      "strain_rate": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": "cubic time dependence (initial), linear time dependence (after ~30-40 mg/dm²)",
+    "corrosion_data": "weight gain vs time curves",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "corrosion_kinetics": "similar to Zircaloy-4, cyclic behavior in posttransition for high resistance alloys",
+      "corrosion_measure": "weight gain at 300 days"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk2",
+    "page_or_fig": "Fig. 3",
+    "evidence_span": "Weight gains as a function of Nb content at 673 K for 300 days as a parameter of Sn content",
+    "alloy_name": "Zr-Sn-Fe-Cr-Nb alloys",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "base",
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Sn",
+        "value": [
+          0.5,
+          1.5
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.2,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Nb",
+        "value": [
+          0.05,
+          0.2
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "corroded",
+    "process_step": "corrosion testing",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": 673,
+      "pressure": null,
+      "environment": "steam",
+      "duration": 7200,
+      "irradiation": null,
+      "stress": null,
+      "strain_rate": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "weight gain vs Nb content for different Sn levels",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "corrosion_trend": "Nb additions (0.05-0.2%) reduce weight gains, >0.2% increases weight gain",
+      "sn_effect": "decreasing Sn content decreases weight gains (improves corrosion resistance)",
+      "optimal_composition": "Sn reduced to 0.5% with Nb 0.05-0.2%"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk2",
+    "page_or_fig": "Fig. 4",
+    "evidence_span": "Tensile strength as a function of Sn content at room temperature",
+    "alloy_name": "Zr-Sn-Fe-Cr-Nb alloys",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "base",
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Sn",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Fe",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Cr",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Nb",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "tested",
+    "process_step": "tensile testing",
+    "test_type": "tensile test",
+    "conditions": {
+      "temperature": 298,
+      "pressure": null,
+      "environment": null,
+      "duration": null,
+      "irradiation": null,
+      "stress": null,
+      "strain_rate": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "ultimate_tensile_strength": "decreases with decreasing Sn content",
+      "yield_strength_0.2%": "decreases with decreasing Sn content"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk2",
+    "page_or_fig": "Fig. 5",
+    "evidence_span": "Tensile strength as a function of Nb content at room temperature",
+    "alloy_name": "Zr-Sn-Fe-Cr-Nb alloys",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "base",
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Sn",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Fe",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Cr",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Nb",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "tested",
+    "process_step": "tensile testing",
+    "test_type": "tensile test",
+    "conditions": {
+      "temperature": 298,
+      "pressure": null,
+      "environment": null,
+      "duration": null,
+      "irradiation": null,
+      "stress": null,
+      "strain_rate": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "tensile_strength": "increases with Nb content up to 0.5%, then plateaus",
+      "strength_saturation": "relates to Nb precipitation"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk2",
+    "page_or_fig": "Fig. 6",
+    "evidence_span": "Weight gains as a function of accumulated annealing parameter at 673 K for 300 days for alloys containing 0.1, 0.2, and 0.4 Nb",
+    "alloy_name": "Zr-Nb alloys",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "base",
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Nb",
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "annealed and corroded",
+    "process_step": "annealing and corrosion testing",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": 673,
+      "pressure": null,
+      "environment": null,
+      "duration": 7200,
+      "irradiation": null,
+      "stress": null,
+      "strain_rate": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "weight gain vs annealing parameter",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "annealing_effect_0.1Nb": "weight gain decreases with increasing annealing parameter",
+      "annealing_effect_0.4Nb": "weight gain increases with increasing annealing parameter",
+      "annealing_effect_0.2Nb": "intermediate behavior, minimum at ~2×10⁻¹⁹ h",
+      "optimal_annealing": "shifted to lower temperature with increasing Nb content"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk2",
+    "page_or_fig": "Fig. 6",
+    "evidence_span": "Weight gains as a function of accumulated annealing parameter at 673 K for 300 days for alloys containing 0.1, 0.2, and 0.4 Nb",
+    "alloy_name": "Zr-Nb alloys",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "base",
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Nb",
+        "value": 0.2,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "annealed and corroded",
+    "process_step": "annealing and corrosion testing",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": 673,
+      "pressure": null,
+      "environment": null,
+      "duration": 7200,
+      "irradiation": null,
+      "stress": null,
+      "strain_rate": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "weight gain vs annealing parameter",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "annealing_effect_0.1Nb": "weight gain decreases with increasing annealing parameter",
+      "annealing_effect_0.4Nb": "weight gain increases with increasing annealing parameter",
+      "annealing_effect_0.2Nb": "intermediate behavior, minimum at ~2×10⁻¹⁹ h",
+      "optimal_annealing": "shifted to lower temperature with increasing Nb content"
+    }
+  }
+]

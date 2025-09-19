@@ -1,0 +1,882 @@
+[
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_007_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Pressure tubes in CANDU reactors are made from Zr-2.5Nb alloy by hot extrusion of hollow billets followed by 25% cold work",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "cold-worked",
+    "process_step": "hot extrusion + 25% cold work",
+    "test_type": "DHC tests",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "reactor service conditions",
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "irradiation_temperature": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_basal_pole_fractions": "0.32 (radial), 0.61 (transverse), 0.07 (axial)",
+      "dimensions": "6 m length, 103 mm inside diameter, 4.1 mm wall thickness"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_007_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "standard, cold-worked Zr-2.5Nb (tube H737)",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "cold-worked",
+    "process_step": "standard production route",
+    "test_type": "DHC tests",
+    "conditions": {
+      "temperature": 250.0,
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "irradiation_temperature": 250.0,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_content": "~1 atomic percent",
+      "homogenization": "400°C for 72h",
+      "irradiation_code": "ERABLE"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_007_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "TG3R1 (Task Group 3 Route 1 material developed at Ontario Hydro). The TG3R1 pressure tubes were produced using a lower extrusion ratio and higher percent coldwork than standard pressure tubes, and had an extra stress relieve at 500°C for 6h after cold drawing",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "cold-worked",
+    "process_step": "lower extrusion ratio + higher cold work + stress relief at 500°C for 6h",
+    "test_type": "DHC tests",
+    "conditions": {
+      "temperature": 250.0,
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "irradiation_temperature": 250.0,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_content": "~1 atomic percent",
+      "homogenization": "400°C for 72h",
+      "production_route": "TG3R1",
+      "irradiation_code": "TRILLIUM"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_007_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Two types of specimens were prepared from the tubes: (1) cantilever beam (CB) and (2) curved compact toughness (CCT) specimens",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "irradiated",
+    "process_step": "specimen preparation",
+    "test_type": "DHC tests",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_fluence": [
+        0.01,
+        9.8
+      ],
+      "irradiation_temperature": [
+        250.0,
+        290.0
+      ],
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "specimen_types": [
+        "cantilever beam (CB)",
+        "curved compact toughness (CCT)"
+      ],
+      "irradiation_temperature_range": "250-290°C",
+      "fluence_range": "0.01×10²⁵ to 9.8×10²⁵ n/m²",
+      "neutron_flux": "1.6×10¹⁷ to 1.8×10¹⁸ n/m²·s"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_007_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Crack velocity of DHC is sensitive to the temperature history; the maximum value of $V$ is attained by cooling (without undercooling) to the test temperature from above the solvus temperature of hydrogen in zirconium [4]. Thus, a standard procedure for measuring $V$ was developed as shown in Fig. 3.",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": null,
+    "specimen_state": "cold-worked",
+    "process_step": "irradiation",
+    "test_type": "DHC testing",
+    "conditions": {
+      "temperature": 290.0,
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "irradiation_temperature": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "crack_velocity_measurement_error": "±25% in unirradiated material, ±50% in irradiated material",
+      "K_IH_measurement_error": "±1 MPa√m (±15%)",
+      "microstructure": "flat α-zirconium grains surrounded by thin layers of continuous β zirconium"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_007_chunk3",
+    "page_or_fig": "Figs. 5, 6, 7",
+    "evidence_span": "In the R/J region, the crack velocity increased rapidly with fluence... The yield stress follows a similar behavior, Fig. 7 [11]; it saturates at about 0.3 × 10²⁵ n/m²",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "irradiated",
+    "process_step": "pressure tube R/J region",
+    "test_type": "DHC velocity, tensile",
+    "conditions": {
+      "temperature": [
+        130.0,
+        250.0
+      ],
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_fluence": 1.0,
+      "irradiation_temperature": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "DHC_velocity_axial": "increased rapidly with fluence",
+      "DHC_velocity_radial": "increased rapidly with fluence",
+      "yield_stress": "saturates at 0.3 × 10²⁵ n/m²",
+      "irradiation_fluence_saturation": "1 × 10²⁵ n/m²"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_007_chunk3",
+    "page_or_fig": "Figs. 5, 6",
+    "evidence_span": "In specimens from the main bodies of pressure tubes, the crack velocity was three to five times higher than that of unirradiated material and was found to be independent of fluence",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "irradiated",
+    "process_step": "pressure tube main body",
+    "test_type": "DHC velocity",
+    "conditions": {
+      "temperature": 130.0,
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "irradiation_temperature": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "DHC_velocity_axial": "3-5× higher than unirradiated, fluence independent",
+      "DHC_velocity_radial": "3-5× higher than unirradiated, fluence independent"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_007_chunk3",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Standard, unirradiated Zr-2.5Nb pressure tube material with two hydrogen concentrations, 0.36 and 0.50 atomic percent, was used in this round robin",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "unirradiated",
+    "process_step": "standard pressure tube",
+    "test_type": "DHC velocity",
+    "conditions": {
+      "temperature": [
+        200.0,
+        250.0
+      ],
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "irradiation_temperature": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_concentration": "0.36-0.50 at%",
+      "axial_DHC_velocity": "2.2-11.8 × 10⁻⁸ m/s",
+      "radial_DHC_velocity": "1.2-6.1 × 10⁻⁴ m/s",
+      "axial_radial_velocity_ratio": "1.7-1.9",
+      "test_uncertainty": "<25% of mean"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_007_chunk6",
+    "page_or_fig": "Table 3",
+    "evidence_span": "UNIRRADIATED Axiala 1.5 × 10-1 66 [8]",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "unirradiated",
+    "process_step": null,
+    "test_type": "DHCV test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "direction": "axial"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "DHCV_pre-exponential_A": "1.5×10⁻¹",
+      "activation_energy_Q": "66 kJ/mol",
+      "crack_direction": "axial"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_007_chunk6",
+    "page_or_fig": "Table 3",
+    "evidence_span": "UNIRRADIATED Axiala 5.3 × 10-2 60 this paper",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "unirradiated",
+    "process_step": null,
+    "test_type": "DHCV test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "direction": "axial"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "DHCV_pre-exponential_A": "5.3×10⁻²",
+      "activation_energy_Q": "60 kJ/mol",
+      "crack_direction": "axial"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_007_chunk6",
+    "page_or_fig": "Table 3",
+    "evidence_span": "IRRADIATED Radialc 8.6 × 01-2 58 this paper",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "irradiated",
+    "process_step": "hydrogen added electrolytically at 90°C followed by solution treatment at 290°C for 14 days",
+    "test_type": "DHCV test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "direction": "radial"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "DHCV_pre-exponential_A": "8.6×10⁻²",
+      "activation_energy_Q": "58 kJ/mol",
+      "crack_direction": "radial"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_007_chunk6",
+    "page_or_fig": "Table 3",
+    "evidence_span": "IRRADIATED Axial 4.0 × 01-3 43 this paper",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "irradiated",
+    "process_step": null,
+    "test_type": "DHCV test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "direction": "axial"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "DHCV_pre-exponential_A": "4.0×10⁻³",
+      "activation_energy_Q": "43 kJ/mol",
+      "crack_direction": "axial"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_007_chunk6",
+    "page_or_fig": "Appendix I",
+    "evidence_span": "$D _ { H } = 2 . 1 7 \\times 1 0 ^ { - 7 } \\exp ( - 3 5 ~ 1 0 0 / R T ) ~ \\mathrm { m ^ { 2 } / s }$",
+    "alloy_name": "zirconium",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "hydrogen diffusion",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "direction": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_diffusion_coefficient_formula": "D_H = 2.17×10⁻⁷ exp(-35100/RT) m²/s",
+      "pre-exponential_D0": "2.17×10⁻⁷ m²/s",
+      "activation_energy_QD": "35100 J/mol"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_007_chunk6",
+    "page_or_fig": "Appendix I",
+    "evidence_span": "$C _ { H } ^ { s } = 1 0 . 2 \\ \\mathrm { e x p } { ( - 3 5 \\ 0 0 0 / \\bar { R } T ) }$ atomic $\\%$",
+    "alloy_name": "zirconium",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "hydrogen concentration",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "direction": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_solid_solution_concentration_formula": "C_H^s = 10.2 exp(-35000/R̄T) atomic %",
+      "pre-exponential_C0": "10.2",
+      "activation_energy_QH": "35000 J/mol"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_007_chunk6",
+    "page_or_fig": "Appendix I",
+    "evidence_span": "$\\pmb { \\cal E }$ Young's modulus in the transverse direction $= 1 0 2 . 4 7 - 0 . 0 1 1 7 4 3 \\ T - 8 . 0 6 8 6 9$ $\\times \\ 1 0 ^ { - 5 } \\ T ^ { 2 }$ , where $\\pmb { \\cal E }$ is in GPa and $T$ is in $^ \\circ \\mathbf { C }$",
+    "alloy_name": "zirconium",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "direction": "transverse"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": "ℰ = 102.47 - 0.011743T - 8.06869×10⁻⁵T²",
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "youngs_modulus_formula": "ℰ = 102.47 - 0.011743T - 8.06869×10⁻⁵T² GPa",
+      "temperature_unit": "°C"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_007_chunk7",
+    "page_or_fig": "text",
+    "evidence_span": "smooth (smooth refers to the original surface quality of the as-received pressure tube) cantilever beam specimens were machined from cold-worked Zr-2.5Nb pressure tubes",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "cold-worked pressure tube",
+    "process_step": "machined to cantilever beam specimens",
+    "test_type": "DHC cracking test",
+    "conditions": {
+      "temperature": "80°C",
+      "pressure": null,
+      "environment": null,
+      "direction": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_concentration": "10-15 ppm",
+      "test_temperature": "80°C",
+      "failure_stress": ">550 MPa",
+      "failure_time_range": "53-6600 h",
+      "crack_initiation_sites": "surface nicks or angular SiO2 particles"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_007_chunk8",
+    "page_or_fig": "text",
+    "evidence_span": "In specimens with hydrogen concentration between 40 and 120 ppm, the crack initiation was not associated with any surface flaws or embedded particles",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "cold-worked",
+    "process_step": "as-fabricated",
+    "test_type": "DHC crack initiation",
+    "conditions": {
+      "temperature": "150-250°C",
+      "pressure": null,
+      "environment": null,
+      "direction": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_concentration": "40-120 ppm",
+      "crack_initiation_stress": "413-585 MPa",
+      "failure_time": "2-1920 h",
+      "microstructure": "lath-shaped α-grains (hcp) highly elongated in axial direction, surrounded by continuous network of β-phase (bcc)",
+      "α_grain_thickness": "0.5 μm",
+      "β_phase_thickness": "0.05 μm",
+      "β_phase_volume_fraction": "7%",
+      "hydride_orientation": "parallel to circumferential-axial plane along α/β phase boundaries"
+    }
+  }
+]

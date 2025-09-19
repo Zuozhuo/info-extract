@@ -1,0 +1,652 @@
+[
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_016_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Trace elements can reduce the fracture resistance of Zr-2.5Nb pressure tubes",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "pressure tube",
+    "process_step": "fabrication",
+    "test_type": "fracture toughness",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "trace_elements": "carbon, chlorine, phosphorus, oxygen, hydrogen",
+      "fracture_toughness_variation": "20-150 MPa at 240°C after neutron fluence of 6.5×10²⁵ n/m²",
+      "fracture_features": "ductile dimples, fissures"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_016_chunk2",
+    "page_or_fig": "Fig. 2",
+    "evidence_span": "Figure 2 is an abridged flow diagram showing the main steps in the fabrication of Zr-2.5Nb pressure tubes",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "pressure tube",
+    "process_step": "fabrication process",
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "microstructure": "flat elongated α-grains surrounded by a grain boundary layer of β-phase",
+      "grain_size": "0.3 to 0.5 μm thick with dimensions in approximate 1:5:50 ratio (radial:transverse:longitudinal)",
+      "texture": "basal plane normals mostly in the transverse direction",
+      "tube_dimensions": "length 6.1 m, inside diameter 103 mm, wall thickness 4 mm",
+      "operating_conditions": "D₂O heat transfer fluid at 10 MPa pressure, 250-310°C temperature"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_016_chunk2",
+    "page_or_fig": "Text",
+    "evidence_span": "Zr-2.5Nb buttons meeting the chemical composition requirements for CANDU pressure tubes with a range of carbon concentrations, 350 to 2350 ppm (at) [45 to 310 ppm (wt)]",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "C",
+        "value": 45,
+        "unit": "ppm",
+        "raw_unit": "ppm (wt)"
+      }
+    ],
+    "specimen_state": "button/rolled strip",
+    "process_step": "inert gas melting, rolling, heat treatment",
+    "test_type": "metallography",
+    "conditions": {
+      "temperature": "900-1190",
+      "unit": "°C",
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "strain_rate": null,
+      "other": "water quenched"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "carbon_concentration_range_at": "350-2350",
+      "carbon_concentration_range_ppm": "45-310",
+      "carbide_particles": "classified into three families by size and identification confidence",
+      "large_carbides_threshold": ">9.5 ppm (at) [125 ppm (wt)] carbon and soaking temperature below 1000°C",
+      "particle_categories": ">1 μm: positively identified carbides, 0.25-0.75 μm: believed to be carbides, very small: unidentified particles"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_016_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "Typical carbon concentrations of recently manufactured pressure tubes have been in the range of 6.8 to 8.3 ppm (at) [90 to 110 ppm (wt)]",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "C",
+        "value": 90,
+        "unit": "ppm",
+        "raw_unit": "ppm (wt)"
+      }
+    ],
+    "specimen_state": "pressure tube",
+    "process_step": "manufactured",
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "carbon_concentration_at": "6.8-8.3",
+      "carbon_concentration_ppm": "90-110"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_016_chunk3",
+    "page_or_fig": "Fig. 4",
+    "evidence_span": "Fracture toughness as a function of chlorine concentration for pressure tubes with phosphorus concentrations of <30 ppm (at) [10 ppm (wt)]",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "P",
+        "value": 10,
+        "unit": "ppm",
+        "raw_unit": "ppm (wt)"
+      }
+    ],
+    "specimen_state": "pressure tube",
+    "process_step": null,
+    "test_type": "fracture toughness",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "strain_rate": null,
+      "other": "phosphorus concentrations <30 ppm (at) [10 ppm (wt)]"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "fracture_toughness": "decreases with increasing chlorine concentration",
+      "chlorine_concentration_range": "varied",
+      "phosphorus_concentration_at": "<30",
+      "phosphorus_concentration_ppm": "10"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_016_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "Cross-sectional chemical analyses at several positions from top to bottom of double-melted ingots showed a chlorine concentration at the ingot tops of 0.3 to 0.6 ppm (at) [0.1 to 0.2 ppm (wt)]",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cl",
+        "value": 0.1,
+        "unit": "ppm",
+        "raw_unit": "ppm (wt)"
+      }
+    ],
+    "specimen_state": "ingot",
+    "process_step": "double-melted",
+    "test_type": "chemical analysis",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "strain_rate": null,
+      "other": "ingot top position"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "chlorine_concentration_at": "0.3-0.6",
+      "chlorine_concentration_ppm": "0.1-0.2",
+      "position": "ingot top"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_016_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "The other positions in the ingot had chlorine concentrations of 14 to 20.5 ppm (at) [5.5 to 8 ppm (wt)]",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cl",
+        "value": 5.5,
+        "unit": "ppm",
+        "raw_unit": "ppm (wt)"
+      }
+    ],
+    "specimen_state": "ingot",
+    "process_step": "double-melted",
+    "test_type": "chemical analysis",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "strain_rate": null,
+      "other": "other positions (not top)"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "chlorine_concentration_at": "14-20.5",
+      "chlorine_concentration_ppm": "5.5-8",
+      "position": "other positions in ingot"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_016_chunk3",
+    "page_or_fig": "Fig. 5",
+    "evidence_span": "Chlorine concentration change by melt number in a quadruple-melted ingot. The initial chlorine concentration of the sponge was approximately 193 ppm (at) [75 ppm (wt)]",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cl",
+        "value": 75,
+        "unit": "ppm",
+        "raw_unit": "ppm (wt)"
+      }
+    ],
+    "specimen_state": "ingot",
+    "process_step": "quadruple-melted",
+    "test_type": "chemical analysis",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "strain_rate": null,
+      "other": "multiple VAR melting"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "chlorine_concentration_change": "decreases with melt number",
+      "initial_chlorine_concentration_at": "193",
+      "initial_chlorine_concentration_ppm": "75",
+      "melting_process": "quadruple VAR"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_016_chunk6",
+    "page_or_fig": "Table 6",
+    "evidence_span": "H: 25 maxa to 5 maxa",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "pressure tube",
+    "process_step": "finished",
+    "test_type": "specification",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "1982 vs 1992",
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_specification_1982_max_ppm": "25",
+      "hydrogen_specification_1992_max_ppm": "5"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_016_chunk7",
+    "page_or_fig": "text",
+    "evidence_span": "measurements of oxidation and deuterium pickup in tubes removed from Pickering Unit 3 revealed no difference at any position along the tubes between tubes made from double-melted (18 tubes) and 100% recycled material (seven tubes)",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "pressure tubes",
+    "process_step": "in-reactor service",
+    "test_type": "oxidation and deuterium pickup",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "reactor operating conditions",
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "no difference between double-melted and 100% recycled material",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "deuterium_pickup": "no difference between double-melted and 100% recycled material",
+      "material_type": "double-melted, 100% recycled material"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_016_chunk7",
+    "page_or_fig": "text",
+    "evidence_span": "within 10% of the mean values, the deformation of the pressure tubes in Pickering Unit 3 were indistinguishable",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "pressure tubes",
+    "process_step": "in-reactor service",
+    "test_type": "deformation measurement",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "reactor operating conditions",
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "deformation": "indistinguishable within 10% of mean values"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_016_chunk7",
+    "page_or_fig": "Fig. 11",
+    "evidence_span": "Graph showing the effect of the amount of recycled material in the zr-2.5Nb ingots in the in-reactor axial elongation rate of pressure tubes after approximately eight years of operation",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "pressure tubes",
+    "process_step": "in-reactor service",
+    "test_type": "axial elongation measurement",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "time": "approximately eight years",
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "axial_elongation_rate": "no changes from double-melted material observed",
+      "material_type": "double-melted, 100% recycled material",
+      "service_time": "approximately eight years"
+    }
+  }
+]

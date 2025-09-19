@@ -1,0 +1,453 @@
+[
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_045_chunk1",
+    "page_or_fig": "文本",
+    "evidence_span": "Pressure tubes that form the primary pressure boundary in CANDU reactors are made of cold worked Zr-2.5Nb autoclaved in steam at 400°C to produce a black adherent oxide film of ~1 to 2 μm in thickness",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 500,
+        "unit": "ppm",
+        "raw_unit": "ppm w/w"
+      },
+      {
+        "element": "trace elements",
+        "value": 50,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "压力管",
+    "process_step": "冷加工、400°C蒸汽中高压釜处理",
+    "test_type": "腐蚀测试",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "environment": "蒸汽",
+      "pressure": null,
+      "pressure_unit": null,
+      "time": null,
+      "time_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "oxide_thickness": "1-2 μm",
+      "oxide_type": "黑色附着氧化膜",
+      "deuterium_uptake_rate": "<1 ppm/年",
+      "environment": "重水冷却剂，250-300°C"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_045_chunk2",
+    "page_or_fig": "Fig. 1",
+    "evidence_span": "Figure 1 shows deuterium concentration profiles in oxides taken from the outlet region of a pressure tube after removal from a CANDU reactor",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "pressure tube material",
+    "process_step": "2800 EFPD exposure to CO₂ annulus gas",
+    "test_type": "SIMS deuterium concentration profiling",
+    "conditions": {
+      "temperature": null,
+      "temperature_unit": null,
+      "environment": "CANDU reactor outlet region, 6 o'clock (hotter) and 12 o'clock positions",
+      "pressure": null,
+      "pressure_unit": null,
+      "time": null,
+      "time_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "deuterium_diffusion_coefficient": "2×10⁻²² m²/s at 300°C",
+      "bulk_alloy_deuterium_concentration": "<10 ppm w/w D",
+      "oxide_thickness": null,
+      "deuterium_transport_mechanism": "diffusion controlled",
+      "oxide_permeation_barrier_effectiveness": "effective"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_045_chunk2",
+    "page_or_fig": "Fig. 2",
+    "evidence_span": "In specimens taken from regions with higher bulk alloy deuterium concentrations, and hence higher deuterium uptake rates, significant variability in deuterium concentration profiles in the oxide were observed",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "pressure tube material",
+    "process_step": "long exposure in reactor",
+    "test_type": "SIMS deuterium concentration profiling",
+    "conditions": {
+      "temperature": null,
+      "temperature_unit": null,
+      "environment": "regions with higher bulk alloy deuterium concentrations",
+      "pressure": null,
+      "pressure_unit": null,
+      "time": null,
+      "time_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "deuterium_concentration_variability": "significant",
+      "oxide_porosity": "increased and interconnected porosity",
+      "deuterium_penetration": "greater at metal/oxide interface",
+      "diffusion_characteristics": "mixed profiles (slow diffusion vs uniform high content)"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_045_chunk2",
+    "page_or_fig": "Fig. 3a",
+    "evidence_span": "Specimens of Zr-2.5Nb prefilmed in steam for 24 h at 400°C (oxide thickness ~1 μm), and exposed to pure deuterium 100 kPa, 300°C, 9 days) in all cases showed deuterium concentration profiles that appeared to be diffusion limited",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "prefilmed coupons",
+    "process_step": "steam oxidation 24h at 400°C + deuterium exposure 9 days",
+    "test_type": "SIMS deuterium concentration profiling",
+    "conditions": {
+      "temperature": 300.0,
+      "temperature_unit": "°C",
+      "environment": "pure deuterium",
+      "pressure": 100.0,
+      "pressure_unit": "kPa",
+      "time": 9.0,
+      "time_unit": "days"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "oxide_thickness": "~1 μm",
+      "deuterium_exposure_conditions": "100 kPa, 300°C, 9 days",
+      "deuterium_transport_mechanism": "diffusion limited",
+      "prefilming_conditions": "steam, 24h at 400°C"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_045_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Specimens exposed out-of-reactor to controlled deuterium gas environment were also taken from coupons of Zr-2.5Nb pressure tube material and high purity (99.99%) crystal bar zirconium following aqueous/steam oxidation in autoclaves at temperatures of 300 to 400°C",
+    "alloy_name": "high purity zirconium",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 99.99,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "crystal bar zirconium",
+    "process_step": "aqueous/steam oxidation in autoclaves",
+    "test_type": "SIMS deuterium concentration profiling",
+    "conditions": {
+      "temperature": "300-400",
+      "temperature_unit": "°C",
+      "environment": "aqueous/steam oxidation + deuterium gas exposure",
+      "pressure": null,
+      "pressure_unit": null,
+      "time": null,
+      "time_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "purity": "99.99%",
+      "oxidation_temperature_range": "300 to 400°C",
+      "oxidation_environment": "aqueous/steam autoclave"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_045_chunk3",
+    "page_or_fig": "Fig. 3b",
+    "evidence_span": "Steam prefilmed specimens that had been exposed to vacuum [1 0^{-10} torr [1.3 × 10^{-8} Pa]) at 450°C for 3 days, showed similar concentration profiles after exposure to deuterium gas",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "steam prefilmed, vacuum annealed",
+    "process_step": "vacuum annealing at 450°C for 3 days",
+    "test_type": "deuterium gas exposure",
+    "conditions": {
+      "temperature": 450.0,
+      "temperature_unit": "°C",
+      "environment": "vacuum + deuterium gas",
+      "pressure": 1.3e-08,
+      "pressure_unit": "Pa",
+      "time": 3.0,
+      "time_unit": "days"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "diffusion_coefficient_factor": "~20 times higher",
+      "oxide_degradation": "degradation during vacuum annealing",
+      "oxide_efficacy": "reduced as hydrogen permeation barrier",
+      "possible_mechanisms": [
+        "decreasing stoichiometry",
+        "reduction in amorphous material at grain boundaries"
+      ]
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_045_chunk3",
+    "page_or_fig": "Fig. 4",
+    "evidence_span": "A specimen of pure zirconium in the steam-prefilmed condition was also exposed to high purity <1 ppm impurities including O₂ deuterium gas at 100 kPa, at 300°C for 7 days",
+    "alloy_name": "Pure zirconium",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 99.999,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "steam prefilmed",
+    "process_step": "steam prefilming",
+    "test_type": "deuterium gas exposure",
+    "conditions": {
+      "temperature": 300.0,
+      "temperature_unit": "°C",
+      "environment": "high purity deuterium gas (<1 ppm impurities)",
+      "pressure": 100.0,
+      "pressure_unit": "kPa",
+      "time": 7.0,
+      "time_unit": "days"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "oxide_thickness": "2-3 times greater than Zr-2.5Nb",
+      "deuterium_concentration": "higher in oxide",
+      "concentration_gradient": "no gradient observed",
+      "oxidation_rate": "higher than Zr-2.5Nb"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_045_chunk3",
+    "page_or_fig": "Fig. 5",
+    "evidence_span": "Figure 5 shows typical deuterium concentration profiles in oxides taken from inside surfaces of removed pressure tubes, and from pressure tube material coupons exposed outreactor in autoclaves",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "pressure tube material",
+    "process_step": "in-reactor service or outreactor autoclave exposure",
+    "test_type": "deuterium concentration profiling",
+    "conditions": {
+      "temperature": null,
+      "temperature_unit": null,
+      "environment": "aqueous environments, thicker oxides",
+      "pressure": null,
+      "pressure_unit": null,
+      "time": null,
+      "time_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "deuterium_profile": "concentration increases from surface to peak then drops before interface",
+      "outer_oxide_porosity": "interconnected porosity or cracks",
+      "inner_oxide_structure": "relatively pore-free near interface",
+      "transport_mechanism": "slow bulk diffusion in inner oxide"
+    }
+  }
+]

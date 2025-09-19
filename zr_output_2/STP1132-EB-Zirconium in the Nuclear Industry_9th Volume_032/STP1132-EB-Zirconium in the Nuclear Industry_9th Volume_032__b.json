@@ -1,0 +1,383 @@
+[
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_032_chunk1",
+    "page_or_fig": "499-535",
+    "evidence_span": "six intermetallics (Zr₂Fe, Zr₃Fe₄Cr₂, Zr₁₀Fe₃Ni₂, Zr₄Sn, ZrCr₂, and 3Zr₂Ni) were prepared for corrosion and electrochemical tests",
+    "alloy_name": "Zr₂Fe, Zr₃Fe₄Cr₂, Zr₁₀Fe₃Ni₂, Zr₄Sn, ZrCr₂, 3Zr₂Ni, Zircaloy-2, Zircaloy-4, crystal-bar zirconium",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 66.7,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 33.3,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "intermetallic compounds",
+    "process_step": "prepared for corrosion and electrochemical tests",
+    "test_type": "corrosion tests, electrochemical tests, SEM/EDX examinations, potential measurements, autoclave tests",
+    "conditions": {
+      "temperature": "ambient and elevated",
+      "medium": "water and steam",
+      "pressure": null,
+      "irradiation": null,
+      "time": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "material_type": "intermetallic compounds",
+      "alloying_elements": "tin, iron, chromium, nickel",
+      "corrosion_resistance_mechanisms": "electrochemical effects, oxide ductility, electronic and ionic conductivities, induced stresses, oxide structure transformation",
+      "testing_locations": "Teledyne Wah Chang Albany and Siemens AG-KWU Group"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_032_chunk1",
+    "page_or_fig": "499-535",
+    "evidence_span": "six intermetallics (Zr₂Fe, Zr₃Fe₄Cr₂, Zr₁₀Fe₃Ni₂, Zr₄Sn, ZrCr₂, and 3Zr₂Ni) were prepared for corrosion and electrochemical tests",
+    "alloy_name": "Zr₂Fe, Zr₃Fe₄Cr₂, Zr₁₀Fe₃Ni₂, Zr₄Sn, ZrCr₂, 3Zr₂Ni, Zircaloy-2, Zircaloy-4, crystal-bar zirconium",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 42.9,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 28.6,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 28.6,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "intermetallic compounds",
+    "process_step": "prepared for corrosion and electrochemical tests",
+    "test_type": "corrosion tests, electrochemical tests, SEM/EDX examinations, potential measurements, autoclave tests",
+    "conditions": {
+      "temperature": "ambient and elevated",
+      "medium": "water and steam",
+      "pressure": null,
+      "irradiation": null,
+      "time": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "material_type": "intermetallic compounds",
+      "alloying_elements": "tin, iron, chromium, nickel",
+      "corrosion_resistance_mechanisms": "electrochemical effects, oxide ductility, electronic and ionic conductivities, induced stresses, oxide structure transformation",
+      "testing_locations": "Teledyne Wah Chang Albany and Siemens AG-KWU Group"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_032_chunk1",
+    "page_or_fig": "499-535",
+    "evidence_span": "six intermetallics (Zr₂Fe, Zr₃Fe₄Cr₂, Zr₁₀Fe₃Ni₂, Zr₄Sn, ZrCr₂, and 3Zr₂Ni) were prepared for corrosion and electrochemical tests",
+    "alloy_name": "Zr₂Fe, Zr₃Fe₄Cr₂, Zr₁₀Fe₃Ni₂, Zr₄Sn, ZrCr₂, 3Zr₂Ni, Zircaloy-2, Zircaloy-4, crystal-bar zirconium",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 66.7,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 20.0,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 13.3,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "intermetallic compounds",
+    "process_step": "prepared for corrosion and electrochemical tests",
+    "test_type": "corrosion tests, electrochemical tests, SEM/EDX examinations, potential measurements, autoclave tests",
+    "conditions": {
+      "temperature": "ambient and elevated",
+      "medium": "water and steam",
+      "pressure": null,
+      "irradiation": null,
+      "time": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "material_type": "intermetallic compounds",
+      "alloying_elements": "tin, iron, chromium, nickel",
+      "corrosion_resistance_mechanisms": "electrochemical effects, oxide ductility, electronic and ionic conductivities, induced stresses, oxide structure transformation",
+      "testing_locations": "Teledyne Wah Chang Albany and Siemens AG-KWU Group"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_032_chunk1",
+    "page_or_fig": "499-535",
+    "evidence_span": "six intermetallics (Zr₂Fe, Zr₃Fe₄Cr₂, Zr₁₀Fe₃Ni₂, Zr₄Sn, ZrCr₂, and 3Zr₂Ni) were prepared for corrosion and electrochemical tests",
+    "alloy_name": "Zr₂Fe, Zr₃Fe₄Cr₂, Zr₁₀Fe₃Ni₂, Zr₄Sn, ZrCr₂, 3Zr₂Ni, Zircaloy-2, Zircaloy-4, crystal-bar zirconium",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 80.0,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Sn",
+        "value": 20.0,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "intermetallic compounds",
+    "process_step": "prepared for corrosion and electrochemical tests",
+    "test_type": "corrosion tests, electrochemical tests, SEM/EDX examinations, potential measurements, autoclave tests",
+    "conditions": {
+      "temperature": "ambient and elevated",
+      "medium": "water and steam",
+      "pressure": null,
+      "irradiation": null,
+      "time": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "material_type": "intermetallic compounds",
+      "alloying_elements": "tin, iron, chromium, nickel",
+      "corrosion_resistance_mechanisms": "electrochemical effects, oxide ductility, electronic and ionic conductivities, induced stresses, oxide structure transformation",
+      "testing_locations": "Teledyne Wah Chang Albany and Siemens AG-KWU Group"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_032_chunk1",
+    "page_or_fig": "499-535",
+    "evidence_span": "six intermetallics (Zr₂Fe, Zr₃Fe₄Cr₂, Zr₁₀Fe₃Ni₂, Zr₄Sn, ZrCr₂, and 3Zr₂Ni) were prepared for corrosion and electrochemical tests",
+    "alloy_name": "Zr₂Fe, Zr₃Fe₄Cr₂, Zr₁₀Fe₃Ni₂, Zr₄Sn, ZrCr₂, 3Zr₂Ni, Zircaloy-2, Zircaloy-4, crystal-bar zirconium",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 66.7,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 33.3,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "intermetallic compounds",
+    "process_step": "prepared for corrosion and electrochemical tests",
+    "test_type": "corrosion tests, electrochemical tests, SEM/EDX examinations, potential measurements, autoclave tests",
+    "conditions": {
+      "temperature": "ambient and elevated",
+      "medium": "water and steam",
+      "pressure": null,
+      "irradiation": null,
+      "time": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "material_type": "intermetallic compounds",
+      "alloying_elements": "tin, iron, chromium, nickel",
+      "corrosion_resistance_mechanisms": "electrochemical effects, oxide ductility, electronic and ionic conductivities, induced stresses, oxide structure transformation",
+      "testing_locations": "Teledyne Wah Chang Albany and Siemens AG-KWU Group"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_032_chunk1",
+    "page_or_fig": "499-535",
+    "evidence_span": "six intermetallics (Zr₂Fe, Zr₃Fe₄Cr₂, Zr₁₀Fe₃Ni₂, Zr₄Sn, ZrCr₂, and 3Zr₂Ni) were prepared for corrosion and electrochemical tests",
+    "alloy_name": "Zr₂Fe, Zr₃Fe₄Cr₂, Zr₁₀Fe₃Ni₂, Zr₄Sn, ZrCr₂, 3Zr₂Ni, Zircaloy-2, Zircaloy-4, crystal-bar zirconium",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 85.7,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 14.3,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "intermetallic compounds",
+    "process_step": "prepared for corrosion and electrochemical tests",
+    "test_type": "corrosion tests, electrochemical tests, SEM/EDX examinations, potential measurements, autoclave tests",
+    "conditions": {
+      "temperature": "ambient and elevated",
+      "medium": "water and steam",
+      "pressure": null,
+      "irradiation": null,
+      "time": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "material_type": "intermetallic compounds",
+      "alloying_elements": "tin, iron, chromium, nickel",
+      "corrosion_resistance_mechanisms": "electrochemical effects, oxide ductility, electronic and ionic conductivities, induced stresses, oxide structure transformation",
+      "testing_locations": "Teledyne Wah Chang Albany and Siemens AG-KWU Group"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_032_chunk2",
+    "page_or_fig": null,
+    "evidence_span": "After more than 30 years of investigations to understand the corrosion behavior of zirconium alloys",
+    "alloy_name": "zirconium alloys",
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": null,
+      "medium": "water cooled nuclear reactor environments",
+      "pressure": null,
+      "irradiation": null,
+      "time": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": "empirically fitted correlations of weight gain (oxide thickness)",
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "corrosion_factors": "[\"local temperature\", \"heat flux\", \"processing history\", \"irradiation effects\", \"water chemistry\"]"
+    }
+  }
+]

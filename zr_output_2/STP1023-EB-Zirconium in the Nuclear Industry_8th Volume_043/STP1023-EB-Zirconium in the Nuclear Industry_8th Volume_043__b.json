@@ -1,0 +1,478 @@
+[
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_043_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "TABLE 1-Ingot chemistry.",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": [
+          1.43,
+          1.52
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": [
+          0.2,
+          0.21
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": [
+          0.1,
+          0.11
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe + Cr",
+        "value": [
+          0.3,
+          0.32
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": 0.13,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "C",
+        "value": [
+          0.008,
+          0.015
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": null,
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "cold-worked stress-relieved cladding tube",
+    "process_step": "cold-worked and stress-relieved",
+    "test_type": "creep test",
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "other": "biaxial stress conditions (σ_a/σ_t = 1/2)"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": "ϵ = ϵ_p^s {1 - exp[-52(ϵ_s t)^0.5]} + ϵ_s t; ϵ_p^s = 2.16×10^-2(ϵ_s)^0.109",
+    "hardening_data": null,
+    "extra_properties": {
+      "dimensions": "10.72 mm OD × 9.48 mm ID × 0.62 mm thickness",
+      "hydride_orientation_fn": "≥0.20",
+      "hydrogen_content": "14 ppm",
+      "nitrogen_content": "48-56 ppm",
+      "oxygen_content": "1280-1350 ppm"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_043_chunk1",
+    "page_or_fig": "Table 2",
+    "evidence_span": "TABLE 2—Properties of the tested material.",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": [
+          1.43,
+          1.52
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": [
+          0.2,
+          0.21
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": [
+          0.1,
+          0.11
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe + Cr",
+        "value": [
+          0.3,
+          0.32
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": 0.13,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "C",
+        "value": [
+          0.008,
+          0.015
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": null,
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "cold-worked stress-relieved cladding tube",
+    "process_step": "cold-worked and stress-relieved",
+    "test_type": "tensile test",
+    "conditions": {
+      "temperature": 658.0,
+      "unit": "K",
+      "stress": null,
+      "environment": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "UTS": "453-456 MPa",
+      "yield_strength_0.2%": "397-395 MPa",
+      "elongation": "22.2-21.3%",
+      "hydride_orientation_fn": "≥0.20",
+      "hydrogen_content": "14 ppm",
+      "nitrogen_content": "48-56 ppm",
+      "oxygen_content": "1280-1350 ppm"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_043_chunk2",
+    "page_or_fig": "Table 3",
+    "evidence_span": "TABLE 3-Nominal conditions of tests for stress temperature change",
+    "alloy_name": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "stress temperature change",
+    "conditions": {
+      "temperature": [
+        603.0,
+        693.0
+      ],
+      "unit": "MPa",
+      "stress": [
+        78.0,
+        275.0
+      ],
+      "environment": null,
+      "other": "Hoop stress"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": "η̇⋆ = f(q,σ) sgn[σ], q̇ = |η̇ϵ̇|",
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": "ϵ̇ = f(q,σ) sgn[σ], q̇ = (1/2λ) ρ + sgn[σ(ϵ-α)] (1/2λ)|ϵ-α|, ρ̇ = λ|ϵ̇| if g=0 and (∂g/∂ϵ)ϵ̇>0, α̇ = (1-λ)ϵ̇ if g=0 and (∂g/∂ϵ)ϵ̇>0, g = (ϵ-α)²-ρ²",
+    "hardening_data": null,
+    "extra_properties": {
+      "creep_hardening_parameter": "q",
+      "recoverable_hardening_range_half_width": "ρ",
+      "recoverable_hardening_center": "α",
+      "material_constant": "λ"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_043_chunk2",
+    "page_or_fig": "Fig 2",
+    "evidence_span": "FIG. 2—Nominal conditions of stress reversal tests",
+    "alloy_name": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "stress reversal",
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "test_type": "stress reversal"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_043_chunk2",
+    "page_or_fig": "Fig 3",
+    "evidence_span": "FIG. 3—Creep deformation associated with stress change from lower to higher",
+    "alloy_name": "Zircaloy",
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "creep deformation",
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "other": "stress change from lower to higher"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "creep_behavior": "strain hardening rule predicts fairly well"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_043_chunk2",
+    "page_or_fig": "Fig 4",
+    "evidence_span": "FIG. 4—Creep deformation associated with stress change from higher to lower",
+    "alloy_name": "Zircaloy",
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "creep deformation",
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "other": "stress change from higher to lower"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "strain_recovery": "observed just after load drop",
+      "applicability": "strain hardening rule applicable with strain recovery consideration"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_043_chunk2",
+    "page_or_fig": "Fig 5",
+    "evidence_span": "FIG. 5—Creep deformation associated with temperature change from lower to higher",
+    "alloy_name": "Zircaloy",
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "creep deformation",
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "other": "temperature change from lower to higher"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "strain_recovery": "no clear strain recovery observed",
+      "applicability": "strain hardening rule applicable"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_043_chunk2",
+    "page_or_fig": "Fig 6",
+    "evidence_span": "FIG. 6—Creep deformation associated with temperature change from higher to lower",
+    "alloy_name": "Zircaloy",
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "creep deformation",
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "other": "temperature change from higher to lower"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "strain_recovery": "no clear strain recovery observed",
+      "applicability": "strain hardening rule applicable"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_043_chunk2",
+    "page_or_fig": "Fig 7",
+    "evidence_span": "FIG. 7—Result of stress reversal test (1) and prediction by conventional strain-hardening rule",
+    "alloy_name": "Zircaloy",
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "stress reversal",
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "behavior_after_reversal": "deforms as if not hardened at all",
+      "applicability": "strain-hardening rule not applicable for stress reversal",
+      "constitutive_model": "ORNL model with two creep strain origins",
+      "model_modification": "Murakami model with creep hardening surface concept"
+    }
+  }
+]

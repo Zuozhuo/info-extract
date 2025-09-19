@@ -1,0 +1,47 @@
+[
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "pp. 318",
+    "evidence_span": "Development of Zirconium-Barrier Fuel Cladding",
+    "alloy_name": "Zircaloy",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "cladding",
+    "process_step": "barrier fuel fabrication",
+    "test_type": "power ramps, load following, power cycling",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "BWR service conditions",
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "stress": null,
+      "pH": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "failure_mechanism": "stress-corrosion cracking",
+      "application": "PCI-resistant fuel",
+      "exposure": "43 MWd/kgU bundle average",
+      "performance": "successful commercial deployment"
+    }
+  }
+]

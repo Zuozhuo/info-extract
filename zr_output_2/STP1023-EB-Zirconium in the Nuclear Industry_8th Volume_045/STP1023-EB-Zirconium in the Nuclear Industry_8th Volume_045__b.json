@@ -1,0 +1,536 @@
+[
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_045_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Material Designation AR: Bruce pressure tube, extruded at 11:1, cold-worked 25% and autoclaved for 24 h at 670 K",
+    "alloy_name": "Zr-2.5% Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "cold-worked",
+    "process_step": "extruded at 11:1, cold-worked 25%, autoclaved 24 h at 670 K",
+    "test_type": "irradiation growth",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "irradiation",
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "irradiation_temperature": null,
+      "irradiation_type": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_FR": "0.36",
+      "texture_FT": "0.61",
+      "texture_FL": "0.03",
+      "dislocation_density": "4.2e14",
+      "dislocation_density_raw_unit": "m^-2",
+      "grain_thickness": "0.32",
+      "grain_thickness_raw_unit": "μm"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_045_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Material Designation SR: material AR, stress-relieved 6 h at 890 K",
+    "alloy_name": "Zr-2.5% Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "stress-relieved",
+    "process_step": "stress-relieved 6 h at 890 K",
+    "test_type": "irradiation growth",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "irradiation",
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "irradiation_temperature": null,
+      "irradiation_type": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_FR": "0.36",
+      "texture_FT": "0.61",
+      "texture_FL": "0.03",
+      "dislocation_density": "1.8e14",
+      "dislocation_density_raw_unit": "m^-2",
+      "grain_thickness": "0.32",
+      "grain_thickness_raw_unit": "μm"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_045_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Material Designation CW: material AR, annealed 1 h at 1070 K, held 24 h at 920 K, cold-rolled 25% and stress-relieved 24 h at 670 K",
+    "alloy_name": "Zr-2.5% Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "cold-rolled and stress-relieved",
+    "process_step": "annealed 1 h at 1070 K, held 24 h at 920 K, cold-rolled 25%, stress-relieved 24 h at 670 K",
+    "test_type": "irradiation growth",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "irradiation",
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "irradiation_temperature": null,
+      "irradiation_type": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_FR": "0.28",
+      "texture_FT": "0.64",
+      "texture_FL": "0.08",
+      "dislocation_density": "4.7e14",
+      "dislocation_density_raw_unit": "m^-2",
+      "grain_thickness": "1.5",
+      "grain_thickness_raw_unit": "μm"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_045_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Material Designation R1: modified pressure tube, extruded at 8:1, cold-worked 40%, stress-relieved 6 h at 770 K and autoclaved 24 h at 670 K",
+    "alloy_name": "Zr-2.5% Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "cold-worked and stress-relieved",
+    "process_step": "extruded at 8:1, cold-worked 40%, stress-relieved 6 h at 770 K, autoclaved 24 h at 670 K",
+    "test_type": "irradiation growth",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "irradiation",
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "irradiation_temperature": null,
+      "irradiation_type": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_FR": "0.4",
+      "texture_FT": "0.56",
+      "texture_FL": "0.03",
+      "dislocation_density": "2.4e14",
+      "dislocation_density_raw_unit": "m^-2",
+      "grain_thickness": "0.25",
+      "grain_thickness_raw_unit": "μm"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_045_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Material Designation R2: modified pressure tube, extruded at 8:1 cold-worked 20%, annealed 0.5 h at 923 K, cold-worked 20%, and autoclaved 24 h at 670 K",
+    "alloy_name": "Zr-2.5% Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "cold-worked and annealed",
+    "process_step": "extruded at 8:1, cold-worked 20%, annealed 0.5 h at 923 K, cold-worked 20%, autoclaved 24 h at 670 K",
+    "test_type": "irradiation growth",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "irradiation",
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "irradiation_temperature": null,
+      "irradiation_type": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_FR": "0.37",
+      "texture_FT": "0.59",
+      "texture_FL": "0.03",
+      "dislocation_density": "4.8e14",
+      "dislocation_density_raw_unit": "m^-2",
+      "grain_thickness": "0.34",
+      "grain_thickness_raw_unit": "μm"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_045_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Material Designation R3: modified pressure tube, extruded at 8:1, annealed 0.5 h at 973 K, cold-worked 40%, stress-relieved 6 h at 750 K and autoclaved 24 h at 670 K",
+    "alloy_name": "Zr-2.5% Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "cold-worked and stress-relieved",
+    "process_step": "extruded at 8:1, annealed 0.5 h at 973 K, cold-worked 40%, stress-relieved 6 h at 750 K, autoclaved 24 h at 670 K",
+    "test_type": "irradiation growth",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "irradiation",
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "irradiation_temperature": null,
+      "irradiation_type": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_FR": "0.36",
+      "texture_FT": "0.61",
+      "texture_FL": "0.03",
+      "dislocation_density": "2.7e14",
+      "dislocation_density_raw_unit": "m^-2",
+      "grain_thickness": "0.37",
+      "grain_thickness_raw_unit": "μm"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_045_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Material Designation D1: Darlington pressure tube extruded at 11:1, cold-worked 25% and autoclaved 24 h at 670 K",
+    "alloy_name": "Zr-2.5% Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "cold-worked",
+    "process_step": "extruded at 11:1, cold-worked 25%, autoclaved 24 h at 670 K",
+    "test_type": "irradiation growth",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "irradiation",
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "irradiation_temperature": null,
+      "irradiation_type": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_FR": "0.35",
+      "texture_FT": "0.62",
+      "texture_FL": "0.04",
+      "dislocation_density": "4.5e14",
+      "dislocation_density_raw_unit": "m^-2",
+      "grain_thickness": "0.31",
+      "grain_thickness_raw_unit": "μm"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_045_chunk6",
+    "page_or_fig": "text",
+    "evidence_span": "Specimens of cold-worked Zr-2.5% Nb pressure tube material fabricated by several different routes have been irradiated, unstressed, in the Dido reactor at AERE Harwell to fluences up to 7.5×10²⁵ n/m² E > 1 MeV (about 18 dpa)",
+    "alloy_name": "Zr-2.5%Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "specimen_state": "cold-worked pressure tube material",
+    "process_step": "irradiated, unstressed",
+    "test_type": "irradiation growth",
+    "conditions": {
+      "temperature": {
+        "value": 553,
+        "unit": "K",
+        "raw_unit": "K"
+      },
+      "pressure": null,
+      "environment": "Dido reactor, AERE Harwell",
+      "fluence": {
+        "value": 7.5e+25,
+        "unit": "n/m²",
+        "raw_unit": "n/m² E > 1 MeV"
+      },
+      "dpa": {
+        "value": 18,
+        "unit": "dpa",
+        "raw_unit": "dpa"
+      },
+      "strain_rate": null,
+      "stress": null,
+      "time": null,
+      "other": "temperatures 553-623 K"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_dimension": "small along the ⟨p⟩ direction",
+      "growth_strain_anisotropy": "L direction decreases with temperature, T direction reverse effect",
+      "transient_strains": "negative growth strains in L direction with temperature increases",
+      "point_defect_partitioning": "net vacancy flux to ⟨a⟩ dislocations/loops, net SIA flux to p-boundaries",
+      "irradiation_temperature_range": "553-623 K",
+      "fluence": "7.5×10²⁵ n/m² E > 1 MeV",
+      "dpa": "~18",
+      "microstructural_features": "p-boundaries as strong net interstitial sinks, ⟨a⟩ loops as net vacancy sinks"
+    }
+  },
+  {
+    "source_id": "STP1023-EB-Zirconium in the Nuclear Industry_8th Volume_045_chunk7",
+    "page_or_fig": "Discussion Section",
+    "evidence_span": "Differences between out-of-flux oxide thickness near the inlet and outlet ends of the tubes were small (compared to differences between in-flux and out-of-flux values) but significant. Oxide growth rates at the out-of-flux positions are shown in Fig. 4 in comparison to the Hillner correlation for out-reactor oxidation.",
+    "alloy_name": null,
+    "composition": null,
+    "specimen_state": "pressure tubes",
+    "process_step": "corrosion testing",
+    "test_type": "corrosion analysis",
+    "conditions": {
+      "temperature": {
+        "value": 236.5,
+        "unit": "°C",
+        "raw_unit": "°C"
+      },
+      "pressure": null,
+      "environment": "in-flux and out-of-flux conditions",
+      "fluence": null,
+      "dpa": null,
+      "strain_rate": null,
+      "stress": null,
+      "time": null,
+      "other": "200-280°C"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": "Hillner correlation",
+    "corrosion_data": "oxide growth rates at out-of-flux positions",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "oxide_thickness": "small differences between inlet/outlet, significant in-flux vs out-of-flux differences",
+      "hydrogen_content": "skewed profiles observed",
+      "crud_layer": "porous, iron rich, 10-20 μm thickness",
+      "heat_transfer": "10-15 W/cm°C"
+    }
+  }
+]

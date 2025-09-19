@@ -1,0 +1,951 @@
+[
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_042_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "small specimens (60 by 10 by 1 mm) are attached to holders inside hollow fuel elements and irradiated within a Materials Test Bundle (MOB) capable of delivering a fast-neutron flux (E > 1 MeV) of about 5 × 10¹⁷ n/m²·s",
+    "alloy_name": "Zircaloy-2",
+    "composition": {},
+    "raw_unit": null,
+    "specimen_state": "pickled",
+    "process_step": "hot extrusion at 1090 K, cold drawing 20-30%, stress relieving at 673 K for 24 h",
+    "test_type": "irradiation corrosion",
+    "conditions": {
+      "temperature": "568 K",
+      "fast_neutron_flux": "5×10¹⁷ n/m²·s",
+      "water_chemistry": "controlled",
+      "pressure": null,
+      "stress": null,
+      "strain_rate": null,
+      "environment": null,
+      "cooling_rate": null,
+      "heating_rate": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "microstructure": "slightly elongated grains of single phase α-Zr containing a distribution of second-phase intermetallic particles",
+      "specimen_dimensions": "60×10×1 mm",
+      "irradiation_duration": "60-120 days"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_042_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "small specimens (60 by 10 by 1 mm) are attached to holders inside hollow fuel elements and irradiated within a Materials Test Bundle (MOB) capable of delivering a fast-neutron flux (E > 1 MeV) of about 5 × 10¹⁷ n/m²·s",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": 97.5,
+      "Nb": 2.5
+    },
+    "raw_unit": "wt%",
+    "specimen_state": "pickled",
+    "process_step": "hot extrusion at 1090 K, cold drawing 20-30%, stress relieving at 673 K for 24 h",
+    "test_type": "irradiation corrosion",
+    "conditions": {
+      "temperature": "568 K",
+      "fast_neutron_flux": "5×10¹⁷ n/m²·s",
+      "water_chemistry": "controlled",
+      "pressure": null,
+      "stress": null,
+      "strain_rate": null,
+      "environment": null,
+      "cooling_rate": null,
+      "heating_rate": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "microstructure": "two-phase, consisting of elongated α-Zr grains surrounded by a β-Zr network",
+      "specimen_dimensions": "60×10×1 mm",
+      "irradiation_duration": "60-120 days"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_042_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Specimens include Zircaloy-2 and Zr-2.5Nb pressure tube samples in both the pickled and prefilmed conditions",
+    "alloy_name": "Zircaloy-2",
+    "composition": {},
+    "raw_unit": null,
+    "specimen_state": "prefilmed",
+    "process_step": "hot extrusion at 1090 K, cold drawing 20-30%, stress relieving at 673 K for 24 h, prefilming in 673 K steam for 1-440 days",
+    "test_type": "irradiation corrosion",
+    "conditions": {
+      "temperature": "568 K",
+      "fast_neutron_flux": "5×10¹⁷ n/m²·s",
+      "water_chemistry": "controlled",
+      "pressure": null,
+      "stress": null,
+      "strain_rate": null,
+      "environment": null,
+      "cooling_rate": null,
+      "heating_rate": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "microstructure": "slightly elongated grains of single phase α-Zr containing a distribution of second-phase intermetallic particles",
+      "specimen_dimensions": "60×10×1 mm",
+      "irradiation_duration": "60-120 days",
+      "prefilming_treatment": "673 K steam for 1-440 days"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_042_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Specimens include Zircaloy-2 and Zr-2.5Nb pressure tube samples in both the pickled and prefilmed conditions",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": 97.5,
+      "Nb": 2.5
+    },
+    "raw_unit": "wt%",
+    "specimen_state": "prefilmed",
+    "process_step": "hot extrusion at 1090 K, cold drawing 20-30%, stress relieving at 673 K for 24 h, prefilming in 673 K steam for 1-440 days",
+    "test_type": "irradiation corrosion",
+    "conditions": {
+      "temperature": "568 K",
+      "fast_neutron_flux": "5×10¹⁷ n/m²·s",
+      "water_chemistry": "controlled",
+      "pressure": null,
+      "stress": null,
+      "strain_rate": null,
+      "environment": null,
+      "cooling_rate": null,
+      "heating_rate": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "microstructure": "two-phase, consisting of elongated α-Zr grains surrounded by a β-Zr network",
+      "specimen_dimensions": "60×10×1 mm",
+      "irradiation_duration": "60-120 days",
+      "prefilming_treatment": "673 K steam for 1-440 days"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_042_chunk2",
+    "page_or_fig": "Fig. 1",
+    "evidence_span": "Figure 1 shows the weight gain as a function of time for bare Zircaloy-2 specimens irradiated in the U2 loop",
+    "alloy_name": "Zircaloy-2",
+    "composition": {},
+    "raw_unit": null,
+    "specimen_state": "bare",
+    "process_step": "irradiated",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": "568 K",
+      "water_chemistry": "low-oxygen and high-oxygen conditions",
+      "loop": "U2",
+      "fast_neutron_flux": "2e17 n/m²·s",
+      "pressure": null,
+      "stress": null,
+      "strain_rate": null,
+      "environment": null,
+      "cooling_rate": null,
+      "heating_rate": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "weight gain measurements",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "coolant_temperature": "568 K",
+      "coolant_flow_rate": "0.2 kg/s",
+      "fast_neutron_flux": "2e17 n/m²·s",
+      "pH_range": "10.0-10.5",
+      "dissolved_hydrogen_low": "45-90 μg/kg",
+      "dissolved_oxygen_low": "1-15 μg/kg",
+      "dissolved_oxygen_high": "1000-2000 μg/kg",
+      "exposure_duration": "126 days",
+      "corrosion_sensitivity": "sensitive to dissolved oxygen under irradiation",
+      "oxide_characterization": "stereo microscopy, SEM, micro-electrode capacitance techniques"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_042_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Specimens include Zircaloy-2 and Zr-2.5Nb in both the pickled and prefilmed conditions",
+    "alloy_name": "Zircaloy-2",
+    "composition": {},
+    "raw_unit": null,
+    "specimen_state": "pickled",
+    "process_step": "irradiated",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": "528-568 K",
+      "water_chemistry": "CANDU water chemistry",
+      "loop": "U5",
+      "fast_neutron_flux": "2e17 n/m²·s",
+      "pressure": null,
+      "stress": null,
+      "strain_rate": null,
+      "environment": null,
+      "cooling_rate": null,
+      "heating_rate": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "weight gain measurements",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "irradiation_temperatures": [
+        "528 K",
+        "553 K",
+        "568 K"
+      ],
+      "exposure_durations": [
+        "200 days",
+        "400 days",
+        "800 days"
+      ],
+      "water_chemistry": "CANDU typical",
+      "pH_range": "10.0-10.5",
+      "coolant_flow_rate": "0.2 kg/s",
+      "fast_neutron_flux": "2e17 n/m²·s"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_042_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Specimens include Zircaloy-2 and Zr-2.5Nb in both the pickled and prefilmed conditions",
+    "alloy_name": "Zircaloy-2",
+    "composition": {},
+    "raw_unit": null,
+    "specimen_state": "prefilmed",
+    "process_step": "irradiated",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": "528-568 K",
+      "water_chemistry": "CANDU water chemistry",
+      "loop": "U5",
+      "fast_neutron_flux": "2e17 n/m²·s",
+      "pressure": null,
+      "stress": null,
+      "strain_rate": null,
+      "environment": null,
+      "cooling_rate": null,
+      "heating_rate": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "weight gain measurements",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "irradiation_temperatures": [
+        "528 K",
+        "553 K",
+        "568 K"
+      ],
+      "exposure_durations": [
+        "200 days",
+        "400 days",
+        "800 days"
+      ],
+      "water_chemistry": "CANDU typical",
+      "pH_range": "10.0-10.5",
+      "coolant_flow_rate": "0.2 kg/s",
+      "fast_neutron_flux": "2e17 n/m²·s"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_042_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Specimens include Zircaloy-2 and Zr-2.5Nb in both the pickled and prefilmed conditions",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": 97.5,
+      "Nb": 2.5
+    },
+    "raw_unit": "wt%",
+    "specimen_state": "pickled",
+    "process_step": "irradiated",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": "528-568 K",
+      "water_chemistry": "CANDU water chemistry",
+      "loop": "U5",
+      "fast_neutron_flux": "2e17 n/m²·s",
+      "pressure": null,
+      "stress": null,
+      "strain_rate": null,
+      "environment": null,
+      "cooling_rate": null,
+      "heating_rate": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "weight gain measurements",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "irradiation_temperatures": [
+        "528 K",
+        "553 K",
+        "568 K"
+      ],
+      "exposure_durations": [
+        "200 days",
+        "400 days",
+        "800 days"
+      ],
+      "water_chemistry": "CANDU typical",
+      "pH_range": "10.0-10.5",
+      "coolant_flow_rate": "0.2 kg/s",
+      "fast_neutron_flux": "2e17 n/m²·s"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_042_chunk4",
+    "page_or_fig": "Fig. 6",
+    "evidence_span": "Figure 6 shows the results obtained for Zircaloy-2 pressure tube material. The number in parentheses beside each data point for prefilmed specimens denotes the prefilm oxide thickness in micrometres.",
+    "alloy_name": "Zircaloy-2",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Sn": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Fe": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Cr": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Ni": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    },
+    "specimen_state": "prefilmed pressure tube",
+    "process_step": "673 K steam preoxidation + irradiation",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "oxygenated water, various prefilm thicknesses",
+      "duration": null,
+      "irradiation": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "oxidation_rate": "decreasing with increasing prefilm thickness",
+      "comparison": "lower than bare specimens"
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "prefilming_treatment": "673 K steam",
+      "test_duration": "60-120 days",
+      "conditioning_period": "60 days"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_042_chunk4",
+    "page_or_fig": "Fig. 7",
+    "evidence_span": "Figure 7 shows the results obtained for Zr-2.5Nb pressure tube material. Again. the numbers in parentheses have the same meaning as that described for Fig. 6.",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    },
+    "specimen_state": "prefilmed pressure tube",
+    "process_step": "673 K steam preoxidation + irradiation",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "oxygenated water, various prefilm thicknesses",
+      "duration": null,
+      "irradiation": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "oxidation_rate": "decreasing with increasing prefilm thickness",
+      "comparison": "similar to in-reactor behavior"
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "prefilming_treatment": "673 K steam",
+      "test_duration": "60-120 days",
+      "conditioning_period": "60 days",
+      "microstructural_changes": "beta-zirconium decomposition to omega phase and enriched beta-zirconium"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_042_chunk4",
+    "page_or_fig": "Text",
+    "evidence_span": "bare, cold-worked Zr-2.5Nb in the ATR test",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    },
+    "specimen_state": "bare, cold-worked",
+    "process_step": "irradiation",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "ATR test, oxygenated water",
+      "duration": null,
+      "irradiation": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "oxidation_rate": "higher than prefilmed specimens"
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "test_reactor": "Advanced Test Reactor (ATR)",
+      "flux_condition": "higher fast-neutron flux"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_042_chunk4",
+    "page_or_fig": "Text",
+    "evidence_span": "heat-treated (quenched, cold-worked, and aged) Zr-2.5Nb specimens",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    },
+    "specimen_state": "heat-treated (quenched, cold-worked, and aged)",
+    "process_step": "673 K steam preoxidation + irradiation",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "ATR test, oxygenated water",
+      "duration": null,
+      "irradiation": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "beneficial_effects": "steam prefilming reduces oxidation"
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "heat_treatment": "quenched, cold-worked, and aged",
+      "test_reactor": "Advanced Test Reactor (ATR)"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_042_chunk5",
+    "page_or_fig": "Fig. 8",
+    "evidence_span": "The effect of prefilming in steam on the appearance of oxides following 157-days' irradiation in high-oxygen water is shown in Fig. 8",
+    "alloy_name": "Zircaloy-2",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Sn": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Fe": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Cr": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Ni": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    },
+    "specimen_state": "prefilmed in steam",
+    "process_step": "preoxidation",
+    "test_type": "irradiation",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "157-days' irradiation in high-oxygen water, prefilmed in 673 K steam",
+      "duration": "157 days",
+      "irradiation": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "weight_gains": "lower",
+      "oxide_formation": "suppressed formation of white oxide"
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "prefilming_thickness": "about 1 μm",
+      "oxide_appearance": "darker appearance, mottled grey appearance"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_042_chunk5",
+    "page_or_fig": "Fig. 8",
+    "evidence_span": "The effect of prefilming in steam on the appearance of oxides following 157-days' irradiation in high-oxygen water is shown in Fig. 8",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Nb": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    },
+    "specimen_state": "prefilmed in steam",
+    "process_step": "preoxidation",
+    "test_type": "irradiation",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "157-days' irradiation in high-oxygen water, prefilmed in 673 K steam",
+      "duration": "157 days",
+      "irradiation": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "oxide_formation": "inhibits formation of white oxide pustules",
+      "oxidation_rate": "decreases with increasing prefilming thickness"
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "oxide_appearance": "high density of small white oxide pustules"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_042_chunk5",
+    "page_or_fig": "Fig. 9",
+    "evidence_span": "Figure 9 shows the average oxidation rates as a function of temperature for bare Zircaloy-2 and Zr-2.5Nb specimens after 200-days' exposure",
+    "alloy_name": "Zircaloy-2",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Sn": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Fe": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Cr": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Ni": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    },
+    "specimen_state": "bare",
+    "process_step": null,
+    "test_type": "irradiation",
+    "conditions": {
+      "temperature": "528-568 K",
+      "pressure": null,
+      "environment": "dissolved hydrogen 3-10 cm³/L, dissolved oxygen <1 μg/kg",
+      "duration": "200 days",
+      "irradiation": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": "S = 1.8 exp(-6069/RT)",
+    "corrosion_data": "oxidation rate increases by about a factor of two over 40 K temperature increase",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "irradiation_enhancement": "50-60%",
+      "oxide_thickness": "about 2 μm or less"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_042_chunk5",
+    "page_or_fig": "Fig. 9",
+    "evidence_span": "Figure 9 shows the average oxidation rates as a function of temperature for bare Zircaloy-2 and Zr-2.5Nb specimens after 200-days' exposure",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Nb": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    },
+    "specimen_state": "bare",
+    "process_step": null,
+    "test_type": "irradiation",
+    "conditions": {
+      "temperature": "528-568 K",
+      "pressure": null,
+      "environment": "dissolved hydrogen 3-10 cm³/L, dissolved oxygen <1 μg/kg",
+      "duration": "200 days",
+      "irradiation": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": "S = 64.5 exp(-9907/RT)",
+    "corrosion_data": "oxidation rate increases by about a factor of two over 40 K temperature increase",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "suppression_in_corrosion": "similar to results from U2 loop",
+      "oxide_thickness": "about 2 μm or less"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_042_chunk6",
+    "page_or_fig": "text",
+    "evidence_span": "Corrosion of Zircaloy-2 is increased under irradiation",
+    "alloy_name": "Zircaloy-2",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Sn": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Fe": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Cr": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      "Ni": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "duration": null,
+      "irradiation": "yes",
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "increased",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {}
+  }
+]

@@ -1,0 +1,683 @@
+[
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_008_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Samples of $\\mathbf { Z } \\mathbf { r } – 2 . 5 \\mathbf { N } \\mathbf { b }$ and Zircaloy2 were prefilmed in steam $\\mathbf { ( H _ { 2 } O }$ , $4 0 0 ^ { \\circ } \\mathbf { C }$ at ${\\sim } 2 \\ \\mathbf { M P a } $ and subsequently exposed to ${ \\bf D } _ { 2 } { \\bf O }$ $1 0 ^ { - 3 }$ Pa to ${\\sim } 1 8 \\ \\mathbf { M P a } ,$ and $\\mathbf { D } _ { 2 }$ ${ \\bf ( \\sim } 1 0 ^ { - 3 } \\ P a )$ at a temperature range of 250 to $3 8 0 ^ { \\circ } \\mathrm { C }$",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "prefilmed in steam",
+    "process_step": "prefilming, exposure",
+    "test_type": "hydrogen uptake study",
+    "conditions": {
+      "temperature": "250-380°C",
+      "pressure": "10⁻³-18 MPa",
+      "environment": "D₂O and D₂ gas",
+      "duration": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_uptake_mechanism": "transport of atomic/ionic species across oxide film",
+      "oxide_film_characteristics": "intergranular porosity",
+      "analysis_technique": "SIMS, TEM"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_008_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Samples of $\\mathbf { Z } \\mathbf { r } – 2 . 5 \\mathbf { N } \\mathbf { b }$ and Zircaloy2 were prefilmed in steam $\\mathbf { ( H _ { 2 } O }$ , $4 0 0 ^ { \\circ } \\mathbf { C }$ at ${\\sim } 2 \\ \\mathbf { M P a } $ and subsequently exposed to ${ \\bf D } _ { 2 } { \\bf O }$ $1 0 ^ { - 3 }$ Pa to ${\\sim } 1 8 \\ \\mathbf { M P a } ,$ and $\\mathbf { D } _ { 2 }$ ${ \\bf ( \\sim } 1 0 ^ { - 3 } \\ P a )$ at a temperature range of 250 to $3 8 0 ^ { \\circ } \\mathrm { C }$",
+    "alloy_name": "Zircaloy2",
+    "composition": [],
+    "specimen_state": "prefilmed in steam",
+    "process_step": "prefilming, exposure",
+    "test_type": "hydrogen uptake study",
+    "conditions": {
+      "temperature": "250-380°C",
+      "pressure": "10⁻³-18 MPa",
+      "environment": "D₂O and D₂ gas",
+      "duration": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_uptake_mechanism": "transport of atomic/ionic species across oxide film",
+      "oxide_film_characteristics": "intergranular porosity",
+      "analysis_technique": "SIMS, TEM",
+      "short_circuit_routes": "intermetallics present"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_008_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Samples from $\\mathbf { Z } \\mathbf { r } { - } 2 . 5 \\mathbf { N } \\mathbf { b }$ pressure tubes removed from CANDU power reactors were also examined",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "pressure tube",
+    "process_step": "in-reactor service",
+    "test_type": "hydrogen uptake study",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "CANDU reactor",
+      "duration": "~10 years"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "service_history": "~10 years in CANDU reactor",
+      "analysis_technique": "SIMS",
+      "oxide_characteristics": "intergranular porosity observed"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_008_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Specimens were cut (typically ${ \\sim } 1 0$ by 10 by $1 \\ \\mathrm { m m } )$ from cold-worked $\\mathbf { Z } \\mathbf { r } { - } 2 . 5 \\mathbf { N } \\mathbf { b }$ and Zircaloy-2 CANDU pressure tubes and offcuts. The samples were machined and oxides were grown by steam autoclaving in light water $\\mathbf { ( H _ { 2 } O ) }$ at ${ \\sim } 2 \\ \\mathbf { M P a }$ and $4 0 0 ^ { \\circ } \\mathrm { C }$ for $^ { 2 4 \\mathbf { h } }$ to reproduce the as-received pressure tubes condition.",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "cold-worked",
+    "process_step": "machined, steam autoclaving",
+    "test_type": "SIMS depth profiling",
+    "conditions": {
+      "temperature": "400°C",
+      "pressure": "2 MPa",
+      "environment": "steam",
+      "duration": "24h"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_concentration": "700-1000 μL/L",
+      "oxygen_concentration": "<25 ppb",
+      "specimen_dimensions": "~10×10×1 mm"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_008_chunk2",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Experiment Number 1: D2 (gas) (filament on), Partial Pressure: 1.33 Pa, Temperature: 330°C, Exposure Duration: 60 min, Near Surface Concentration: 32 ppm",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "oxide coated",
+    "process_step": "steam autoclaving",
+    "test_type": "gas exposure, SIMS depth profiling",
+    "conditions": {
+      "temperature": "330°C",
+      "pressure": "1.33 Pa",
+      "environment": "D2 gas",
+      "duration": "60 min"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "deuterium_near_surface_concentration": "32 ppm",
+      "exposure_environment": "D2 gas",
+      "dissociation_method": "hot tungsten filament"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_008_chunk2",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Experiment Number 4: D_ (gas), Partial Pressure: 1064 Pa, Temperature: 350°C, Exposure Duration: 60 min, Near Surface Concentration: 19 ppm",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "oxide coated",
+    "process_step": "steam autoclaving",
+    "test_type": "gas exposure, SIMS depth profiling",
+    "conditions": {
+      "temperature": "350°C",
+      "pressure": "1064 Pa",
+      "environment": "D2 gas",
+      "duration": "60 min"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "deuterium_near_surface_concentration": "19 ppm",
+      "exposure_environment": "D2 gas"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_008_chunk2",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Experiment Number 5: DO (vapor), Partial Pressure: 798 Pa, Temperature: 330°C, Exposure Duration: 34 min, Near Surface Concentration: 350 ppm",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "oxide coated",
+    "process_step": "steam autoclaving",
+    "test_type": "vapor exposure, SIMS depth profiling",
+    "conditions": {
+      "temperature": "330°C",
+      "pressure": "798 Pa",
+      "environment": "D2O vapor",
+      "duration": "34 min"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "deuterium_near_surface_concentration": "350 ppm",
+      "exposure_environment": "D2O vapor"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_008_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Zircaloy-2 CANDU pressure tubes and offcuts. The samples were machined and oxides were grown by steam autoclaving in light water $\\mathbf { ( H _ { 2 } O ) }$ at ${ \\sim } 2 \\ \\mathbf { M P a }$ and $4 0 0 ^ { \\circ } \\mathrm { C }$ for $^ { 2 4 \\mathbf { h } }$ to reproduce the as-received pressure tubes condition.",
+    "alloy_name": "Zircaloy-2",
+    "composition": [],
+    "specimen_state": "pressure tube",
+    "process_step": "machined, steam autoclaving",
+    "test_type": "SIMS depth profiling",
+    "conditions": {
+      "temperature": "400°C",
+      "pressure": "2 MPa",
+      "environment": "steam",
+      "duration": "24h"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_concentration": "700-1000 μL/L",
+      "oxygen_concentration": "<25 ppb"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_008_chunk7",
+    "page_or_fig": "pp. 575585",
+    "evidence_span": "Woolsey, I.S. and Morris, J. R. \"A Study of Zircaloy-2 Corrosion in High Temperature Water Using Ion Beam Methods.\" Corrosion, Vol. 37, 1981 pp. 575585.",
+    "alloy_name": "Zircaloy-2",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion study",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "high temperature water",
+      "irradiation": null,
+      "time": null,
+      "loading": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "corrosion_method": "ion beam methods",
+      "environment": "high temperature water"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_008_chunk7",
+    "page_or_fig": "pp. 740757",
+    "evidence_span": "Warr, B. D., Elmoselhi, M. B., McIntyre, N. S., Brennenstuhl, A. B., Lichtenberger, P. C., and Newcomb, S. B., \"Oxide Characteristics and Their Relationship to Hydrogen Uptake in Zirconium Alloys,\" Zirconium in the Nuclear Industry: Ninth International Symposium, ASTM STP 1132, C. M. Eucken and A. M. Garde, Eds. American Society or Testing and Materials, Philadelphi, 1991, pp. 740757.",
+    "alloy_name": "Zirconium Alloys",
+    "composition": [],
+    "specimen_state": "oxide",
+    "process_step": "oxidation",
+    "test_type": "hydrogen uptake study",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "loading": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "oxide_characteristics": "studied in relation to hydrogen uptake"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_008_chunk7",
+    "page_or_fig": null,
+    "evidence_span": "Cox, B., \"Mechanisms of Hydrogen Absorption by Zirconium Alloys,\" Atomic Energy of Canada Ltd., Report No. AECL-8702 1985.",
+    "alloy_name": "Zirconium Alloys",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "hydrogen absorption study",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "loading": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_absorption_mechanisms": "studied"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_008_chunk7",
+    "page_or_fig": null,
+    "evidence_span": "Green, L. W., James, M. W. D., Leeson, P. K., and Lamarche, T. G., \"The Determination of Hydrogen in Zirconium Using the First CRL Hot Vacuum Extraction Mass Spectrometry System,\" Atomic Energy of Canada Ltd. (AECL), Report No. 91-252, RC-730, Oct. 1991.",
+    "alloy_name": "Zirconium",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "hydrogen determination",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "loading": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_determination_method": "hot vacuum extraction mass spectrometry"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_008_chunk7",
+    "page_or_fig": null,
+    "evidence_span": "Tashiro, K., \"Calorimetric Study of Hydrogen in Zr-2.5Nb Preliminary Report,\" Ontario Hydro Research Division, Report No. 87-41-K, March 1987.",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "calorimetric study",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "loading": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_study_method": "calorimetric"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_008_chunk7",
+    "page_or_fig": "pp. 300306",
+    "evidence_span": "Khatamian, D. and Manchester, D., \"An Ion Beam Study of Hydrogen Diffusion in Oxides of Zr and Zr-Nb,\" Journal of Nuclear Materials, Vol. 166, Jan. 1989, pp. 300306.",
+    "alloy_name": "Zr, Zr-Nb",
+    "composition": [],
+    "specimen_state": "oxides",
+    "process_step": null,
+    "test_type": "hydrogen diffusion study",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "loading": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_diffusion_method": "ion beam study",
+      "materials": "oxides of Zr and Zr-Nb"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_008_chunk8",
+    "page_or_fig": null,
+    "evidence_span": "Zircaloy-4 sheets with standard composition corresponding to ASTM Specification for Zirconium and Zirconium Alloy Strip, Sheet, and Plate (B 551-92)",
+    "alloy_name": "Zircaloy-4",
+    "composition": [],
+    "specimen_state": "sheet",
+    "process_step": "produced",
+    "test_type": "steam corrosion, hydriding",
+    "conditions": {
+      "temperature": "400-500",
+      "unit": "°C",
+      "pressure": null,
+      "environment": "steam",
+      "irradiation": null,
+      "time": null,
+      "loading": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_absorption_kinetics": "determined",
+      "oxidation_kinetics": "determined",
+      "hydriding_kinetics": "determined",
+      "corrosion_medium": "steam",
+      "temperature_range": "400-500°C"
+    }
+  }
+]

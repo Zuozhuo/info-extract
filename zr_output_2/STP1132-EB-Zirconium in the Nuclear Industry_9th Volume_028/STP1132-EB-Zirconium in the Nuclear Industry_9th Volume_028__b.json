@@ -1,0 +1,785 @@
+[
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_028_chunk1",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Modal diameter of precipitates: 0.03 μm, Grain size: 3-5 μm, Final structure: recrystallized, Chemical analysis: Sn: 1.5%, Fe: 2100 ppm, Cr: 1090 ppm, O: 1200 ppm, Si: 20 ppm, C: 80 ppm",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.5,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 2100.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Cr",
+        "value": 1090.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "O",
+        "value": 1200.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Si",
+        "value": 20.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "C",
+        "value": 80.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "Fine Precipitates (Zy4FP)",
+    "process_step": "Water quench from β range (1030°C) at 6 mm, Rolling at 500°C down to 1 mm, Final annealing 3 h 600°C",
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "time": 3.0,
+      "time_unit": "days",
+      "time_end": 100.0,
+      "pressure": null,
+      "environment": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_size": "0.03 μm",
+      "grain_size": "3-5 μm",
+      "structure": "recrystallized",
+      "oxygen_diffusion_coefficient": "10^-13 to 10^-15 cm²/s",
+      "tetragonal_phase_content": "~40% near interface"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_028_chunk1",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Modal diameter of precipitates: 0.13 μm, Grain size: 11-16 μm",
+    "alloy_name": "Zircaloy-4",
+    "composition": [],
+    "specimen_state": "Normal Precipitates (Zy4NP)",
+    "process_step": "Standard Zry-4 manufacturing, Final annealing 3.5 h 675°C",
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "time": 3.0,
+      "time_unit": "days",
+      "time_end": 100.0,
+      "pressure": null,
+      "environment": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_size": "0.13 μm",
+      "grain_size": "11-16 μm",
+      "oxygen_diffusion_coefficient": "10^-13 to 10^-15 cm²/s",
+      "tetragonal_phase_content": "~40% near interface"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_028_chunk1",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Modal diameter of precipitates: 0.33 μm, Grain size: 65-130 μm",
+    "alloy_name": "Zircaloy-4",
+    "composition": [],
+    "specimen_state": "Large Precipitates (Zy4LP)",
+    "process_step": "Zry-4NP plus annealing 50h at 780°C, Hot rolling at 750°C down to 6 mm, 2 cold rollings and annealings at 700°C (2 h), Water quench from β range (1000°C) at 12 mm",
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "time": 3.0,
+      "time_unit": "days",
+      "time_end": 100.0,
+      "pressure": null,
+      "environment": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_size": "0.33 μm",
+      "grain_size": "65-130 μm",
+      "oxygen_diffusion_coefficient": "10^-13 to 10^-15 cm²/s",
+      "tetragonal_phase_content": "~40% near interface"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_028_chunk1",
+    "page_or_fig": "Introduction",
+    "evidence_span": "Zr-1Nb alloy oxidized for between 3 and 100 days at 400°C",
+    "alloy_name": "Zr-1Nb",
+    "composition": [
+      {
+        "element": "Nb",
+        "value": 1.0,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "sheet",
+    "process_step": "1 mm thick sheets with final recrystallization anneal",
+    "test_type": "corrosion, diffusion",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "time": 3.0,
+      "time_unit": "days",
+      "time_end": 100.0,
+      "pressure": null,
+      "environment": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "oxygen_diffusion_coefficient": "10^-13 to 10^-15 cm²/s",
+      "tetragonal_phase_content": "~40% near interface",
+      "grain_boundary_diffusion": "10^8 times higher than bulk diffusion"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_028_chunk2",
+    "page_or_fig": "Fig. 1",
+    "evidence_span": "uniform corrosion test...for 360 days in 400°C steam",
+    "alloy_name": "Zy4LP",
+    "composition": [],
+    "specimen_state": "corroded",
+    "process_step": null,
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "time": 360.0,
+      "time_unit": "days",
+      "time_end": null,
+      "pressure": null,
+      "environment": "steam"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "first transition at 25 days, weight gain ~40 mg/dm²",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "intermetallic_precipitate_size": "smaller particles",
+      "oxide_scale_structure": "tetragonal ZrO₂ present throughout scale thickness before transition"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_028_chunk2",
+    "page_or_fig": "Fig. 1",
+    "evidence_span": "uniform corrosion test...for 360 days in 400°C steam",
+    "alloy_name": "Zy4NP",
+    "composition": [],
+    "specimen_state": "corroded",
+    "process_step": null,
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "time": 360.0,
+      "time_unit": "days",
+      "time_end": null,
+      "pressure": null,
+      "environment": "steam"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "first transition at 40 days, weight gain ~40 mg/dm²",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "intermetallic_precipitate_size": "smaller particles",
+      "oxide_scale_structure": "tetragonal ZrO₂ present throughout scale thickness before transition"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_028_chunk2",
+    "page_or_fig": "Fig. 1",
+    "evidence_span": "uniform corrosion test...for 360 days in 400°C steam",
+    "alloy_name": "Zy4FP",
+    "composition": [],
+    "specimen_state": "corroded",
+    "process_step": null,
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "time": 360.0,
+      "time_unit": "days",
+      "time_end": null,
+      "pressure": null,
+      "environment": "steam"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "first transition at 60 days, weight gain ~40 mg/dm²",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "intermetallic_precipitate_size": "smaller particles",
+      "oxide_scale_structure": "tetragonal ZrO₂ present throughout scale thickness before transition"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_028_chunk2",
+    "page_or_fig": "Fig. 1",
+    "evidence_span": "ZΓ-1Nb alloy shows the same type of oxidation kinetics",
+    "alloy_name": "ZΓ-1Nb",
+    "composition": [],
+    "specimen_state": "corroded",
+    "process_step": "final heat treatment at 700°C",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "time": 360.0,
+      "time_unit": "days",
+      "time_end": null,
+      "pressure": null,
+      "environment": "steam"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "first transition at ~50 days, weight gain ~70 mg/dm²",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "microstructure": "α + β Zr structure",
+      "β-Zr_phase_size": "1-2 μm",
+      "oxide_scale_structure": "tetragonal ZrO₂ present throughout scale thickness before transition"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_028_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Raman laser spectroscopy...spectral range employed extends from 150 to 600 cm⁻¹",
+    "alloy_name": null,
+    "composition": [],
+    "specimen_state": "oxide scale",
+    "process_step": null,
+    "test_type": "Raman spectroscopy",
+    "conditions": {
+      "temperature": null,
+      "temperature_unit": null,
+      "time": null,
+      "time_unit": null,
+      "time_end": null,
+      "pressure": null,
+      "environment": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "analysis_beam_diameter": "1 μm",
+      "analysis_depth": "50 nm",
+      "spectral_range": "150-600 cm⁻¹"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_028_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "X-ray diffraction was carried out using copper Kα radiation",
+    "alloy_name": null,
+    "composition": [],
+    "specimen_state": "oxide scale",
+    "process_step": null,
+    "test_type": "X-ray diffraction",
+    "conditions": {
+      "temperature": null,
+      "temperature_unit": null,
+      "time": null,
+      "time_unit": null,
+      "time_end": null,
+      "pressure": null,
+      "environment": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "detector_type": "INEL CPS 120 curved detector",
+      "angle_range": "θ=10°-60°"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_028_chunk6",
+    "page_or_fig": null,
+    "evidence_span": "Note that in thin steam-prefilmed oxides (1 nm) on Zr-2.5Nb we have inferred D (for deuterium) of as low as 10^{-22} m^2/s",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": null,
+    "specimen_state": "thin steam-prefilmed oxides",
+    "process_step": null,
+    "test_type": "deuterium diffusion",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "other": "1 nm oxide thickness"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "deuterium_diffusion_coefficient": "10^{-22} m^2/s",
+      "oxide_thickness": "1 nm",
+      "oxide_type": "steam-prefilmed"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_028_chunk7",
+    "page_or_fig": null,
+    "evidence_span": "ABSTRACT: Semiconducting characteristics of oxide film on pure Zr, Zr-Sn binary alloy, and Z r ⋅ S n ⋅ X (X: Fe, Ni, or C r ) ternary alloy were evaluated",
+    "alloy_name": "pure Zr",
+    "composition": {
+      "Zr": {
+        "value": 100.0,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": "pure Zr",
+    "specimen_state": "oxide film",
+    "process_step": "oxidation",
+    "test_type": "photo-electrochemical measurement",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "BWR environment",
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "semiconductor_type": "n-type",
+      "band_gap_energy": "5-6 eV",
+      "photocurrent_characteristics": "maximum photocurrent generated by 5-6 eV illumination"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_028_chunk7",
+    "page_or_fig": null,
+    "evidence_span": "ABSTRACT: Semiconducting characteristics of oxide film on pure Zr, Zr-Sn binary alloy, and Z r ⋅ S n ⋅ X (X: Fe, Ni, or C r ) ternary alloy were evaluated",
+    "alloy_name": "Zr-Sn binary alloy",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-Sn",
+    "specimen_state": "oxide film",
+    "process_step": "oxidation",
+    "test_type": "photo-electrochemical measurement",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "BWR environment",
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "semiconductor_type": "n-type",
+      "band_gap_energy": "5-6 eV",
+      "photocurrent_characteristics": "maximum photocurrent generated by 5-6 eV illumination"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_028_chunk7",
+    "page_or_fig": null,
+    "evidence_span": "ABSTRACT: Semiconducting characteristics of oxide film on pure Zr, Zr-Sn binary alloy, and Z r ⋅ S n ⋅ X (X: Fe, Ni, or C r ) ternary alloy were evaluated",
+    "alloy_name": "Zr-Sn-Fe ternary alloy",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Fe": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-Sn-Fe",
+    "specimen_state": "oxide film",
+    "process_step": "oxidation",
+    "test_type": "photo-electrochemical measurement",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "BWR environment",
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "semiconductor_type": "n-type",
+      "band_gap_energy": "5-6 eV",
+      "photocurrent_characteristics": "lower maximum photocurrent compared to Zr-Sn binary alloy",
+      "corrosion_resistance": "higher corrosion resistance"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_028_chunk7",
+    "page_or_fig": null,
+    "evidence_span": "ABSTRACT: Semiconducting characteristics of oxide film on pure Zr, Zr-Sn binary alloy, and Z r ⋅ S n ⋅ X (X: Fe, Ni, or C r ) ternary alloy were evaluated",
+    "alloy_name": "Zr-Sn-Ni ternary alloy",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Ni": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-Sn-Ni",
+    "specimen_state": "oxide film",
+    "process_step": "oxidation",
+    "test_type": "photo-electrochemical measurement",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "BWR environment",
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "semiconductor_type": "n-type",
+      "band_gap_energy": "5-6 eV",
+      "photocurrent_characteristics": "lower maximum photocurrent compared to Zr-Sn binary alloy",
+      "corrosion_resistance": "higher corrosion resistance"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_028_chunk7",
+    "page_or_fig": null,
+    "evidence_span": "ABSTRACT: Semiconducting characteristics of oxide film on pure Zr, Zr-Sn binary alloy, and Z r ⋅ S n ⋅ X (X: Fe, Ni, or C r ) ternary alloy were evaluated",
+    "alloy_name": "Zr-Sn-Cr ternary alloy",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Cr": {
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-Sn-Cr",
+    "specimen_state": "oxide film",
+    "process_step": "oxidation",
+    "test_type": "photo-electrochemical measurement",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "BWR environment",
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "semiconductor_type": "n-type",
+      "band_gap_energy": "5-6 eV",
+      "photocurrent_characteristics": "lower maximum photocurrent compared to Zr-Sn binary alloy",
+      "corrosion_resistance": "higher corrosion resistance"
+    }
+  }
+]

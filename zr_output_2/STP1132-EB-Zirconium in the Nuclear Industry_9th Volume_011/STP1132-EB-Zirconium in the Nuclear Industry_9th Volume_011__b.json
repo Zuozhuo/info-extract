@@ -1,0 +1,466 @@
+[
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_011_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "thin (1.143 mm) recrystallized Zircaloy-4 sheet",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.21,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": 0.01,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.007,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Zr",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "bal."
+      }
+    ],
+    "specimen_state": "recrystallized sheet",
+    "process_step": "recrystallization",
+    "test_type": "tensile deformation",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "other": "rolling direction (RD) tensile strain ~20%"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_evolution": "little effect on initial bimodal basal texture in ND-TD plane, became smoother and unimodal",
+      "grain_size": "~9 μm",
+      "sheet_thickness": "1.143 mm"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_011_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Tensile strain along the TD, on the other hand, exhibited strong texture rotations",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.21,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": 0.01,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.007,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Zr",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "bal."
+      }
+    ],
+    "specimen_state": "recrystallized sheet",
+    "process_step": "tensile deformation",
+    "test_type": "tensile deformation",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "other": "transverse direction (TD) tensile strain ~34%"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_evolution": "strong texture rotations resulting in 90 deg rotation of basal pole distribution, became almost bimodal in ND-RD plane",
+      "grain_size": "~9 μm",
+      "sheet_thickness": "1.143 mm"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_011_chunk2",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Texture coefficients and f-factors for recrystallized Zircaloy-4 sheet",
+    "alloy_name": "Zircaloy-4",
+    "composition": null,
+    "specimen_state": "recrystallized sheet",
+    "process_step": "recrystallization",
+    "test_type": "texture analysis",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": "modified Hill's yield criterion",
+    "elastoplastic_model_data": "R and P anisotropy parameters",
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_coefficients": {
+        "basal_TC(0002)": {
+          "ND": 3.99,
+          "RD": 0.0,
+          "TD": 1.19
+        },
+        "prismatic_TC(1010)": {
+          "ND": 0.0,
+          "RD": 3.97,
+          "TD": 2.71
+        },
+        "pyramidal_TC(1012)": {
+          "ND": 1.49,
+          "RD": 0.0,
+          "TD": 0.85
+        }
+      },
+      "f_factors": {
+        "ND": 0.724,
+        "RD": 0.075,
+        "TD": 0.182
+      },
+      "basal_pole_distribution": {
+        "ND": "72%",
+        "RD": "8%",
+        "TD": "18%"
+      }
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_011_chunk3",
+    "page_or_fig": "Table 3",
+    "evidence_span": "Tensile Axis: RD, Strain (%): 0, TC(002): 3.99, f-factor: 0.741",
+    "alloy_name": "Zircaloy-2",
+    "composition": null,
+    "specimen_state": "sheet",
+    "process_step": "tensile deformation",
+    "test_type": "tensile test",
+    "conditions": {
+      "temperature": "ambient",
+      "pressure": null,
+      "environment": "air",
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_coefficient_TC(002)": "3.99",
+      "f-factor": "0.741",
+      "tensile_strain": "0",
+      "tensile_axis": "RD"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_011_chunk3",
+    "page_or_fig": "Table 3",
+    "evidence_span": "Tensile Axis: RD, Strain (%): 5, TC(002): 3.40, f-factor: 0.689",
+    "alloy_name": "Zircaloy-2",
+    "composition": null,
+    "specimen_state": "sheet",
+    "process_step": "tensile deformation",
+    "test_type": "tensile test",
+    "conditions": {
+      "temperature": "ambient",
+      "pressure": null,
+      "environment": "air",
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_coefficient_TC(002)": "3.4",
+      "f-factor": "0.689",
+      "tensile_strain": "5",
+      "tensile_axis": "RD"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_011_chunk3",
+    "page_or_fig": "Table 3",
+    "evidence_span": "Tensile Axis: RD, Strain (%): 20, TC(002): 4.04, f-factor: 0.681",
+    "alloy_name": "Zircaloy-2",
+    "composition": null,
+    "specimen_state": "sheet",
+    "process_step": "tensile deformation",
+    "test_type": "tensile test",
+    "conditions": {
+      "temperature": "ambient",
+      "pressure": null,
+      "environment": "air",
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_coefficient_TC(002)": "4.04",
+      "f-factor": "0.681",
+      "tensile_strain": "20",
+      "tensile_axis": "RD"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_011_chunk3",
+    "page_or_fig": "Table 3",
+    "evidence_span": "Tensile Axis: RD, Strain (%): 50, TC(002): 4.03, f-factor: 0.661",
+    "alloy_name": "Zircaloy-2",
+    "composition": null,
+    "specimen_state": "sheet",
+    "process_step": "tensile deformation",
+    "test_type": "tensile test",
+    "conditions": {
+      "temperature": "ambient",
+      "pressure": null,
+      "environment": "air",
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_coefficient_TC(002)": "4.03",
+      "f-factor": "0.661",
+      "tensile_strain": "50",
+      "tensile_axis": "RD"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_011_chunk3",
+    "page_or_fig": "Table 3",
+    "evidence_span": "Tensile Axis: TD, Strain (%): 0, TC(002): 3.99, f-factor: 0.741",
+    "alloy_name": "Zircaloy-2",
+    "composition": null,
+    "specimen_state": "sheet",
+    "process_step": "tensile deformation",
+    "test_type": "tensile test",
+    "conditions": {
+      "temperature": "ambient",
+      "pressure": null,
+      "environment": "air",
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_coefficient_TC(002)": "3.99",
+      "f-factor": "0.741",
+      "tensile_strain": "0",
+      "tensile_axis": "TD"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_011_chunk3",
+    "page_or_fig": "Table 3",
+    "evidence_span": "Tensile Axis: TD, Strain (%): 6, TC(002): 2.84, f-factor: 0.653",
+    "alloy_name": "Zircaloy-2",
+    "composition": null,
+    "specimen_state": "sheet",
+    "process_step": "tensile deformation",
+    "test_type": "tensile test",
+    "conditions": {
+      "temperature": "ambient",
+      "pressure": null,
+      "environment": "air",
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_coefficient_TC(002)": "2.84",
+      "f-factor": "0.653",
+      "tensile_strain": "6",
+      "tensile_axis": "TD"
+    }
+  }
+]

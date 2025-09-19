@@ -1,0 +1,24 @@
+[
+  {},
+  {
+    "composition": {},
+    "composition_raw": "",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "other": null
+    },
+    "mechanical_properties": {},
+    "physical_properties": {},
+    "thermal_properties": {},
+    "electrical_properties": {},
+    "magnetic_properties": {},
+    "optical_properties": {},
+    "chemical_properties": {},
+    "radiation_properties": {},
+    "extra_properties": {}
+  }
+]

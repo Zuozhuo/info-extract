@@ -1,0 +1,973 @@
+[
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_014_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Materials studied contained a range of impurity contents with iron ranging from 300 to 1500 ppm in both the cold-worked and cold-worked + annealed (24 h/560°C) conditions",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": [
+          300,
+          1500
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Cr",
+        "value": [
+          50,
+          160
+        ],
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "pressure tube",
+    "process_step": "hot extrusion at 850°C, cold-working (20-30%), autoclave stress-relief at 400°C for 24 h",
+    "test_type": "microstructure characterization (TEM, XRD, EDX)",
+    "conditions": {
+      "temperature": [
+        400,
+        560
+      ],
+      "unit": "h",
+      "time": [
+        24,
+        24
+      ],
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "irradiation_dose_unit": null,
+      "stress": null,
+      "stress_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "microstructure": "deformed α-Zr grains with β-Zr network (~20 wt% Nb) surrounding α-Zr grains",
+      "precipitates": "Zr_2Fe (tetragonal) and Zr(FeCr)_2 (C-15 cubic or C-14 hexagonal Laves phase)",
+      "phase_transformation": "β-Zr phase decomposes into α-Zr + β-Nb (~83 wt% Nb) + Zr(FeCr)_2 on annealing",
+      "impurity_content": "Fe: 289-1500 ppm, Cr: 50-160 ppm",
+      "fabrication_process": "hot extrusion at 850°C, cold-working (20-30%), autoclave stress-relief at 400°C for 24 h"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_014_chunk2",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Tube No. D633; Heat Treatment: ; Type of Specimen: section; End: *; Grain Size: M; Chemical Analysis: Nb% 2.50, O 1006, Fe 390, Cr 2338689818, Hf 40, Al Si 888889885888888868, Ni 88888888*8, C 2888",
+    "alloy_name": null,
+    "composition": [
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 1006,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Fe",
+        "value": 390,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Cr",
+        "value": 2338689818,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Hf",
+        "value": 40,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Al",
+        "value": null,
+        "unit": null,
+        "raw_unit": null
+      },
+      {
+        "element": "Si",
+        "value": null,
+        "unit": null,
+        "raw_unit": null
+      },
+      {
+        "element": "Ni",
+        "value": null,
+        "unit": null,
+        "raw_unit": null
+      },
+      {
+        "element": "C",
+        "value": 2888,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "as-fabricated",
+    "process_step": "fabrication",
+    "test_type": "metallographic examination",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_size": "M",
+      "tube_no": "D633",
+      "specimen_type": "section",
+      "end": "*"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_014_chunk2",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Tube No. D619; Heat Treatment: ; Type of Specimen: section; End: -; Grain Size: M; Chemical Analysis: Nb% 2.60, O 1001, Fe 400, Ni 14",
+    "alloy_name": null,
+    "composition": [
+      {
+        "element": "Nb",
+        "value": 2.6,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 1001,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Fe",
+        "value": 400,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Ni",
+        "value": 14,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "as-fabricated",
+    "process_step": "fabrication",
+    "test_type": "metallographic examination",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_size": "M",
+      "tube_no": "D619",
+      "specimen_type": "section",
+      "end": "-"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_014_chunk2",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Tube No. D868; Heat Treatment: ; Type of Specimen: section; End: -; Grain Size: s; Chemical Analysis: Nb% 2.66, O 968, Fe 410, Ni 20",
+    "alloy_name": null,
+    "composition": [
+      {
+        "element": "Nb",
+        "value": 2.66,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 968,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Fe",
+        "value": 410,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Ni",
+        "value": 20,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "as-fabricated",
+    "process_step": "fabrication",
+    "test_type": "metallographic examination",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_size": "s",
+      "tube_no": "D868",
+      "specimen_type": "section",
+      "end": "-"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_014_chunk2",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Tube No. D697; Heat Treatment: ; Type of Specimen: section; End: *; Grain Size: s; Chemical Analysis: Nb% 2.61, O 1008, Fe 440",
+    "alloy_name": null,
+    "composition": [
+      {
+        "element": "Nb",
+        "value": 2.61,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 1008,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Fe",
+        "value": 440,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "as-fabricated",
+    "process_step": "fabrication",
+    "test_type": "metallographic examination",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_size": "s",
+      "tube_no": "D697",
+      "specimen_type": "section",
+      "end": "*"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_014_chunk2",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Tube No. D826; Heat Treatment: ; Type of Specimen: section; End: -; Grain Size: s; Chemical Analysis: Nb% 2.60, O 980, Fe 450, Ni R, C 50",
+    "alloy_name": null,
+    "composition": [
+      {
+        "element": "Nb",
+        "value": 2.6,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 980,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Fe",
+        "value": 450,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Ni",
+        "value": null,
+        "unit": null,
+        "raw_unit": "R"
+      },
+      {
+        "element": "C",
+        "value": 50,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "as-fabricated",
+    "process_step": "fabrication",
+    "test_type": "metallographic examination",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_size": "s",
+      "tube_no": "D826",
+      "specimen_type": "section",
+      "end": "-"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_014_chunk2",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Tube No. 618; Heat Treatment: BQ; Type of Specimen: offcut; End: F; Grain Size: L; Chemical Analysis: Nb% 2.49, O 1238, Fe 490, C 120",
+    "alloy_name": null,
+    "composition": [
+      {
+        "element": "Nb",
+        "value": 2.49,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 1238,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Fe",
+        "value": 490,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "C",
+        "value": 120,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "as-fabricated",
+    "process_step": "fabrication",
+    "test_type": "metallographic examination",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_size": "L",
+      "tube_no": "618",
+      "specimen_type": "offcut",
+      "end": "F",
+      "heat_treatment": "BQ"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_014_chunk2",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Tube No. 77; Heat Treatment: BQ; Type of Specimen: offcut; End: F; Grain Size: L; Chemical Analysis: Nb% 2.65, O 980, Fe 5806, C 80",
+    "alloy_name": null,
+    "composition": [
+      {
+        "element": "Nb",
+        "value": 2.65,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 980,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Fe",
+        "value": 5806,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "C",
+        "value": 80,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "as-fabricated",
+    "process_step": "fabrication",
+    "test_type": "metallographic examination",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_size": "L",
+      "tube_no": "77",
+      "specimen_type": "offcut",
+      "end": "F",
+      "heat_treatment": "BQ"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_014_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "A third type of intermetallic precipitate was found in heat-treated samples of tube D1301. These precipitates were identified as the Zr_2Fe phase",
+    "alloy_name": "Zr-Nb",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "heat-treated",
+    "process_step": "heat treatment",
+    "test_type": "TEM analysis",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "time": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_type": "Zr_2Fe",
+      "iron_content_requirement": ">500 ppm Fe"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_014_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "Tubes D168, D1345, D1260, D587 and C170 contain less than 729 ppm Fe and less than 80 ppm Cr. After annealing at 560°C for 24 h",
+    "alloy_name": "Zr-Nb",
+    "composition": {
+      "Fe": {
+        "value": 729.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      "Cr": {
+        "value": 80.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    },
+    "composition_raw": "<729 ppm Fe, <80 ppm Cr",
+    "specimen_state": "annealed",
+    "process_step": "annealing",
+    "test_type": null,
+    "conditions": {
+      "temperature": 560.0,
+      "pressure": null,
+      "environment": null,
+      "time": "24 h",
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "impurity_content": "Fe <729 ppm, Cr <80 ppm",
+      "precipitate_formation": "small precipitates at α-β Zr grain boundaries"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_014_chunk6",
+    "page_or_fig": "text",
+    "evidence_span": "The microstructure of cold-worked $Z \\mathrm { r } { - } 2 . 5 \\mathrm { N b }$ pressure tubing consists of elongated $\\alpha - \\mathrm { Z r }$ grains with a $\\beta { - } Z \\operatorname { r }$ $( \\sim 2 0 \\ \\mathrm { w t } \\%$ Nb) network at the $\\mathbf { \\alpha } \\mathbf { - } \\mathbf { } \\mathbf { } \\mathbf { } Z \\mathbf { r }$ grain boundaries",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-2.5Nb, ~20 wt% Nb in β-Zr phase",
+    "specimen_state": "cold-worked pressure tubing",
+    "process_step": "fabrication",
+    "test_type": "microstructural analysis",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "time": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "other": "as-fabricated"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "microstructure": "elongated α-Zr grains with β-Zr network at grain boundaries",
+      "precipitates": "Zr₂Fe present in tubes with >500 ppm Fe",
+      "grain_size": "larger α-Zr grain size promotes Zr₂Fe formation"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_014_chunk6",
+    "page_or_fig": "text",
+    "evidence_span": "Heating of the as-fabricated, coldworked tubing for $2 4 \\mathrm { ~ h ~ }$ at $5 6 0 \\%$ produced a breakdown of the $\\beta$ -Zr ${ \\sim } 2 0 ~ \\mathrm { w t } \\%$ Nbnetwork surrounding the elongated $\\alpha$ -Zr grains to discrete particles of $\\beta$ -Nb $\\sim 8 3 \\ \\mathrm { w t } \\%$ Nb)",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-2.5Nb, β-Nb (~83 wt% Nb)",
+    "specimen_state": "annealed",
+    "process_step": "heat treatment",
+    "test_type": "microstructural analysis",
+    "conditions": {
+      "temperature": 560.0,
+      "pressure": null,
+      "environment": null,
+      "time": "24h",
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "microstructural_changes": "β-Zr decomposes to β-Nb particles and Zr(FeCr)₂ Laves phase",
+      "reaction": "β-Zr (∼20 wt% Nb) → α-Zr + β-Nb (∼83 wt% Nb) + Zr(FeCr)₂",
+      "precipitates": "Zr(FeCr)₂ Laves phase forms"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_014_chunk6",
+    "page_or_fig": "text",
+    "evidence_span": "If during reactor operation at ${ \\sim } 3 0 0 ^ { \\circ } \\mathrm { C }$ there is a breakdown of the ${ \\beta } { \\cdot } Z \\tau$ phase to $\\beta$ -Nb and the concurrent precipitation of $Z \\mathrm { { r } ( F e C r ) _ { \\vec { \\tau } } }$ , the corrosion/hydriding resistance could be affected",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-2.5Nb",
+    "specimen_state": "irradiated",
+    "process_step": "reactor operation",
+    "test_type": "corrosion analysis",
+    "conditions": {
+      "temperature": 300.0,
+      "pressure": null,
+      "environment": null,
+      "time": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "other": "reactor operation"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "potential_effects": "Zr(FeCr)₂ precipitation may affect corrosion/hydriding resistance",
+      "irradiation_effects": "irradiation produces different decomposition sequence than thermal treatment"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_014_chunk7",
+    "page_or_fig": "Discussion Fig. 1",
+    "evidence_span": "X-ray map showing Nb and Fe distribution in as-fabricated Zr-2.5Nb pressure tubes",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-2.5Nb",
+    "specimen_state": "as-fabricated pressure tube",
+    "process_step": "fabrication",
+    "test_type": "X-ray mapping",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "time": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Fe_concentration_in_beta_phase": "~1 wt%",
+      "beta_phase_volume_fraction": "13%",
+      "Nb_content_in_beta_phase": "20 wt%",
+      "precipitate_types": "silicides, ZrFe type precipitates"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_014_chunk7",
+    "page_or_fig": "Discussion Fig. 2",
+    "evidence_span": "X-ray map showing Nb and Fe distribution in a Zr-2.5Nb pressure tube after heat treatment for 750 h at 500°C",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-2.5Nb",
+    "specimen_state": "heat treated",
+    "process_step": "heat treatment at 500°C for 750h",
+    "test_type": "X-ray mapping",
+    "conditions": {
+      "temperature": 500.0,
+      "pressure": null,
+      "environment": null,
+      "time": "750h",
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_formation": "β-Nb (86 wt% Nb), (Zr,Nb)₃(Fe,Cr)",
+      "Fe_association": "invariably associated with Nb"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_014_chunk7",
+    "page_or_fig": "Discussion Fig. 3a",
+    "evidence_span": "EDX analysis showing Fe segregation in the β phase of an as-fabricated Zr2.5Nb pressure tube",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-2.5Nb",
+    "specimen_state": "as-fabricated",
+    "process_step": "fabrication",
+    "test_type": "EDX analysis",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "time": null,
+      "strain_rate": null,
+      "irradiation_fluence": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Fe_distribution": "segregated in β-phase",
+      "analysis_conditions": "X-ray: 0-20 keV, Live: 210s"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_014_chunk7",
+    "page_or_fig": "Discussion Fig. 3b",
+    "evidence_span": "EDX analysis showing Fe depletion from the β-phase of a Zr-2.5Nb pressure tube after irradiation",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-2.5Nb",
+    "specimen_state": "irradiated",
+    "process_step": "irradiation",
+    "test_type": "EDX analysis",
+    "conditions": {
+      "temperature": 270.0,
+      "pressure": null,
+      "environment": null,
+      "time": null,
+      "strain_rate": null,
+      "irradiation_fluence": "8.5×10²⁵ n/m²",
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Fe_behavior": "dispersion from β-phase",
+      "irradiation_effects": "Fe redistribution similar to Zircaloys",
+      "analysis_conditions": "X-ray: 0-20 keV, Live: 300s"
+    }
+  }
+]

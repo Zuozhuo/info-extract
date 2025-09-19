@@ -1,0 +1,575 @@
+[
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_003_chunk1",
+    "page_or_fig": "Hydrogen Effects section",
+    "evidence_span": "The low hydrogen uptake of Zr-2.5Nb is associated with the β-Zr phase that contains 20% Nb",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "hydrogen uptake analysis",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_uptake": "low",
+      "phase_composition": "β-Zr phase contains 20% Nb"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_003_chunk1",
+    "page_or_fig": "Hydrogen Effects section",
+    "evidence_span": "The delayed hydrogen cracking velocity of Zr-2.5Nb cold-worked material increases due to irradiation and K_ID is reduced by radiation hardening",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "specimen_state": "cold-worked",
+    "process_step": null,
+    "test_type": "hydrogen cracking test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": "irradiated",
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "delayed_hydrogen_cracking_velocity": "increases due to irradiation",
+      "K_ID": "reduced by radiation hardening"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_003_chunk1",
+    "page_or_fig": "Hydrogen Effects section",
+    "evidence_span": "For Zircaloy, the hydriding rate is proportional to the corrosion rate and hydrogen absorption depends on the final heat treatment, integrated annealing parameter, tin level, Ni level, Cr Level, and Fe/Cr ratio",
+    "alloy_name": "Zircaloy",
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "hydriding analysis",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydriding_rate": "proportional to corrosion rate",
+      "hydrogen_absorption_factors": "final heat treatment, integrated annealing parameter, tin level, Ni level, Cr level, Fe/Cr ratio"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_003_chunk1",
+    "page_or_fig": "Pressure Tubes section",
+    "evidence_span": "Zr-2.5Nb, an alloy that is stronger than Zircaloy-2, is used for the pressure tubes",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "mechanical comparison",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "strength_comparison": "stronger than Zircaloy-2",
+      "application": "pressure tubes"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_003_chunk1",
+    "page_or_fig": "Pressure Tubes section",
+    "evidence_span": "The metallurgical condition of the Zr-2.5Nb tubes varies in different countries: cold worked and annealed (Russia); cold worked and stress relieved (Canada); and water quenched, cold worked, and aged (India and Japan)",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "specimen_state": "tube",
+    "process_step": "various processing routes",
+    "test_type": "metallurgical condition analysis",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "processing_variations": "Russia: cold worked and annealed; Canada: cold worked and stress relieved; India_Japan: water quenched, cold worked, and aged"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_003_chunk1",
+    "page_or_fig": "Pressure Tubes section",
+    "evidence_span": "In CANDU pressure tubes, there is an initial decrease in fracture toughness with fluence and then little further change; this correlates well with the dislocation density",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "specimen_state": "CANDU pressure tube",
+    "process_step": null,
+    "test_type": "fracture toughness test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": "irradiated",
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "fracture_toughness": "initial decrease with fluence then stabilizes",
+      "correlation": "with dislocation density"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_003_chunk1",
+    "page_or_fig": "Pressure Tubes section",
+    "evidence_span": "chlorine, which is an impurity element, reduces the fracture toughness if there is more than 1 ppm present in the material",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "fracture toughness analysis",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "chlorine_impurity_effect": "reduces fracture toughness if >1 ppm"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_003_chunk1",
+    "page_or_fig": "Pressure Tubes section",
+    "evidence_span": "The irradiation growth behavior of small specimens from CANDU pressure tubes is quite variable. A key parameter has been found to be the iron concentration; increasing iron from 500 to 2000 ppm reduces the growth by about half",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "specimen_state": "CANDU pressure tube specimens",
+    "process_step": null,
+    "test_type": "irradiation growth test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": "irradiated",
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "irradiation_growth": "variable behavior",
+      "iron_effect": "increasing from 500 to 2000 ppm reduces growth by about half"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_003_chunk1",
+    "page_or_fig": "Pressure Tubes section",
+    "evidence_span": "Biaxial creep behavior was reported for Zr-2.5Nb tubes up to fluences of 7·10²⁵ n·m⁻², showing the effect of texture on diametral strain rates",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "specimen_state": "tube",
+    "process_step": null,
+    "test_type": "biaxial creep test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": "fluence up to 7·10²⁵ n·m⁻²",
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "creep_behavior": "biaxial",
+      "fluence": "7·10²⁵ n·m⁻²",
+      "texture_effect": "on diametral strain rates"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_003_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Reducing chlorine, carbon, and phosphorous increases fracture toughness, and increasing the iron decreases growth",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation": null,
+      "time": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "fracture_toughness": "increased by reducing chlorine, carbon, and phosphorous",
+      "growth": "decreased by increasing iron"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_003_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "The in-pile tests in the PR loop at Halden indicate no acceleration of corrosion rate of Zircaloy-4 when the lithium level in coolant was increased at 4.5 ppm",
+    "alloy_name": "Zircaloy-4",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "in-pile corrosion test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "4.5 ppm lithium coolant",
+      "time": null,
+      "irradiation_dose": null,
+      "strain_rate": null,
+      "stress": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "lithium_effect": "no corrosion acceleration at 4.5 ppm lithium",
+      "test_facility": "PR loop at Halden"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_003_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "A comparison of the corrosion behavior of a defective rod and adjacent nondefective rod irradiated for two cycles in a PWR indicates a significantly higher corrosion rate in the defective rod",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "defective rod",
+    "process_step": "irradiation",
+    "test_type": "corrosion comparison",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "PWR",
+      "time": "two cycles",
+      "irradiation_dose": null,
+      "strain_rate": null,
+      "stress": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "corrosion_rate": "significantly higher in defective rod",
+      "irradiation_cycles": "two cycles",
+      "reactor_type": "PWR"
+    }
+  }
+]

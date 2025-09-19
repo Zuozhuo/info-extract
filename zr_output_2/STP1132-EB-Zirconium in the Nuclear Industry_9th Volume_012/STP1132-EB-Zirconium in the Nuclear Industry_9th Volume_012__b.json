@@ -1,0 +1,449 @@
+[
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_012_chunk1",
+    "page_or_fig": "Text",
+    "evidence_span": "Table 1—Composition of Zr-Sn alloy ingots",
+    "alloy_name": "Zr-0.5Sn",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Sn",
+        "value": 0.49,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "composition_raw": "Zr-0.49Sn",
+    "specimen_state": "β-quenched",
+    "process_step": "solutionized at 1223 K for 3600 s, water quenched",
+    "test_type": "tensile test",
+    "conditions": {
+      "temperature": {
+        "min": 77,
+        "max": 673,
+        "unit": "K"
+      },
+      "pressure": null,
+      "strain_rate": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "irradiation_temperature": null,
+      "corrosion_medium": null,
+      "corrosion_temperature": null,
+      "corrosion_time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": "Mott-Nabarro model",
+    "elastoplastic_model_data": "0.2% yield stress shows linear relationship with C^(2/3)",
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": "solid solution strengthening",
+    "hardening_data": "tin as solid solution strengthener",
+    "extra_properties": {
+      "oxygen_content": "800-1000 ppm",
+      "nitrogen_content": "20-25 ppm",
+      "tin_content": "0.49 wt%",
+      "microstructure": "β-quenched condition",
+      "deformation_mechanism": "dislocations overcoming substitutional solute clusters below 473 K"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_012_chunk1",
+    "page_or_fig": "Text",
+    "evidence_span": "Table 1—Composition of Zr-Sn alloy ingots",
+    "alloy_name": "Zr-1.0Sn",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Sn",
+        "value": 1.01,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "composition_raw": "Zr-1.01Sn",
+    "specimen_state": "β-quenched",
+    "process_step": "solutionized at 1223 K for 3600 s, water quenched",
+    "test_type": "tensile test",
+    "conditions": {
+      "temperature": {
+        "min": 77,
+        "max": 673,
+        "unit": "K"
+      },
+      "pressure": null,
+      "strain_rate": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "irradiation_temperature": null,
+      "corrosion_medium": null,
+      "corrosion_temperature": null,
+      "corrosion_time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": "Mott-Nabarro model",
+    "elastoplastic_model_data": "0.2% yield stress shows linear relationship with C^(2/3)",
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": "solid solution strengthening",
+    "hardening_data": "tin as solid solution strengthener",
+    "extra_properties": {
+      "oxygen_content": "800-1000 ppm",
+      "nitrogen_content": "20-25 ppm",
+      "tin_content": "1.01 wt%",
+      "microstructure": "β-quenched condition",
+      "deformation_mechanism": "dislocations overcoming substitutional solute clusters below 473 K"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_012_chunk1",
+    "page_or_fig": "Text",
+    "evidence_span": "Table 1—Composition of Zr-Sn alloy ingots",
+    "alloy_name": "Zr-1.5Sn",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Sn",
+        "value": 1.45,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "composition_raw": "Zr-1.45Sn",
+    "specimen_state": "β-quenched",
+    "process_step": "solutionized at 1223 K for 3600 s, water quenched",
+    "test_type": "tensile test",
+    "conditions": {
+      "temperature": {
+        "min": 77,
+        "max": 673,
+        "unit": "K"
+      },
+      "pressure": null,
+      "strain_rate": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "irradiation_temperature": null,
+      "corrosion_medium": null,
+      "corrosion_temperature": null,
+      "corrosion_time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": "Mott-Nabarro model",
+    "elastoplastic_model_data": "0.2% yield stress shows linear relationship with C^(2/3)",
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": "solid solution strengthening",
+    "hardening_data": "tin as solid solution strengthener",
+    "extra_properties": {
+      "oxygen_content": "800-1000 ppm",
+      "nitrogen_content": "20-25 ppm",
+      "tin_content": "1.45 wt%",
+      "microstructure": "β-quenched condition",
+      "deformation_mechanism": "dislocations overcoming substitutional solute clusters below 473 K"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_012_chunk1",
+    "page_or_fig": "Text",
+    "evidence_span": "Table 1—Composition of Zr-Sn alloy ingots",
+    "alloy_name": "Zr-2.5Sn",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Sn",
+        "value": 2.43,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "composition_raw": "Zr-2.43Sn",
+    "specimen_state": "β-quenched",
+    "process_step": "solutionized at 1223 K for 3600 s, water quenched",
+    "test_type": "tensile test",
+    "conditions": {
+      "temperature": {
+        "min": 77,
+        "max": 673,
+        "unit": "K"
+      },
+      "pressure": null,
+      "strain_rate": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "irradiation_temperature": null,
+      "corrosion_medium": null,
+      "corrosion_temperature": null,
+      "corrosion_time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": "Mott-Nabarro model",
+    "elastoplastic_model_data": "0.2% yield stress shows linear relationship with C^(2/3)",
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": "solid solution strengthening",
+    "hardening_data": "tin as solid solution strengthener",
+    "extra_properties": {
+      "oxygen_content": "800-1000 ppm",
+      "nitrogen_content": "20-25 ppm",
+      "tin_content": "2.43 wt%",
+      "microstructure": "β-quenched condition",
+      "deformation_mechanism": "dislocations overcoming substitutional solute clusters below 473 K"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_012_chunk1",
+    "page_or_fig": "Text",
+    "evidence_span": "Table 1—Composition of Zr-Sn alloy ingots",
+    "alloy_name": "Zr-8.0Sn",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Sn",
+        "value": 7.93,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "composition_raw": "Zr-7.93Sn",
+    "specimen_state": "β-quenched",
+    "process_step": "solutionized at 1223 K for 3600 s, water quenched",
+    "test_type": "tensile test",
+    "conditions": {
+      "temperature": {
+        "min": 77,
+        "max": 673,
+        "unit": "K"
+      },
+      "pressure": null,
+      "strain_rate": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "irradiation_temperature": null,
+      "corrosion_medium": null,
+      "corrosion_temperature": null,
+      "corrosion_time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": "Mott-Nabarro model",
+    "elastoplastic_model_data": "0.2% yield stress shows linear relationship with C^(2/3)",
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": "solid solution strengthening",
+    "hardening_data": "tin as solid solution strengthener",
+    "extra_properties": {
+      "oxygen_content": "800-1000 ppm",
+      "nitrogen_content": "20-25 ppm",
+      "tin_content": "7.93 wt%",
+      "microstructure": "β-quenched condition",
+      "deformation_mechanism": "dislocations overcoming substitutional solute clusters below 473 K"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_012_chunk1",
+    "page_or_fig": "Text",
+    "evidence_span": "tempering at 923 K for 1800 s",
+    "alloy_name": "Zr-Sn alloys",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Sn",
+        "value": {
+          "min": 0.5,
+          "max": 8.0
+        },
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "composition_raw": "Zr-0.5 to 8.0 wt% Sn",
+    "specimen_state": "tempered",
+    "process_step": "tempered at 923 K for 1800 s",
+    "test_type": "microstructure analysis",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "strain_rate": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "irradiation_temperature": null,
+      "corrosion_medium": null,
+      "corrosion_temperature": null,
+      "corrosion_time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": "precipitation hardening",
+    "hardening_data": "tin as precipitation hardener, formation of Zr₃Sn intermetallic phase",
+    "extra_properties": {
+      "precipitate_phase": "Zr₃Sn",
+      "crystal_structure": "A15 structure",
+      "orientation_relationship": "(0001)α // (111)Zr₃Sn, ⟨1-210⟩α // ⟨2-31⟩Zr₃Sn",
+      "lattice_registry": "good lattice registry between precipitate and matrix phases",
+      "coherency": "partial coherency maintained even after considerable growth"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_012_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Beta-quenching of $Z \\mathbf { r } { \\mathrm { - } } \\mathbf { S } \\mathbf { n }$ alloys results in a martensitic structure...",
+    "alloy_name": "Zr-Sn",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Sn",
+        "value": [
+          2.5,
+          4.0,
+          8.0
+        ],
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "composition_raw": "Zr-2.5Sn, Zr-4Sn, Zr-8Sn",
+    "specimen_state": "β-quenched",
+    "process_step": "water quenching",
+    "test_type": "microstructural characterization",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "strain_rate": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "irradiation_temperature": null,
+      "corrosion_medium": null,
+      "corrosion_temperature": null,
+      "corrosion_time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "microstructure": "martensitic structure with packet morphology",
+      "stacking_faults": "present in Zr-8Sn",
+      "defect_contrast": "black-white contrast in 4% and 8% Sn alloys",
+      "defect_type": "small precipitates and point defect clusters",
+      "defect_density": "increases with tin content"
+    }
+  }
+]

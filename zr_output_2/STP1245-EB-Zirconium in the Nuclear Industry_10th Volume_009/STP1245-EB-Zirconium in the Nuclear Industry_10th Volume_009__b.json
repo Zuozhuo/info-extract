@@ -1,0 +1,561 @@
+[
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_009_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Sample la, recrystallized, cumulative annealing parameter 1.4 · 10⁻¹⁹, 400°C test: high corrosion rate, 500°C test: low corrosion rate",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": [
+          1.4,
+          1.5
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": [
+          0.2,
+          0.21
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": [
+          0.1,
+          0.11
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "C",
+        "value": [
+          0.013,
+          0.014
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "sheet",
+    "process_step": "recrystallized",
+    "test_type": "steam corrosion",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "medium": "steam",
+      "pressure": null,
+      "pressure_unit": null,
+      "time": null,
+      "time_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "high corrosion rate",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "cumulative_annealing_parameter": "1.4·10⁻¹⁹",
+      "hydrogen_uptake": "reduced",
+      "corrosion_resistance": "improved"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_009_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Sample 1b, recrystallized, cumulative annealing parameter 1.4 · 10⁻¹⁹, 400°C test: high corrosion rate, 500°C test: low corrosion rate",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": [
+          1.4,
+          1.5
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": [
+          0.2,
+          0.21
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": [
+          0.1,
+          0.11
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "C",
+        "value": [
+          0.013,
+          0.014
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "sheet",
+    "process_step": "recrystallized",
+    "test_type": "steam corrosion",
+    "conditions": {
+      "temperature": 500.0,
+      "temperature_unit": "°C",
+      "medium": "steam",
+      "pressure": null,
+      "pressure_unit": null,
+      "time": null,
+      "time_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "low corrosion rate",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "cumulative_annealing_parameter": "1.4·10⁻¹⁹",
+      "hydrogen_uptake": "reduced",
+      "corrosion_resistance": "improved"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_009_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Sample 2a, beta heat treated low cooling rate, 400°C test: intermediate corrosion rate",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": [
+          1.4,
+          1.5
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": [
+          0.2,
+          0.21
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": [
+          0.1,
+          0.11
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "C",
+        "value": [
+          0.013,
+          0.014
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "sheet",
+    "process_step": "beta heat treated low cooling rate",
+    "test_type": "steam corrosion",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "medium": "steam",
+      "pressure": null,
+      "pressure_unit": null,
+      "time": null,
+      "time_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "intermediate corrosion rate",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "cooling_rate": "low",
+      "hydrogen_uptake": "reduced",
+      "corrosion_resistance": "improved"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_009_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Sample 2b, beta heat treated high cooling rate, 500°C test: low corrosion rate",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": [
+          1.4,
+          1.5
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": [
+          0.2,
+          0.21
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": [
+          0.1,
+          0.11
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "C",
+        "value": [
+          0.013,
+          0.014
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "sheet",
+    "process_step": "beta heat treated high cooling rate",
+    "test_type": "steam corrosion",
+    "conditions": {
+      "temperature": 500.0,
+      "temperature_unit": "°C",
+      "medium": "steam",
+      "pressure": null,
+      "pressure_unit": null,
+      "time": null,
+      "time_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "low corrosion rate",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "cooling_rate": "high",
+      "hydrogen_uptake": "reduced",
+      "corrosion_resistance": "improved"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_009_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Sample 3a, recrystallized, cumulative annealing parameter 1.3 · 10⁻¹⁷, 400°C test: low corrosion rate, 500°C test: high corrosion rate",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": [
+          1.4,
+          1.5
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": [
+          0.2,
+          0.21
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": [
+          0.1,
+          0.11
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "C",
+        "value": [
+          0.013,
+          0.014
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "sheet",
+    "process_step": "recrystallized",
+    "test_type": "steam corrosion",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "medium": "steam",
+      "pressure": null,
+      "pressure_unit": null,
+      "time": null,
+      "time_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "low corrosion rate",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "cumulative_annealing_parameter": "1.3·10⁻¹⁷",
+      "hydrogen_uptake": "reduced",
+      "corrosion_resistance": "improved"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_009_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Sample 3b, recrystallized, cumulative annealing parameter 1.3 · 10⁻¹⁷, 400°C test: low corrosion rate, 500°C test: high corrosion rate",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": [
+          1.4,
+          1.5
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": [
+          0.2,
+          0.21
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": [
+          0.1,
+          0.11
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "C",
+        "value": [
+          0.013,
+          0.014
+        ],
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "sheet",
+    "process_step": "recrystallized",
+    "test_type": "steam corrosion",
+    "conditions": {
+      "temperature": 500.0,
+      "temperature_unit": "°C",
+      "medium": "steam",
+      "pressure": null,
+      "pressure_unit": null,
+      "time": null,
+      "time_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "high corrosion rate",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "cumulative_annealing_parameter": "1.3·10⁻¹⁷",
+      "hydrogen_uptake": "reduced",
+      "corrosion_resistance": "improved"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_009_chunk2",
+    "page_or_fig": "Fig. 3",
+    "evidence_span": "Weight gains of Zircaloy-4 samples as a function of test duration in 400°C, 10.3 MPa steam",
+    "alloy_name": "Zircaloy-4",
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "medium": "steam",
+      "pressure": 10.3,
+      "pressure_unit": "MPa",
+      "time": null,
+      "time_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "weight gain data shown",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "corrosion_resistance": "varies by material",
+      "cumulative_annealing_parameter": "low for Materials 1a/1b, high for Materials 3a/3b",
+      "microstructure": "fully recrystallized for Materials 3a/3b",
+      "beta_field_treatment": "Material 2a"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_009_chunk2",
+    "page_or_fig": "Fig. 4",
+    "evidence_span": "Hydrogen weight gains of Zircaloy-4 samples as a function of test duration in 400°C, 10.3 MPa steam",
+    "alloy_name": "Zircaloy-4",
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "hydriding",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "medium": "steam",
+      "pressure": 10.3,
+      "pressure_unit": "MPa",
+      "time": null,
+      "time_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_uptake": "increases continuously with time",
+      "hydride_distribution": "shown after corrosion testing",
+      "hydrogen_pickup_ratio": "defined as ratio of absorbed hydrogen to theoretically liberated hydrogen"
+    }
+  }
+]

@@ -1,0 +1,1424 @@
+[
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Heat No. 224895, Zircaloy II, Form Plate, Cr 0.091, Fe 0.170, Ni 0.069, Sn 1.26, C 0.0165, N 0.0014, O 0.120",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "Cr",
+        "value": 0.091,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.17,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.069,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Sn",
+        "value": 1.26,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "C",
+        "value": 0.0165,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "N",
+        "value": 0.0014,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": 0.12,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "plate",
+    "process_step": "water quenched from 1100°C for 1h, hot rolled at 750°C",
+    "test_type": "autoclave test",
+    "conditions": {
+      "temperature": "500-520°C",
+      "pressure": null,
+      "environment": "steam",
+      "time": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosive_medium": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture": "basal poles oriented at 30 to 45° to the plate normal",
+      "rolling_schedule": "Schedule 1"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Heat No. 229029, Zircaloy IV, Form Plate, Cr 0.111, Fe 0.220, Ni <0.003, Sn 1.54, C 0.0170, N 0.0023, O 0.150",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Cr",
+        "value": 0.111,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.22,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.003,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Sn",
+        "value": 1.54,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "C",
+        "value": 0.017,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "N",
+        "value": 0.0023,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": 0.15,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "plate",
+    "process_step": "water quenched from 1100°C for 1h, hot rolled at 750°C",
+    "test_type": "autoclave test",
+    "conditions": {
+      "temperature": "500-520°C",
+      "pressure": null,
+      "environment": "steam",
+      "time": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosive_medium": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture": "basal poles oriented at 30 to 45° to the plate normal",
+      "rolling_schedule": "Schedule 1"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Heat No. 226411, Zircaloy II, Form Tube, Cr 0.096, Fe 0.169, Ni 0.071, Sn 1.30, C 0.0145, N 0.0021, O 0.139",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "Cr",
+        "value": 0.096,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.169,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.071,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Sn",
+        "value": 1.3,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "C",
+        "value": 0.0145,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "N",
+        "value": 0.0021,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": 0.139,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "tube",
+    "process_step": "various thermo-mechanical parameters and tube reduction schedules",
+    "test_type": "autoclave test",
+    "conditions": {
+      "temperature": "500-520°C",
+      "pressure": null,
+      "environment": "steam",
+      "time": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosive_medium": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {}
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Heat No. 228293, Zircaloy II, Form Tube, Cr 0.092, Fe 0.182, Ni 0.064, Sn 1.32, C 0.0155, N 0.0032, O 0.125",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "Cr",
+        "value": 0.092,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.182,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.064,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Sn",
+        "value": 1.32,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "C",
+        "value": 0.0155,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "N",
+        "value": 0.0032,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": 0.125,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "tube",
+    "process_step": "various thermo-mechanical parameters and tube reduction schedules",
+    "test_type": "autoclave test",
+    "conditions": {
+      "temperature": "500-520°C",
+      "pressure": null,
+      "environment": "steam",
+      "time": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosive_medium": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {}
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Heat No. 227356, Zircaloy II, Form Tube, Cr 0.092, Fe 0.179, Ni 0.069, Sn 1.26, C 0.0170, N 0.0023, O 0.130",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "Cr",
+        "value": 0.092,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.179,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.069,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Sn",
+        "value": 1.26,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "C",
+        "value": 0.017,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "N",
+        "value": 0.0023,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "O",
+        "value": 0.13,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "tube",
+    "process_step": "various thermo-mechanical parameters and tube reduction schedules",
+    "test_type": "autoclave test",
+    "conditions": {
+      "temperature": "500-520°C",
+      "pressure": null,
+      "environment": "steam",
+      "time": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosive_medium": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {}
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk2",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Section No. (Ann. Temp.), Step No., Wt. Gain mg/dm^2, Nodule Rating",
+    "alloy_name": "Zircaloy-2",
+    "composition": [],
+    "specimen_state": "tubing",
+    "process_step": "vacuum annealed, tube reduced in four passes",
+    "test_type": "HPST 500°C-10.3 MPa-24h test",
+    "conditions": {
+      "temperature": "500°C",
+      "pressure": "10.3 MPa",
+      "environment": null,
+      "time": "24h",
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosive_medium": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "weight_gain_mg_dm2": [
+        60,
+        null,
+        null,
+        null,
+        48
+      ],
+      "nodule_rating_OD": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "nodule_rating_ID": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "nodule_rating_CS": [
+        1,
+        1,
+        1,
+        1,
+        2
+      ]
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "annealing_temperature": "580°C",
+      "section_number": "1",
+      "cumulative_annealing_parameter": [
+        0.009,
+        0.08,
+        1.5,
+        2.2,
+        2.9
+      ]
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk2",
+    "page_or_fig": "Table 2",
+    "evidence_span": "Section No. (Ann. Temp.), Step No., Wt. Gain mg/dm^2, Nodule Rating",
+    "alloy_name": "Zircaloy-2",
+    "composition": [],
+    "specimen_state": "tubing",
+    "process_step": "vacuum annealed, tube reduced in four passes",
+    "test_type": "HPST 500°C-10.3 MPa-24h test",
+    "conditions": {
+      "temperature": "500°C",
+      "pressure": "10.3 MPa",
+      "environment": null,
+      "time": "24h",
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "corrosive_medium": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "weight_gain_mg_dm2": [
+        120,
+        53,
+        60,
+        60,
+        49
+      ],
+      "nodule_rating_OD": [
+        1,
+        2,
+        1,
+        1,
+        2
+      ],
+      "nodule_rating_ID": [
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "nodule_rating_CS": [
+        1,
+        1,
+        2,
+        1,
+        2
+      ]
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "annealing_temperature": "620°C",
+      "section_number": "2",
+      "cumulative_annealing_parameter": [
+        0.7,
+        1.4,
+        2.1,
+        3.6,
+        4.3
+      ]
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk5",
+    "page_or_fig": "Table 5",
+    "evidence_span": "Schedule 1, 3.8 mm, As-rolled, ∑A: 1.51, Weight Gain: 72, 77 mg/dm², Nodule Rating Trans.: 1, f₂: 0.75",
+    "alloy_name": "Zircaloy-4",
+    "composition": {},
+    "specimen_state": "plate",
+    "process_step": "rolled according to Schedule 1",
+    "test_type": "HPST 500°C-10.3MPa-24h",
+    "conditions": {
+      "temperature": 500.0,
+      "temperature_unit": "°C",
+      "pressure": 10.3,
+      "pressure_unit": "MPa",
+      "time": 24.0,
+      "time_unit": "h",
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "irradiation_dose_unit": null,
+      "corrosion_medium": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "weight_gain": {
+        "value": 74.5,
+        "unit": "mg/dm²",
+        "raw_value": "72-77",
+        "raw_unit": "mg/dm²"
+      },
+      "nodule_rating_transverse": 1
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_parameter_f₂": "0.75",
+      "thickness": "3.8",
+      "thickness_unit": "mm",
+      "accumulated_annealing_parameter": "1.51"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk5",
+    "page_or_fig": "Table 5",
+    "evidence_span": "Schedule 1, 3.8 mm, VA650°C 1h, ∑A: 3.02, Weight Gain: 184, 230 mg/dm², Nodule Rating Trans.: 2, f₂: 0.75",
+    "alloy_name": "Zircaloy-4",
+    "composition": {},
+    "specimen_state": "plate",
+    "process_step": "rolled according to Schedule 1, vacuum annealed 650°C/1h",
+    "test_type": "HPST 500°C-10.3MPa-24h",
+    "conditions": {
+      "temperature": 500.0,
+      "temperature_unit": "°C",
+      "pressure": 10.3,
+      "pressure_unit": "MPa",
+      "time": 24.0,
+      "time_unit": "h",
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "irradiation_dose_unit": null,
+      "corrosion_medium": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "weight_gain": {
+        "value": 207.0,
+        "unit": "mg/dm²",
+        "raw_value": "184-230",
+        "raw_unit": "mg/dm²"
+      },
+      "nodule_rating_transverse": 2
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_parameter_f₂": "0.75",
+      "thickness": "3.8",
+      "thickness_unit": "mm",
+      "accumulated_annealing_parameter": "3.02"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk5",
+    "page_or_fig": "Table 5",
+    "evidence_span": "Schedule 1, 1.9 mm, As-rolled, ∑A: 3.02, Weight Gain: 94,94 mg/dm², Nodule Rating Normal: 2 2, Long.: 1 1, Trans.: 1, f₂: 0.83",
+    "alloy_name": "Zircaloy-4",
+    "composition": {},
+    "specimen_state": "plate",
+    "process_step": "rolled according to Schedule 1",
+    "test_type": "HPST 500°C-10.3MPa-24h",
+    "conditions": {
+      "temperature": 500.0,
+      "temperature_unit": "°C",
+      "pressure": 10.3,
+      "pressure_unit": "MPa",
+      "time": 24.0,
+      "time_unit": "h",
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "irradiation_dose_unit": null,
+      "corrosion_medium": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "weight_gain": {
+        "value": 94.0,
+        "unit": "mg/dm²",
+        "raw_value": "94-94",
+        "raw_unit": "mg/dm²"
+      },
+      "nodule_rating_normal": "2",
+      "nodule_rating_longitudinal": "1",
+      "nodule_rating_transverse": 1
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_parameter_f₂": "0.83",
+      "thickness": "1.9",
+      "thickness_unit": "mm",
+      "accumulated_annealing_parameter": "3.02"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk5",
+    "page_or_fig": "Table 5",
+    "evidence_span": "Schedule 1, 1.9 mm, VA650°C/1h, ∑A: 4.53, Weight Gain: 171, 191 mg/dm², Nodule Rating Trans.: 1, f₂: 0.77",
+    "alloy_name": "Zircaloy-4",
+    "composition": {},
+    "specimen_state": "plate",
+    "process_step": "rolled according to Schedule 1, vacuum annealed 650°C/1h",
+    "test_type": "HPST 500°C-10.3MPa-24h",
+    "conditions": {
+      "temperature": 500.0,
+      "temperature_unit": "°C",
+      "pressure": 10.3,
+      "pressure_unit": "MPa",
+      "time": 24.0,
+      "time_unit": "h",
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "irradiation_dose_unit": null,
+      "corrosion_medium": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "weight_gain": {
+        "value": 181.0,
+        "unit": "mg/dm²",
+        "raw_value": "171-191",
+        "raw_unit": "mg/dm²"
+      },
+      "nodule_rating_transverse": 1
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_parameter_f₂": "0.77",
+      "thickness": "1.9",
+      "thickness_unit": "mm",
+      "accumulated_annealing_parameter": "4.53"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk5",
+    "page_or_fig": "Table 5",
+    "evidence_span": "Schedule 2, 7.6 mm, As-rolled, Weight Gain: 54, 55 mg/dm², f₂: 0.69",
+    "alloy_name": "Zircaloy-4",
+    "composition": {},
+    "specimen_state": "plate",
+    "process_step": "rolled according to Schedule 2",
+    "test_type": "HPST 500°C-10.3MPa-24h",
+    "conditions": {
+      "temperature": 500.0,
+      "temperature_unit": "°C",
+      "pressure": 10.3,
+      "pressure_unit": "MPa",
+      "time": 24.0,
+      "time_unit": "h",
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "irradiation_dose_unit": null,
+      "corrosion_medium": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "weight_gain": {
+        "value": 54.5,
+        "unit": "mg/dm²",
+        "raw_value": "54-55",
+        "raw_unit": "mg/dm²"
+      }
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_parameter_f₂": "0.69",
+      "thickness": "7.6",
+      "thickness_unit": "mm"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk5",
+    "page_or_fig": "Table 5",
+    "evidence_span": "Schedule 2, 7.6 mm, VA650°C/1h, ∑A: 1.51, Weight Gain: 98,103 mg/dm², f₂: 0.66",
+    "alloy_name": "Zircaloy-4",
+    "composition": {},
+    "specimen_state": "plate",
+    "process_step": "rolled according to Schedule 2, vacuum annealed 650°C/1h",
+    "test_type": "HPST 500°C-10.3MPa-24h",
+    "conditions": {
+      "temperature": 500.0,
+      "temperature_unit": "°C",
+      "pressure": 10.3,
+      "pressure_unit": "MPa",
+      "time": 24.0,
+      "time_unit": "h",
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "irradiation_dose_unit": null,
+      "corrosion_medium": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "weight_gain": {
+        "value": 100.5,
+        "unit": "mg/dm²",
+        "raw_value": "98-103",
+        "raw_unit": "mg/dm²"
+      }
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_parameter_f₂": "0.66",
+      "thickness": "7.6",
+      "thickness_unit": "mm",
+      "accumulated_annealing_parameter": "1.51"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk5",
+    "page_or_fig": "Table 5",
+    "evidence_span": "Schedule 2, 3.8 mm, As-rolled, ∑A: 1.51, Weight Gain: 67,68 mg/dm², f₂: 0.84",
+    "alloy_name": "Zircaloy-4",
+    "composition": {},
+    "specimen_state": "plate",
+    "process_step": "rolled according to Schedule 2",
+    "test_type": "HPST 500°C-10.3MPa-24h",
+    "conditions": {
+      "temperature": 500.0,
+      "temperature_unit": "°C",
+      "pressure": 10.3,
+      "pressure_unit": "MPa",
+      "time": 24.0,
+      "time_unit": "h",
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "irradiation_dose_unit": null,
+      "corrosion_medium": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "weight_gain": {
+        "value": 67.5,
+        "unit": "mg/dm²",
+        "raw_value": "67-68",
+        "raw_unit": "mg/dm²"
+      }
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_parameter_f₂": "0.84",
+      "thickness": "3.8",
+      "thickness_unit": "mm",
+      "accumulated_annealing_parameter": "1.51"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk5",
+    "page_or_fig": "Table 5",
+    "evidence_span": "Schedule 2, 3.8 mm, VA650°C1h, ∑A: 3.02, Weight Gain: 100,103 mg/dm², f₂: 0.82",
+    "alloy_name": "Zircaloy-4",
+    "composition": {},
+    "specimen_state": "plate",
+    "process_step": "rolled according to Schedule 2, vacuum annealed 650°C/1h",
+    "test_type": "HPST 500°C-10.3MPa-24h",
+    "conditions": {
+      "temperature": 500.0,
+      "temperature_unit": "°C",
+      "pressure": 10.3,
+      "pressure_unit": "MPa",
+      "time": 24.0,
+      "time_unit": "h",
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "irradiation_dose_unit": null,
+      "corrosion_medium": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": {
+      "weight_gain": {
+        "value": 101.5,
+        "unit": "mg/dm²",
+        "raw_value": "100-103",
+        "raw_unit": "mg/dm²"
+      }
+    },
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture_parameter_f₂": "0.82",
+      "thickness": "3.8",
+      "thickness_unit": "mm",
+      "accumulated_annealing_parameter": "3.02"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk7",
+    "page_or_fig": "FIG. 18",
+    "evidence_span": "Fe concentration in Zircaloy-2 matrix, Samples C3, AR (as-reduced) and VA (vacuum annealed) 12.7 mm OD × 0.51 mm W×L, Heat 228293",
+    "alloy_name": "Zircaloy-2",
+    "composition": [],
+    "specimen_state": "AR, VA",
+    "process_step": "C3",
+    "test_type": "Microprobe analysis",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "matrix_Fe_concentration": "measured",
+      "sample_dimensions": "12.7 mm OD × 0.51 mm W×L",
+      "heat_number": "228293",
+      "sample": "C3"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk7",
+    "page_or_fig": "FIG. 19",
+    "evidence_span": "Fe concentration in Zircaloy-2 matrix, Samples b.a3, AR (as reduced) and VA (vacuum annealed), 12.7 mm OD × 1.65 mm W×L, Heat 228293",
+    "alloy_name": "Zircaloy-2",
+    "composition": [],
+    "specimen_state": "AR, VA",
+    "process_step": "b.a3",
+    "test_type": "Microprobe analysis",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "matrix_Fe_concentration": "measured",
+      "sample_dimensions": "12.7 mm OD × 1.65 mm W×L",
+      "heat_number": "228293",
+      "sample": "b.a3"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk8",
+    "page_or_fig": null,
+    "evidence_span": "In all cases, the weight gains and number of nodules were lower for the as-reduced samples than for those in the annealed condition",
+    "alloy_name": "Zircaloy",
+    "composition": [],
+    "specimen_state": "as-reduced",
+    "process_step": "cold working",
+    "test_type": "autoclave corrosion test",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "lower weight gains and number of nodules",
+    "hardening_formula": null,
+    "hardening_data": "work hardening of the substrate material",
+    "extra_properties": {
+      "corrosion_resistance": "improved after cold working",
+      "microstructure": "work hardened"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk8",
+    "page_or_fig": null,
+    "evidence_span": "In all cases, the weight gains and number of nodules were lower for the as-reduced samples than for those in the annealed condition",
+    "alloy_name": "Zircaloy",
+    "composition": [],
+    "specimen_state": "annealed",
+    "process_step": "annealing",
+    "test_type": "autoclave corrosion test",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "higher weight gains and number of nodules",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "corrosion_resistance": "poorer in annealed condition"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk8",
+    "page_or_fig": "Figs. 6a, 6b and 7 to 11",
+    "evidence_span": "tubeshells annealed at higher temperatures (732 and 800°C) resulted in poorer nodular corrosion resistance after tube reducing than those annealed at lower temperature (663°C)",
+    "alloy_name": "Zircaloy-2",
+    "composition": [],
+    "specimen_state": "annealed",
+    "process_step": "tube reducing",
+    "test_type": "nodular corrosion test",
+    "conditions": {
+      "temperature": "732-800°C",
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "poorer nodular corrosion resistance",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "annealing_temperature": "732-800°C",
+      "corrosion_resistance": "poorer"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk8",
+    "page_or_fig": "Figs. 6a, 6b and 7 to 11",
+    "evidence_span": "tubeshells annealed at higher temperatures (732 and 800°C) resulted in poorer nodular corrosion resistance after tube reducing than those annealed at lower temperature (663°C)",
+    "alloy_name": "Zircaloy-2",
+    "composition": [],
+    "specimen_state": "annealed",
+    "process_step": "tube reducing",
+    "test_type": "nodular corrosion test",
+    "conditions": {
+      "temperature": "663°C",
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "better nodular corrosion resistance",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "annealing_temperature": "663°C",
+      "corrosion_resistance": "better"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk8",
+    "page_or_fig": null,
+    "evidence_span": "Products from controlled-chemistry Zircaloy-2 tubeshells, extruded at 650°C and annealed up to 663°C/2h, showed low weight gains and good nodule rating",
+    "alloy_name": "Zircaloy-2",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": "extruded at 650°C, annealed up to 663°C/2h",
+    "test_type": "static autoclave high pressure steam test",
+    "conditions": {
+      "temperature": "520°C",
+      "pressure": null,
+      "environment": "high pressure steam",
+      "irradiation_dose": null,
+      "time": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "low weight gains and good nodule rating",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "reduction_in_area": "high",
+      "Q-factor": "high",
+      "corrosion_resistance": "good"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk8",
+    "page_or_fig": null,
+    "evidence_span": "Section 4, Heat 224611 showed a higher frequency of detected spots in the concentration range of 0.08 to 0.12% than those <0.08%",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "Fe",
+        "value": 0.08,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.08,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.08,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "microprobe analysis",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "highly nodular corrosion resistant",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "matrix_solute_concentration": "0.08-0.12% Fe,Cr,Ni",
+      "corrosion_resistance": "excellent"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk8",
+    "page_or_fig": null,
+    "evidence_span": "Section 7 of the same heat showed higher frequencies of concentrations at lower concentration levels (<0.08%)",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "Fe",
+        "value": 0.08,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.08,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.08,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "microprobe analysis",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "poor corrosion resistance",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "matrix_solute_concentration": "<0.08% Fe,Cr,Ni",
+      "corrosion_resistance": "poor"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk8",
+    "page_or_fig": null,
+    "evidence_span": "The nodular corrosion resistance for controlled-chemistry Zircaloy-2 measured by autoclave tests was excellent, while that for Zircaloy-4 was poor",
+    "alloy_name": "Zircaloy-2",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "autoclave test",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "excellent nodular corrosion resistance",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "corrosion_resistance": "excellent"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_023_chunk8",
+    "page_or_fig": null,
+    "evidence_span": "The nodular corrosion resistance for controlled-chemistry Zircaloy-2 measured by autoclave tests was excellent, while that for Zircaloy-4 was poor",
+    "alloy_name": "Zircaloy-4",
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "autoclave test",
+    "conditions": null,
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "poor nodular corrosion resistance",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "corrosion_resistance": "poor"
+    }
+  }
+]

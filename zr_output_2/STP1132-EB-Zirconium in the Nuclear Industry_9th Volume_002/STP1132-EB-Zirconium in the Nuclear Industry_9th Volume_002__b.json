@@ -1,0 +1,194 @@
+[
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_002_chunk1",
+    "page_or_fig": "Overview ix",
+    "evidence_span": "Zirconium alloys, especially Zircaloy-2, Zircaloy-4, and Zr-2.5Nb",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "base",
+        "unit": "wt%",
+        "raw_unit": "base"
+      },
+      {
+        "element": "Sn",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Fe",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Cr",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Ni",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "general",
+    "process_step": "general",
+    "test_type": "general",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "stress": null,
+      "other": "general"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "description": "Main material used in nuclear reactor cores since 1950s"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_002_chunk1",
+    "page_or_fig": "Overview ix",
+    "evidence_span": "Zirconium alloys, especially Zircaloy-2, Zircaloy-4, and Zr-2.5Nb",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "base",
+        "unit": "wt%",
+        "raw_unit": "base"
+      },
+      {
+        "element": "Sn",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Fe",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Cr",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "general",
+    "process_step": "general",
+    "test_type": "general",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "stress": null,
+      "other": "general"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "description": "Main material used in nuclear reactor cores since 1950s"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_002_chunk1",
+    "page_or_fig": "Overview ix",
+    "evidence_span": "Zirconium alloys, especially Zircaloy-2, Zircaloy-4, and Zr-2.5Nb",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "base",
+        "unit": "wt%",
+        "raw_unit": "base"
+      },
+      {
+        "element": "Nb",
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "general",
+    "process_step": "general",
+    "test_type": "general",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "stress": null,
+      "other": "general"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "description": "Main material used in nuclear reactor cores since 1950s"
+    }
+  }
+]

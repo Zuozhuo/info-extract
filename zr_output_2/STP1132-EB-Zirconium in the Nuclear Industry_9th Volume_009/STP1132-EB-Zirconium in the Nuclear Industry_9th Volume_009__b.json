@@ -1,0 +1,665 @@
+[
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_009_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "To investigate the individual effects of hydrogen concentration, hydride orientation, and temperature on the fracture toughness at unstable failure, short tubes $8 0 0 \\ \\mathrm { m m }$ in length were cut from the as-received (about 10 ppm hydrogen concentration) HT $Z \\mathrm { r } { - } 2 . 5 \\mathrm { N b }$ pressure tubes",
+    "alloy_name": "HT Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Nb",
+        "value": 2.55,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "C",
+        "value": 0.005,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Si",
+        "value": 0.005,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Mn",
+        "value": 0.005,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.004,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.057,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 990.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "H",
+        "value": 11.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Zr",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "bal."
+      }
+    ],
+    "specimen_state": "as-received",
+    "process_step": "cut from pressure tubes",
+    "test_type": "fracture toughness study",
+    "conditions": {
+      "temperature": 293.0,
+      "temperature_unit": "K",
+      "hydrogen_concentration": 10.0,
+      "hydrogen_unit": "ppm",
+      "stress": null,
+      "stress_unit": null,
+      "strain_rate": null,
+      "strain_rate_unit": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "irradiation_dose_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_concentration": "10 ppm",
+      "tube_length": "800 mm",
+      "mechanical_properties": {
+        "293K": {
+          "yield_stress": 755,
+          "ultimate_tensile_strength": 870,
+          "elongation": 11.0
+        },
+        "423K": {
+          "yield_stress": 686,
+          "ultimate_tensile_strength": 754,
+          "elongation": 14.7
+        },
+        "573K": {
+          "yield_stress": 544,
+          "ultimate_tensile_strength": 663,
+          "elongation": 13.0
+        }
+      }
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_009_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "charged gaseously to several hydrogen concentration levels between 50 and 400 ppm at ${ 7 2 3 \\ \\bf K }$",
+    "alloy_name": "HT Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Nb",
+        "value": 2.55,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "C",
+        "value": 0.005,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Si",
+        "value": 0.005,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Mn",
+        "value": 0.005,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.004,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.057,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 990.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "H",
+        "value": null,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Zr",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "bal."
+      }
+    ],
+    "specimen_state": "hydrided",
+    "process_step": "gaseous charging",
+    "test_type": "fracture toughness study",
+    "conditions": {
+      "temperature": 723.0,
+      "temperature_unit": "K",
+      "hydrogen_concentration": null,
+      "hydrogen_unit": "ppm",
+      "stress": null,
+      "stress_unit": null,
+      "strain_rate": null,
+      "strain_rate_unit": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "irradiation_dose_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_concentration": "50-400 ppm",
+      "charging_temperature": "723K",
+      "mechanical_properties": {
+        "293K": {
+          "yield_stress": 640,
+          "ultimate_tensile_strength": 743,
+          "elongation": 11.0
+        },
+        "423K": {
+          "yield_stress": 522,
+          "ultimate_tensile_strength": 645,
+          "elongation": 10.1
+        }
+      }
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_009_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "some of the pressure tube specimens were cooled from $5 4 3 \\ \\mathrm { K }$ to RT at $3 0 ~ \\mathrm { K / h }$ under a constant hoop stress of $1 8 0 \\ \\mathrm { M P a }$ to reorient the hydrides",
+    "alloy_name": "HT Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Nb",
+        "value": 2.55,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "C",
+        "value": 0.005,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Si",
+        "value": 0.005,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Mn",
+        "value": 0.005,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.004,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.057,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 990.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "H",
+        "value": null,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Zr",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "bal."
+      }
+    ],
+    "specimen_state": "hydride reoriented",
+    "process_step": "cooling under stress",
+    "test_type": "slit burst test",
+    "conditions": {
+      "temperature": null,
+      "temperature_unit": null,
+      "hydrogen_concentration": null,
+      "hydrogen_unit": null,
+      "stress": 180.0,
+      "stress_unit": "MPa",
+      "strain_rate": null,
+      "strain_rate_unit": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "irradiation_dose_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "cooling_rate": "30 K/h",
+      "hoop_stress": "180 MPa",
+      "temperature_range": "543K to RT",
+      "hydride_orientation": "reoriented"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_009_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "the flattened plates were then stress-relieved at $7 2 3 \\mathrm { ~ K ~ }$ for $1 5 \\ \\mathrm { ~ h ~ }$",
+    "alloy_name": "HT Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Nb",
+        "value": 2.55,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "C",
+        "value": 0.005,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Si",
+        "value": 0.005,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Mn",
+        "value": 0.005,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.004,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.057,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 990.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "H",
+        "value": null,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Zr",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "bal."
+      }
+    ],
+    "specimen_state": "flattened, stress-relieved",
+    "process_step": "stress relief annealing",
+    "test_type": "compact tension test",
+    "conditions": {
+      "temperature": 723.0,
+      "temperature_unit": "K",
+      "hydrogen_concentration": null,
+      "hydrogen_unit": null,
+      "stress": null,
+      "stress_unit": null,
+      "strain_rate": null,
+      "strain_rate_unit": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "irradiation_dose_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "stress_relief_temperature": "723K",
+      "stress_relief_duration": "15 hours",
+      "specimen_thickness": "4.3 mm"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_009_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "some of the plates were cooled from $7 2 3 \\mathrm { K }$ to RT, similar to the specimens for the burst test, at $3 0 ~ \\mathrm { \\& } / \\mathrm { h }$ under a constant tensile stress of $1 5 0 \\ \\mathrm { M P a }$",
+    "alloy_name": "HT Zr-2.5Nb",
+    "composition": [
+      {
+        "element": "Nb",
+        "value": 2.55,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "C",
+        "value": 0.005,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Si",
+        "value": 0.005,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Mn",
+        "value": 0.005,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.004,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.057,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 990.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "H",
+        "value": null,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Zr",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": "bal."
+      }
+    ],
+    "specimen_state": "hydride reoriented",
+    "process_step": "cooling under tensile stress",
+    "test_type": "compact tension test",
+    "conditions": {
+      "temperature": null,
+      "temperature_unit": null,
+      "hydrogen_concentration": null,
+      "hydrogen_unit": null,
+      "stress": 150.0,
+      "stress_unit": "MPa",
+      "strain_rate": null,
+      "strain_rate_unit": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "irradiation_dose_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "cooling_rate": "30 K/h",
+      "tensile_stress": "150 MPa",
+      "temperature_range": "723K to RT",
+      "hydride_orientation": "completely reoriented"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_009_chunk6",
+    "page_or_fig": "Conclusions",
+    "evidence_span": "In the compact tension tests using 12 to $1 5 0 \\ \\mathrm { m m }$ specimen widths of the as-received material, the $J { - } R$ curves showed a strong dependence on specimen width",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "as-received",
+    "process_step": null,
+    "test_type": "compact tension test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "specimen_width_range": "12-150 mm",
+      "J-R_curve_behavior": "steeper and higher plateaus with increased specimen width",
+      "width_dependence": "strong dependence on specimen width"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_009_chunk6",
+    "page_or_fig": "Conclusions",
+    "evidence_span": "fracture toughness at the maximum load, $K _ { \\scriptscriptstyle { \\mathrm { C } } }$ or $\\boldsymbol { J } _ { \\mathrm { m a x } }$ , showed a strong dependence on specimen width",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "as-received",
+    "process_step": null,
+    "test_type": "compact tension test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "fracture_toughness_parameters": [
+        "K_C",
+        "J_max"
+      ],
+      "width_dependence": "both values increase with specimen width and asymptotically approach pressure tube values",
+      "convergence_behavior": "asymptotically approaches pressure tube values"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_009_chunk7",
+    "page_or_fig": "DISCUSSION",
+    "evidence_span": "Does the measured upper shelf fracture toughness depend on the initial crack length of the burst specimen? We think that the fracture toughness at the upper shelf depends on the initial crack length and the fracture stress of the burst specimen.",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "burst specimen",
+    "process_step": null,
+    "test_type": "fracture toughness",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "strain_rate": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "fracture_toughness_behavior": "depends on initial crack length and fracture stress",
+      "fracture_stress_threshold": "0.5 σ_y (yield stress)",
+      "crack_length_dependence": "short cracks (fracture stress > 0.5 σ_y): toughness decreases with shortening; long cracks (fracture stress < 0.5 σ_y): toughness independent of crack length"
+    }
+  }
+]

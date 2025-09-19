@@ -1,0 +1,332 @@
+[
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_022_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "The nitrogen concentration for both materials was very near 25 ppm",
+    "alloy_name": null,
+    "composition": [
+      {
+        "element": "N",
+        "value": 25.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "duration": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "nitrogen_concentration": "25 ppm"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_022_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "For uniform corrosion we have seen improvements in corrosion rates with Sn concentrations as low as 0.5%",
+    "alloy_name": null,
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 0.5,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "uniform corrosion",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "duration": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "tin_concentration": "0.5%",
+      "corrosion_improvement": "observed"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_022_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "measurements at 655 K show no significant differences between the 'low' and 'high' radial texture tubing after 250 h",
+    "alloy_name": null,
+    "composition": [],
+    "specimen_state": "tubing",
+    "process_step": null,
+    "test_type": "creep",
+    "conditions": {
+      "temperature": 655.0,
+      "pressure": null,
+      "environment": null,
+      "duration": 250.0,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "creep_properties": "no significant differences between low and high radial texture tubing",
+      "temperature": "655 K",
+      "duration": "250 h"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_022_chunk1",
+    "page_or_ffig": "text",
+    "evidence_span": "Nodule coverage varied from 0 to 100%",
+    "alloy_name": null,
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "nodular corrosion",
+    "conditions": {
+      "temperature": 773.0,
+      "pressure": 10.5,
+      "environment": "steam autoclave",
+      "duration": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "nodule_coverage_range": "0-100%",
+      "test_conditions": "773 K, 10.5 MPa steam autoclave"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_022_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Flat mill products of Zircaloy-4 and controlled-chemistry Zircaloy-2 were processed using different rolling schedules",
+    "alloy_name": "Zircaloy-4",
+    "composition": [],
+    "specimen_state": "flat mill products",
+    "process_step": "different rolling schedules",
+    "test_type": "steam autoclave tests",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "duration": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "poor nodular corrosion resistance",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture": "different textures",
+      "microstructure": "different metallurgical conditions",
+      "precipitate_analysis": "intermetallic precipitates analyzed for mean diameters and particle size distributions",
+      "matrix_concentration": "Fe, Cr, Ni analyzed by electron microprobe"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_022_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Flat mill products of Zircaloy-4 and controlled-chemistry Zircaloy-2 were processed using different rolling schedules",
+    "alloy_name": "controlled-chemistry Zircaloy-2",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Fe",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Ni",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "flat mill products",
+    "process_step": "different rolling schedules",
+    "test_type": "steam autoclave tests",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "duration": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "excellent nodular corrosion resistance",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "texture": "different textures",
+      "microstructure": "different metallurgical conditions",
+      "precipitate_analysis": "intermetallic precipitates analyzed for mean diameters and particle size distributions",
+      "matrix_concentration": "Fe, Cr, Ni analyzed by electron microprobe"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_022_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Tubular products of three heats of controlled-chemistry Zircaloy-2 were also processed using various thermo-mechanical parameters and different tube reduction schedules",
+    "alloy_name": "controlled-chemistry Zircaloy-2",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Fe",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Ni",
+        "value": null,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "tubular products",
+    "process_step": "various thermo-mechanical parameters, different tube reduction schedules",
+    "test_type": "steam autoclave tests",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "duration": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "excellent nodular corrosion resistance",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "annealing_condition": "annealed up to 663°C/2h",
+      "tube_reduction": "high Q ratio and high percent of reduction in area",
+      "treatment": "neither β quench nor α + β treatment after tube extrusion"
+    }
+  }
+]

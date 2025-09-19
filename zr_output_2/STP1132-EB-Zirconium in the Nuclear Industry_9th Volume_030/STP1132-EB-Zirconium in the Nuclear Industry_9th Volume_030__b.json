@@ -1,0 +1,560 @@
+[
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_030_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "The matrix composition in one Zircaloy-2 (Zry-2) and four Zircaloy-4 (Zry-4) materials has been measured with the atom probe technique",
+    "alloy_name": "Zircaloy-2",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "nuclear fuel cladding",
+    "process_step": null,
+    "test_type": "atom probe analysis",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "time": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "matrix_concentration_Fe": "0.02 wt%",
+      "matrix_concentration_Cr": "0.03 wt%"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_030_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "The matrix composition in one Zircaloy-2 (Zry-2) and four Zircaloy-4 (Zry-4) materials has been measured with the atom probe technique",
+    "alloy_name": "Zircaloy-4",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "nuclear fuel cladding",
+    "process_step": "β quench operation",
+    "test_type": "atom probe analysis",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "time": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "matrix_concentration_Fe": "0.02 wt%",
+      "matrix_concentration_Cr": "0.03 wt%"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_030_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Atom probe analysis was also used to study the oxide-metal interface in oxide layers formed in dry air and water on needle shaped Zry-4 specimens",
+    "alloy_name": "Zircaloy-4",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "needle shaped",
+    "process_step": null,
+    "test_type": "atom probe analysis, transmission electron microscopy",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "time": null,
+      "environment": "dry air and water",
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "oxide_layer_thickness": "10 nm",
+      "oxide_crystallite_size": "5 nm",
+      "oxygen_content": "less than 50 atomic percent",
+      "oxide_structure": "crystallites in amorphous layer"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_030_chunk2",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Material B1, Zry-4, wt%",
+    "alloy_name": "Zry-4",
+    "composition": {
+      "Fe": {
+        "value": 0.195,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Cr": {
+        "value": 0.096,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Ni": {
+        "value": 0.002,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.6,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "O": {
+        "value": 0.114,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Si": {
+        "value": 0.003,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": "Fe:0.195, Cr:0.096, Ni:0.002, Sn:1.60, O:0.114, Si:0.003",
+    "specimen_state": "β-quenched",
+    "process_step": "Heated to 1080°C in vacuum, rapidly cooled (20°C/s) to room temperature in helium",
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "time": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "microstructure": "plate-like grains of α-Zr surrounded by precipitates at grain boundaries"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_030_chunk2",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Material B2, Zry-4, wt%",
+    "alloy_name": "Zry-4",
+    "composition": {
+      "Fe": {
+        "value": 0.22,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Cr": {
+        "value": 0.11,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Ni": {
+        "value": 0.002,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.56,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "O": {
+        "value": 0.136,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Si": {
+        "value": 0.003,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": "Fe:0.22, Cr:0.11, Ni:0.002, Sn:1.56, O:0.136, Si:0.003",
+    "specimen_state": "cold-worked and annealed",
+    "process_step": "Cold-worked and annealed for 1h at 565°C after last β-quench",
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "time": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "microstructure": "small precipitates with small interprecipitate distances, resembles BWR application material"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_030_chunk2",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Material 3a = B1, Zry-4 wt%",
+    "alloy_name": "Zry-4",
+    "composition": {
+      "Fe": {
+        "value": 0.195,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Cr": {
+        "value": 0.096,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Ni": {
+        "value": 0.002,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.6,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "O": {
+        "value": 0.114,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Si": {
+        "value": 0.003,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": "Fe:0.195, Cr:0.096, Ni:0.002, Sn:1.60, O:0.114, Si:0.003",
+    "specimen_state": "standard variant",
+    "process_step": "Standard production process",
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "time": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "application": "full-scale PWR fuel cladding"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_030_chunk2",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Material 5a, Zry-4, wt%",
+    "alloy_name": "Zry-4",
+    "composition": {
+      "Fe": {
+        "value": 0.217,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Cr": {
+        "value": 0.116,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Ni": {
+        "value": 0.002,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.65,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "O": {
+        "value": 0.121,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Si": {
+        "value": 0.008,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": "Fe:0.217, Cr:0.116, Ni:0.002, Sn:1.65, O:0.121, Si:0.008",
+    "specimen_state": "similar heat treatment with Si addition",
+    "process_step": "Similar heat treatment with 80 ppm Si additions",
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "time": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Si_addition": "80 ppm"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_030_chunk2",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Material 2a, Zry-2, wt%",
+    "alloy_name": "Zry-2",
+    "composition": {
+      "Fe": {
+        "value": 0.094,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Cr": {
+        "value": 0.088,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Ni": {
+        "value": 0.049,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.52,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "O": {
+        "value": 0.113,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Si": {
+        "value": 0.003,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": "Fe:0.094, Cr:0.088, Ni:0.049, Sn:1.52, O:0.113, Si:0.003",
+    "specimen_state": "tested as fuel cladding",
+    "process_step": null,
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "time": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "corrosion_medium": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "application": "tested as fuel cladding in Ringhals 3 PWR"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_030_chunk6",
+    "page_or_fig": "476-498",
+    "evidence_span": "Zry-2 is a zirconiumbased alloy consisting of 1.5 wt% tin, 0.15 wt% iron, 0.10 wt% chromium, and 0.05 wt% nickel",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.15,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.05,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    ],
+    "specimen_state": "β-quenched",
+    "process_step": "heat treatment",
+    "test_type": "a-c impedance measurements, TEM, EDX analyses",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "high temperature steam",
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "stress": null,
+      "ph": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "electrical_resistivity": "increases with nodular corrosion resistance",
+      "precipitate_size": "decreased average size",
+      "precipitate_dissolution": "dissolved into oxide matrix during corrosion",
+      "corrosion_resistance": "improved by β-quenching",
+      "alloying_elements": "increased amount retained in matrix"
+    }
+  }
+]

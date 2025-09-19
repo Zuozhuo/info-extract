@@ -1,0 +1,141 @@
+[
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_038_chunk1",
+    "page_or_fig": "p. 613-627",
+    "evidence_span": "The oxides grown in reactor in dilute lithium hydroxide solution, specimens cut from Zircaloy, and Zr-2.5Nb alloy pressure tubes removed from CANDU reactors showed low concentrations of lithium (4 to 50 ppm)",
+    "alloy_name": "Zircaloy",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "corrosion films",
+    "process_step": "reactor operation",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "dilute lithium hydroxide solution, reactor environment",
+      "irradiation_dose": null,
+      "time": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "low concentrations of lithium (4 to 50 ppm)",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "lithium_content": "4-50 ppm",
+      "leachability": "not leachable in warm dilute acid",
+      "analysis_methods": "Atomic Absorption Spectroscopy, Secondary Ion Mass Spectrometry, Infrared Reflection Absorption Spectroscopy"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_038_chunk1",
+    "page_or_fig": "p. 613-627",
+    "evidence_span": "Zr-2.5Nb alloy pressure tubes removed from CANDU reactors showed low concentrations of lithium (4 to 50 ppm)",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-2.5Nb",
+    "specimen_state": "pressure tubes",
+    "process_step": "reactor operation",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "dilute lithium hydroxide solution, reactor environment",
+      "irradiation_dose": null,
+      "time": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "low concentrations of lithium (4 to 50 ppm)",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "lithium_content": "4-50 ppm",
+      "leachability": "not leachable in warm dilute acid",
+      "coolant_lithium_concentration": "~2.5 ppm",
+      "operational_period": "many Effective Full Power Years"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_038_chunk1",
+    "page_or_fig": "p. 613-627",
+    "evidence_span": "corrosion films grown in the laboratory in concentrated lithium hydroxide solutions were very porous and contained hundreds of ppm of lithium in the oxide",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "corrosion films",
+    "process_step": "laboratory corrosion",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "concentrated lithium hydroxide solutions",
+      "irradiation_dose": null,
+      "time": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "hundreds of ppm of lithium in the oxide",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "lithium_content": "hundreds of ppm",
+      "oxide_porosity": "very porous",
+      "leachability": "large fraction leachable",
+      "corrosion_mechanism": "undissociated LiOH participates in corrosion process producing surface -OLi groups and Li₂O"
+    }
+  }
+]

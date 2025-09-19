@@ -1,0 +1,435 @@
+[
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_007_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "The material used in this study was Zircaloy-4 (per ASTM B 353) with two tin populations: one with Sn composition close to 1.5% and the other close to 1.3%.",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.5,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Sn",
+        "value": 1.3,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "stress-relieved tube",
+    "process_step": "final pilgering pass",
+    "test_type": "tensile test, creep test",
+    "conditions": {
+      "temperature": [
+        "room temperature",
+        "343°C",
+        "385°C",
+        "400°C"
+      ],
+      "stress": "130 MPa",
+      "time": "240 h",
+      "environment": null,
+      "irradiation": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "Contractile Strain Ratio (CSR)": "0.8 to 2.8",
+      "Final annealing temperature": "500°C maximum",
+      "Mean stress-relief annealed temperature": "about 460°C",
+      "Dimensions": "18 to 6 mm outside diameter, 1.2 to 0.4 mm wall thickness",
+      "Tin composition": "two populations: 1.5% and 1.3% Sn"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_007_chunk2",
+    "page_or_fig": "Text",
+    "evidence_span": "Contractile Strain Ratio $( \\mathrm { C S R } ) = f _ { 1 }$ (pilgering characteristics) $\\bullet$ Mechanical Characteristics $= f _ { 2 }$ (pilgering characteristics) $\\bullet$ Mechanical Characteristics $= f _ { 3 }$ (stress relieving temperature)",
+    "alloy_name": null,
+    "composition": [],
+    "specimen_state": "tube",
+    "process_step": "pilgering, stress relieving",
+    "test_type": "Contractile Strain Ratio (CSR), mechanical characteristics",
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "time": null,
+      "environment": null,
+      "irradiation": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": "CSR = 0.6935 FQP - 0.1918 FFG + 0.517",
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "tube_type": "thick tubes (D_f/E_f < 17)",
+      "CSR_model_variables": "final pass Q_p factor (FQP), slip factor (FFG)",
+      "correlation_coefficient": "80%",
+      "statistical_methods": "multivariate analysis, multiple regression"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_007_chunk3",
+    "page_or_fig": "Table 3",
+    "evidence_span": "Hot tensile test at 385°C: Yield strength at 0.2% (MPa) -28.31 15.64 349.79 63%",
+    "alloy_name": null,
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.5,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "tube",
+    "process_step": "stress-relieved at about 460°C",
+    "test_type": "hot tensile test",
+    "conditions": {
+      "temperature": "385°C",
+      "stress": null,
+      "time": null,
+      "environment": null,
+      "irradiation": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": "mechanical characteristics = A.FQP + B.FAT + C",
+    "elastoplastic_model_data": "A=-28.31, B=15.64, C=349.79, r²=63%",
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "yield_strength_0.2%": "model: -28.31*FQP + 15.64*FAT + 349.79 MPa",
+      "test_temperature": "385°C",
+      "tin_content": "1.5%",
+      "stress_relief_temperature": "460°C"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_007_chunk3",
+    "page_or_fig": "Table 3",
+    "evidence_span": "Hot tensile test at 385°C: Ultimate strength (MPa) -57.16 12.30 498.36 93%",
+    "alloy_name": null,
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.5,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "tube",
+    "process_step": "stress-relieved at about 460°C",
+    "test_type": "hot tensile test",
+    "conditions": {
+      "temperature": "385°C",
+      "stress": null,
+      "time": null,
+      "environment": null,
+      "irradiation": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": "mechanical characteristics = A.FQP + B.FAT + C",
+    "elastoplastic_model_data": "A=-57.16, B=12.30, C=498.36, r²=93%",
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "ultimate_tensile_strength": "model: -57.16*FQP + 12.30*FAT + 498.36 MPa",
+      "test_temperature": "385°C",
+      "tin_content": "1.5%",
+      "stress_relief_temperature": "460°C"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_007_chunk3",
+    "page_or_fig": "Table 3",
+    "evidence_span": "Cold tensile test: Yield strength at 0.2% (MPa) 44.38 +17.14 606.4 82%",
+    "alloy_name": null,
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.5,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "tube",
+    "process_step": "stress-relieved at about 460°C",
+    "test_type": "cold tensile test",
+    "conditions": {
+      "temperature": "room temperature",
+      "stress": null,
+      "time": null,
+      "environment": null,
+      "irradiation": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": "mechanical characteristics = A.FQP + B.FAT + C",
+    "elastoplastic_model_data": "A=44.38, B=17.14, C=606.4, r²=82%",
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "yield_strength_0.2%": "model: 44.38*FQP + 17.14*FAT + 606.4 MPa",
+      "test_temperature": "room temperature",
+      "tin_content": "1.5%",
+      "stress_relief_temperature": "460°C"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_007_chunk3",
+    "page_or_fig": "Table 3",
+    "evidence_span": "Cold tensile test: Ultimate strength (MPa) -79.80 +21.83 830.93 93%",
+    "alloy_name": null,
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.5,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "tube",
+    "process_step": "stress-relieved at about 460°C",
+    "test_type": "cold tensile test",
+    "conditions": {
+      "temperature": "room temperature",
+      "stress": null,
+      "time": null,
+      "environment": null,
+      "irradiation": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": "mechanical characteristics = A.FQP + B.FAT + C",
+    "elastoplastic_model_data": "A=-79.80, B=21.83, C=830.93, r²=93%",
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "ultimate_tensile_strength": "model: -79.80*FQP + 21.83*FAT + 830.93 MPa",
+      "test_temperature": "room temperature",
+      "tin_content": "1.5%",
+      "stress_relief_temperature": "460°C"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_007_chunk3",
+    "page_or_fig": "Table 3",
+    "evidence_span": "Creep (%) -0.921 0.33 1.047 98%",
+    "alloy_name": null,
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.5,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "tube",
+    "process_step": "stress-relieved at about 460°C",
+    "test_type": "creep test",
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "time": null,
+      "environment": null,
+      "irradiation": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": "mechanical characteristics = A.FQP + B.FAT + C",
+    "irradiation_creep_data": "A=-0.921, B=0.33, C=1.047, r²=98%",
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "creep_percentage": "model: -0.921*FQP + 0.33*FAT + 1.047%",
+      "tin_content": "1.5%",
+      "stress_relief_temperature": "460°C"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_007_chunk3",
+    "page_or_fig": "Text",
+    "evidence_span": "CSR = 0.904 FQP + 0.015 FLZR + 0.826 PQP - 4.218",
+    "alloy_name": null,
+    "composition": [],
+    "specimen_state": "thin tube",
+    "process_step": null,
+    "test_type": "Contractile Strain Ratio measurement",
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "time": null,
+      "environment": null,
+      "irradiation": null,
+      "other": "D_f/E_f > 17"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": "CSR = 0.904 FQP + 0.015 FLZR + 0.826 PQP - 4.218",
+    "elastoplastic_model_data": "88% dispersion",
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "contractile_strain_ratio_model": "0.904*FQP + 0.015*FLZR + 0.826*PQP - 4.218",
+      "correlation_dispersion": "88%",
+      "tube_geometry": "thin tube (D_f/E_f > 17)"
+    }
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_007_chunk4",
+    "page_or_fig": "text",
+    "evidence_span": "Tensile tests were conducted in the axial direction at 343°C, 385°C, and room temperature. The results shown in Fig. 12 are for a room temperature tensile test.",
+    "alloy_name": null,
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "tensile",
+    "conditions": {
+      "temperature": [
+        "room temperature",
+        "343°C",
+        "385°C"
+      ],
+      "stress": null,
+      "time": null,
+      "environment": null,
+      "irradiation": null,
+      "other": "axial direction"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "test_temperature": "room temperature, 343°C, 385°C",
+      "test_direction": "axial",
+      "data_reference": "Fig. 12"
+    }
+  }
+]
