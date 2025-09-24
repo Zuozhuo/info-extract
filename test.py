@@ -1,23 +1,34 @@
 import os
-import re
+import pandas as pd
 
-# 目标文件夹路径
-folder_path = "/home/zuozhuo/info-extract/zr_pdfs_split_resume"
+base_dir = "/home/zuozhuo/info-extract/zr_output"
 
-# 匹配的模式（Industry_1st 到 Industry_8th）
-pattern = re.compile(r"Industry_(?:[1-8](?:st|nd|rd|th))")
+# 1. 统计子文件夹数量
+if not os.path.exists(base_dir):
+    raise FileNotFoundError(f"路径不存在: {base_dir}")
 
-# 记录删除的文件
-deleted_files = []
+subfolders = [f.path for f in os.scandir(base_dir) if f.is_dir()]
+num_subfolders = len(subfolders)
 
-# 遍历文件夹
-for filename in os.listdir(folder_path):
-    if pattern.search(filename):
-        file_path = os.path.join(folder_path, filename)
-        try:
-            os.remove(file_path)
-            deleted_files.append(filename)
-        except Exception as e:
-            deleted_files.append(f"删除失败: {filename}, 错误: {e}")
+# 2. 统计所有 final.csv 文件的总行数（不算表头）
+total_rows = 0
+final_csv_files = []
 
-deleted_files[:20]  # 仅显示前20个删除的文件名字
+for subfolder in subfolders:
+    for file in os.listdir(subfolder):
+        if file.endswith("final.csv"):
+            file_path = os.path.join(subfolder, file)
+            final_csv_files.append(file_path)
+            try:
+                # 用 iterator 避免大文件卡死
+                with open(file_path, "r", encoding="utf-8") as f:
+                    # 跳过表头
+                    row_count = sum(1 for _ in f) - 1
+                    total_rows += max(row_count, 0)
+            except Exception as e:
+                print(f"读取文件失败: {file_path}, 错误: {e}")
+
+print(f"子文件夹数量: {num_subfolders}")
+print(f"找到的 final.csv 文件数量: {len(final_csv_files)}")
+print(f"所有 final.csv 文件的总行数（不含表头）: {total_rows}")
+print(f"平均每篇提取条数：{total_rows / num_subfolders if num_subfolders > 0 else 0:.2f}")

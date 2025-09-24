@@ -1,0 +1,179 @@
+[
+  {
+    "source_id": "STP1354-EB-Zirconium in the Nuclear Industry_12th Volume_001_chunk1",
+    "page_or_fig": "Contents",
+    "evidence_span": "Irradiation Creep and Growth Behavior, and Microstructural Evolution of Advanced Zr-Base Alloys—D. GILBON, A. SONIAK, S. DORIOT, AND J.-P. MARDON 51",
+    "alloy_name": "Advanced Zr-Base Alloys",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Irradiation",
+    "property_name": "Creep and Growth Behavior, Microstructural Evolution",
+    "domain": "irradiation_creep",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1354-EB-Zirconium in the Nuclear Industry_12th Volume_001_chunk1",
+    "page_or_fig": "Contents",
+    "evidence_span": "Irradiation-Enhanced Deformation of Zr-2.5Nb Tubes at High Neutron FlUENCES—A. R. CAUSEY, R. A. HOLT, N. CHRISTODOULOU, AND E. T. C. HO 74",
+    "alloy_name": "Zr-2.5Nb",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "Tubes",
+    "process_step": null,
+    "test_type": "Irradiation",
+    "property_name": "Deformation",
+    "domain": "irradiation_creep",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": "High",
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1354-EB-Zirconium in the Nuclear Industry_12th Volume_001_chunk1",
+    "page_or_fig": "Contents",
+    "evidence_span": "High-Fluence Irradiation Growth of Cold-Worked Zr-2.5Nb—R. A. HOLT, A. R. CAUSEY, M. GRIFFITHS, AND E. T. C. HO 86",
+    "alloy_name": "Zr-2.5Nb",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "Cold-Worked",
+    "process_step": "Cold-Worked",
+    "test_type": "Irradiation",
+    "property_name": "Growth",
+    "domain": "irradiation_swelling",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": "High",
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1354-EB-Zirconium in the Nuclear Industry_12th Volume_001_chunk1",
+    "page_or_fig": "Contents",
+    "evidence_span": "Evolution of Dislocation and Precipitate Structure in Zr Alloys Under LongTerm Irradiation—S. A. AVERIN, V. L. PANCHENKO, A. V. KOZLOV, L. P. SINELNIKOV, V. N. SHISHOV, AND A. V. NIKULINA 105",
+    "alloy_name": "Zr Alloys",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Irradiation",
+    "property_name": "Dislocation and Precipitate Structure Evolution",
+    "domain": "irradiation_swelling",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": "LongTerm",
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1354-EB-Zirconium in the Nuclear Industry_12th Volume_001_chunk1",
+    "page_or_fig": "Contents",
+    "evidence_span": "Effect of Long-Term Irradiation on the Fracture Properties of Zr-2.5Nb PreSSUre TubeS—R. R. HOSBONS, P. H. DAVIES, M. GRIFFITHS, S. SAGAT, AND C. E. COLEMAN 122",
+    "alloy_name": "Zr-2.5Nb",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "Pressure Tubes",
+    "process_step": null,
+    "test_type": "Irradiation",
+    "property_name": "Fracture Properties",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": "Long-Term",
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  }
+]

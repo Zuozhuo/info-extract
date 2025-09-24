@@ -1,0 +1,38 @@
+[
+  {
+    "source_id": "STP1467-EB-Zirconium in the Nuclear Industry_14th Volume_044_chunk1",
+    "page_or_fig": "925",
+    "evidence_span": "Fuel cladding, 3, 604, 651",
+    "alloy_name": null,
+    "composition_raw": null,
+    "specimen_state": "Fuel cladding",
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "conditions": {},
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1467-EB-Zirconium in the Nuclear Industry_14th Volume_044_chunk1",
+    "page_or_fig": "925",
+    "evidence_span": "Fuel rods, 651, 802",
+    "alloy_name": null,
+    "composition_raw": null,
+    "specimen_state": "Fuel rods",
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "conditions": {},
+    "metric_type": "judgement",
+    "confidence": 0.9
+  }
+]

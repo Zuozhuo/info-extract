@@ -1,0 +1,43 @@
+[
+  {
+    "source_id": "STP1529-EB-Zirconium in the Nuclear Industry_16th Volume_003_chunk1",
+    "page_or_fig": "Foreword",
+    "evidence_span": "Zirconium in the Nuclear Industry: 16th International Symposium",
+    "alloy_name": null,
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "strain_rate": null,
+      "neutron_fluence": null,
+      "neutron_flux": null,
+      "neutron_energy": null,
+      "coolant_type": null,
+      "coolant_temperature": null,
+      "coolant_pressure": null,
+      "corrosion_time": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "dpa_rate": null,
+      "stress": null,
+      "strain": null,
+      "heating_rate": null,
+      "testing_medium": null,
+      "ph": null,
+      "applied_potential": null,
+      "relative_humidity": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "source_id": "STP1467-EB-Zirconium in the Nuclear Industry_14th Volume_001_chunk1",
+    "page_or_fig": "53",
+    "evidence_span": "Plastic Deformation of Irradiated Zirconium Alloys: TEM Investigations and Micro-Mechanical Modeling",
+    "alloy_name": "Zirconium Alloys",
+    "specimen_state": "irradiated",
+    "process_step": "irradiation",
+    "test_type": "TEM Investigations",
+    "property_name": "Plastic Deformation",
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP1467-EB-Zirconium in the Nuclear Industry_14th Volume_001_chunk1",
+    "page_or_fig": "53",
+    "evidence_span": "Plastic Deformation of Irradiated Zirconium Alloys: TEM Investigations and Micro-Mechanical Modeling",
+    "alloy_name": "Zirconium Alloys",
+    "specimen_state": "irradiated",
+    "process_step": "irradiation",
+    "test_type": "Micro-Mechanical Modeling",
+    "property_name": "Plastic Deformation",
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP1467-EB-Zirconium in the Nuclear Industry_14th Volume_001_chunk1",
+    "page_or_fig": "157",
+    "evidence_span": "Modeling of the Simultaneous Evolution of Vacancy and Interstitial Dislocation Loops in hcp Metals Under Irradiation",
+    "alloy_name": "hcp Metals",
+    "specimen_state": "irradiated",
+    "process_step": "irradiation",
+    "test_type": "Modeling",
+    "property_name": "Evolution of Vacancy and Interstitial Dislocation Loops",
+    "metric_type": "judgement",
+    "confidence": "high"
+  }
+]
