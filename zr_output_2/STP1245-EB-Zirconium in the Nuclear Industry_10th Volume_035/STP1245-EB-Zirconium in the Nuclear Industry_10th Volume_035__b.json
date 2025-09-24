@@ -1,0 +1,523 @@
+[
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_035_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Ref. Zr-2a: Sn, % by weight 1.39, Ni, % by weight 0.04, Fe, % by weight 0.09, Cr, % by weight 0.27, Si, ppm 59, O, ppm 2100, Nb, ppm, Al, ppm 88",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.39,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.04,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.09,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.27,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Si",
+        "value": 59.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "O",
+        "value": 2100.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Al",
+        "value": 88.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "strip",
+    "process_step": "recrystallized annealed",
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "pressure": 10.3,
+      "pressure_unit": "MPa",
+      "environment": "steam",
+      "duration": null,
+      "duration_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_size": "recrystallized annealed",
+      "oxygen_content": "2100 ppm",
+      "aluminum_content": "88 ppm"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_035_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "NiFeNb: Sn, % by weight 1.55, Ni, % by weight 0.21, Fe, % by weight 0.26, Cr, % by weight 0.11, Si, ppm 120, O, ppm 2000, Nb, ppm 1280, Al, ppm 140",
+    "alloy_name": "NiFeNb",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.55,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.21,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.26,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.11,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Si",
+        "value": 120.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "O",
+        "value": 2000.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Nb",
+        "value": 1280.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Al",
+        "value": 140.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "strip",
+    "process_step": "recrystallized annealed",
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "pressure": 10.3,
+      "pressure_unit": "MPa",
+      "environment": "steam",
+      "duration": null,
+      "duration_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "niobium_content": "1280 ppm",
+      "silicon_content": "120 ppm",
+      "aluminum_content": "140 ppm"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_035_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "NiFeNb'a,b: Sn, % by weight 1.48, Ni, % by weight 0.15, Fe, % by weight 0.20, Cr, % by weight 0.10, Si, ppm 105, O, ppm 1270, Nb, ppm 930, Al, ppm 47",
+    "alloy_name": "NiFeNb'",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.48,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.15,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.2,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Si",
+        "value": 105.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "O",
+        "value": 1270.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Nb",
+        "value": 930.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Al",
+        "value": 47.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "strip",
+    "process_step": "recrystallized annealed",
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "pressure": 10.3,
+      "pressure_unit": "MPa",
+      "environment": "steam",
+      "duration": null,
+      "duration_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "niobium_content": "930 ppm",
+      "oxygen_content": "1270 ppm",
+      "aluminum_content": "47 ppm"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_035_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "NiFeSia: Sn, % by weight 1.60, Ni, % by weight 0.24, Fe, % by weight 0.25, Cr, % by weight 0.12, Si, ppm 560, O, ppm 1750, Nb, ppm . . •, Al, ppm 140",
+    "alloy_name": "NiFeSi",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.6,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.24,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.25,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.12,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Si",
+        "value": 560.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "O",
+        "value": 1750.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Al",
+        "value": 140.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "strip",
+    "process_step": "recrystallized annealed",
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "pressure": 10.3,
+      "pressure_unit": "MPa",
+      "environment": "steam",
+      "duration": null,
+      "duration_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "silicon_content": "560 ppm",
+      "oxygen_content": "1750 ppm",
+      "aluminum_content": "140 ppm"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_035_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "NiFeSiSna: Sn, % by weight 1.03, Ni, % by weight 0.15, Fe, % by weight 0.21, Cr, % by weight 0.07, Si, ppm 510, O, ppm 1820, Nb, ppm . . •, Al, ppm 340",
+    "alloy_name": "NiFeSiSn",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.03,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.15,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.21,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.07,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Si",
+        "value": 510.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "O",
+        "value": 1820.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Al",
+        "value": 340.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "strip",
+    "process_step": "recrystallized annealed",
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "pressure": 10.3,
+      "pressure_unit": "MPa",
+      "environment": "steam",
+      "duration": null,
+      "duration_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "silicon_content": "510 ppm",
+      "oxygen_content": "1820 ppm",
+      "aluminum_content": "340 ppm"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_035_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "NiFeSiSn'a: Sn, % by weight 0.97, Ni, % by weight 0.12, Fe, % by weight 0.18, Cr, % by weight 0.09, Si, ppm 225, O, ppm 1120, Nb, ppm •., Al, ppm 29",
+    "alloy_name": "NiFeSiSn'",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 0.97,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.12,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.18,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.09,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Si",
+        "value": 225.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "O",
+        "value": 1120.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      },
+      {
+        "element": "Al",
+        "value": 29.0,
+        "unit": "ppm",
+        "raw_unit": "ppm"
+      }
+    ],
+    "specimen_state": "strip",
+    "process_step": "recrystallized annealed",
+    "test_type": "corrosion",
+    "conditions": {
+      "temperature": 400.0,
+      "temperature_unit": "°C",
+      "pressure": 10.3,
+      "pressure_unit": "MPa",
+      "environment": "steam",
+      "duration": null,
+      "duration_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "silicon_content": "225 ppm",
+      "oxygen_content": "1120 ppm",
+      "aluminum_content": "29 ppm"
+    }
+  }
+]

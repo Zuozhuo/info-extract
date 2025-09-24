@@ -1,0 +1,728 @@
+[
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_029_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "The composition of the thirteen alloys is given in Table 1",
+    "alloy_name": "Zr-0.5Sn-0.4Fe",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Sn",
+        "value": 0.5,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Fe",
+        "value": 0.4,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "strip material",
+    "process_step": "beta-quenching, hot rolling, anneals at 975 K, final vacuum anneal 773 K for 3.5 h",
+    "test_type": "corrosion, hydrogen pickup, mechanical properties",
+    "conditions": {
+      "temperature": 673.0,
+      "temperature_unit": "K",
+      "pressure": 10.4,
+      "pressure_unit": "MPa",
+      "environment": "steam",
+      "duration": null,
+      "duration_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "microstructure": "partly recrystallized structure",
+      "intermetallic_particles": "Zr(Fe,Cr)2 type"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_029_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "The composition of the thirteen alloys is given in Table 1",
+    "alloy_name": "Zr-1.0Sn-0.4Fe",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Sn",
+        "value": 1.0,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Fe",
+        "value": 0.4,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "strip material",
+    "process_step": "beta-quenching, hot rolling, anneals at 975 K, final vacuum anneal 773 K for 3.5 h",
+    "test_type": "corrosion, hydrogen pickup, mechanical properties",
+    "conditions": {
+      "temperature": 673.0,
+      "temperature_unit": "K",
+      "pressure": 10.4,
+      "pressure_unit": "MPa",
+      "environment": "steam",
+      "duration": null,
+      "duration_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "microstructure": "partly recrystallized structure",
+      "intermetallic_particles": "Zr(Fe,Cr)2 type"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_029_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "The composition of the thirteen alloys is given in Table 1",
+    "alloy_name": "Zircaloy-3B",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Sn",
+        "value": 0.5,
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Fe",
+        "value": 0.4,
+        "unit": "wt%",
+        "raw_unit": null
+      }
+    ],
+    "specimen_state": "strip material",
+    "process_step": "beta-quenching, hot rolling, anneals at 975 K, final vacuum anneal 773 K for 3.5 h",
+    "test_type": "corrosion, hydrogen pickup, mechanical properties",
+    "conditions": {
+      "temperature": 673.0,
+      "temperature_unit": "K",
+      "pressure": 10.4,
+      "pressure_unit": "MPa",
+      "environment": "steam",
+      "duration": null,
+      "duration_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "microstructure": "partly recrystallized structure",
+      "intermetallic_particles": "Zr(Fe,Cr)2 type"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_029_chunk2",
+    "page_or_fig": "Table",
+    "evidence_span": "Composition, % by weight; Alloy S2-1: Sn 0.47, Fe 0.39, Cr 0.04, Ni 0.08, O2 0.10",
+    "alloy_name": "S2-1",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Sn",
+        "value": 0.47,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.39,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.04,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.08,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 0.1,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "strip material",
+    "process_step": "machined from 0.8-mm-thick strip",
+    "test_type": "tension and creep testing",
+    "conditions": {
+      "temperature": 673.0,
+      "temperature_unit": "K",
+      "pressure": null,
+      "pressure_unit": null,
+      "environment": null,
+      "duration": null,
+      "duration_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "yield_strength_MPa": "362",
+      "tensile_strength_MPa": "464",
+      "elongation_%": "21",
+      "grain_size_mm": "0.8",
+      "rolling_direction": "parallel"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_029_chunk2",
+    "page_or_fig": "Table",
+    "evidence_span": "Composition, % by weight; Alloy S2-2: Sn 0.50, Fe 0.40, Cr 0.09, Ni 0.00, O2 0.11",
+    "alloy_name": "S2-2",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Sn",
+        "value": 0.5,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.4,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.09,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.0,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 0.11,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "strip material",
+    "process_step": "machined from 0.8-mm-thick strip",
+    "test_type": "tension and creep testing",
+    "conditions": {
+      "temperature": 673.0,
+      "temperature_unit": "K",
+      "pressure": null,
+      "pressure_unit": null,
+      "environment": null,
+      "duration": null,
+      "duration_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "yield_strength_MPa": "374",
+      "tensile_strength_MPa": "474",
+      "grain_size_mm": "0.8",
+      "rolling_direction": "parallel",
+      "samples_averaged": "2"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_029_chunk2",
+    "page_or_fig": "Table",
+    "evidence_span": "Composition, % by weight; Alloy S2-3: Sn 0.53, Fe 0.41, Cr 0.20, Ni 0.00, O2 0.12",
+    "alloy_name": "S2-3",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Sn",
+        "value": 0.53,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.41,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.2,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.0,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 0.12,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "strip material",
+    "process_step": "machined from 0.8-mm-thick strip",
+    "test_type": "tension and creep testing",
+    "conditions": {
+      "temperature": 673.0,
+      "temperature_unit": "K",
+      "pressure": null,
+      "pressure_unit": null,
+      "environment": null,
+      "duration": null,
+      "duration_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "yield_strength_MPa": "402",
+      "tensile_strength_MPa": "507",
+      "elongation_%": "2",
+      "steady_state_creep_rate_%/h": "0.024",
+      "grain_size_mm": "0.8",
+      "rolling_direction": "parallel"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_029_chunk2",
+    "page_or_fig": "Table",
+    "evidence_span": "Composition, % by weight; Alloy S2-4: Sn 0.52, Fe 0.41, Cr 0.00, Ni 0.05, O2 0.12",
+    "alloy_name": "S2-4",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": null
+      },
+      {
+        "element": "Sn",
+        "value": 0.52,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.41,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.0,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Ni",
+        "value": 0.05,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 0.12,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "strip material",
+    "process_step": "machined from 0.8-mm-thick strip",
+    "test_type": "tension and creep testing",
+    "conditions": {
+      "temperature": 673.0,
+      "temperature_unit": "K",
+      "pressure": null,
+      "pressure_unit": null,
+      "environment": null,
+      "duration": null,
+      "duration_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "yield_strength_MPa": "379",
+      "tensile_strength_MPa": "473",
+      "elongation_%": "20",
+      "grain_size_mm": "0.8",
+      "rolling_direction": "parallel",
+      "samples_averaged": "2"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_029_chunk4",
+    "page_or_fig": "Conclusions",
+    "evidence_span": "Chromium additions to Zr-0.4Fe-xSn alloys improve the $\\bf { 6 7 3 ~ K }$ autoclave corrosion resistance and $6 7 3 \\ \\mathrm { K }$ creep strength",
+    "alloy_name": null,
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Fe": {
+        "value": 0.4,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": "x",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion and creep test",
+    "conditions": {
+      "temperature": 673.0,
+      "temperature_unit": "K",
+      "pressure": null,
+      "pressure_unit": null,
+      "environment": "autoclave",
+      "time": null,
+      "time_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "corrosion_resistance": "improved with chromium",
+      "creep_strength": "improved with chromium"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_029_chunk4",
+    "page_or_fig": "Conclusions",
+    "evidence_span": "Nickel additions to Zr-0.4Fe-xSn-yCr alloys have no effect on $\\bf { 6 7 3 ~ K }$ autoclave corrosion or hydrogen pickup",
+    "alloy_name": null,
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Fe": {
+        "value": 0.4,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": "x",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Cr": {
+        "value": "y",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion and hydrogen pickup test",
+    "conditions": {
+      "temperature": 673.0,
+      "temperature_unit": "K",
+      "pressure": null,
+      "pressure_unit": null,
+      "environment": "autoclave",
+      "time": null,
+      "time_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "nickel_effect": "no significant effect on corrosion or hydrogen pickup"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_029_chunk5",
+    "page_or_fig": "text discussion",
+    "evidence_span": "The autoclave tests of these alloys were conducted only at 673 K (400°C)...",
+    "alloy_name": "Zircaloy-3B",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Sn": {
+        "value": 0.5,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      },
+      "Fe": {
+        "value": 0.4,
+        "unit": "wt%",
+        "raw_unit": "wt%"
+      }
+    },
+    "specimen_state": "partially recrystallized structures",
+    "process_step": "autoclave testing",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": 673.0,
+      "temperature_unit": "K",
+      "pressure": null,
+      "pressure_unit": null,
+      "environment": "steam",
+      "time": 512.0,
+      "time_unit": "days"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "138-183 mg/dm² weight gain",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "tin_content": "0.5%",
+      "iron_content": "0.4%",
+      "chromium_content": "varied",
+      "corrosion_variability": "10 mg/dm² between duplicate samples",
+      "test_temperature": "400°C",
+      "exposure_time": "512 days"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_029_chunk6",
+    "page_or_fig": null,
+    "evidence_span": "Measuring the degree of recrystallization in zirconium alloys is extremely difficult because the degree of recrystallization can be estimated only by transmission electron microscopy (TEM). Detailed TEM examinations of four selected alloys showed that the area fraction of recrystallized material from small areas (approximately $0 . 0 0 3 \\ \\mathrm { m m } ^ { 2 } )$ ranged from about 30 to $60 \\%$",
+    "alloy_name": "zirconium alloys",
+    "composition": null,
+    "specimen_state": "recrystallized",
+    "process_step": "TEM examination",
+    "test_type": "microstructural analysis",
+    "conditions": {
+      "temperature": null,
+      "temperature_unit": null,
+      "pressure": null,
+      "pressure_unit": null,
+      "environment": null,
+      "time": null,
+      "time_unit": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "recrystallization_degree": "30-60%",
+      "examination_method": "TEM",
+      "examination_area": "0.003 mm²"
+    }
+  }
+]

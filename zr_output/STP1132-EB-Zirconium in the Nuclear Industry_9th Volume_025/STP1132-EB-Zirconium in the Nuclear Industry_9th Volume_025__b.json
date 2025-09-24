@@ -1,0 +1,2232 @@
+[
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Static autoclave tests in steam at $6 7 3 \\mathrm { ~ K ~ }$",
+    "alloy_name": null,
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "autoclave corrosion test",
+    "property_name": "corrosion",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 400.0,
+      "medium": "steam",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "condition",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "tensile tests at room temperature",
+    "alloy_name": null,
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "tensile test",
+    "property_name": "mechanical properties",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 25.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "condition",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "tin (0.2 to $1 . 5 ~ \\mathrm { w t } \\%$ )",
+    "alloy_name": null,
+    "composition": {
+      "Sn": {
+        "value": null,
+        "value_min": 0.2,
+        "value_max": 1.5,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Sn: 0.2-1.5 wt%",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": 0.2,
+    "value_max": 1.5,
+    "unit": "wt%",
+    "raw_unit": "wt%",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "composition_range",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "niobium (0.05 to 1.0)",
+    "alloy_name": null,
+    "composition": {
+      "Nb": {
+        "value": null,
+        "value_min": 0.05,
+        "value_max": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Nb: 0.05-1.0 wt%",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": 0.05,
+    "value_max": 1.0,
+    "unit": "wt%",
+    "raw_unit": "wt%",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "composition_range",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "iron (0.2 to 0.6)",
+    "alloy_name": null,
+    "composition": {
+      "Fe": {
+        "value": null,
+        "value_min": 0.2,
+        "value_max": 0.6,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Fe: 0.2-0.6 wt%",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": 0.2,
+    "value_max": 0.6,
+    "unit": "wt%",
+    "raw_unit": "wt%",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "composition_range",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "chromium (0.1 to 0.4)",
+    "alloy_name": null,
+    "composition": {
+      "Cr": {
+        "value": null,
+        "value_min": 0.1,
+        "value_max": 0.4,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Cr: 0.1-0.4 wt%",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": 0.1,
+    "value_max": 0.4,
+    "unit": "wt%",
+    "raw_unit": "wt%",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "composition_range",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "molybdenum (0.05 to 0.5)",
+    "alloy_name": null,
+    "composition": {
+      "Mo": {
+        "value": null,
+        "value_min": 0.05,
+        "value_max": 0.5,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Mo: 0.05-0.5 wt%",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": 0.05,
+    "value_max": 0.5,
+    "unit": "wt%",
+    "raw_unit": "wt%",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "composition_range",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "vanadium (0.1 to 0.5)",
+    "alloy_name": null,
+    "composition": {
+      "V": {
+        "value": null,
+        "value_min": 0.1,
+        "value_max": 0.5,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "V: 0.1-0.5 wt%",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": 0.1,
+    "value_max": 0.5,
+    "unit": "wt%",
+    "raw_unit": "wt%",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "composition_range",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Zircaloy-4 (nominal composition: $Z \\mathrm { r } { - } 1 . 5 \\mathrm { S n } { - 0 . 2 \\mathrm { F e - } 0 . 1 \\mathrm { C r } }",
+    "alloy_name": "Zircaloy-4",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "value_min": null,
+        "value_max": null,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.5,
+        "value_min": null,
+        "value_max": null,
+        "unit": "wt%"
+      },
+      "Fe": {
+        "value": 0.2,
+        "value_min": null,
+        "value_max": null,
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value": 0.1,
+        "value_min": null,
+        "value_max": null,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-1.5Sn-0.2Fe-0.1Cr",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": "wt%",
+    "raw_unit": "wt%",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "nominal_composition",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "the corrosion resistance of zirconium-base alloys compared with that of Zircaloy-4 ... was significantly improved by the reduction of the Sn content by $0 . 5 ~ \\mathrm { w t } \\%$ and by a small addition of Nb (about 0.05 to $0 . 2 \\ \\mathrm { w t } \\%$ )",
+    "alloy_name": null,
+    "composition": {
+      "Sn": {
+        "value": null,
+        "value_min": null,
+        "value_max": null,
+        "unit": "wt%",
+        "note": "reduction by 0.5 wt%"
+      },
+      "Nb": {
+        "value": null,
+        "value_min": 0.05,
+        "value_max": 0.2,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Sn reduction by 0.5 wt%; Nb: 0.05-0.2 wt%",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "corrosion resistance",
+    "domain": "corrosion",
+    "value": "improved",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "the decrease in solute Sn atoms degraded mechanical properties such as ultimate tensile strength and $0 . 2 \\%$ yield strength",
+    "alloy_name": null,
+    "composition": {
+      "Sn": {
+        "value": null,
+        "value_min": null,
+        "value_max": null,
+        "unit": null,
+        "note": "decrease"
+      }
+    },
+    "composition_raw": "Sn decrease",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "ultimate tensile strength, 0.2% yield strength",
+    "domain": "elastoplastic_model",
+    "value": "degraded",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "The increase of the total content of Fe and Cr from 0.3 to $0 . 7 \\mathrm { w t } \\%$ improved the mechanical properties without affecting the corrosion resistance",
+    "alloy_name": null,
+    "composition": {
+      "Fe+Cr": {
+        "value": null,
+        "value_min": 0.3,
+        "value_max": 0.7,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Fe+Cr: 0.3-0.7 wt%",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "mechanical properties, corrosion resistance",
+    "domain": "elastoplastic_model",
+    "value": "improved",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Small additions of Mo and/or $\\mathrm { V }$ resulted in a further improvement of mechanical properties",
+    "alloy_name": null,
+    "composition": {
+      "Mo": {
+        "value": null,
+        "value_min": null,
+        "value_max": null,
+        "unit": "wt%",
+        "note": "small addition"
+      },
+      "V": {
+        "value": null,
+        "value_min": null,
+        "value_max": null,
+        "unit": "wt%",
+        "note": "small addition"
+      }
+    },
+    "composition_raw": "Mo, V additions",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "mechanical properties",
+    "domain": "elastoplastic_model",
+    "value": "improved",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "The corrosion resistance increased and the average size of precipitates decreased from 0.1 to $0 . 0 5 ~ { \\mu \\mathrm { m } }$ with the decrease of the $\\mathrm { F e / C r }$ ratio from 6.0 to 0.5",
+    "alloy_name": null,
+    "composition": {
+      "Fe/Cr": {
+        "value": null,
+        "value_min": 0.5,
+        "value_max": 6.0,
+        "unit": null
+      }
+    },
+    "composition_raw": "Fe/Cr ratio: 6.0-0.5",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "corrosion resistance, precipitate size",
+    "domain": "corrosion",
+    "value": "increased, decreased",
+    "value_min": 0.05,
+    "value_max": 0.1,
+    "unit": "μm",
+    "raw_unit": "μm",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "further additions of more than about $0 . 2 \\%$ lead to an increase in weight gain.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "With decreasing Sn content, weight gains generally decreased (i.e.. corrosion resistances increased).",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Thus the corrosion resistance of zirconium-base alloys, especially Zircaloy-4. could be significantly improved by the reduction of the Sn content to $0 . 5 \\%$ and a small addition of $\\mathbf { N b }$ (about 0.05 to $0 . 2 \\%$ ).",
+    "alloy_name": "Zircaloy-4",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "property_name": "corrosion resistance",
+    "domain": "corrosion",
+    "value": "significantly improved",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk2",
+    "page_or_fig": "Fig. 4",
+    "evidence_span": "FIG. 4—Tensile strength as a function of Sn conient at room temperature.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "tensile",
+    "property_name": "tensile strength",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 25.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "curve",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk2",
+    "page_or_fig": "Fig. 5",
+    "evidence_span": "FIG. 5—Tensile strength as a function of Nb content at room temperature.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "tensile",
+    "property_name": "tensile strength",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 25.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "curve",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Ultimate tensile strength (U.T.S.) and $0 . 2 \\%$ yield strength $( 0 . 2 \\%$ Y.S.) decreased with decreasing Sn content.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "tensile",
+    "property_name": "ultimate tensile strength",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 25.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Ultimate tensile strength (U.T.S.) and $0 . 2 \\%$ yield strength $( 0 . 2 \\%$ Y.S.) decreased with decreasing Sn content.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "tensile",
+    "property_name": "0.2% yield strength",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 25.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "The tensile strength increased with increasing Nb content up to $0 . 5 \\%$ . but remains almost with further additions of Nb.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "tensile",
+    "property_name": "tensile strength",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 25.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "the increase in strength by the addition of $\\mathsf { N b }$ was not enough to compensate for the decrease in strength due to the reduction in Sn content.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "tensile",
+    "property_name": "strength",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk3",
+    "page_or_fig": "Fig. 16",
+    "evidence_span": "The average size of precipitate of the small $\\mathrm { F e / C r }$ ratio (0.5) alloy is smaller than that of the large ratio (6.0) alloy.",
+    "alloy_name": "",
+    "composition_raw": "Fe/Cr ratio 0.5",
+    "composition": {
+      "Fe/Cr": {
+        "value": 0.5,
+        "unit": "ratio"
+      }
+    },
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "",
+    "property_name": "precipitate size",
+    "domain": "hardening",
+    "value": "",
+    "value_min": "",
+    "value_max": "",
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk3",
+    "page_or_fig": "Fig. 16",
+    "evidence_span": "The average size of precipitate of the small $\\mathrm { F e / C r }$ ratio (0.5) alloy is smaller than that of the large ratio (6.0) alloy.",
+    "alloy_name": "",
+    "composition_raw": "Fe/Cr ratio 6.0",
+    "composition": {
+      "Fe/Cr": {
+        "value": 6.0,
+        "unit": "ratio"
+      }
+    },
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "",
+    "property_name": "precipitate size",
+    "domain": "hardening",
+    "value": "",
+    "value_min": "",
+    "value_max": "",
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "the corrosion resistance of niobium-containing zirconium-base aloys tended to decrease with increasing $\\mathbf { F e / C r }$ ratio.",
+    "alloy_name": "niobium-containing zirconium-base alloys",
+    "composition_raw": "",
+    "composition": {},
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "corrosion",
+    "property_name": "corrosion resistance",
+    "domain": "corrosion",
+    "value": "",
+    "value_min": "",
+    "value_max": "",
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "the content of alloying elements dissolved in the matrix of low Fe/Cr ratio alloy is much higher than that of the high $\\mathbf { F e / C r }$ ratio alloy. This is the reason for the high strength of the former material.",
+    "alloy_name": "",
+    "composition_raw": "low Fe/Cr ratio",
+    "composition": {},
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "tensile",
+    "property_name": "strength",
+    "domain": "elastoplastic_model",
+    "value": "",
+    "value_min": "",
+    "value_max": "",
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk3",
+    "page_or_fig": "Fig. 17",
+    "evidence_span": "The addition of Mo and $\\mathbf { V }$ increases the weight gains (i.e., these elements lower corrosion resistance).",
+    "alloy_name": "",
+    "composition_raw": "Mo addition",
+    "composition": {
+      "Mo": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "corrosion",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": "",
+    "value_min": "",
+    "value_max": "",
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk3",
+    "page_or_fig": "Fig. 17",
+    "evidence_span": "The addition of Mo and $\\mathbf { V }$ increases the weight gains (i.e., these elements lower corrosion resistance).",
+    "alloy_name": "",
+    "composition_raw": "V addition",
+    "composition": {
+      "V": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "corrosion",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": "",
+    "value_min": "",
+    "value_max": "",
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk3",
+    "page_or_fig": "Fig. 18",
+    "evidence_span": "Tensile strengths increase with increasing content of Mo",
+    "alloy_name": "",
+    "composition_raw": "Mo addition",
+    "composition": {
+      "Mo": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "tensile",
+    "property_name": "tensile strength",
+    "domain": "elastoplastic_model",
+    "value": "",
+    "value_min": "",
+    "value_max": "",
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk3",
+    "page_or_fig": "Fig. 19",
+    "evidence_span": "Tensile strengths increase with increasing content of V",
+    "alloy_name": "",
+    "composition_raw": "V addition",
+    "composition": {
+      "V": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "tensile",
+    "property_name": "tensile strength",
+    "domain": "elastoplastic_model",
+    "value": "",
+    "value_min": "",
+    "value_max": "",
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "The increase of the Fe and Cr contents results in the improvement of the tensile strength without affecting the corrosion resistance",
+    "alloy_name": "",
+    "composition_raw": "Fe/Cr addition",
+    "composition": {
+      "Fe": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "corrosion",
+    "property_name": "corrosion resistance",
+    "domain": "corrosion",
+    "value": "",
+    "value_min": "",
+    "value_max": "",
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "With the increase of the Fe/Cr ratio, corrosion resistance tends to decrease in the niobium-containing zirconium-base alloys",
+    "alloy_name": "niobium-containing zirconium-base alloys",
+    "composition_raw": "Fe/Cr ratio increase",
+    "composition": {
+      "Fe": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "corrosion",
+    "property_name": "corrosion resistance",
+    "domain": "corrosion",
+    "value": "",
+    "value_min": "",
+    "value_max": "",
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "average sizes of precipitates increase similar to Zircaloy-4",
+    "alloy_name": "niobium-containing zirconium-base alloys",
+    "composition_raw": "Fe/Cr ratio increase",
+    "composition": {
+      "Fe": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "",
+    "property_name": "precipitate size",
+    "domain": "hardening",
+    "value": "",
+    "value_min": "",
+    "value_max": "",
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "The small addition of Mo and V results in a further improvement of the mechanical properties without a considerable degradation of corrosion resistance",
+    "alloy_name": "",
+    "composition_raw": "Mo/V small addition",
+    "composition": {
+      "Mo": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "V": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "mechanical",
+    "property_name": "mechanical properties",
+    "domain": "hardening",
+    "value": "",
+    "value_min": "",
+    "value_max": "",
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "The small addition of Mo and V results in a further improvement of the mechanical properties without a considerable degradation of corrosion resistance",
+    "alloy_name": "",
+    "composition_raw": "Mo/V small addition",
+    "composition": {
+      "Mo": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "V": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "corrosion",
+    "property_name": "corrosion resistance",
+    "domain": "corrosion",
+    "value": "",
+    "value_min": "",
+    "value_max": "",
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk3",
+    "page_or_fig": "table",
+    "evidence_span": "average size µm 0.05",
+    "alloy_name": "",
+    "composition_raw": "Fe/Cr ratio 0.5",
+    "composition": {
+      "Fe": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "",
+    "property_name": "precipitate size",
+    "domain": "hardening",
+    "value": 0.05,
+    "value_min": "",
+    "value_max": "",
+    "unit": "µm",
+    "raw_unit": "µm",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk3",
+    "page_or_fig": "table",
+    "evidence_span": "average size µm 0.10",
+    "alloy_name": "",
+    "composition_raw": "Fe/Cr ratio 6.0",
+    "composition": {
+      "Fe": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "",
+    "property_name": "precipitate size",
+    "domain": "hardening",
+    "value": 0.1,
+    "value_min": "",
+    "value_max": "",
+    "unit": "µm",
+    "raw_unit": "µm",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk4",
+    "page_or_fig": "FIG. 18",
+    "evidence_span": "Tensile strength as a function of Mo content at room temperature.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Tensile",
+    "property_name": "Tensile strength",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": "MPa",
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 25.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk4",
+    "page_or_fig": "FIG. 19",
+    "evidence_span": "Tensile strength as a function of $V$ content at room temperature.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Tensile",
+    "property_name": "Tensile strength",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": "MPa",
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 25.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk4",
+    "page_or_fig": "TABLE 2",
+    "evidence_span": "Mo and V were added to Zr-1Sn-0.2Fe-0.1Cr-0.2Nb.",
+    "alloy_name": null,
+    "composition_raw": "Zr-1Sn-0.2Fe-0.1Cr-0.2Nb",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      },
+      "Fe": {
+        "value": 0.2,
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value": 0.1,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 0.2,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk4",
+    "page_or_fig": "TABLE 2",
+    "evidence_span": "Composition (wt%) V ... 0.1 ... Average Size of Precipitates ... 0.07 ... Number of Precipitates ... 9",
+    "alloy_name": null,
+    "composition_raw": "V: 0.1 wt%",
+    "composition": {
+      "V": {
+        "value": 0.1,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "TEM",
+    "property_name": "Average Size of Precipitates",
+    "domain": "hardening",
+    "value": 0.07,
+    "value_min": null,
+    "value_max": null,
+    "unit": "µm",
+    "raw_unit": "μm",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk4",
+    "page_or_fig": "TABLE 2",
+    "evidence_span": "Composition (wt%) V ... 0.1 ... Number of Precipitates ... 9",
+    "alloy_name": null,
+    "composition_raw": "V: 0.1 wt%",
+    "composition": {
+      "V": {
+        "value": 0.1,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "TEM",
+    "property_name": "Number of Precipitates",
+    "domain": "hardening",
+    "value": 9.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "n/µm²",
+    "raw_unit": "n/μm²",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk4",
+    "page_or_fig": "TABLE 2",
+    "evidence_span": "Composition (wt%) Mo ... 0.5 ... Average Size of Precipitates ... 0.07 ... Number of Precipitates ... 22",
+    "alloy_name": null,
+    "composition_raw": "Mo: 0.5 wt%",
+    "composition": {
+      "Mo": {
+        "value": 0.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "TEM",
+    "property_name": "Average Size of Precipitates",
+    "domain": "hardening",
+    "value": 0.07,
+    "value_min": null,
+    "value_max": null,
+    "unit": "µm",
+    "raw_unit": "μm",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk4",
+    "page_or_fig": "TABLE 2",
+    "evidence_span": "Composition (wt%) Mo ... 0.5 ... Number of Precipitates ... 22",
+    "alloy_name": null,
+    "composition_raw": "Mo: 0.5 wt%",
+    "composition": {
+      "Mo": {
+        "value": 0.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "TEM",
+    "property_name": "Number of Precipitates",
+    "domain": "hardening",
+    "value": 22.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "n/µm²",
+    "raw_unit": "n/μm²",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk4",
+    "page_or_fig": "TABLE 2",
+    "evidence_span": "Average Size of Precipitates ... 0.06 ... Number of Precipitates ... 47",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "TEM",
+    "property_name": "Average Size of Precipitates",
+    "domain": "hardening",
+    "value": 0.06,
+    "value_min": null,
+    "value_max": null,
+    "unit": "µm",
+    "raw_unit": "μm",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk4",
+    "page_or_fig": "TABLE 2",
+    "evidence_span": "Number of Precipitates ... 47",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "TEM",
+    "property_name": "Number of Precipitates",
+    "domain": "hardening",
+    "value": 47.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "n/µm²",
+    "raw_unit": "n/μm²",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk4",
+    "page_or_fig": "TABLE 3",
+    "evidence_span": "Alloy Composition (wt%) ... VAZ-03 ... Sn ... 0.73",
+    "alloy_name": "VAZ-03",
+    "composition_raw": "Sn: 0.73 wt%",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 0.73,
+        "unit": "wt%"
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Chemical Analysis",
+    "domain": "corrosion",
+    "property_name": "Composition",
+    "value": 0.73,
+    "value_min": null,
+    "value_max": null,
+    "unit": "wt%",
+    "raw_unit": "wt%",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk5",
+    "page_or_fig": "abstract",
+    "evidence_span": "Corrosion tests were performed in $6 \\bar { 3 } 3 ~ \\mathrm { K }$ water and $6 7 3 \\mathrm { ~ K ~ }$ steam for a total of $7 2 0 0 \\ \\mathrm { h }$",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "domain": "corrosion",
+    "property_name": "test duration",
+    "value": 7200,
+    "value_min": null,
+    "value_max": null,
+    "unit": "h",
+    "raw_unit": "h",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 7200,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk5",
+    "page_or_fig": "abstract",
+    "evidence_span": "Corrosion tests were performed in $6 \\bar { 3 } 3 ~ \\mathrm { K }$ water",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "domain": "corrosion",
+    "property_name": "test medium",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 360.0,
+      "medium": "water",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "condition",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk5",
+    "page_or_fig": "abstract",
+    "evidence_span": "Corrosion tests were performed in $6 7 3 \\mathrm { ~ K ~ }$ steam",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "domain": "corrosion",
+    "property_name": "test medium",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 400.0,
+      "medium": "steam",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "condition",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk5",
+    "page_or_fig": "abstract",
+    "evidence_span": "Zircaloy-type alloys showed typical corrosion behavior with a rate transition",
+    "alloy_name": "Zircaloy-type alloys",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "domain": "corrosion",
+    "property_name": "corrosion behavior",
+    "value": "typical with a rate transition",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk5",
+    "page_or_fig": "abstract",
+    "evidence_span": "In the pretransition region almost all alloys showed the same behavior",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "domain": "corrosion",
+    "property_name": "pretransition corrosion behavior",
+    "value": "same behavior",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk5",
+    "page_or_fig": "abstract",
+    "evidence_span": "the post-transition corrosion rate increased with tin content",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "domain": "corrosion",
+    "property_name": "post-transition corrosion rate",
+    "value": "increased with tin content",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk5",
+    "page_or_fig": "abstract",
+    "evidence_span": "Iron increased the post-transition corrosion rate in $6 7 3 \\mathrm { ~ K ~ }$ steam",
+    "alloy_name": null,
+    "composition_raw": "Iron",
+    "composition": [
+      {
+        "element": "Fe",
+        "value": null,
+        "unit": null
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "domain": "corrosion",
+    "property_name": "post-transition corrosion rate",
+    "value": "increased",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 400.0,
+      "medium": "steam",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk5",
+    "page_or_fig": "abstract",
+    "evidence_span": "the effect of chromium was negligible",
+    "alloy_name": null,
+    "composition_raw": "Chromium",
+    "composition": [
+      {
+        "element": "Cr",
+        "value": null,
+        "unit": null
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "domain": "corrosion",
+    "property_name": "effect on corrosion",
+    "value": "negligible",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk5",
+    "page_or_fig": "abstract",
+    "evidence_span": "A small addition of nickel was effective in reducing post-transition corrosion rate, but larger amounts did not markedly improve the resistance",
+    "alloy_name": null,
+    "composition_raw": "Nickel",
+    "composition": [
+      {
+        "element": "Ni",
+        "value": null,
+        "unit": null
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "domain": "corrosion",
+    "property_name": "post-transition corrosion rate",
+    "value": "reduced with small addition, no marked improvement with larger amounts",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk5",
+    "page_or_fig": "abstract",
+    "evidence_span": "The effect of impurities was also negligibly small within the variation of the contents in this study",
+    "alloy_name": null,
+    "composition_raw": "impurities (oxygen, carbon, nitrogen, silicon, aluminum, phosphorus)",
+    "composition": [
+      {
+        "element": "O",
+        "value": null,
+        "unit": null
+      },
+      {
+        "element": "C",
+        "value": null,
+        "unit": null
+      },
+      {
+        "element": "N",
+        "value": null,
+        "unit": null
+      },
+      {
+        "element": "Si",
+        "value": null,
+        "unit": null
+      },
+      {
+        "element": "Al",
+        "value": null,
+        "unit": null
+      },
+      {
+        "element": "P",
+        "value": null,
+        "unit": null
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "domain": "corrosion",
+    "property_name": "effect on corrosion",
+    "value": "negligibly small",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk5",
+    "page_or_fig": "abstract",
+    "evidence_span": "The effects of alloying elements in the binary alloys were basically the same as that in Zircaloys",
+    "alloy_name": "binary alloys",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "domain": "corrosion",
+    "property_name": "effect of alloying elements",
+    "value": "basically the same as in Zircaloys",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk5",
+    "page_or_fig": "abstract",
+    "evidence_span": "niobium and tantalum had a remarkable effect in improving the corrosion resistance",
+    "alloy_name": null,
+    "composition_raw": "Niobium, Tantalum",
+    "composition": [
+      {
+        "element": "Nb",
+        "value": null,
+        "unit": null
+      },
+      {
+        "element": "Ta",
+        "value": null,
+        "unit": null
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "domain": "corrosion",
+    "property_name": "corrosion resistance",
+    "value": "remarkable improvement",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk5",
+    "page_or_fig": "abstract",
+    "evidence_span": "The effects of tin, iron, and chromium on hydrogen pick-up fraction were small",
+    "alloy_name": null,
+    "composition_raw": "Tin, Iron, Chromium",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": null,
+        "unit": null
+      },
+      {
+        "element": "Fe",
+        "value": null,
+        "unit": null
+      },
+      {
+        "element": "Cr",
+        "value": null,
+        "unit": null
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "hydrogen pick-up test",
+    "domain": "corrosion",
+    "property_name": "hydrogen pick-up fraction",
+    "value": "small effect",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk5",
+    "page_or_fig": "abstract",
+    "evidence_span": "nickel, however, had a significant effect",
+    "alloy_name": null,
+    "composition_raw": "Nickel",
+    "composition": [
+      {
+        "element": "Ni",
+        "value": null,
+        "unit": null
+      }
+    ],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "hydrogen pick-up test",
+    "domain": "corrosion",
+    "property_name": "hydrogen pick-up fraction",
+    "value": "significant effect",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_025_chunk5",
+    "page_or_fig": "abstract",
+    "evidence_span": "The composition of second-phase particles in Zircaloys varied with the contents of alloying elements",
+    "alloy_name": "Zircaloys",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "microstructure analysis",
+    "domain": "corrosion",
+    "property_name": "second-phase particle composition",
+    "value": "varied with alloying element contents",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  }
+]

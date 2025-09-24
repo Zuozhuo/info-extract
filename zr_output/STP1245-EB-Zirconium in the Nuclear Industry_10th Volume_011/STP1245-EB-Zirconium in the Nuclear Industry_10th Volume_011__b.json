@@ -1,0 +1,1535 @@
+[
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk1",
+    "page_or_fig": "p. 116",
+    "evidence_span": "Pressure tubes for CANDU reactors are made from extruded and cold-drawn $\\mathbf { Z } \\mathbf { r } { - } 2 . 5 \\mathbf { N } \\mathbf { b }$ alloy.",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-2.5Nb",
+    "specimen_state": "Pressure tube",
+    "process_step": "extruded and cold-drawn",
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk1",
+    "page_or_fig": "p. 116",
+    "evidence_span": "Their microstructure consists of elongated $\\mathbf { { \\alpha } } \\mathbf { { \\mathrm { z } } } _ { \\mathbf { { \\bar { \\Gamma } } } }$ grains (0.3 to $0 . 5 ~ { \\mu } \\mathrm { m }$ thick), containing about 1 atom percent niobium, surrounded by a thin (30 to ${ \\mathfrak { s o } } \\ \\mathfrak { n m } ,$ network of metastable $\\scriptstyle \\mathbf { \\beta - Z r }$ phase, containing about 20 atom percent niobium.",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Nb_in_alpha": {
+        "value": 1.0,
+        "unit": "at%"
+      },
+      "Nb_in_beta": {
+        "value": 20.0,
+        "unit": "at%"
+      }
+    },
+    "composition_raw": "about 1 atom percent niobium in α-Zr; about 20 atom percent niobium in β-Zr",
+    "specimen_state": "Pressure tube microstructure",
+    "process_step": null,
+    "test_type": null,
+    "property_name": "α-Zr grain thickness",
+    "domain": null,
+    "value": null,
+    "value_min": 0.3,
+    "value_max": 0.5,
+    "unit": "μm",
+    "raw_unit": "μm",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement_range",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk1",
+    "page_or_fig": "p. 116",
+    "evidence_span": "Alloys of Zr-1Nb and Zr-20Nb were prepared, heat treated, and oxidized in $\\$ 73\\ 8$ water to produce bulk microstructures and oxides that would simulate those normally found on a much finer scale in pressure tubes.",
+    "alloy_name": "Zr-1Nb, Zr-20Nb",
+    "composition": {
+      "Zr-1Nb": {
+        "Zr": {
+          "value": 99.0,
+          "unit": "wt%"
+        },
+        "Nb": {
+          "value": 1.0,
+          "unit": "wt%"
+        }
+      },
+      "Zr-20Nb": {
+        "Zr": {
+          "value": 80.0,
+          "unit": "wt%"
+        },
+        "Nb": {
+          "value": 20.0,
+          "unit": "wt%"
+        }
+      }
+    },
+    "composition_raw": "Zr-1Nb, Zr-20Nb",
+    "specimen_state": "bulk",
+    "process_step": "prepared, heat treated, oxidized",
+    "test_type": "corrosion test",
+    "property_name": null,
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 738.0,
+      "medium": "water",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk1",
+    "page_or_fig": "p. 116",
+    "evidence_span": "Oxidation of Zr-20Nb $\\mathbf { \\beta } \\mathbf { - } \\mathbf { \\mathscr { Z } r }$ phase) was more rapid than that for the Zr-1Nb (predominantly $\\pmb { \\alpha }$ Zr phase) but, despite this, the hydrogen absorption was considerably lower.",
+    "alloy_name": "Zr-20Nb, Zr-1Nb",
+    "composition": {
+      "Zr-20Nb": {
+        "Zr": {
+          "value": 80.0,
+          "unit": "wt%"
+        },
+        "Nb": {
+          "value": 20.0,
+          "unit": "wt%"
+        }
+      },
+      "Zr-1Nb": {
+        "Zr": {
+          "value": 99.0,
+          "unit": "wt%"
+        },
+        "Nb": {
+          "value": 1.0,
+          "unit": "wt%"
+        }
+      }
+    },
+    "composition_raw": "Zr-20Nb, Zr-1Nb",
+    "specimen_state": "β-Zr phase, α-Zr phase",
+    "process_step": "oxidized",
+    "test_type": "corrosion test",
+    "property_name": "oxidation rate",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk1",
+    "page_or_fig": "p. 116",
+    "evidence_span": "Oxidation of Zr-20Nb $\\mathbf { \\beta } \\mathbf { - } \\mathbf { \\mathscr { Z } r }$ phase) was more rapid than that for the Zr-1Nb (predominantly $\\pmb { \\alpha }$ Zr phase) but, despite this, the hydrogen absorption was considerably lower.",
+    "alloy_name": "Zr-20Nb, Zr-1Nb",
+    "composition": {
+      "Zr-20Nb": {
+        "Zr": {
+          "value": 80.0,
+          "unit": "wt%"
+        },
+        "Nb": {
+          "value": 20.0,
+          "unit": "wt%"
+        }
+      },
+      "Zr-1Nb": {
+        "Zr": {
+          "value": 99.0,
+          "unit": "wt%"
+        },
+        "Nb": {
+          "value": 1.0,
+          "unit": "wt%"
+        }
+      }
+    },
+    "composition_raw": "Zr-20Nb, Zr-1Nb",
+    "specimen_state": "β-Zr phase, α-Zr phase",
+    "process_step": "oxidized",
+    "test_type": "corrosion test",
+    "property_name": "hydrogen absorption",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk1",
+    "page_or_fig": "p. 116",
+    "evidence_span": "The oxides show contrasting morphologies in terms of crystallite size (20 to $6 0 \\ \\mathrm { n m }$ for oxides on $\\mathbf { { \\hat { \\alpha } } { \\cdot } } { \\mathbf { Z } } \\mathbf { r }$ versus about $1 5 \\ \\mathrm { n m }$ for oxides on $\\mathsf { \\pmb { \\beta } } \\mathbf { - } \\mathbf { Z } \\bar { \\mathbf { r } } )$ .",
+    "alloy_name": "Zr-1Nb, Zr-20Nb",
+    "composition": {
+      "Zr-1Nb": {
+        "Zr": {
+          "value": 99.0,
+          "unit": "wt%"
+        },
+        "Nb": {
+          "value": 1.0,
+          "unit": "wt%"
+        }
+      },
+      "Zr-20Nb": {
+        "Zr": {
+          "value": 80.0,
+          "unit": "wt%"
+        },
+        "Nb": {
+          "value": 20.0,
+          "unit": "wt%"
+        }
+      }
+    },
+    "composition_raw": "Zr-1Nb, Zr-20Nb",
+    "specimen_state": "oxide",
+    "process_step": "oxidized",
+    "test_type": "microscopy",
+    "property_name": "oxide crystallite size",
+    "domain": null,
+    "value": null,
+    "value_min": 20.0,
+    "value_max": 60.0,
+    "unit": "nm",
+    "raw_unit": "nm",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement_range",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk1",
+    "page_or_fig": "p. 116",
+    "evidence_span": "The oxides show contrasting morphologies in terms of crystallite size (20 to $6 0 \\ \\mathrm { n m }$ for oxides on $\\mathbf { { \\hat { \\alpha } } { \\cdot } } { \\mathbf { Z } } \\mathbf { r }$ versus about $1 5 \\ \\mathrm { n m }$ for oxides on $\\mathsf { \\pmb { \\beta } } \\mathbf { - } \\mathbf { Z } \\bar { \\mathbf { r } } )$ .",
+    "alloy_name": "Zr-20Nb",
+    "composition": {
+      "Zr": {
+        "value": 80.0,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 20.0,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-20Nb",
+    "specimen_state": "oxide",
+    "process_step": "oxidized",
+    "test_type": "microscopy",
+    "property_name": "oxide crystallite size",
+    "domain": null,
+    "value": 15.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "nm",
+    "raw_unit": "nm",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk1",
+    "page_or_fig": "p. 116",
+    "evidence_span": "The concentration of deuterium in the $\\beta - Z _ { \\Gamma }$ oxide was substantially less than that in the $\\scriptstyle \\mathbf { \\alpha } \\mathbf { - } \\mathbf { Z r }$ oxide, which was consistent with the observed lower deuterium uptake measured for the $\\mathbf { Z } \\mathbf { r } { - } 2 0 \\mathbf { N } \\mathbf { b }$ alloy.",
+    "alloy_name": "Zr-20Nb, Zr-1Nb",
+    "composition": {
+      "Zr-20Nb": {
+        "Zr": {
+          "value": 80.0,
+          "unit": "wt%"
+        },
+        "Nb": {
+          "value": 20.0,
+          "unit": "wt%"
+        }
+      },
+      "Zr-1Nb": {
+        "Zr": {
+          "value": 99.0,
+          "unit": "wt%"
+        },
+        "Nb": {
+          "value": 1.0,
+          "unit": "wt%"
+        }
+      }
+    },
+    "composition_raw": "Zr-20Nb, Zr-1Nb",
+    "specimen_state": "oxide",
+    "process_step": "oxidized",
+    "test_type": "SIMS",
+    "property_name": "deuterium concentration",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk1",
+    "page_or_fig": "p. 116",
+    "evidence_span": "The concentration of deuterium in the $\\beta - Z _ { \\Gamma }$ oxide was substantially less than that in the $\\scriptstyle \\mathbf { \\alpha } \\mathbf { - } \\mathbf { Z r }$ oxide, which was consistent with the observed lower deuterium uptake measured for the $\\mathbf { Z } \\mathbf { r } { - } 2 0 \\mathbf { N } \\mathbf { b }$ alloy.",
+    "alloy_name": "Zr-20Nb",
+    "composition": {
+      "Zr": {
+        "value": 80.0,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 20.0,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-20Nb",
+    "specimen_state": "oxide",
+    "process_step": "oxidized",
+    "test_type": "corrosion test",
+    "property_name": "deuterium uptake",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk1",
+    "page_or_fig": "p. 116",
+    "evidence_span": "The nondispersive nature of the implanted hydrogen peaks in the Zr-1Nb oxide after annealing was suggestive of the presence of interconnected porosity in those oxides. However, the broadened peaks in the $\\bf { \\dot { Z } r } \\bf { - } \\ \\ 2 0 N b$ oxide after annealing are indicative of a normal diffusion process in a nonporous medium.",
+    "alloy_name": "Zr-1Nb",
+    "composition": {
+      "Zr": {
+        "value": 99.0,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-1Nb",
+    "specimen_state": "oxide",
+    "process_step": "annealed",
+    "test_type": "NRA",
+    "property_name": "oxide porosity",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk1",
+    "page_or_fig": "p. 116",
+    "evidence_span": "The nondispersive nature of the implanted hydrogen peaks in the Zr-1Nb oxide after annealing was suggestive of the presence of interconnected porosity in those oxides. However, the broadened peaks in the $\\bf { \\dot { Z } r } \\bf { - } \\ \\ 2 0 N b$ oxide after annealing are indicative of a normal diffusion process in a nonporous medium.",
+    "alloy_name": "Zr-20Nb",
+    "composition": {
+      "Zr": {
+        "value": 80.0,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 20.0,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-20Nb",
+    "specimen_state": "oxide",
+    "process_step": "annealed",
+    "test_type": "NRA",
+    "property_name": "oxide porosity",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "mechanistic information cannot be obtained from the kinetic behavior due to a changing microstructure during the test",
+    "alloy_name": "Zr-20Nb",
+    "composition_raw": "Zr-20Nb",
+    "composition": [
+      {
+        "element": "Zr",
+        "value": 80.0,
+        "unit": "wt%"
+      },
+      {
+        "element": "Nb",
+        "value": 20.0,
+        "unit": "wt%"
+      }
+    ],
+    "specimen_state": "after testing",
+    "process_step": "corrosion testing",
+    "test_type": "corrosion testing",
+    "property_name": "microstructure stability",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 300.0,
+      "temp_K": 573.15,
+      "medium": "water",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 3912.0,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk3",
+    "page_or_fig": "FIG. 2",
+    "evidence_span": "SEM examination of oxide surfaces on (a) Zr-1Nb and (b) Zr-20Nb after corrosion testing for 163 days in 573 K water",
+    "alloy_name": "Zr-1Nb",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": "oxidized",
+    "process_step": "corrosion testing",
+    "test_type": "corrosion test",
+    "property_name": "oxide surface morphology",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 573.0,
+      "temp_K": 573.0,
+      "medium": "water",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 3912.0,
+      "atmosphere": null
+    },
+    "metric_type": "observation",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk3",
+    "page_or_fig": "FIG. 2",
+    "evidence_span": "SEM examination of oxide surfaces on (a) Zr-1Nb and (b) Zr-20Nb after corrosion testing for 163 days in 573 K water",
+    "alloy_name": "Zr-20Nb",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": "oxidized",
+    "process_step": "corrosion testing",
+    "test_type": "corrosion test",
+    "property_name": "oxide surface morphology",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 573.0,
+      "temp_K": 573.0,
+      "medium": "water",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 3912.0,
+      "atmosphere": null
+    },
+    "metric_type": "observation",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk3",
+    "page_or_fig": "Text",
+    "evidence_span": "Zr-20Nb displays higher weight gains than Zr-1Nb throughout the duration of the tests",
+    "alloy_name": "Zr-20Nb",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": "corrosion testing",
+    "test_type": "corrosion test",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk3",
+    "page_or_fig": "Text",
+    "evidence_span": "Zr-20Nb displays higher weight gains than Zr-1Nb throughout the duration of the tests",
+    "alloy_name": "Zr-1Nb",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": "corrosion testing",
+    "test_type": "corrosion test",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk3",
+    "page_or_fig": "FIG. 3",
+    "evidence_span": "Oxidation kinetics for Zr-1Nb and Zr-20Nb in 573 K lithiated (4×10^-4 molar) water",
+    "alloy_name": "Zr-1Nb",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": "corrosion testing",
+    "test_type": "corrosion test",
+    "property_name": "oxidation kinetics",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 573.0,
+      "temp_K": 573.0,
+      "medium": "lithiated water (4×10^-4 molar)",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "observation",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk3",
+    "page_or_fig": "FIG. 3",
+    "evidence_span": "Oxidation kinetics for Zr-1Nb and Zr-20Nb in 573 K lithiated (4×10^-4 molar) water",
+    "alloy_name": "Zr-20Nb",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": "corrosion testing",
+    "test_type": "corrosion test",
+    "property_name": "oxidation kinetics",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 573.0,
+      "temp_K": 573.0,
+      "medium": "lithiated water (4×10^-4 molar)",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "observation",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk3",
+    "page_or_fig": "Text",
+    "evidence_span": "The deuterium pickup in the Zr-20Nb alloy was as much as 15 times less than that for Zr-1Nb alloy after 137 days of exposure despite the oxide thickness being about four times greater",
+    "alloy_name": "Zr-20Nb",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": "corrosion testing",
+    "test_type": "deuterium pickup measurement",
+    "property_name": "deuterium pickup",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 3288.0,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk3",
+    "page_or_fig": "Text",
+    "evidence_span": "The deuterium pickup in the Zr-20Nb alloy was as much as 15 times less than that for Zr-1Nb alloy after 137 days of exposure despite the oxide thickness being about four times greater",
+    "alloy_name": "Zr-1Nb",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": "corrosion testing",
+    "test_type": "deuterium pickup measurement",
+    "property_name": "deuterium pickup",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 3288.0,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk3",
+    "page_or_fig": "Text",
+    "evidence_span": "oxide thickness being about four times greater",
+    "alloy_name": "Zr-20Nb",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": "corrosion testing",
+    "test_type": "oxide thickness measurement",
+    "property_name": "oxide thickness",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 3288.0,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk3",
+    "page_or_fig": "Text",
+    "evidence_span": "oxide thickness being about four times greater",
+    "alloy_name": "Zr-1Nb",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": "corrosion testing",
+    "test_type": "oxide thickness measurement",
+    "property_name": "oxide thickness",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 3288.0,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk3",
+    "page_or_fig": "Text",
+    "evidence_span": "A second sample analyzed after 163 days exposure confirmed the low pickup for the Zr-20Nb alloy",
+    "alloy_name": "Zr-20Nb",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": "corrosion testing",
+    "test_type": "deuterium pickup measurement",
+    "property_name": "deuterium pickup",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 3912.0,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk3",
+    "page_or_fig": "Text",
+    "evidence_span": "the percent theoretical uptake for the Zr-20Nb alloy is 20 to 60 times less than that for Zr-1Nb in these tests",
+    "alloy_name": "Zr-20Nb",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": "corrosion testing",
+    "test_type": "theoretical uptake measurement",
+    "property_name": "theoretical uptake",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk3",
+    "page_or_fig": "Text",
+    "evidence_span": "the percent theoretical uptake for the Zr-20Nb alloy is 20 to 60 times less than that for Zr-1Nb in these tests",
+    "alloy_name": "Zr-1Nb",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": "corrosion testing",
+    "test_type": "theoretical uptake measurement",
+    "property_name": "theoretical uptake",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk3",
+    "page_or_fig": "FIG. 4",
+    "evidence_span": "TEM micrographs comparing oxides formed on (a) Zr-1Nb and (b) Zr-20Nb alloys (plan view close to the metal-oxide interface)",
+    "alloy_name": "Zr-1Nb",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": "oxidized",
+    "process_step": "corrosion testing",
+    "test_type": "TEM examination",
+    "property_name": "oxide crystallite size",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "observation",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk3",
+    "page_or_fig": "FIG. 4",
+    "evidence_span": "TEM micrographs comparing oxides formed on (a) Zr-1Nb and (b) Zr-20Nb alloys (plan view close to the metal-oxide interface)",
+    "alloy_name": "Zr-20Nb",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": "oxidized",
+    "process_step": "corrosion testing",
+    "test_type": "TEM examination",
+    "property_name": "oxide crystallite size",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "observation",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk4",
+    "page_or_fig": "text",
+    "evidence_span": "hydrogen diffusion in Zr-1Nb oxides is significantly faster than that in pure zirconium oxides.",
+    "alloy_name": "Zr-1Nb",
+    "composition": {
+      "Zr": {
+        "value": 99.0,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": null,
+    "specimen_state": "oxide",
+    "process_step": "corrosion",
+    "test_type": "diffusion",
+    "property_name": "hydrogen diffusivity",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk4",
+    "page_or_fig": "text",
+    "evidence_span": "Further insight into the understanding of corrosion and hydrogen ingress into $\\mathbf { Z } \\mathbf { r } { - } 2 . 5 \\mathbf { N } \\mathbf { b }$ pressure tube material has been achieved by studying the behavior of Zr-20Nb and Zr-1Nb separately.",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": null,
+    "specimen_state": "pressure tube",
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "Zr-20Nb $( \\beta - Z \\mathbf { r } )$ corrodes faster than Zr-1Nb (predominantly $\\mathbf { \\alpha } _ { \\mathbf { { \\alpha } } } \\mathbf { { \\alpha } } _ { \\mathbf { { \\alpha } } } \\mathbf { { \\alpha } } _ { \\mathbf { { \\alpha } } }$ in high-temperature water",
+    "alloy_name": "Zr-20Nb",
+    "composition": {
+      "Zr": {
+        "value": 80.0,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 20.0,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-20Nb",
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "corrosion",
+    "property_name": "corrosion rate",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": "high-temperature water",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "Zr-20Nb $( \\beta - Z \\mathbf { r } )$ corrodes faster than Zr-1Nb (predominantly $\\mathbf { \\alpha } _ { \\mathbf { { \\alpha } } } \\mathbf { { \\alpha } } _ { \\mathbf { { \\alpha } } } \\mathbf { { \\alpha } } _ { \\mathbf { { \\alpha } } }$ in high-temperature water",
+    "alloy_name": "Zr-1Nb",
+    "composition": {
+      "Zr": {
+        "value": 99.0,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-1Nb",
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "corrosion",
+    "property_name": "corrosion rate",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": "high-temperature water",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "the formation of oxide ridges that penetrate into the underlying metal substrate at the $\\beta \\mathrm { - } Z \\mathbf { r }$ regions of $\\mathbf { Z r } { - } 2 . 5 \\mathbf { N b }$ pressure tube structures",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-2.5Nb",
+    "specimen_state": "pressure tube",
+    "process_step": "",
+    "test_type": "corrosion",
+    "property_name": "oxide ridge penetration",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "As the $\\beta \\mathrm { - } Z \\mathbf { r }$ phase decomposes with time, its corrosion rate approaches that of the $\\mathbf { \\alpha } \\mathbf { - } \\mathbf { \\beta } \\mathbf { Z } \\mathbf { r }$ phase",
+    "alloy_name": "",
+    "composition": {},
+    "composition_raw": "",
+    "specimen_state": "",
+    "process_step": "phase decomposition",
+    "test_type": "corrosion",
+    "property_name": "corrosion rate",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "The growth of finer, niobium-rich oxide crystallites on the Zr-20Nb oxide compared to those on the Zr-1Nb oxide",
+    "alloy_name": "Zr-20Nb",
+    "composition": {
+      "Zr": {
+        "value": 80.0,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 20.0,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-20Nb",
+    "specimen_state": "oxide",
+    "process_step": "",
+    "test_type": "microstructure analysis",
+    "property_name": "oxide crystallite size",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "The growth of finer, niobium-rich oxide crystallites on the Zr-20Nb oxide compared to those on the Zr-1Nb oxide",
+    "alloy_name": "Zr-1Nb",
+    "composition": {
+      "Zr": {
+        "value": 99.0,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-1Nb",
+    "specimen_state": "oxide",
+    "process_step": "",
+    "test_type": "microstructure analysis",
+    "property_name": "oxide crystallite size",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "The deuterium uptake in $\\mathbf { Z r { - } } 2 0 \\mathbf { N } \\mathbf { b }$ is considerably lower than that for Zr-1Nb despite the higher corrosion rate displayed by the former",
+    "alloy_name": "Zr-20Nb",
+    "composition": {
+      "Zr": {
+        "value": 80.0,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 20.0,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-20Nb",
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "deuterium uptake",
+    "property_name": "deuterium uptake",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "The deuterium uptake in $\\mathbf { Z r { - } } 2 0 \\mathbf { N } \\mathbf { b }$ is considerably lower than that for Zr-1Nb despite the higher corrosion rate displayed by the former",
+    "alloy_name": "Zr-1Nb",
+    "composition": {
+      "Zr": {
+        "value": 99.0,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-1Nb",
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "deuterium uptake",
+    "property_name": "deuterium uptake",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "Low deuterium concentration in the oxide seems to be associated with the low uptake",
+    "alloy_name": "Zr-20Nb",
+    "composition": {
+      "Zr": {
+        "value": 80.0,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 20.0,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-20Nb",
+    "specimen_state": "oxide",
+    "process_step": "",
+    "test_type": "deuterium concentration",
+    "property_name": "deuterium concentration",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "The higher deuterium concentrations in the Zr-1Nb oxide could be a reflection of increased porosity in this oxide",
+    "alloy_name": "Zr-1Nb",
+    "composition": {
+      "Zr": {
+        "value": 99.0,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-1Nb",
+    "specimen_state": "oxide",
+    "process_step": "",
+    "test_type": "deuterium concentration",
+    "property_name": "deuterium concentration",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "The higher deuterium concentrations in the Zr-1Nb oxide could be a reflection of increased porosity in this oxide",
+    "alloy_name": "Zr-1Nb",
+    "composition": {
+      "Zr": {
+        "value": 99.0,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-1Nb",
+    "specimen_state": "oxide",
+    "process_step": "",
+    "test_type": "porosity",
+    "property_name": "porosity",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_011_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "diffusion measurements, which show diffusion profiles representative of a homogeneous structure for the Zr-20Nb oxide but a heterogeneous structure for the Zr-1Nb oxide",
+    "alloy_name": "Zr-20Nb",
+    "composition": {
+      "Zr": {
+        "value": 80.0,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 20.0,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-20Nb",
+    "specimen_state": "oxide",
+    "process_step": "",
+    "test_type": "diffusion",
+    "property_name": "oxide structure",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  }
+]

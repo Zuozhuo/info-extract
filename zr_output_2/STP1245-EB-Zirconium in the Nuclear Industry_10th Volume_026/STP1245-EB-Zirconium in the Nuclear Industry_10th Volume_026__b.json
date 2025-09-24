@@ -1,0 +1,438 @@
+[
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_026_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Table 1—Ingot chemical analysis. Alloy Composition, % by weight",
+    "alloy_name": "VAZ-01",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 0.99,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.17,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.089,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Nb",
+        "value": 0.21,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 0.14,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "sheet",
+    "process_step": "beta-forging at 1289 K, beta-quenching, alpha-hot rolling at 873 K, cold rolling in three steps with intermediate alpha annealing in the range of 855 K to 1023 K for 2.5 h, finally annealed in either stress-relieved (743 K for 2.5 h) or fully recrystallized (853 K for 2.5 h) condition",
+    "test_type": "tension test, corrosion test",
+    "conditions": {
+      "temperature": [
+        293.0,
+        658.0
+      ],
+      "pressure": 19.0,
+      "environment": "water",
+      "duration": 240.0,
+      "duration_unit": "days",
+      "temperature_unit": "K",
+      "pressure_unit": "MPa"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "corrosion weight gains about 50% of Zircaloy-4 after 240 days",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "tensile_strength": "equivalent to Zircaloy-4",
+      "hydrogen_uptake": "20-60% of Zircaloy-4",
+      "precipitates": "niobium precipitated"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_026_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Table 1—Ingot chemical analysis. Alloy Composition, % by weight",
+    "alloy_name": "VAZ-02",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 0.55,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.18,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.089,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Nb",
+        "value": 0.21,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Mo",
+        "value": 0.09,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "V",
+        "value": 0.094,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 0.14,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "sheet",
+    "process_step": "beta-forging at 1289 K, beta-quenching, alpha-hot rolling at 873 K, cold rolling in three steps with intermediate alpha annealing in the range of 855 K to 1023 K for 2.5 h, finally annealed in either stress-relieved (743 K for 2.5 h) or fully recrystallized (853 K for 2.5 h) condition",
+    "test_type": "tension test, corrosion test",
+    "conditions": {
+      "temperature": [
+        293.0,
+        658.0
+      ],
+      "pressure": 19.0,
+      "environment": "water",
+      "duration": 240.0,
+      "duration_unit": "days",
+      "temperature_unit": "K",
+      "pressure_unit": "MPa"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "corrosion weight gains about 50% of Zircaloy-4 after 240 days",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "tensile_strength": "equivalent to Zircaloy-4",
+      "hydrogen_uptake": "20-60% of Zircaloy-4",
+      "precipitates": "niobium precipitated"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_026_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Table 1—Ingot chemical analysis. Alloy Composition, % by weight",
+    "alloy_name": "VAZ-03",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 0.73,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.2,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.36,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Nb",
+        "value": 0.21,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "O",
+        "value": 0.15,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "sheet",
+    "process_step": "beta-forging at 1289 K, beta-quenching, alpha-hot rolling at 873 K, cold rolling in three steps with intermediate alpha annealing in the range of 855 K to 1023 K for 2.5 h, finally annealed in either stress-relieved (743 K for 2.5 h) or fully recrystallized (853 K for 2.5 h) condition",
+    "test_type": "tension test, corrosion test",
+    "conditions": {
+      "temperature": [
+        293.0,
+        658.0
+      ],
+      "pressure": 19.0,
+      "environment": "water",
+      "duration": 240.0,
+      "duration_unit": "days",
+      "temperature_unit": "K",
+      "pressure_unit": "MPa"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "corrosion weight gains about 50% of Zircaloy-4 after 240 days",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "tensile_strength": "equivalent to Zircaloy-4",
+      "hydrogen_uptake": "20-60% of Zircaloy-4",
+      "precipitates": "niobium precipitated"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_026_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "standard tin (1.5Sn) Zircaloy-4 tubes manufactured by our company",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.5,
+        "unit": "wt%",
+        "raw_unit": "%"
+      }
+    ],
+    "specimen_state": "tube",
+    "process_step": "standard manufacturing process",
+    "test_type": "tension test, corrosion test",
+    "conditions": {
+      "temperature": [
+        293.0,
+        658.0
+      ],
+      "environment": "water",
+      "temperature_unit": "K"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "reference corrosion performance",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "accumulated_annealing_parameter": "1.5E-17 h",
+      "Q/R": "40000 K"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_026_chunk2",
+    "page_or_fig": "Fig. 4",
+    "evidence_span": "Corrosion weight gains as a function of exposure time for VAZ alloys (intermediately annealed at 953 K), and standard Zircaloy-4",
+    "alloy_name": "VAZ-01, VAZ-02, VAZ-03, Zircaloy-4",
+    "composition": [],
+    "specimen_state": "annealed",
+    "process_step": "intermediate annealing at 953 K",
+    "test_type": "corrosion test",
+    "conditions": {
+      "environment": "water"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "weight gain data",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {}
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_026_chunk2",
+    "page_or_fig": "Fig. 5",
+    "evidence_span": "Corrosion weight gains as a function of accumulated annealing parameter at 633 K for 240 days for VAZ alloys",
+    "alloy_name": "VAZ-01, VAZ-02, VAZ-03",
+    "composition": [],
+    "specimen_state": "annealed",
+    "process_step": "intermediate annealing",
+    "test_type": "corrosion test",
+    "conditions": {
+      "temperature": 633.0,
+      "environment": "water",
+      "duration": 240.0,
+      "duration_unit": "days",
+      "temperature_unit": "K"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": "weight gain data",
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "annealing_parameter": "variable"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_026_chunk2",
+    "page_or_fig": "Fig. 6",
+    "evidence_span": "Hydrogen contents and pickup ratios as a function of accumulated annealing parameter after the corrosion testing (633 K, water/240 days): (a) VAZ-01, (b) VAZ-02, and (c) VAZ-03",
+    "alloy_name": "VAZ-01, VAZ-02, VAZ-03",
+    "composition": [],
+    "specimen_state": "corroded",
+    "process_step": "corrosion testing",
+    "test_type": "hydrogen analysis",
+    "conditions": {
+      "temperature": 633.0,
+      "environment": "water",
+      "duration": 240.0,
+      "duration_unit": "days",
+      "temperature_unit": "K"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "hydrogen_content": "reported",
+      "hydrogen_pickup_ratio": "reported",
+      "comparison_with_Zr-4/SR": "significantly smaller hydrogen uptake"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_026_chunk2",
+    "page_or_fig": "Fig. 7-10",
+    "evidence_span": "TEM micrograph and EDX spectrum of the precipitate in VAZ alloys",
+    "alloy_name": "VAZ-01, VAZ-02, VAZ-03",
+    "composition": [],
+    "specimen_state": "annealed",
+    "process_step": "intermediate annealing at 953 K and 853 K",
+    "test_type": "TEM/EDX analysis",
+    "conditions": {
+      "annealing_parameter": [
+        1.5e-17,
+        3.8e-20
+      ],
+      "annealing_parameter_unit": "h"
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "precipitate_type": "Zr-Nb-Fe-Cr for VAZ-01/03, Zr-Nb-Mo-Fe-Cr-V for VAZ-02",
+      "precipitate_size": "smaller for lower annealing parameter",
+      "niobium_precipitation": "present in all VAZ alloys containing 0.2Nb"
+    }
+  }
+]

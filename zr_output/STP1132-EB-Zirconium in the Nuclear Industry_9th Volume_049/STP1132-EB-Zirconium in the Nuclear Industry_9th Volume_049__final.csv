@@ -1,0 +1,10 @@
+文献ID,页码/图表,证据片段,合金名称,样品状态,工艺步骤,测试类型,Zr,Sn,Nb,Fe,Cr,Ni,Cu,Sb,Sc,Ge,O,Al,S,C,H,N,Si,温度(°C),介质,压力(MPa),应变率(s-1),辐照剂量(dpa),通量,时间(h),气氛,密度数据,密度单位,比热容数据,比热容单位,热传导率数据,热传导率单位,弹塑性模型数据,弹塑性模型单位,热膨胀数据,热膨胀单位,辐照蠕变数据,辐照蠕变单位,辐照肿胀数据,辐照肿胀单位,腐蚀数据,腐蚀单位,硬化性能数据数据,硬化性能数据单位
+STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_049_chunk1,35,annealing temperatures,,,annealing,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_049_chunk1,35,deformation cladding tubing,,cladding tubing,deformation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_049_chunk1,35,fabrication parameters,,fuel cladding,fabrication,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_049_chunk1,35,liner grain size,,liner,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_049_chunk1,48,cold-worked parameters pressure tubing,,pressure tubing,cold-worked,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_049_chunk2,80,texture parameter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_049_chunk2,"279, 395, 461",Uniform corrosion resistance,,,,corrosion,,,,,,,,,,,,,,,,,,,uniform,,,,,,,,,,,,,,,,,,,,,,,,
+STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_049_chunk2,613,Zr-2.5Nb LiOH corrosion,Zr-2.5Nb,,,corrosion,,,,,,,,,,,,,,,,,,,LiOH,,,,,,,,,,,,,,,,,,,,,,,,
+STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_049_chunk2,665,Zircaloy-2 oxidation rates,Zircaloy-2,,,oxidation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

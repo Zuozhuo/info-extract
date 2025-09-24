@@ -1,0 +1,477 @@
+[
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_033_chunk1",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Element: Sn 1.55%, Fe 0.21%, Cr 0.105%, Hydrogen content <50 ppm, average 8 ± 3 ppm",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "Sn",
+        "value": 1.55,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Fe",
+        "value": 0.21,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "Cr",
+        "value": 0.105,
+        "unit": "wt%",
+        "raw_unit": "%"
+      },
+      {
+        "element": "H",
+        "value": 50,
+        "unit": "ppm",
+        "raw_unit": "ppm",
+        "note": "max"
+      },
+      {
+        "element": "H",
+        "value": 8,
+        "unit": "ppm",
+        "raw_unit": "ppm",
+        "note": "average ± 3"
+      }
+    ],
+    "specimen_state": "stress-relieved tubing",
+    "process_step": "annealing",
+    "test_type": "iodine stress corrosion cracking",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "environment containing iodine",
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_size": "very large grains, disk-shaped, a few millimetres in diameter",
+      "hydrogen_content": "<50 ppm, average 8 ± 3 ppm",
+      "tube_dimensions": "external diameter 11.9 mm, wall thickness 0.55 mm",
+      "sample_length": "15 cm",
+      "crack_propagation_mechanism": "transgranular pseudo-cleavage along basal planes",
+      "texture_influence": "strong influence on cracking susceptibility"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_033_chunk2",
+    "page_or_fig": "Fig. 1",
+    "evidence_span": "The two finally selected resulted in partial (PSR) and total (TSR) secondary recrystallization (Fig. 1)",
+    "alloy_name": null,
+    "composition": [],
+    "specimen_state": "PSR structure",
+    "process_step": "heat-treated: heating to 840°C for 10 min, then decreasing to 800°C for 24 h, furnace cooling under vacuum",
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_structure": "isolated disk-shaped single crystals a few millimetres in diameter surrounded by small grains (about 50 μm in diameter)"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_033_chunk2",
+    "page_or_fig": "Fig. 1",
+    "evidence_span": "The two finally selected resulted in partial (PSR) and total (TSR) secondary recrystallization (Fig. 1)",
+    "alloy_name": null,
+    "composition": [],
+    "specimen_state": "TSR structure",
+    "process_step": "heat-treated: heating to 840°C for 10 min, then decreasing to 820°C for 24 h, furnace cooling under vacuum",
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "grain_structure": "single crystals only"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_033_chunk2",
+    "page_or_fig": "Text",
+    "evidence_span": "Internally pressurized tube-type SCC tests [13] were conducted, with 99.99% pure argon as inert gas; in all but a few control cases, one gram of bisublimated iodine was added, giving a concentration well above the SCC threshold values. The working temperature was 400°C",
+    "alloy_name": null,
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "SCC (stress corrosion cracking) test",
+    "conditions": {
+      "temperature": 400.0,
+      "pressure": null,
+      "environment": "iodine environment, internally pressurized tubes",
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "test_environment": "99.99% pure argon with 1g bisublimated iodine",
+      "temperature_accuracy": "≤0.5%",
+      "pressure_accuracy": "≤0.5%"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_033_chunk2",
+    "page_or_fig": "Text",
+    "evidence_span": "several tests were conducted in tubes in which the thickness had been reduced either by lathe machining or pickling in a 42% HNO3 + 8% HF solution",
+    "alloy_name": null,
+    "composition": [],
+    "specimen_state": "thickness-reduced tubes",
+    "process_step": "lathe machining or pickling in 42% HNO3 + 8% HF solution",
+    "test_type": "SCC test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "surface_treatment": "rinsed in boiling tridistilled water according to ASTM G2-74"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_033_chunk2",
+    "page_or_fig": "Equation",
+    "evidence_span": "σ₀₀₀₂ = σ_tt (c·t)² + σ_rr (c·r)² + σ_zz (c·z)²",
+    "alloy_name": null,
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": "σ₀₀₀₂ = σ_tt (c·t)² + σ_rr (c·r)² + σ_zz (c·z)²",
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "stress_component_description": "resolved tensile stress perpendicular to the basal plane",
+      "variables": {
+        "σ₀₀₀₂": "resolved tensile stress perpendicular to basal plane",
+        "c": "unit vector normal to basal planes",
+        "t": "unit vector in tangential direction",
+        "r": "unit vector in radial direction",
+        "z": "unit vector in axial direction"
+      }
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_033_chunk3",
+    "page_or_fig": "Table 3",
+    "evidence_span": "TABLE 3—Resolved stresses on basal planes $( M P a )$",
+    "alloy_name": null,
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "stress measurement",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "resolved_stresses_basal_planes": {
+        "sample_2": {
+          "normal_stress_MPa": 23,
+          "tangential_stress_MPa": 68
+        },
+        "sample_3": {
+          "normal_stress_MPa": 45,
+          "tangential_stress_MPa": 80
+        },
+        "sample_4": {
+          "normal_stress_MPa": 7,
+          "tangential_stress_MPa": null
+        }
+      }
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_033_chunk3",
+    "page_or_fig": "Table 4",
+    "evidence_span": "TABLE 4Tensile stresses resolved perpendicular to basal and failure times",
+    "alloy_name": null,
+    "composition": [],
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "stress corrosion cracking",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "tensile_stress_failure_time": {
+        "sample_1": {
+          "stress_MPa": 50,
+          "time_h": 38
+        },
+        "sample_2": {
+          "stress_MPa": 29,
+          "time_h": 9
+        },
+        "sample_3": {
+          "stress_MPa": 39,
+          "time_h": 9
+        },
+        "sample_4": {
+          "stress_MPa": 70,
+          "time_h": 57
+        },
+        "sample_5": {
+          "stress_MPa": 49,
+          "time_h": 95
+        },
+        "sample_6": {
+          "stress_MPa": 72,
+          "time_h": 6
+        },
+        "sample_7": {
+          "stress_MPa": 600,
+          "time_h": null
+        },
+        "sample_8": {
+          "stress_MPa": 53,
+          "time_h": 10
+        },
+        "sample_9": {
+          "stress_MPa": 38,
+          "time_h": null
+        }
+      }
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_033_chunk4",
+    "page_or_fig": "Fig. 7",
+    "evidence_span": "A crack in a crystal that had been deformed prior to the test (Fig. 7) follows a path that changes directions while propagating transgranularly along different crystal planes",
+    "alloy_name": "Zircaloy-4",
+    "composition": [],
+    "specimen_state": "deformed and hydrided single crystal",
+    "process_step": "grown in Zircaloy-4 tubes, heat treatment",
+    "test_type": "SCC (stress corrosion cracking) test",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "environment containing iodine",
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "crack_propagation": "transgranular along basal planes",
+      "deformation_features": "twin boundaries",
+      "hydride_precipitation": "present",
+      "stress_system": "triaxial",
+      "crack_depth": "10-30 μm in thinned wall tubing",
+      "fracture_surface": "cleavage-like facets on basal planes"
+    }
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_033_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "Transgranular pseudo-cleavage of zirconium alloys produced during iodine SCC occurs along basal planes",
+    "alloy_name": null,
+    "composition": [],
+    "specimen_state": "single crystals",
+    "process_step": null,
+    "test_type": "iodine stress corrosion cracking",
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": "iodine environment",
+      "other": null
+    },
+    "density_formula": null,
+    "density_data": null,
+    "specific_heat_formula": null,
+    "specific_heat_data": null,
+    "thermal_conductivity_formula": null,
+    "thermal_conductivity_data": null,
+    "elastoplastic_model_formula": null,
+    "elastoplastic_model_data": null,
+    "thermal_expansion_formula": null,
+    "thermal_expansion_data": null,
+    "irradiation_creep_formula": null,
+    "irradiation_creep_data": null,
+    "irradiation_swelling_formula": null,
+    "irradiation_swelling_data": null,
+    "corrosion_formula": null,
+    "corrosion_data": null,
+    "hardening_formula": null,
+    "hardening_data": null,
+    "extra_properties": {
+      "crack_propagation_mechanism": "transgranular pseudo-cleavage along basal planes",
+      "crack_initiation": "transgranular in macrograins",
+      "grain_size": "large wall-to-wall single crystals",
+      "crack_path_orientation": "within ±1° of basal plane"
+    }
+  }
+]

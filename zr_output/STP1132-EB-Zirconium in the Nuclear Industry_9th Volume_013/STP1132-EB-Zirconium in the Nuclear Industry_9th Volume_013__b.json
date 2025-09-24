@@ -1,0 +1,586 @@
+[
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_013_chunk1",
+    "page_or_fig": "DISCUSSION",
+    "evidence_span": "This preliminary work on zirconium alloys with high tin concentration is mainly for studying the role of tin in solution hardening and precipitation hardening of zirconium alloys.",
+    "alloy_name": null,
+    "composition_raw": "high tin concentration",
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "solution hardening, precipitation hardening",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "time_h": null,
+      "strain_rate_1/s": null,
+      "dpa": null,
+      "environment": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_013_chunk1",
+    "page_or_fig": "DISCUSSION",
+    "evidence_span": "We have seen that the volume fraction of the precipitate phase increases with tempering time.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": "tempering",
+    "test_type": null,
+    "property_name": "volume fraction of precipitate phase",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "time_h": null,
+      "strain_rate_1/s": null,
+      "dpa": null,
+      "environment": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_013_chunk1",
+    "page_or_fig": "DISCUSSION",
+    "evidence_span": "thinning which is carried out at 223 K",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": "thinning",
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": -50.15,
+      "temp_K": 223.0,
+      "time_h": null,
+      "strain_rate_1/s": null,
+      "dpa": null,
+      "environment": null
+    },
+    "metric_type": "condition",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_013_chunk1",
+    "page_or_fig": "DISCUSSION",
+    "evidence_span": "Diffusivity of Sn at such a low temperature is too small to cause migration of Sn atoms to the surface even when a foil of less than 100 nm is considered.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": "foil",
+    "process_step": null,
+    "test_type": null,
+    "property_name": "Sn diffusivity",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "time_h": null,
+      "strain_rate_1/s": null,
+      "dpa": null,
+      "environment": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_013_chunk1",
+    "page_or_fig": "DISCUSSION",
+    "evidence_span": "Dynamic strain aging is indicated in the flow stress versus temperature plots.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "flow stress vs temperature",
+    "property_name": "dynamic strain aging",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "time_h": null,
+      "strain_rate_1/s": null,
+      "dpa": null,
+      "environment": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_013_chunk1",
+    "page_or_fig": "DISCUSSION",
+    "evidence_span": "Serrated flow behavior was also observed in Zr-1.5Sn at certain temperature and strain rate ranges.",
+    "alloy_name": "Zr-1.5Sn",
+    "composition_raw": "Zr-1.5Sn",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "serrated flow behavior",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "time_h": null,
+      "strain_rate_1/s": null,
+      "dpa": null,
+      "environment": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_013_chunk1",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "Zr-2.5Nb nuclear reactor pressure tube material",
+    "alloy_name": "Zr-2.5Nb",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "pressure tube",
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "time_h": null,
+      "strain_rate_1/s": null,
+      "dpa": null,
+      "environment": null
+    },
+    "metric_type": "specimen",
+    "confidence": 0.95
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_013_chunk1",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "The materials studied contained a range of impurity contents with iron ranging from 300 to 1500 ppm",
+    "alloy_name": "Zr-2.5Nb",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "iron impurity content",
+    "domain": null,
+    "value": null,
+    "value_min": 300,
+    "value_max": 1500,
+    "unit": "ppm",
+    "raw_unit": "ppm",
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "time_h": null,
+      "strain_rate_1/s": null,
+      "dpa": null,
+      "environment": null
+    },
+    "metric_type": "composition",
+    "confidence": 0.95
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_013_chunk1",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "in both the cold-worked and cold-worked + annealed (24 h/560°C) conditions",
+    "alloy_name": "Zr-2.5Nb",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": "cold-worked",
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "time_h": null,
+      "strain_rate_1/s": null,
+      "dpa": null,
+      "environment": null
+    },
+    "metric_type": "process",
+    "confidence": 0.95
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_013_chunk1",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "in both the cold-worked and cold-worked + annealed (24 h/560°C) conditions",
+    "alloy_name": "Zr-2.5Nb",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": "annealed",
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 560,
+      "temp_K": 833.15,
+      "time_h": 24,
+      "strain_rate_1/s": null,
+      "dpa": null,
+      "environment": null
+    },
+    "metric_type": "process",
+    "confidence": 0.95
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_013_chunk1",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "Cold-worked tubes consisted of deformed α-Zr grains with a network of β-Zr (~20 wt% Nb) surrounding the α-Zr grains.",
+    "alloy_name": "Zr-2.5Nb",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "cold-worked",
+    "process_step": null,
+    "test_type": null,
+    "property_name": "β-Zr composition",
+    "domain": null,
+    "value": 20,
+    "value_min": null,
+    "value_max": null,
+    "unit": "wt%",
+    "raw_unit": "wt%",
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "time_h": null,
+      "strain_rate_1/s": null,
+      "dpa": null,
+      "environment": null
+    },
+    "metric_type": "composition",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_013_chunk1",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "Annealing produced a decomposition of the β-Zr phase into α-Zr and β-Nb (~83 wt% Nb)",
+    "alloy_name": "Zr-2.5Nb",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "annealed",
+    "process_step": "annealing",
+    "test_type": null,
+    "property_name": "β-Nb composition",
+    "domain": null,
+    "value": 83,
+    "value_min": null,
+    "value_max": null,
+    "unit": "wt%",
+    "raw_unit": "wt%",
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "time_h": null,
+      "strain_rate_1/s": null,
+      "dpa": null,
+      "environment": null
+    },
+    "metric_type": "composition",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_013_chunk1",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "Cold-worked tubing with Fe contents ≥500 ppm also contained a very small volume fraction of ZrFe precipitates having a tetragonal structure.",
+    "alloy_name": "Zr-2.5Nb",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "cold-worked",
+    "process_step": null,
+    "test_type": null,
+    "property_name": "ZrFe precipitate volume fraction",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "time_h": null,
+      "strain_rate_1/s": null,
+      "dpa": null,
+      "environment": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_013_chunk1",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "β-quenching during fabrication of the tubing appeared to suppress the precipitation of ZrFe",
+    "alloy_name": "Zr-2.5Nb",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": "β-quenching",
+    "test_type": null,
+    "property_name": "ZrFe precipitation",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "time_h": null,
+      "strain_rate_1/s": null,
+      "dpa": null,
+      "environment": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_013_chunk1",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "On annealing, both Zr(FeCr)2 and ZrFe precipitates were formed.",
+    "alloy_name": "Zr-2.5Nb",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "annealed",
+    "process_step": "annealing",
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "time_h": null,
+      "strain_rate_1/s": null,
+      "dpa": null,
+      "environment": null
+    },
+    "metric_type": "process",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_013_chunk1",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "The Zr(FeCr)2 precipitates had either the C-15 cubic or C-14 hexagonal Laves phase structure.",
+    "alloy_name": "Zr-2.5Nb",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "Zr(FeCr)2 precipitate structure",
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "time_h": null,
+      "strain_rate_1/s": null,
+      "dpa": null,
+      "environment": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_013_chunk1",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "It is proposed that on annealing at 560°C the β-Zr phase (containing Fe and Cr in solution) transforms to α-Zr + β-Nb + Zr(FeCr)2 phases.",
+    "alloy_name": "Zr-2.5Nb",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": "annealing",
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 560,
+      "temp_K": 833.15,
+      "time_h": null,
+      "strain_rate_1/s": null,
+      "dpa": null,
+      "environment": null
+    },
+    "metric_type": "process",
+    "confidence": 0.9
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "Hydride Characterization in Irradiated Zirconium Alloys",
+    "alloy_name": "Zirconium Alloys",
+    "specimen_state": "irradiated",
+    "property_name": "Hydride Characterization",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "Evaluation of Oxide Layer Thickness on Zircaloy-4 Tube by Electrochemical Impedance Spectroscopy",
+    "alloy_name": "Zircaloy-4",
+    "specimen_state": "tube",
+    "property_name": "Oxide Layer Thickness",
+    "test_type": "Electrochemical Impedance Spectroscopy",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "Correlation Study Among Corrosion Properties, Microstructure, and Additional Heat Input History of Zircaloy-2 Tubing",
+    "alloy_name": "Zircaloy-2",
+    "specimen_state": "tubing",
+    "property_name": "Corrosion Properties",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "Correlation Study Among Corrosion Properties, Microstructure, and Additional Heat Input History of Zircaloy-2 Tubing",
+    "alloy_name": "Zircaloy-2",
+    "specimen_state": "tubing",
+    "property_name": "Microstructure",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "X-Ray Small Angle Scattering of the Small Precipitates in Zircaloy",
+    "alloy_name": "Zircaloy",
+    "property_name": "Small Precipitates",
+    "test_type": "X-Ray Small Angle Scattering",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "Electron Spin Resonance Study of Oxide Films on Zircaloy Cladding",
+    "alloy_name": "Zircaloy",
+    "specimen_state": "cladding",
+    "property_name": "Oxide Films",
+    "test_type": "Electron Spin Resonance",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "Magnetic Observation on Corrosion Susceptibility of Zircaloy Cladding",
+    "alloy_name": "Zircaloy",
+    "specimen_state": "cladding",
+    "property_name": "Corrosion Susceptibility",
+    "test_type": "Magnetic Observation",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "Observation on Corrosion Oxide Film Formed on Zirconium Alloy",
+    "alloy_name": "Zirconium Alloy",
+    "property_name": "Corrosion Oxide Film",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "Interaction Between Factors Acting on the Uniform Corrosion Behavior of Zircaloy-4",
+    "alloy_name": "Zircaloy-4",
+    "property_name": "Uniform Corrosion Behavior",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "Effect of Hydriding on Mechanical Behavior of Zircaloy-4 Structural Components of the Fuel Assembly Under Various Conditions",
+    "alloy_name": "Zircaloy-4",
+    "specimen_state": "structural components",
+    "property_name": "Mechanical Behavior",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "Characterization of Post-Transition Corrosion Kinetics of Stress-Relieved, Recrystallized and Beta Quenched Zircaloy-4 Tubes",
+    "alloy_name": "Zircaloy-4",
+    "specimen_state": "Stress-Relieved, Recrystallized and Beta Quenched tubes",
+    "property_name": "Post-Transition Corrosion Kinetics",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "Effects of Hydriding and Oxidizing on the Mechanical Properties of Unirradiated Zircaloy-4 Cladding Tubes",
+    "alloy_name": "Zircaloy-4",
+    "specimen_state": "Unirradiated cladding tubes",
+    "property_name": "Mechanical Properties",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "Coralline Facility Study on Irradiation Behavior Under PWR Conditions of ZirconiumBased Alloys to be Used in the Fuel Assembly Structure",
+    "alloy_name": "ZirconiumBased Alloys",
+    "specimen_state": "irradiated",
+    "property_name": "Irradiation Behavior",
+    "conditions": {
+      "medium": "PWR"
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "Long-Term Out-of-Pile Corrosion of Zirconium Alloys",
+    "alloy_name": "Zirconium Alloys",
+    "specimen_state": "out-of-pile",
+    "property_name": "Corrosion",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "Contribution of the Beta Flux to Corrosion Enhancement of Zr Alloys Under Irradiation",
+    "alloy_name": "Zr Alloys",
+    "specimen_state": "irradiated",
+    "property_name": "Corrosion Enhancement",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "Superimposed Effects of Grain Shape Anistropy and Crystallographic Texture on Anisotropic Biaxial Creep of Zircaloy Cladding",
+    "alloy_name": "Zircaloy",
+    "specimen_state": "cladding",
+    "property_name": "Anisotropic Biaxial Creep",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "Mechanism of Oxidation of Zircaloy Fuel Cladding in Pressurized Water Reactors",
+    "alloy_name": "Zircaloy",
+    "specimen_state": "fuel cladding",
+    "property_name": "Oxidation",
+    "conditions": {
+      "medium": "Pressurized Water Reactors"
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "Evaluation of Non-Destructive Hydrogen Detection Methods in Zirconium Alloys",
+    "alloy_name": "Zirconium Alloys",
+    "property_name": "Hydrogen Detection",
+    "test_type": "Non-Destructive",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "The Ductile-Brittle Transition of Zircaloy-4 Due to Hydrogen",
+    "alloy_name": "Zircaloy-4",
+    "property_name": "Ductile-Brittle Transition",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "xvii",
+    "evidence_span": "Influence of Irradiation on Iodine Stress Corrosion Cracking Behavior of Zircaloy-4",
+    "alloy_name": "Zircaloy-4",
+    "specimen_state": "irradiated",
+    "property_name": "Iodine Stress Corrosion Cracking Behavior",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "318",
+    "evidence_span": "Development of Zirconium-Barrier Fuel Cladding",
+    "alloy_name": "Zirconium-Barrier",
+    "specimen_state": "fuel cladding",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "318",
+    "evidence_span": "the dominant mechanism is stress-corrosion cracking of the Zircaloy",
+    "alloy_name": "Zircaloy",
+    "property_name": "stress-corrosion cracking",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1245-EB-Zirconium in the Nuclear Industry_10th Volume_004_chunk1",
+    "page_or_fig": "318",
+    "evidence_span": "the zirconium-barrier fuel was tested in power ramps to ascertain and to quantify the resistance to PCI under expected service conditions in commercial boiling water reactors (BWRs)",
+    "alloy_name": "zirconium-barrier",
+    "specimen_state": "fuel",
+    "property_name": "resistance to PCI",
+    "conditions": {
+      "medium": "commercial boiling water reactors (BWRs)"
+    },
+    "test_type": "power ramps",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  }
+]

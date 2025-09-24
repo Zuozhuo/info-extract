@@ -1,0 +1,465 @@
+[
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_024_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "the samples are in the fully annealed condition",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "fully annealed",
+    "process_step": "annealing",
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "pressure_MPa": null,
+      "medium": null,
+      "dpa": null,
+      "time_h": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_024_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "the mean spacing for precipitates ranges from 0.141 to $0 . 9 4 1 \\mu \\mathrm { m }$",
+    "alloy_name": "Zircaloy-2",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "tubing",
+    "process_step": null,
+    "test_type": "TEM analysis",
+    "property_name": "precipitate mean spacing",
+    "domain": null,
+    "value": null,
+    "value_min": 0.141,
+    "value_max": 0.941,
+    "unit": "μm",
+    "raw_unit": "μm",
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "pressure_MPa": null,
+      "medium": null,
+      "dpa": null,
+      "time_h": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_024_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Static autoclave tests in steam at $6 7 3 \\mathrm { ~ K ~ }$ and tensile tests at room temperature were conducted",
+    "alloy_name": "zirconium-base alloys",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "static autoclave test",
+    "property_name": null,
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 400,
+      "temp_K": 673,
+      "pressure_MPa": null,
+      "medium": "steam",
+      "dpa": null,
+      "time_h": null
+    },
+    "metric_type": "test_condition",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_024_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Static autoclave tests in steam at $6 7 3 \\mathrm { ~ K ~ }$ and tensile tests at room temperature were conducted",
+    "alloy_name": "zirconium-base alloys",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "tensile test",
+    "property_name": null,
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 25,
+      "temp_K": 298,
+      "pressure_MPa": null,
+      "medium": null,
+      "dpa": null,
+      "time_h": null
+    },
+    "metric_type": "test_condition",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_024_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "effects of alloying elements, such as tin (0.2 to $1 . 5 ~ \\mathrm { w t } \\%$ ), niobium (0.05 to 1.0), iron (0.2 to 0.6), chromium (0.1 to 0.4), molybdenum (0.05 to 0.5), and vanadium (0.1 to 0.5)",
+    "alloy_name": "zirconium-base alloys",
+    "composition": {
+      "Sn": {
+        "value": null,
+        "value_min": 0.2,
+        "value_max": 1.5,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": null,
+        "value_min": 0.05,
+        "value_max": 1.0,
+        "unit": "wt%"
+      },
+      "Fe": {
+        "value": null,
+        "value_min": 0.2,
+        "value_max": 0.6,
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value": null,
+        "value_min": 0.1,
+        "value_max": 0.4,
+        "unit": "wt%"
+      },
+      "Mo": {
+        "value": null,
+        "value_min": 0.05,
+        "value_max": 0.5,
+        "unit": "wt%"
+      },
+      "V": {
+        "value": null,
+        "value_min": 0.1,
+        "value_max": 0.5,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Sn: 0.2-1.5 wt%, Nb: 0.05-1.0 wt%, Fe: 0.2-0.6 wt%, Cr: 0.1-0.4 wt%, Mo: 0.05-0.5 wt%, V: 0.1-0.5 wt%",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "pressure_MPa": null,
+      "medium": null,
+      "dpa": null,
+      "time_h": null
+    },
+    "metric_type": "composition_range",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_024_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Zircaloy-4 (nominal composition: $Z \\mathrm { r } { - } 1 . 5 \\mathrm { S n } { - 0 . 2 \\mathrm { F e - } 0 . 1 \\mathrm { C r } }",
+    "alloy_name": "Zircaloy-4",
+    "composition": {
+      "Sn": {
+        "value": 1.5,
+        "value_min": null,
+        "value_max": null,
+        "unit": "wt%"
+      },
+      "Fe": {
+        "value": 0.2,
+        "value_min": null,
+        "value_max": null,
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value": 0.1,
+        "value_min": null,
+        "value_max": null,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-1.5Sn-0.2Fe-0.1Cr",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "pressure_MPa": null,
+      "medium": null,
+      "dpa": null,
+      "time_h": null
+    },
+    "metric_type": "nominal_composition",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_024_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "significantly improved by the reduction of the Sn content by $0 . 5 ~ \\mathrm { w t } \\%$ and by a small addition of Nb (about 0.05 to $0 . 2 \\ \\mathrm { w t } \\%$ )",
+    "alloy_name": "zirconium-base alloys",
+    "composition": {
+      "Sn": {
+        "value": null,
+        "value_min": null,
+        "value_max": null,
+        "unit": "wt%",
+        "note": "reduced by 0.5"
+      },
+      "Nb": {
+        "value": null,
+        "value_min": 0.05,
+        "value_max": 0.2,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Sn: reduced by 0.5 wt%, Nb: 0.05-0.2 wt%",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "property_name": "corrosion resistance",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "pressure_MPa": null,
+      "medium": null,
+      "dpa": null,
+      "time_h": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_024_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "the decrease in solute Sn atoms degraded mechanical properties such as ultimate tensile strength and $0 . 2 \\%$ yield strength",
+    "alloy_name": "zirconium-base alloys",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "tensile test",
+    "property_name": "ultimate tensile strength",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "pressure_MPa": null,
+      "medium": null,
+      "dpa": null,
+      "time_h": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_024_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "the decrease in solute Sn atoms degraded mechanical properties such as ultimate tensile strength and $0 . 2 \\%$ yield strength",
+    "alloy_name": "zirconium-base alloys",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "tensile test",
+    "property_name": "0.2% yield strength",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "pressure_MPa": null,
+      "medium": null,
+      "dpa": null,
+      "time_h": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_024_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "The increase of the total content of Fe and Cr from 0.3 to $0 . 7 \\mathrm { w t } \\%$ improved the mechanical properties without affecting the corrosion resistance",
+    "alloy_name": "zirconium-base alloys",
+    "composition": {
+      "Fe+Cr": {
+        "value": null,
+        "value_min": 0.3,
+        "value_max": 0.7,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Fe+Cr: 0.3-0.7 wt%",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "mechanical test",
+    "property_name": "mechanical properties",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "pressure_MPa": null,
+      "medium": null,
+      "dpa": null,
+      "time_h": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_024_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Small additions of Mo and/or $\\mathrm { V }$ resulted in a further improvement of mechanical properties",
+    "alloy_name": "zirconium-base alloys",
+    "composition": {
+      "Mo": {
+        "value": null,
+        "value_min": null,
+        "value_max": null,
+        "unit": "wt%",
+        "note": "small addition"
+      },
+      "V": {
+        "value": null,
+        "value_min": null,
+        "value_max": null,
+        "unit": "wt%",
+        "note": "small addition"
+      }
+    },
+    "composition_raw": "Mo and/or V additions",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "mechanical test",
+    "property_name": "mechanical properties",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "pressure_MPa": null,
+      "medium": null,
+      "dpa": null,
+      "time_h": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_024_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "The corrosion resistance increased and the average size of precipitates decreased from 0.1 to $0 . 0 5 ~ { \\mu \\mathrm { m } }$ with the decrease of the $\\mathrm { F e / C r }$ ratio from 6.0 to 0.5",
+    "alloy_name": "niobium-containing zirconium-base alloys",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "property_name": "corrosion resistance",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "pressure_MPa": null,
+      "medium": null,
+      "dpa": null,
+      "time_h": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP1132-EB-Zirconium in the Nuclear Industry_9th Volume_024_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "the average size of precipitates decreased from 0.1 to $0 . 0 5 ~ { \\mu \\mathrm { m } }$ with the decrease of the $\\mathrm { F e / C r }$ ratio from 6.0 to 0.5",
+    "alloy_name": "niobium-containing zirconium-base alloys",
+    "composition": {
+      "Fe/Cr ratio": {
+        "value": null,
+        "value_min": 0.5,
+        "value_max": 6.0,
+        "unit": null
+      }
+    },
+    "composition_raw": "Fe/Cr ratio: 6.0-0.5",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "precipitate analysis",
+    "property_name": "precipitate average size",
+    "domain": null,
+    "value": null,
+    "value_min": 0.05,
+    "value_max": 0.1,
+    "unit": "μm",
+    "raw_unit": "μm",
+    "conditions": {
+      "temp_C": null,
+      "temp_K": null,
+      "pressure_MPa": null,
+      "medium": null,
+      "dpa": null,
+      "time_h": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  }
+]
