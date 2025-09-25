@@ -1,0 +1,60 @@
+[
+  {
+    "source_id": "STP1543-EB-Zirconium in the Nuclear Industry_17th Volume_002_chunk1",
+    "page_or_fig": "copyright page",
+    "evidence_span": "This material may not be reproducedor copied, in whole or in part, in any printed, mechanical, electronic, film, or other distribution and storage media, without the written consent of the publisher.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "time": null,
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "dose": null,
+      "dose_rate": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP1543-EB-Zirconium in the Nuclear Industry_17th Volume_002_chunk1",
+    "page_or_fig": "peer review policy section",
+    "evidence_span": "Each paper published in this volume was evaluated by two peer reviewers and at least one editor.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "time": null,
+      "pressure": null,
+      "environment": null,
+      "strain_rate": null,
+      "dose": null,
+      "dose_rate": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  }
+]

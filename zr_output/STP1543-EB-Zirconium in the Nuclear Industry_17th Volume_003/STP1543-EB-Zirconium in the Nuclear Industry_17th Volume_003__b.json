@@ -1,0 +1,58 @@
+[
+  {
+    "source_id": "STP1543-EB-Zirconium in the Nuclear Industry_17th Volume_003_chunk1",
+    "page_or_fig": "front matter",
+    "evidence_span": "Symposium Co-Chairmen were Pierre Barbéris, Areva/Cezus Research Centre, Ugine, France and Srikumar Banerjee, Atomic Energy Commission, Anushakti Bhavan, Mumbai, India.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "time": null,
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "other": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP1543-EB-Zirconium in the Nuclear Industry_17th Volume_003_chunk1",
+    "page_or_fig": "front matter",
+    "evidence_span": "The STP Editors are Robert J. Comstock, Westinghouse Electric Company, Pittsburgh, PA, USA and Pierre Barbéris.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "time": null,
+      "environment": null,
+      "strain_rate": null,
+      "irradiation_dose": null,
+      "other": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  }
+]

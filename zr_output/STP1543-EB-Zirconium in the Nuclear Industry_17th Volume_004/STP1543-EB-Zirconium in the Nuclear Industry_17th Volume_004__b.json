@@ -1,0 +1,42 @@
+[
+  {
+    "source_id": "STP1543-EB-Zirconium in the Nuclear Industry_17th Volume_004_chunk1",
+    "page_or_fig": "138",
+    "evidence_span": "Influence of Sn on Deformation Mechanisms During Room Temperature Compression of Binary Zr-Sn Alloys",
+    "alloy_name": "Zr-Sn",
+    "composition_raw": "Binary Zr-Sn",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Compression",
+    "property_name": "Deformation Mechanisms",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 25.0,
+      "temp_K": 298.15,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  }
+]
