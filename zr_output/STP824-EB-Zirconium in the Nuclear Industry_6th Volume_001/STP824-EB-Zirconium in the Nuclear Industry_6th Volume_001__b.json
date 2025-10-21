@@ -1,0 +1,28 @@
+[
+  {
+    "source_id": "STP824-EB-Zirconium in the Nuclear Industry_6th Volume_001_chunk1",
+    "page_or_fig": "73",
+    "evidence_span": "Characteristics of Hydrostatically Extruded Zr-2.5Nb Alloy",
+    "alloy_name": "Zr-2.5Nb",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": "Hydrostatically extruded",
+    "process_step": "Extrusion",
+    "test_type": null,
+    "property_name": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "other": null
+    },
+    "metric_type": "judgement",
+    "domain": "elastoplastic_model",
+    "confidence": 0.9
+  }
+]

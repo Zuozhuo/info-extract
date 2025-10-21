@@ -1,0 +1,31 @@
+[
+  {
+    "source_id": "STP1597-EB-Zirconium in the Nuclear Industry_18th Volume_018_chunk1",
+    "page_or_fig": "Fig. 1",
+    "evidence_span": "Figure 1 shows the microstructure of the alloy",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "microstructural analysis",
+    "property_name": "microstructure",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "strain_rate": null,
+      "fluence": null,
+      "dpa": null,
+      "corrosion_medium": null,
+      "time": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.7
+  }
+]

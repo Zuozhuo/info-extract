@@ -1,0 +1,1323 @@
+[
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk1",
+    "page_or_fig": "Fig. 1",
+    "evidence_span": "Zr-0.059Si in the as-cast condition (button melt)",
+    "alloy_name": "Zr-0.059Si",
+    "specimen_state": "as-cast",
+    "process_step": "button melt",
+    "test_type": "metallography",
+    "property_name": "microstructure",
+    "metric_type": "judgement",
+    "confidence": 1.0,
+    "domain": "hardening",
+    "composition": {
+      "Si": {
+        "value": 0.059,
+        "unit": "wt%"
+      }
+    },
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    }
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk1",
+    "page_or_fig": "Fig. 2",
+    "evidence_span": "Zr-0.027Si in the as-cast condition (bulton melt)",
+    "alloy_name": "Zr-0.027Si",
+    "specimen_state": "as-cast",
+    "process_step": "button melt",
+    "test_type": "metallography",
+    "property_name": "microstructure",
+    "metric_type": "judgement",
+    "confidence": 1.0,
+    "domain": "hardening",
+    "composition": {
+      "Si": {
+        "value": 0.027,
+        "unit": "wt%"
+      }
+    },
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    }
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk1",
+    "page_or_fig": "Fig. 3",
+    "evidence_span": "Zr-4.1Si in the as-cast condition (button melt)",
+    "alloy_name": "Zr-4.1Si",
+    "specimen_state": "as-cast",
+    "process_step": "button melt",
+    "test_type": "metallography",
+    "property_name": "microstructure",
+    "metric_type": "judgement",
+    "confidence": 1.0,
+    "domain": "hardening",
+    "composition": {
+      "Si": {
+        "value": 4.1,
+        "unit": "wt%"
+      }
+    },
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    }
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk1",
+    "page_or_fig": "Fig. 4",
+    "evidence_span": "As-cast Zircaloy-4 with 70-ppm phosphorus",
+    "alloy_name": "Zircaloy-4",
+    "composition_raw": "70-ppm phosphorus",
+    "specimen_state": "as-cast",
+    "test_type": "metallography",
+    "property_name": "microstructure",
+    "metric_type": "judgement",
+    "confidence": 1.0,
+    "domain": "hardening",
+    "composition": {
+      "P": {
+        "value": 70,
+        "unit": "ppm"
+      }
+    },
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    }
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk1",
+    "page_or_fig": "Fig. 5",
+    "evidence_span": "As-cast zirconium with 116-ppm phosphorus and 140-ppm silicon (button melt)",
+    "alloy_name": "zirconium",
+    "composition_raw": "116-ppm phosphorus and 140-ppm silicon",
+    "specimen_state": "as-cast",
+    "process_step": "button melt",
+    "test_type": "metallography",
+    "property_name": "microstructure",
+    "metric_type": "judgement",
+    "confidence": 1.0,
+    "domain": "hardening",
+    "composition": {
+      "P": {
+        "value": 116,
+        "unit": "ppm"
+      },
+      "Si": {
+        "value": 140,
+        "unit": "ppm"
+      }
+    },
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    }
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk1",
+    "page_or_fig": "Fig. 6",
+    "evidence_span": "As-cast zirconium alloyed with 0.15 percent carbon added as -200 mesh ZrC powder",
+    "alloy_name": "zirconium",
+    "composition_raw": "0.15 percent carbon added as -200 mesh ZrC powder",
+    "specimen_state": "as-cast",
+    "test_type": "metallography",
+    "property_name": "carbide distribution and shape",
+    "metric_type": "judgement",
+    "confidence": 1.0,
+    "domain": "hardening",
+    "composition": {
+      "C": {
+        "value": 0.15,
+        "unit": "wt%"
+      }
+    },
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    }
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk1",
+    "page_or_fig": "Fig. 7",
+    "evidence_span": "Microstructure of Zircaloy-2 with approximately 400-ppm carbon (14-in.-diameter arc melted ingot)",
+    "alloy_name": "Zircaloy-2",
+    "composition_raw": "approximately 400-ppm carbon",
+    "specimen_state": "arc melted ingot",
+    "process_step": "14-in.-diameter arc melting",
+    "test_type": "metallography",
+    "property_name": "microstructure",
+    "metric_type": "judgement",
+    "confidence": 1.0,
+    "domain": "hardening",
+    "composition": {
+      "C": {
+        "value": 400,
+        "unit": "ppm"
+      }
+    },
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    }
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk1",
+    "page_or_fig": "Fig. 8",
+    "evidence_span": "Zircaloy-4 as-cast double arc melted ingot anodized at 115 V",
+    "alloy_name": "Zircaloy-4",
+    "specimen_state": "as-cast",
+    "process_step": "double arc melting, anodizing",
+    "test_type": "anodizing",
+    "property_name": "microstructural features",
+    "metric_type": "judgement",
+    "confidence": 1.0,
+    "domain": "hardening",
+    "composition": {},
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    }
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk1",
+    "page_or_fig": "Fig. 9",
+    "evidence_span": "Oxidized single crystal sphere of zirconium which has been oxidized in air",
+    "alloy_name": "zirconium",
+    "specimen_state": "single crystal sphere",
+    "process_step": "oxidized",
+    "test_type": "oxidation",
+    "property_name": "oxidation behavior",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": "air"
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0,
+    "domain": "corrosion",
+    "composition": {}
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk1",
+    "page_or_fig": "Fig. 10",
+    "evidence_span": "Heat tinted, bright field illumination Zircaloy-4 hot-rolled and recrystallized plate",
+    "alloy_name": "Zircaloy-4",
+    "specimen_state": "hot-rolled and recrystallized plate",
+    "process_step": "heat tinting",
+    "test_type": "heat tinting",
+    "property_name": "microstructure",
+    "metric_type": "judgement",
+    "confidence": 1.0,
+    "domain": "hardening",
+    "composition": {},
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    }
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk1",
+    "page_or_fig": "Fig. 11",
+    "evidence_span": "Heat tinted, bright field illumination Zircaloy-4 as-cast structure",
+    "alloy_name": "Zircaloy-4",
+    "specimen_state": "as-cast",
+    "process_step": "heat tinting",
+    "test_type": "heat tinting",
+    "property_name": "microstructure",
+    "metric_type": "judgement",
+    "confidence": 1.0,
+    "domain": "hardening",
+    "composition": {},
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    }
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk1",
+    "page_or_fig": "Fig. 12",
+    "evidence_span": "Heat tinted, bright field illumination Zircaloy-4 hot-rolled and recrystallized plate. This micro shows nonuniform tin distribution",
+    "alloy_name": "Zircaloy-4",
+    "specimen_state": "hot-rolled and recrystallized plate",
+    "process_step": "heat tinting",
+    "test_type": "heat tinting",
+    "property_name": "tin distribution",
+    "metric_type": "judgement",
+    "confidence": 1.0,
+    "domain": "hardening",
+    "composition": {},
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    }
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk1",
+    "page_or_fig": "Fig. 13",
+    "evidence_span": "Heat tinted, bright field illumination Zircaloy-4 hot-rolled and recrystallized plate",
+    "alloy_name": "Zircaloy-4",
+    "specimen_state": "hot-rolled and recrystallized plate",
+    "process_step": "heat tinting",
+    "test_type": "heat tinting",
+    "property_name": "microstructure",
+    "metric_type": "judgement",
+    "confidence": 1.0,
+    "domain": "hardening",
+    "composition": {},
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    }
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk1",
+    "page_or_fig": "Fig. 14",
+    "evidence_span": "Nitrogen contaminated area in Zircaloy-2 weld metal",
+    "alloy_name": "Zircaloy-2",
+    "specimen_state": "weld metal",
+    "composition_raw": "nitrogen contaminated",
+    "test_type": "metallography",
+    "property_name": "contamination",
+    "metric_type": "judgement",
+    "confidence": 1.0,
+    "domain": "corrosion",
+    "composition": {
+      "N": {
+        "value": null,
+        "unit": "ppm"
+      }
+    },
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    }
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk2",
+    "page_or_fig": "FIG. 15",
+    "evidence_span": "0.6 percent nitrogen in Zircaloy-2. Heat treated to simulate structure of Fig. 14",
+    "alloy_name": "Zircaloy-2",
+    "composition_raw": "0.6 percent nitrogen",
+    "specimen_state": "Heat treated",
+    "process_step": "heat treatment",
+    "test_type": "microstructure analysis",
+    "property_name": "nitrogen content",
+    "value": 0.6,
+    "unit": "wt%",
+    "raw_unit": "percent",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9,
+    "domain": "hardening",
+    "composition": {
+      "N": {
+        "value": 0.6,
+        "unit": "wt%"
+      }
+    }
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk2",
+    "page_or_fig": "FIG. 16",
+    "evidence_span": "Button melted Zircaloy-2]nitrogen alloy, as-cast. Coarse Widmanstatten structure",
+    "alloy_name": "Zircaloy-2",
+    "composition_raw": "nitrogen alloy",
+    "specimen_state": "as-cast",
+    "process_step": "button melting",
+    "test_type": "microstructure analysis",
+    "property_name": "Widmanstatten structure",
+    "value": null,
+    "unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9,
+    "domain": "hardening",
+    "composition": {
+      "N": {
+        "value": null,
+        "unit": "wt%"
+      }
+    }
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk2",
+    "page_or_fig": "FIG. 17",
+    "evidence_span": "Button melted alloy as Fig. 16. Annealed 4 h at $7 6 0 ^ { \\circ } C$ secondary precipitate",
+    "alloy_name": "Zircaloy-2",
+    "composition_raw": "nitrogen alloy",
+    "specimen_state": "annealed",
+    "process_step": "annealing",
+    "test_type": "heat treatment",
+    "property_name": "annealing time",
+    "value": 4,
+    "unit": "h",
+    "raw_unit": "h",
+    "conditions": {
+      "temp_C": 760,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9,
+    "domain": "hardening",
+    "composition": {
+      "N": {
+        "value": null,
+        "unit": "wt%"
+      }
+    }
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk2",
+    "page_or_fig": "FIG. 18",
+    "evidence_span": "Tungsten/nitrogen contamination of Zircaloy weld. Anodized at $8 0 V",
+    "alloy_name": "Zircaloy",
+    "composition_raw": "Tungsten/nitrogen contamination",
+    "specimen_state": "weld",
+    "process_step": "anodizing",
+    "test_type": "contamination analysis",
+    "property_name": "anodizing voltage",
+    "value": 80,
+    "unit": "V",
+    "raw_unit": "V",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9,
+    "domain": "corrosion",
+    "composition": {
+      "W": {
+        "value": null,
+        "unit": "ppm"
+      },
+      "N": {
+        "value": null,
+        "unit": "ppm"
+      }
+    }
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "An as-cast button of zirconium with decreased silicon, $2 7 0 \\ \\mathsf { p p m }$ , is shown in Fig. 2.",
+    "alloy_name": "Zr",
+    "composition": [
+      {
+        "element": "Si",
+        "value": 270,
+        "unit": "ppm"
+      }
+    ],
+    "composition_raw": "270 ppm Si",
+    "specimen_state": "as-cast",
+    "process_step": "casting",
+    "test_type": "microstructural analysis",
+    "property_name": "microstructure",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "The structure shown in Fig. 3 is one of zirconium alloyed with 4.1 percent silicon in an as-cast button.",
+    "alloy_name": "Zr-4.1Si",
+    "composition": [
+      {
+        "element": "Si",
+        "value": 4.1,
+        "unit": "wt%"
+      }
+    ],
+    "composition_raw": "4.1% Si",
+    "specimen_state": "as-cast",
+    "process_step": "casting",
+    "test_type": "microstructural analysis",
+    "property_name": "microstructure",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "This material has a hardness of $3 3 4 \\mathrm { ~ H B }$ , and is practically nonfabricable.",
+    "alloy_name": "Zr-4.1Si",
+    "composition": [
+      {
+        "element": "Si",
+        "value": 4.1,
+        "unit": "wt%"
+      }
+    ],
+    "composition_raw": "4.1% Si",
+    "specimen_state": "as-cast",
+    "process_step": "casting",
+    "test_type": "hardness test",
+    "property_name": "hardness",
+    "domain": "hardening",
+    "value": 334,
+    "value_min": null,
+    "value_max": null,
+    "unit": "HV",
+    "raw_unit": "HB",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "Zircaloy-4 with elevated phosphorus content, approximately 70 ppm, results in long, lenticular zirconium-phosphide particles in the as-cast condition.",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "P",
+        "value": 70,
+        "unit": "ppm"
+      }
+    ],
+    "composition_raw": "70 ppm P",
+    "specimen_state": "as-cast",
+    "process_step": "casting",
+    "test_type": "microstructural analysis",
+    "property_name": "microstructure",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "The angularity and sharpness of these intermetallic compounds is altered little by heat treating as high as $2 2 0 0 ^ { \\circ } \\mathrm { F }$ $( 1 2 0 4 ^ { \\circ } \\mathbf { C } )$ for $2 4 \\ \\mathrm { h }$",
+    "alloy_name": "Zircaloy-4",
+    "composition": [
+      {
+        "element": "P",
+        "value": 70,
+        "unit": "ppm"
+      }
+    ],
+    "composition_raw": "70 ppm P",
+    "specimen_state": "heat treated",
+    "process_step": "heat treatment",
+    "test_type": "microstructural analysis",
+    "property_name": "intermetallic morphology",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 1204,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 24,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "Figure 5 shows the result of an as-cast button containing 116-ppm phosphorus as well as 140-ppm silicon.",
+    "alloy_name": "Zr",
+    "composition": [
+      {
+        "element": "P",
+        "value": 116,
+        "unit": "ppm"
+      },
+      {
+        "element": "Si",
+        "value": 140,
+        "unit": "ppm"
+      }
+    ],
+    "composition_raw": "116 ppm P, 140 ppm Si",
+    "specimen_state": "as-cast",
+    "process_step": "casting",
+    "test_type": "microstructural analysis",
+    "property_name": "microstructure",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "Photomicrographs of zirconium with 1500-ppm carbon are shown in Fig. 6.",
+    "alloy_name": "Zr",
+    "composition": [
+      {
+        "element": "C",
+        "value": 1500,
+        "unit": "ppm"
+      }
+    ],
+    "composition_raw": "1500 ppm C",
+    "specimen_state": "as-cast",
+    "process_step": "casting",
+    "test_type": "microstructural analysis",
+    "property_name": "microstructure",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "The microstructure in Fig. 7 shows more ZrC, this time in Zircaloy-2 in an as-cast 14-in.-diameter ingot. The carbon level in this case is approximately 400 ppm",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "C",
+        "value": 400,
+        "unit": "ppm"
+      }
+    ],
+    "composition_raw": "400 ppm C",
+    "specimen_state": "as-cast",
+    "process_step": "casting",
+    "test_type": "microstructural analysis",
+    "property_name": "microstructure",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "The lower voltage anodized film, 28 V, shows the carbides as a solid, smooth intermetallic compound.",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "C",
+        "value": 400,
+        "unit": "ppm"
+      }
+    ],
+    "composition_raw": "400 ppm C",
+    "specimen_state": "as-cast",
+    "process_step": "anodizing",
+    "test_type": "metallographic observation",
+    "property_name": "anodizing voltage",
+    "domain": "hardening",
+    "value": 28,
+    "value_min": null,
+    "value_max": null,
+    "unit": "V",
+    "raw_unit": "V",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "This same sample, with no new preparation, reanodized at a higher voltage (1 15 V), shows the anodized film breaking down and resulting in a very mottled appearing carbide.",
+    "alloy_name": "Zircaloy-2",
+    "composition": [
+      {
+        "element": "C",
+        "value": 400,
+        "unit": "ppm"
+      }
+    ],
+    "composition_raw": "400 ppm C",
+    "specimen_state": "as-cast",
+    "process_step": "anodizing",
+    "test_type": "metallographic observation",
+    "property_name": "anodizing voltage",
+    "domain": "hardening",
+    "value": 115,
+    "value_min": null,
+    "value_max": null,
+    "unit": "V",
+    "raw_unit": "V",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": null
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk4",
+    "page_or_fig": "Fig. 8",
+    "evidence_span": "The photomicrograph shown in Fig. 8 is a typical example of flowed metal from improper polishing.",
+    "alloy_name": null,
+    "composition": [],
+    "composition_raw": null,
+    "specimen_state": "anodized",
+    "process_step": "polishing",
+    "test_type": "metallography",
+    "property_name": "microstructure quality",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk4",
+    "page_or_fig": "text",
+    "evidence_span": "The effective use of heat tinting relies on variations in the oxidation rate of different areas of the sample. For constant oxidation parameters, the oxide film thickness depends on the oxidation rate of the substrate.",
+    "alloy_name": null,
+    "composition": [],
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "heat tinting",
+    "test_type": "oxidation",
+    "property_name": "oxide film thickness",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk4",
+    "page_or_fig": "text",
+    "evidence_span": "To form the oxide layer, place the sample in a small oven set at approximately 400°C.",
+    "alloy_name": null,
+    "composition": [],
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "heat tinting",
+    "test_type": "oxidation",
+    "property_name": "temperature",
+    "domain": "corrosion",
+    "value": 400.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "°C",
+    "raw_unit": "°C",
+    "conditions": {
+      "temp_C": 400.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk4",
+    "page_or_fig": "text",
+    "evidence_span": "The sample should remain in the oven until a light reddish-brown oxide is formed. This is in the range of 2 to 10 min for a furnace temperature of 400°C.",
+    "alloy_name": null,
+    "composition": [],
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "heat tinting",
+    "test_type": "oxidation",
+    "property_name": "time",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": 2.0,
+    "value_max": 10.0,
+    "unit": "min",
+    "raw_unit": "min",
+    "conditions": {
+      "temp_C": 400.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk4",
+    "page_or_fig": "text",
+    "evidence_span": "For determining oxidation time, it is best to experiment with a sample of Zircaloy-4 in an as-cast condition.",
+    "alloy_name": "Zircaloy-4",
+    "composition": [],
+    "composition_raw": null,
+    "specimen_state": "as-cast",
+    "process_step": null,
+    "test_type": "oxidation",
+    "property_name": "alloy segregation",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk4",
+    "page_or_fig": "text",
+    "evidence_span": "For an evaluation of metallographic techniques, it is best to prepare a sample of homogeneous, alpha-recrystallized Zircaloy.",
+    "alloy_name": "Zircaloy",
+    "composition": [],
+    "composition_raw": null,
+    "specimen_state": "alpha-recrystallized",
+    "process_step": null,
+    "test_type": "metallography",
+    "property_name": "homogeneity",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk5",
+    "page_or_fig": "DISCUSSION",
+    "evidence_span": "Anodizing on a macroscopic scale to evaluate production components affected by nitrogen has proved less sensitive than corrosion testing",
+    "alloy_name": "zirconium alloy",
+    "composition_raw": "nitrogen affected",
+    "composition": {
+      "N": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "production components",
+    "process_step": "anodizing",
+    "test_type": "corrosion test",
+    "property_name": "sensitivity",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk5",
+    "page_or_fig": "DISCUSSION",
+    "evidence_span": "Tungsten/nitrogen contamination of welded components has been illustrated in a similar manner (Fig. 18)",
+    "alloy_name": "zirconium alloy",
+    "composition_raw": "tungsten/nitrogen contamination",
+    "composition": {
+      "W": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "N": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "welded components",
+    "process_step": null,
+    "test_type": "microstructural examination",
+    "property_name": "contamination",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "observation",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk5",
+    "page_or_fig": "DISCUSSION",
+    "evidence_span": "Foreign particles in components manufactured from Zircaloy powder have been revealed by heat tinting (Fig. 19)",
+    "alloy_name": "Zircaloy",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": "powder components",
+    "process_step": "heat tinting",
+    "test_type": "microstructural examination",
+    "property_name": "foreign particles",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "observation",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk5",
+    "page_or_fig": "DISCUSSION",
+    "evidence_span": "for the beryllium rich type of inclusions experienced, heat tinting has proved to be more sensitive than the anodizing technique",
+    "alloy_name": "Zircaloy",
+    "composition_raw": "beryllium rich inclusions",
+    "composition": {
+      "Be": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": "heat tinting",
+    "test_type": "microstructural examination",
+    "property_name": "sensitivity",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk5",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "The general background internal friction variation with temperature is considered to be due to the oscillations of the dislocation segments in metal crystals",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "internal friction measurement",
+    "property_name": "internal friction",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "elastoplastic_model",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk5",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "When these segments are strongly pinned by impurities or precipitates, then the background level reduces considerably",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": "dislocation segments pinned",
+    "process_step": null,
+    "test_type": "internal friction measurement",
+    "property_name": "internal friction",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "elastoplastic_model",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk5",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "Under certain experimental conditions, zirconium hydride precipitates along the dislocations so as to pin the dislocation segments firmly",
+    "alloy_name": "Zr-H alloy",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": "hydride precipitation along dislocations",
+    "process_step": null,
+    "test_type": "internal friction measurement",
+    "property_name": "hydride precipitation",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "elastoplastic_model",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "observation",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_008_chunk5",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "For a given composition of $\\mathbf { Z } \\mathbf { r } { \\mathbf { - } } \\mathbf { H }$ alloy, the maximum temperature at which there is a measurable decrease in internal friction, due to precipitation, indicates the maximum solubility at that temperature",
+    "alloy_name": "Zr-H alloy",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "internal friction measurement",
+    "property_name": "hydrogen solubility",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "elastoplastic_model",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  }
+]

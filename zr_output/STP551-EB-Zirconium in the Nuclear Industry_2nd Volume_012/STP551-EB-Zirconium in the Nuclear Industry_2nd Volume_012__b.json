@@ -1,0 +1,2434 @@
+[
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "Zr-3Nb-1Sn (weight percent) strip and tubing",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": 96.0,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-3Nb-1Sn (weight percent)",
+    "specimen_state": "strip and tubing",
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "time_h": null,
+      "fluence": null,
+      "pressure_MPa": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "aged below the eutectoid temperature, that is, below $1 1 0 0 ^ { \\circ } \\mathbf { F }$ $( 5 9 3 ^ { \\circ } \\mathbf { C } )$",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": "cold-worked strip and tubing",
+    "process_step": "aging",
+    "test_type": null,
+    "property_name": "corrosion properties",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 593.0,
+      "medium": null,
+      "time_h": null,
+      "fluence": null,
+      "pressure_MPa": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "Creep was at least 20 times slower in Zr-3Nb-1Sn strip than in Zircaloy strip",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": "strip",
+    "process_step": null,
+    "test_type": "creep",
+    "property_name": "creep rate",
+    "domain": "irradiation_creep",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": "times slower",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "time_h": null,
+      "fluence": null,
+      "pressure_MPa": null
+    },
+    "metric_type": "comparison",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "Aging at ${ \\bf 8 0 0 ^ { \\circ } F }$ $( 4 2 7 ^ { \\circ } \\mathbf { C } )$ maximized creep strength",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "aging",
+    "test_type": "creep",
+    "property_name": "creep strength",
+    "domain": "irradiation_creep",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 427.0,
+      "medium": null,
+      "time_h": null,
+      "fluence": null,
+      "pressure_MPa": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "increasing annealing time at $1 0 5 0 ^ { \\circ } \\mathbf { F }$ EY $( 5 6 6 ^ { \\circ } \\mathbf { C } )$ markedly improved corrosion properties",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "annealing",
+    "test_type": "corrosion",
+    "property_name": "corrosion properties",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 566.0,
+      "medium": null,
+      "time_h": null,
+      "fluence": null,
+      "pressure_MPa": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "Compared to Zircaloy-2, the creep strength of Zr-3Nb-1Sn was found to be superior between $4 8 2 ^ { \\circ } \\mathbf { F }$ $( 2 5 0 ^ { \\circ } \\mathbf { C } )$ and ${ \\bf 8 4 2 ^ { \\circ } F }$ EPY $( 4 5 0 ^ { \\circ } \\mathbf { C } )$",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "creep",
+    "property_name": "creep strength",
+    "domain": "irradiation_creep",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 250.0,
+      "medium": null,
+      "time_h": null,
+      "fluence": null,
+      "pressure_MPa": null
+    },
+    "metric_type": "comparison",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "Compared to Zircaloy-2, the creep strength of Zr-3Nb-1Sn was found to be superior between $4 8 2 ^ { \\circ } \\mathbf { F }$ $( 2 5 0 ^ { \\circ } \\mathbf { C } )$ and ${ \\bf 8 4 2 ^ { \\circ } F }$ EPY $( 4 5 0 ^ { \\circ } \\mathbf { C } )$",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "creep",
+    "property_name": "creep strength",
+    "domain": "irradiation_creep",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 450.0,
+      "medium": null,
+      "time_h": null,
+      "fluence": null,
+      "pressure_MPa": null
+    },
+    "metric_type": "comparison",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "Corrosion of Zr-3Nb-1Sn was found to be roughly the same as for Zircaloy-2 in $7 5 0 ^ { \\circ } \\mathbf { F }$ EMPY $( 4 0 0 ^ { \\circ } \\mathbf { C } )$ steam",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "property_name": "corrosion rate",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 400.0,
+      "medium": "steam",
+      "time_h": null,
+      "fluence": null,
+      "pressure_MPa": null
+    },
+    "metric_type": "comparison",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "corrosion resistance of Zr-3Nb-1Sn is actually better than the Zircaloys",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "property_name": "corrosion resistance",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "time_h": null,
+      "fluence": null,
+      "pressure_MPa": null
+    },
+    "metric_type": "comparison",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "corrosion to be lower in Zr-3Nb-1Sn and $\\mathbf { Z _ { \\mathbf { r } - 2 . 5 \\mathbf { N } 6 } }$ than in Zircaloy-2 and Zircaloy-4 after 174 days in $\\mathbf { p H } 1 0 \\mathbf { N H } _ { 4 } \\mathbf { O H }$ at ${ \\mathfrak { s } } 3 0 ^ { \\circ } \\mathbf { F }$ $2 7 5 ^ { \\circ }$ C) in a fluence of $1 . 7 \\times 1 0 ^ { 2 1 }$ neutrons $( { \\boldsymbol { \\mathsf { n } } } ) / { \\mathsf { c m } } ^ { 2 }$ $( > 1 { \\mathrm { ~ M e V } } )$",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "property_name": "corrosion rate",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 275.0,
+      "medium": "pH 10 NH4OH",
+      "time_h": 4176.0,
+      "fluence": 1.7e+21,
+      "pressure_MPa": null
+    },
+    "metric_type": "comparison",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "hydrogen absorption was lower in Zr-3Nb-1Sn than in the Zircaloys",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "hydrogen absorption",
+    "property_name": "hydrogen absorption",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "time_h": null,
+      "fluence": null,
+      "pressure_MPa": null
+    },
+    "metric_type": "comparison",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "addition of 1Sn has two major effects: (1) it increases the $\\beta$ transus temperature approximately ${ \\bf 5 0 ^ { \\circ } F }$ $( 2 8 ^ { \\circ } \\mathbf { C } )$",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "beta transus temperature",
+    "domain": "thermal_expansion",
+    "value": 28.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "°C",
+    "raw_unit": "C",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "time_h": null,
+      "fluence": null,
+      "pressure_MPa": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "it decreases the solubility of niobium in $\\pmb { \\alpha } _ { \\mathbf { Z } \\mathbf { r } }$ by about 38 percent at the eutectoid temperature",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "niobium solubility in alpha-Zr",
+    "domain": "elastoplastic_model",
+    "value": -38.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "%",
+    "raw_unit": "percent",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "time_h": null,
+      "fluence": null,
+      "pressure_MPa": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "For the Zr-Nb system, the solubility of niobium in $\\pmb { \\alpha } _ { \\pmb { z r } }$ at the eutectoid temperature is 0.6",
+    "alloy_name": "Zr-Nb",
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "niobium solubility in alpha-Zr",
+    "domain": "elastoplastic_model",
+    "value": 0.6,
+    "value_min": null,
+    "value_max": null,
+    "unit": "wt%",
+    "raw_unit": "weight percent",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "time_h": null,
+      "fluence": null,
+      "pressure_MPa": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "The corresponding solubility for the $( Z \\mathbf { r } { - } 1 \\mathbf { S } \\mathbf { n } ) { \\mathbf { - } } \\mathbf { N } \\mathbf { b }$ system should be approximately 0.4",
+    "alloy_name": "Zr-1Sn-Nb",
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "niobium solubility in alpha-Zr",
+    "domain": "elastoplastic_model",
+    "value": 0.4,
+    "value_min": null,
+    "value_max": null,
+    "unit": "wt%",
+    "raw_unit": "weight percent",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "time_h": null,
+      "fluence": null,
+      "pressure_MPa": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "Aldridge and Cheadle $[ 8 ]$ report seven volume percent $\\beta$ in $\\mathbf { Z } \\mathbf { r } { - } 2 . 5 \\mathbf { N } \\mathbf { b }$ extruded at $1 5 6 2 ^ { \\circ } \\mathbf { F }$ EMPY $( 8 5 0 ^ { \\circ } \\mathbf { C } )$ and air cooled",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": null,
+    "composition_raw": null,
+    "specimen_state": "extruded",
+    "process_step": "extrusion",
+    "test_type": null,
+    "property_name": "beta phase volume fraction",
+    "domain": "elastoplastic_model",
+    "value": 7.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "%",
+    "raw_unit": "percent",
+    "conditions": {
+      "temp_C": 850.0,
+      "medium": null,
+      "time_h": null,
+      "fluence": null,
+      "pressure_MPa": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Formability test results are shown in terms of the minimum bend radius in Figs. 3 and 4.",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Formability test",
+    "property_name": "minimum bend radius",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "elastoplastic_model",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "For specimens annealed 4 h at temperatures between 1000°F (538°C) and 1350°F (732°C) and furnace cooled, strength generally decreased and elongation and formability increased with increasing annealing temperature.",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": "specimens",
+    "process_step": "annealing, furnace cooling",
+    "test_type": null,
+    "property_name": "strength, elongation, formability",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 538,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 4,
+      "atmosphere": null
+    },
+    "domain": "elastoplastic_model",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "An exception is the 1000°F (538°C) annealed strip which had lower strength and higher elongation than the 1050°F (566°C) annealed material in the transverse direction.",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": "strip",
+    "process_step": "annealing",
+    "test_type": null,
+    "property_name": "strength, elongation",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 538,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "elastoplastic_model",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "For annealing temperatures up to 1350°F (732°C), strength and formability were higher and ductility lower in the transverse direction than in the longitudinal direction.",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": "annealing",
+    "test_type": null,
+    "property_name": "strength, formability, ductility",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 732,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "elastoplastic_model",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "However, samples that were solution treated in the high α + β region (that is, 1600°F (871°C)) or above the β transus temperature (that is, 1700°F (927°C)) had nearly identical tensile properties for the two test directions.",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": "samples",
+    "process_step": "solution treatment",
+    "test_type": "Tensile test",
+    "property_name": "tensile properties",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 871,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "elastoplastic_model",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Inverse pole figures for material annealed up to 1350°F (732°C) 1450°F (788°C) prior hot-roll temperature) show basal pole intensity is approximately ten times random in the transverse direction and 0.1 times random in the longitudinal direction; whereas, the solution treated material has close to ten times random intensity in both directions.",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": "material",
+    "process_step": "annealing, solution treatment",
+    "test_type": "Inverse pole figure",
+    "property_name": "basal pole intensity",
+    "value": 10.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": "times random",
+    "conditions": {
+      "temp_C": 732,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "elastoplastic_model",
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Inverse pole figures for material annealed up to 1350°F (732°C) 1450°F (788°C) prior hot-roll temperature) show basal pole intensity is approximately ten times random in the transverse direction and 0.1 times random in the longitudinal direction; whereas, the solution treated material has close to ten times random intensity in both directions.",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": "material",
+    "process_step": "annealing, solution treatment",
+    "test_type": "Inverse pole figure",
+    "property_name": "basal pole intensity",
+    "value": 0.1,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": "times random",
+    "conditions": {
+      "temp_C": 732,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "elastoplastic_model",
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk2",
+    "page_or_fig": "table",
+    "evidence_span": "Zr-3Nb-1Sn, 1450",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": "annealing",
+    "test_type": "Tensile test",
+    "property_name": "Ultimate Tensile Strength",
+    "value": 724.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "MPa",
+    "raw_unit": "ksi",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "elastoplastic_model",
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk2",
+    "page_or_fig": "table",
+    "evidence_span": "Zr-3Nb-1Sn, 1450",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": "annealing",
+    "test_type": "Tensile test",
+    "property_name": "Ultimate Tensile Strength",
+    "value": 796.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "MPa",
+    "raw_unit": "ksi",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "elastoplastic_model",
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk2",
+    "page_or_fig": "table",
+    "evidence_span": "Zr-3Nb-1Sn, 1450",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": "annealing",
+    "test_type": "Tensile test",
+    "property_name": "0.2% Yield Strength",
+    "value": 503.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "MPa",
+    "raw_unit": "ksi",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "elastoplastic_model",
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk3",
+    "page_or_fig": "table",
+    "evidence_span": "Zr-3Nb-1Sn, 1450; 1050; 66.5; 74.5; 47.4; 68.4; 11.0; 5.5",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "hot rolled at 1450°F",
+    "process_step": "annealed at 1050°F",
+    "test_type": "tensile",
+    "property_name": "ultimate tensile strength",
+    "value": 458.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "MPa",
+    "raw_unit": "ksi",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "elastoplastic_model",
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk3",
+    "page_or_fig": "table",
+    "evidence_span": "Zr-3Nb-1Sn, 1450; 1050; 66.5; 74.5; 47.4; 68.4; 11.0; 5.5",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "hot rolled at 1450°F",
+    "process_step": "annealed at 1050°F",
+    "test_type": "tensile",
+    "property_name": "ultimate tensile strength",
+    "value": 514.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "MPa",
+    "raw_unit": "ksi",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "elastoplastic_model",
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk3",
+    "page_or_fig": "table",
+    "evidence_span": "Zr-3Nb-1Sn, 1450; 1050; 66.5; 74.5; 47.4; 68.4; 11.0; 5.5",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "hot rolled at 1450°F",
+    "process_step": "annealed at 1050°F",
+    "test_type": "tensile",
+    "property_name": "0.2% yield strength",
+    "value": 327.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "MPa",
+    "raw_unit": "ksi",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "elastoplastic_model",
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk3",
+    "page_or_fig": "table",
+    "evidence_span": "Zr-3Nb-1Sn, 1450; 1050; 66.5; 74.5; 47.4; 68.4; 11.0; 5.5",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "hot rolled at 1450°F",
+    "process_step": "annealed at 1050°F",
+    "test_type": "tensile",
+    "property_name": "0.2% yield strength",
+    "value": 472.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "MPa",
+    "raw_unit": "ksi",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "elastoplastic_model",
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk4",
+    "page_or_fig": "text",
+    "evidence_span": "and increase with annealing temperature up to $1350^{\\circ}F$ $(732^{\\circ}C)$",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": "annealed",
+    "test_type": "corrosion test",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 732,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk4",
+    "page_or_fig": "text",
+    "evidence_span": "Strip samples annealed at ${ \\bf 800^{\\circ}F }$ EMPY $(427^{\\circ}C)$ for ${ \\mathfrak{63} }\\ {\\mathfrak{h}}$ and air cooled exhibited a weight gain of $36.5\\mathrm{\\ mg}/\\mathrm{d}\\mathrm{m}^{2}$",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "strip",
+    "process_step": "annealed at 427°C for 63h and air cooled",
+    "test_type": "corrosion test",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": 36.5,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": 427,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 63,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk4",
+    "page_or_fig": "text",
+    "evidence_span": "Solution treatment at $1700^{\\circ}F$ $(927^{\\circ}C)$ (air cooled) prior to aging at $800^{\\circ}F$ EPY $(427^{\\circ}C)$ increased corrosion weight gain to $50~\\mathrm{mg/}$ $\\mathbf{d}\\mathbf{m}^{2}$",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": "solution treatment at 927°C (air cooled) + aging at 427°C",
+    "test_type": "corrosion test",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": 50,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": 427,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk4",
+    "page_or_fig": "text",
+    "evidence_span": "Aging for $\\mathbf{63\\ h}$ at ${ \\bf 800^{\\circ}F }$ $(427^{\\circ}C)$ resulted in the highest tensile strength (see Table 2)",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "strip",
+    "process_step": "aging at 427°C for 63h",
+    "test_type": "tensile test",
+    "property_name": "tensile strength",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": "MPa",
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 427,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 63,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk4",
+    "page_or_fig": "text",
+    "evidence_span": "and the greatest creep resistance measured for the strip material",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "strip",
+    "process_step": "aging at 427°C for 63h",
+    "test_type": "creep test",
+    "property_name": "creep resistance",
+    "domain": "irradiation_creep",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 427,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 63,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk4",
+    "page_or_fig": "Table 5",
+    "evidence_span": "TABLE 5-1000-h creep properties of Zr-3Nb-1Sn a and Zircaloy-4 b strip at ${ \\boldsymbol{\\delta00^{\\circ}} }\\mathbf{F}$ and $23900ps\\imath.$",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "strip",
+    "process_step": null,
+    "test_type": "creep test",
+    "property_name": "creep properties",
+    "domain": "irradiation_creep",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 427,
+      "medium": null,
+      "pressure_MPa": 164.8,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 1000,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk4",
+    "page_or_fig": "Table 5",
+    "evidence_span": "Zr-3Nb-1Sn, 800/AC, Longitudinal, Total Plastic Creep Strain, %, 0.098",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "strip",
+    "process_step": "800/AC",
+    "test_type": "creep test",
+    "property_name": "total plastic creep strain",
+    "domain": "irradiation_creep",
+    "value": 0.098,
+    "value_min": null,
+    "value_max": null,
+    "unit": "%",
+    "raw_unit": "%",
+    "conditions": {
+      "temp_C": 427,
+      "medium": null,
+      "pressure_MPa": 164.8,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 1000,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk4",
+    "page_or_fig": "Table 5",
+    "evidence_span": "Zr-3Nb-1Sn, 800/AC, Transverse, Total Plastic Creep Strain, %, 0.088",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "strip",
+    "process_step": "800/AC",
+    "test_type": "creep test",
+    "property_name": "total plastic creep strain",
+    "domain": "irradiation_creep",
+    "value": 0.088,
+    "value_min": null,
+    "value_max": null,
+    "unit": "%",
+    "raw_unit": "%",
+    "conditions": {
+      "temp_C": 427,
+      "medium": null,
+      "pressure_MPa": 164.8,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 1000,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk4",
+    "page_or_fig": "Table 5",
+    "evidence_span": "Zr-3Nb-1Sn, 800/AC, Longitudinal, Minimum Creep Rate per Hour, 0.58 × 10-",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "strip",
+    "process_step": "800/AC",
+    "test_type": "creep test",
+    "property_name": "minimum creep rate",
+    "domain": "irradiation_creep",
+    "value": 5.8e-08,
+    "value_min": null,
+    "value_max": null,
+    "unit": "1/s",
+    "raw_unit": "per hour",
+    "conditions": {
+      "temp_C": 427,
+      "medium": null,
+      "pressure_MPa": 164.8,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 1000,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk4",
+    "page_or_fig": "Table 5",
+    "evidence_span": "Zr-3Nb-1Sn, 800/AC, Transverse, Minimum Creep Rate per Hour, 0.54",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "strip",
+    "process_step": "800/AC",
+    "test_type": "creep test",
+    "property_name": "minimum creep rate",
+    "domain": "irradiation_creep",
+    "value": 5.4e-08,
+    "value_min": null,
+    "value_max": null,
+    "unit": "1/s",
+    "raw_unit": "per hour",
+    "conditions": {
+      "temp_C": 427,
+      "medium": null,
+      "pressure_MPa": 164.8,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 1000,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk4",
+    "page_or_fig": "Table 5",
+    "evidence_span": "Zr-3Nb-1Sn, 1600/AC + 800/AC, Longitudinal, Total Plastic Creep Strain, %, 0.035",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "strip",
+    "process_step": "1600/AC + 800/AC",
+    "test_type": "creep test",
+    "property_name": "total plastic creep strain",
+    "domain": "irradiation_creep",
+    "value": 0.035,
+    "value_min": null,
+    "value_max": null,
+    "unit": "%",
+    "raw_unit": "%",
+    "conditions": {
+      "temp_C": 427,
+      "medium": null,
+      "pressure_MPa": 164.8,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 1000,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk5",
+    "page_or_fig": "Table 6",
+    "evidence_span": "Alloy Zr-20Nb; 1600/AC + 800/AC; X(35.0)",
+    "alloy_name": "Zr-20Nb",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 20.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "annealed",
+    "process_step": "1600/AC + 800/AC",
+    "test_type": "X-ray line width",
+    "property_name": "βZr line width",
+    "domain": "hardening",
+    "value": 35.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "Arbitrary units",
+    "raw_unit": "Arbitrary units",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk5",
+    "page_or_fig": "Table 6",
+    "evidence_span": "Zr-3Nb-ISn; 800/AC; 1450; X(78.5)",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "annealed",
+    "process_step": "800/AC",
+    "test_type": "X-ray line width",
+    "property_name": "βZr line width",
+    "domain": "hardening",
+    "value": 78.5,
+    "value_min": null,
+    "value_max": null,
+    "unit": "Arbitrary units",
+    "raw_unit": "Arbitrary units",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk6",
+    "page_or_fig": "Fig. 14",
+    "evidence_span": "The same trend was evident in the $1 2 5 0 ^ { \\circ } \\mathrm { F }$ $( 6 7 7 ^ { \\circ } \\mathbf { C } )$ data, although the change was not as great.",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "annealing",
+    "test_type": "corrosion",
+    "property_name": "corrosion properties",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 677,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk6",
+    "page_or_fig": "Fig. 14",
+    "evidence_span": "Significant grain growth is apparent at the $1 2 5 0 ^ { \\circ } \\mathbf { F } \\left( 6 7 7 ^ { \\circ } \\mathbf { C } \\right)$ annealing temperature",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "annealing",
+    "test_type": "microstructure",
+    "property_name": "grain size",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 677,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk6",
+    "page_or_fig": "text",
+    "evidence_span": "The final niobium content of $\\beta$ for the $2 4 { \\cdot } \\mathrm { h } ~ 1 0 5 0 ^ { \\circ } \\mathrm { F }$ $( 5 6 6 ^ { \\circ } \\mathrm { C } )$ anneal should be approximately 86 weight percent",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "beta phase",
+    "process_step": "annealing",
+    "test_type": "composition",
+    "property_name": "niobium content",
+    "domain": "hardening",
+    "value": 86.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "wt%",
+    "raw_unit": "wt%",
+    "conditions": {
+      "temp_C": 566,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 24.0,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.8
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk6",
+    "page_or_fig": "text",
+    "evidence_span": "the final $\\beta$ content of the $1 2 5 0 ^ { \\circ } \\mathrm { F }$ $( 6 7 7 ^ { \\circ } \\mathbf { C } ) / 2 4 \\ : \\mathrm { h / F C }$ condition should be near that of the $1 3 5 0 ^ { \\circ } \\mathrm { F }$ $( 7 3 2 ^ { \\circ } \\mathbf { C } ) / 4 \\ : \\ : \\mathrm { h / F C }$ condition shown in Table 6, that is, approximately 28 weight percent",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "beta phase",
+    "process_step": "annealing",
+    "test_type": "composition",
+    "property_name": "niobium content",
+    "domain": "hardening",
+    "value": 28.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "wt%",
+    "raw_unit": "wt%",
+    "conditions": {
+      "temp_C": 677,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 24.0,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.8
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk6",
+    "page_or_fig": "text",
+    "evidence_span": "Reannealing material at $1 0 5 0 ^ { \\circ } \\mathbf { F }$ $( 5 6 6 ^ { \\circ } \\mathbf { C } )$ that had been previously annealed at a higher temperature also caused a marked reduction in weight gain",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "reannealing",
+    "test_type": "corrosion",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 566,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk6",
+    "page_or_fig": "text",
+    "evidence_span": "in the $1 1 5 0 ^ { \\circ } \\mathrm { F }$ $( 6 2 1 ^ { \\circ } \\mathbf { C } ) / 4 \\ \\mathrm { h / F C }$ condition, weight gain was $6 2 ~ \\mathrm { m g } / \\mathrm { d m } ^ { 2 }$",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "annealing",
+    "test_type": "corrosion",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": 62.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm^2",
+    "raw_unit": "mg/dm^2",
+    "conditions": {
+      "temp_C": 621,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 4.0,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk6",
+    "page_or_fig": "text",
+    "evidence_span": "in the $1 1 5 0 ^ { \\circ } \\mathrm { F }$ $( 6 2 1 ^ { \\circ } \\mathrm { C } ) / 4 \\ \\mathrm { h } / \\mathrm { F C } \\ + \\ 1 0 5 0 ^ { \\circ } \\mathrm { F }$ $( 5 6 6 ^ { \\circ } \\mathbf { C } /$ $1 5 \\mathrm { h / A C }$ condition, weight gain decreased to $3 3 . 5 ~ \\mathrm { m g } / \\mathrm { d } \\mathrm { m } ^ { 2 }$",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "annealing",
+    "test_type": "corrosion",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": 33.5,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm^2",
+    "raw_unit": "mg/dm^2",
+    "conditions": {
+      "temp_C": 566,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 15.0,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk6",
+    "page_or_fig": "Fig. 15",
+    "evidence_span": "the large grain size sample had a weight gain of 64.0 $\\scriptstyle \\mathbf { m g } / \\mathbf { d m } ^ { 2 }$ compared to $3 0 . 0 \\mathrm { m g } / \\mathrm { d } \\mathrm { m } ^ { 2 }$ for the small grain size sample",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "large grain size",
+    "process_step": null,
+    "test_type": "corrosion",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": 64.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm^2",
+    "raw_unit": "mg/dm^2",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk6",
+    "page_or_fig": "Fig. 15",
+    "evidence_span": "the large grain size sample had a weight gain of 64.0 $\\scriptstyle \\mathbf { m g } / \\mathbf { d m } ^ { 2 }$ compared to $3 0 . 0 \\mathrm { m g } / \\mathrm { d } \\mathrm { m } ^ { 2 }$ for the small grain size sample",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "small grain size",
+    "process_step": null,
+    "test_type": "corrosion",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": 30.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm^2",
+    "raw_unit": "mg/dm^2",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk6",
+    "page_or_fig": "Table 7",
+    "evidence_span": "Zr-3Nb-1Sn 11.7 62.5",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "beta solution treated",
+    "test_type": "corrosion",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": 62.5,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm^2",
+    "raw_unit": "mg/dm^2",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 14.0,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk6",
+    "page_or_fig": "Table 7",
+    "evidence_span": "Zr-3Nb-1Sn 11.7 62.5",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "beta solution treated",
+    "test_type": "microstructure",
+    "property_name": "beta phase volume fraction",
+    "domain": "hardening",
+    "value": 11.7,
+    "value_min": null,
+    "value_max": null,
+    "unit": "vol%",
+    "raw_unit": "vol%",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk6",
+    "page_or_fig": "Table 7",
+    "evidence_span": "Zr-20Nb 91.6 100.0",
+    "alloy_name": "Zr-20Nb",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "beta solution treated",
+    "test_type": "corrosion",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": 100.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm^2",
+    "raw_unit": "mg/dm^2",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 14.0,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk6",
+    "page_or_fig": "Table 7",
+    "evidence_span": "Zr-20Nb 91.6 100.0",
+    "alloy_name": "Zr-20Nb",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "beta solution treated",
+    "test_type": "microstructure",
+    "property_name": "beta phase volume fraction",
+    "domain": "hardening",
+    "value": 91.6,
+    "value_min": null,
+    "value_max": null,
+    "unit": "vol%",
+    "raw_unit": "vol%",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk7",
+    "page_or_fig": "text",
+    "evidence_span": "Aging at $8 0 0 ^ { \\circ } \\mathbf { F }$ EPY $( 4 2 7 ^ { \\circ } \\mathbf { C } )$ precipitates fine $\\omega$ particles in $\\beta _ { z _ { \\Gamma } }$ and results in high tensile strength and optimum creep properties",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "network β phase surrounding α platelets (Widmanstatten)",
+    "process_step": "aging",
+    "test_type": "tensile test",
+    "property_name": "tensile strength",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 427,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk8",
+    "page_or_fig": "4",
+    "evidence_span": "Increasing the prior hot-rolling temperature from 1450 to $1 6 0 0 ^ { \\circ } \\mathrm { F }$ (788 to $8 7 1 ^ { \\circ } \\mathbf { C } )$ and prior annealing near the $\\beta$ transus temperature changed the grain morphology from equiaxed to Widmanstatten and improved creep resistance.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": "hot-rolling, annealing",
+    "test_type": "creep test",
+    "property_name": "creep resistance",
+    "domain": "irradiation_creep",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk8",
+    "page_or_fig": "4",
+    "evidence_span": "The morphology change had little effect on corrosion resistance or other mechanical properties except for reducing anisotropy.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "property_name": "corrosion resistance",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk8",
+    "page_or_fig": "4",
+    "evidence_span": "The morphology change had little effect on corrosion resistance or other mechanical properties except for reducing anisotropy.",
+    "alloy_name": null,
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "mechanical test",
+    "property_name": "anisotropy",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk8",
+    "page_or_fig": "5",
+    "evidence_span": "The welding characteristics of Zr-3Nb-ISn were found to be similar to $\\mathbf { Z } \\mathbf { r } { - } 2 . 5 \\mathbf { N } \\mathbf { b }$",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition_raw": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": "welding",
+    "test_type": "welding test",
+    "property_name": "welding characteristics",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk8",
+    "page_or_fig": "5",
+    "evidence_span": "In both alloys, post-weld heat treatment was effective in improving corrosion resistance and weld ductility while maintaining strength above base metal levels.",
+    "alloy_name": "Zr-3Nb-1Sn, Zr-2.5Nb",
+    "composition_raw": "Zr-3Nb-1Sn, Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": "post-weld heat treatment",
+    "test_type": "corrosion test",
+    "property_name": "corrosion resistance",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk8",
+    "page_or_fig": "5",
+    "evidence_span": "In both alloys, post-weld heat treatment was effective in improving corrosion resistance and weld ductility while maintaining strength above base metal levels.",
+    "alloy_name": "Zr-3Nb-1Sn, Zr-2.5Nb",
+    "composition_raw": "Zr-3Nb-1Sn, Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": "post-weld heat treatment",
+    "test_type": "ductility test",
+    "property_name": "weld ductility",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk8",
+    "page_or_fig": "5",
+    "evidence_span": "In both alloys, post-weld heat treatment was effective in improving corrosion resistance and weld ductility while maintaining strength above base metal levels.",
+    "alloy_name": "Zr-3Nb-1Sn, Zr-2.5Nb",
+    "composition_raw": "Zr-3Nb-1Sn, Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": "post-weld heat treatment",
+    "test_type": "strength test",
+    "property_name": "strength",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk8",
+    "page_or_fig": "DISCUSSION",
+    "evidence_span": "When compared to Zircaloy-2, Zircaloy-4, and other alloys, the Zr-3Nb-1Sn alloy exhibited a higher corrosion resistance and lower hydrogen absorption.",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition_raw": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "property_name": "corrosion resistance",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk8",
+    "page_or_fig": "DISCUSSION",
+    "evidence_span": "When compared to Zircaloy-2, Zircaloy-4, and other alloys, the Zr-3Nb-1Sn alloy exhibited a higher corrosion resistance and lower hydrogen absorption.",
+    "alloy_name": "Zr-3Nb-1Sn",
+    "composition_raw": "Zr-3Nb-1Sn",
+    "composition": {
+      "Zr": {
+        "value": "balance",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 3.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "hydrogen absorption test",
+    "property_name": "hydrogen absorption",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk8",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "The data show a wide variation in elevatedtemperature mechanical properties.",
+    "alloy_name": "Zircaloy-4",
+    "composition_raw": "Zircaloy-4",
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "mechanical test",
+    "property_name": "mechanical properties",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk8",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "The effect of the elements carbon, silicon, tin, and oxygen on elevatedtemperature yield strength is statistically significant",
+    "alloy_name": "Zircaloy-4",
+    "composition_raw": "Zircaloy-4",
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "tensile test",
+    "property_name": "yield strength",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk8",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "tensile testing strain rate was found to have a very significant effect on elevated-temperature yield strength values.",
+    "alloy_name": "Zircaloy-4",
+    "composition_raw": "Zircaloy-4",
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "tensile test",
+    "property_name": "yield strength",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk8",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "The most influential processing parameter on elevatedtemperature yield strength of the resultant product was the hot-rolling temperature.",
+    "alloy_name": "Zircaloy-4",
+    "composition_raw": "Zircaloy-4",
+    "composition": {},
+    "specimen_state": null,
+    "process_step": "hot-rolling",
+    "test_type": "tensile test",
+    "property_name": "yield strength",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk8",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "A 20 to 30 percent variation in yield strength was observed between alpha-rolled and betarolled material.",
+    "alloy_name": "Zircaloy-4",
+    "composition_raw": "Zircaloy-4",
+    "composition": {},
+    "specimen_state": null,
+    "process_step": "alpha-rolling, beta-rolling",
+    "test_type": "tensile test",
+    "property_name": "yield strength",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": 20,
+    "value_max": 30,
+    "unit": "%",
+    "raw_unit": "%",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "variation",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP551-EB-Zirconium in the Nuclear Industry_2nd Volume_012_chunk8",
+    "page_or_fig": "ABSTRACT",
+    "evidence_span": "The elevated-temperature transverse yield strength and bend ductility were improved by beta rolling",
+    "alloy_name": "Zircaloy-4",
+    "composition_raw": "Zircaloy-4",
+    "composition": {},
+    "specimen_state": null,
+    "process_step": "beta rolling",
+    "test_type": "tensile test",
+    "property_name": "transverse yield strength",
+    "domain": "elastoplastic_model",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  }
+]

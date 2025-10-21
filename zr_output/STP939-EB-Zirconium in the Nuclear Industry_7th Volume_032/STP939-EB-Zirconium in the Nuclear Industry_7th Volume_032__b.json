@@ -1,0 +1,3164 @@
+[
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "Short-term autoclave tests are currently being used by some as a selector for nodular corrosion, a phenomenon which is observed in boiling water reactors.",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "autoclave test",
+    "property_name": "nodular corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "The present study extends this earlier work on chemical effects to include corrosion performance in ${ 5 0 0 ^ { \\circ } C }$ steam, one of the predictor tests.",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "property_name": "corrosion performance",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": 500.0,
+      "medium": "steam",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "Fifty-three ingots having compositions within as well as outside the specification range for the Zircaloys were melted and fabricated into plate and strip using a conventional fabrication procedure that incorporated an intermediate beta quench followed by working and annealing in the upper alpha region.",
+    "alloy_name": "Zircaloy",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "plate and strip",
+    "process_step": "beta quench, working, annealing",
+    "test_type": null,
+    "property_name": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "The roles of various elements, singly and in combination, on ${ 5 0 0 ^ { \\circ } } \\mathbf { C }$ corrosion were examined systematically.",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "property_name": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": 500.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "The alloy elements covered the following ranges: tin, 0.02 to $5 . 1 4 ~ \\mathrm { w t \\% }$ ; iron, 0.04 to $0 . 5 7 \\mathrm { w t \\% }$ ; chromium, 0.04 to $2 . 7 6 ~ \\mathrm { w t \\% }$ ; and nickel, 0.003 to $0 . 0 4 6 ~ \\mathrm { w t \\% }$ .",
+    "alloy_name": null,
+    "composition": {
+      "Sn": {
+        "value_min": 0.02,
+        "value_max": 5.14,
+        "unit": "wt%"
+      },
+      "Fe": {
+        "value_min": 0.04,
+        "value_max": 0.57,
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value_min": 0.04,
+        "value_max": 2.76,
+        "unit": "wt%"
+      },
+      "Ni": {
+        "value_min": 0.003,
+        "value_max": 0.046,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Sn: 0.02-5.14 wt%, Fe: 0.04-0.57 wt%, Cr: 0.04-2.76 wt%, Ni: 0.003-0.046 wt%",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "composition",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": "wt%",
+    "raw_unit": "wt%",
+    "domain": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "range",
+    "confidence": 0.95
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "In addition, carbon, silicon, aluminum, and phosphorus were evaluated over the range of standard Zircaloys.",
+    "alloy_name": "Zircaloy",
+    "composition": {
+      "C": {
+        "value": null,
+        "unit": null
+      },
+      "Si": {
+        "value": null,
+        "unit": null
+      },
+      "Al": {
+        "value": null,
+        "unit": null
+      },
+      "P": {
+        "value": null,
+        "unit": null
+      }
+    },
+    "composition_raw": "C, Si, Al, P",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "composition",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "The frequency and severity of nodule formation were generally related to the weight gain for both static and refreshed autoclave tests.",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "autoclave test",
+    "property_name": "nodule formation frequency, nodule formation severity, weight gain",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "The transition elements chromium, iron, and nickel exhibited the most pronounced effects, with the effect of nickel being dominant.",
+    "alloy_name": null,
+    "composition": {
+      "Cr": {
+        "value": null,
+        "unit": null
+      },
+      "Fe": {
+        "value": null,
+        "unit": null
+      },
+      "Ni": {
+        "value": null,
+        "unit": null
+      }
+    },
+    "composition_raw": "Cr, Fe, Ni",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "corrosion effect",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "High weight gains are generally observed at low concentrations of iron, chromium, and nickel, and low weight gains are observed at high concentrations of these elements.",
+    "alloy_name": null,
+    "composition": {
+      "Fe": {
+        "value": null,
+        "unit": null
+      },
+      "Cr": {
+        "value": null,
+        "unit": null
+      },
+      "Ni": {
+        "value": null,
+        "unit": null
+      }
+    },
+    "composition_raw": "Fe, Cr, Ni",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "weight gain",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "Heat treatments that affect the distribution of the intermetallics have a significant effect on the corrosion properties of Zircaloy.",
+    "alloy_name": "Zircaloy",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "heat treatment",
+    "test_type": null,
+    "property_name": "corrosion properties",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "Process temperatures in the high alpha-range generally lead to high weight gains for Zircaloy.",
+    "alloy_name": "Zircaloy",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "high alpha-range processing",
+    "test_type": null,
+    "property_name": "weight gain",
+    "value": "high",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "For beta quenching the results depend on the specific conditions of the quench and of the test performed.",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "beta quenching",
+    "test_type": null,
+    "property_name": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "Testing in static steam resulted in low weight gains for all beta treatments studied",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "beta treatment",
+    "test_type": "static steam test",
+    "property_name": "weight gain",
+    "value": "low",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": "steam",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "while testing in refreshed steam led to different results depending on quenching rate.",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "quenching",
+    "test_type": "refreshed steam test",
+    "property_name": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": "steam",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "In the refreshing autoclave tests high weight gains are observed at low quenching rates from the beta.",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "beta quenching",
+    "test_type": "refreshing autoclave test",
+    "property_name": "weight gain",
+    "value": "high",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "The best results are obtained by beta quenching at a minimum rate of above ${ \\mathfrak { s } } \\kappa / { \\mathfrak { s } }$",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": "beta quenching",
+    "test_type": null,
+    "property_name": "corrosion resistance",
+    "value": "best",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "The Type III slabs were hot rolled to several thicknesses in the range of 4 to 8 mm",
+    "alloy_name": "Zr-4",
+    "composition": {},
+    "specimen_state": "Type III",
+    "process_step": "hot rolling",
+    "test_type": "Fabrication",
+    "property_name": "thickness",
+    "value": null,
+    "value_min": 4.0,
+    "value_max": 8.0,
+    "unit": "mm",
+    "raw_unit": "mm",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "range",
+    "confidence": 1.0,
+    "domain": "elastoplastic_model"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "were air annealed at 780°C for 30 to 60 min",
+    "alloy_name": "Zr-4",
+    "composition": {},
+    "specimen_state": "Type III",
+    "process_step": "air annealed",
+    "test_type": "Fabrication",
+    "property_name": "annealing time",
+    "value": null,
+    "value_min": 30.0,
+    "value_max": 60.0,
+    "unit": "min",
+    "raw_unit": "min",
+    "conditions": {
+      "temp_C": 780.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": "air"
+    },
+    "metric_type": "range",
+    "confidence": 1.0,
+    "domain": "elastoplastic_model"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk2",
+    "page_or_fig": "table",
+    "evidence_span": "Material II: 5 heats of treatment IIb (Table 1b), Quenching from 1050°C with cooling rates of 500 and 5 K/s",
+    "alloy_name": "Zr-4",
+    "composition": {},
+    "specimen_state": "Material II",
+    "process_step": "Quenching",
+    "test_type": "Heat Treatment",
+    "property_name": "cooling rate",
+    "value": null,
+    "value_min": 5.0,
+    "value_max": 500.0,
+    "unit": "K/s",
+    "raw_unit": "K/s",
+    "conditions": {
+      "temp_C": 1050.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "range",
+    "confidence": 1.0,
+    "domain": "elastoplastic_model"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk2",
+    "page_or_fig": "table",
+    "evidence_span": "Material II: 5 heats of treatment IIb (Table 1b), Quenching as above + annealing at 750°C, 8 h",
+    "alloy_name": "Zr-4",
+    "composition": {},
+    "specimen_state": "Material II",
+    "process_step": "annealing",
+    "test_type": "Heat Treatment",
+    "property_name": "annealing time",
+    "value": 8.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "h",
+    "raw_unit": "h",
+    "conditions": {
+      "temp_C": 750.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0,
+    "domain": "elastoplastic_model"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk2",
+    "page_or_fig": "table",
+    "evidence_span": "Material III: 11 heats, Quenching from 1050°C with cooling rates of 50 K/s (water) and 5 K/s (air)",
+    "alloy_name": "Zr-4",
+    "composition": {},
+    "specimen_state": "Material III",
+    "process_step": "Quenching",
+    "test_type": "Heat Treatment",
+    "property_name": "cooling rate",
+    "value": null,
+    "value_min": 5.0,
+    "value_max": 50.0,
+    "unit": "K/s",
+    "raw_unit": "K/s",
+    "conditions": {
+      "temp_C": 1050.0,
+      "medium": "water, air",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "range",
+    "confidence": 1.0,
+    "domain": "elastoplastic_model"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "Attack polishing and swab etching for 15 to 20 s with a solution of 6 parts glycerine, 2 parts HF, and 1 part HNO3",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": "Attack polishing and swab etching",
+    "test_type": "metallographic etching",
+    "property_name": "etching time",
+    "value": 17.5,
+    "value_min": 15,
+    "value_max": 20,
+    "unit": "s",
+    "raw_unit": "s",
+    "conditions": {
+      "temp_C": null,
+      "medium": "6 parts glycerine, 2 parts HF, 1 part HNO3",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9,
+    "domain": "corrosion"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "Swab etching with a solution of 45 vol% H2O2, 45 vol% HNO3, and 7 vol% HF for 10 s",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": "Swab etching",
+    "test_type": "metallographic etching",
+    "property_name": "etching time",
+    "value": 10,
+    "value_min": 10,
+    "value_max": 10,
+    "unit": "s",
+    "raw_unit": "s",
+    "conditions": {
+      "temp_C": null,
+      "medium": "45 vol% H2O2, 45 vol% HNO3, 7 vol% HF",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9,
+    "domain": "corrosion"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "Anodic oxidation at 40 to 70 V in a solution of 27 mL H2O, 46 mL ethanol, 15 mL lactic acid, 8 mL glycerine, 4 mL orthophosphoric acid, and 1.6 g citric acid for 10 to 15 min",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": "Anodic oxidation",
+    "test_type": "metallographic etching",
+    "property_name": "voltage",
+    "value": 55,
+    "value_min": 40,
+    "value_max": 70,
+    "unit": "V",
+    "raw_unit": "V",
+    "conditions": {
+      "temp_C": null,
+      "medium": "27 mL H2O, 46 mL ethanol, 15 mL lactic acid, 8 mL glycerine, 4 mL orthophosphoric acid, 1.6 g citric acid",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9,
+    "domain": "corrosion"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "Anodic oxidation at 40 to 70 V in a solution of 27 mL H2O, 46 mL ethanol, 15 mL lactic acid, 8 mL glycerine, 4 mL orthophosphoric acid, and 1.6 g citric acid for 10 to 15 min",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": "Anodic oxidation",
+    "test_type": "metallographic etching",
+    "property_name": "etching time",
+    "value": 12.5,
+    "value_min": 10,
+    "value_max": 15,
+    "unit": "min",
+    "raw_unit": "min",
+    "conditions": {
+      "temp_C": null,
+      "medium": "27 mL H2O, 46 mL ethanol, 15 mL lactic acid, 8 mL glycerine, 4 mL orthophosphoric acid, 1.6 g citric acid",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9,
+    "domain": "corrosion"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "electrochemical attack etching in saturated NH4F solution at 2.3 to 2.4 V for 12 to 15 s",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": "electrochemical attack etching",
+    "test_type": "SEM preparation",
+    "property_name": "voltage",
+    "value": 2.35,
+    "value_min": 2.3,
+    "value_max": 2.4,
+    "unit": "V",
+    "raw_unit": "V",
+    "conditions": {
+      "temp_C": null,
+      "medium": "saturated NH4F solution",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9,
+    "domain": "corrosion"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "electrochemical attack etching in saturated NH4F solution at 2.3 to 2.4 V for 12 to 15 s",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": "electrochemical attack etching",
+    "test_type": "SEM preparation",
+    "property_name": "etching time",
+    "value": 13.5,
+    "value_min": 12,
+    "value_max": 15,
+    "unit": "s",
+    "raw_unit": "s",
+    "conditions": {
+      "temp_C": null,
+      "medium": "saturated NH4F solution",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9,
+    "domain": "corrosion"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "For material with highest nodular corrosion sensitivity, the refreshed test produces weight gains of approximately 2000 mg/dm2",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": "highest nodular corrosion sensitivity",
+    "process_step": null,
+    "test_type": "refreshed autoclave test",
+    "property_name": "weight gain",
+    "value": 2000,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm2",
+    "conditions": {
+      "temp_C": null,
+      "medium": "steam",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9,
+    "domain": "corrosion"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "the static test produces 4000 mg/dm2",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": "highest nodular corrosion sensitivity",
+    "process_step": null,
+    "test_type": "static autoclave test",
+    "property_name": "weight gain",
+    "value": 4000,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm2",
+    "conditions": {
+      "temp_C": null,
+      "medium": "steam",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9,
+    "domain": "corrosion"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "for material with low or medium nodular corrosion susceptibility (100 to 1000 mg/dm2)",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": "low or medium nodular corrosion susceptibility",
+    "process_step": null,
+    "test_type": "autoclave test",
+    "property_name": "weight gain",
+    "value": 550,
+    "value_min": 100,
+    "value_max": 1000,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm2",
+    "conditions": {
+      "temp_C": null,
+      "medium": "steam",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9,
+    "domain": "corrosion"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "Weight gain values ranged from 200 to 2000 mg/dm2 for the refreshed test",
+    "alloy_name": "Type I material",
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "refreshed autoclave test",
+    "property_name": "weight gain",
+    "value": 1100,
+    "value_min": 200,
+    "value_max": 2000,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm2",
+    "conditions": {
+      "temp_C": null,
+      "medium": "steam",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9,
+    "domain": "corrosion"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "from 300 to 5000 mg/dm2 for the static test",
+    "alloy_name": "Type I material",
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "static autoclave test",
+    "property_name": "weight gain",
+    "value": 2650,
+    "value_min": 300,
+    "value_max": 5000,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm2",
+    "conditions": {
+      "temp_C": null,
+      "medium": "steam",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9,
+    "domain": "corrosion"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk4",
+    "page_or_fig": "table",
+    "evidence_span": "Heat No. C Lot No. 1 ppm of C 63 ppm of Si 97 ppm of Al 44 Refreshed Test Δ W, mg/dm{2 1520 Static Test ΔW, mg/dm{2 3470",
+    "alloy_name": null,
+    "composition": {
+      "C": {
+        "value": 63,
+        "unit": "ppm"
+      },
+      "Si": {
+        "value": 97,
+        "unit": "ppm"
+      },
+      "Al": {
+        "value": 44,
+        "unit": "ppm"
+      }
+    },
+    "composition_raw": "C:63 ppm, Si:97 ppm, Al:44 ppm",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Static Test",
+    "property_name": "weight change",
+    "domain": "corrosion",
+    "value": 3470.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk4",
+    "page_or_fig": "table",
+    "evidence_span": "Heat No. D Lot No. 2 Refreshed Test Δ W, mg/dm{2 1520 Static Test ΔW, mg/dm{2 •",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Refreshed Test",
+    "property_name": "weight change",
+    "domain": "corrosion",
+    "value": 1520.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk4",
+    "page_or_fig": "table",
+    "evidence_span": "Heat No. D Lot No. 3 Refreshed Test Δ W, mg/dm{2 1500",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Refreshed Test",
+    "property_name": "weight change",
+    "domain": "corrosion",
+    "value": 1500.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk4",
+    "page_or_fig": "table",
+    "evidence_span": "Heat No. D Lot No. 1 ppm of C 160 ppm of Si 99 ppm of Al 65 Refreshed Test Δ W, mg/dm{2 1670 1500 Static Test ΔW, mg/dm{2 2170",
+    "alloy_name": null,
+    "composition": {
+      "C": {
+        "value": 160,
+        "unit": "ppm"
+      },
+      "Si": {
+        "value": 99,
+        "unit": "ppm"
+      },
+      "Al": {
+        "value": 65,
+        "unit": "ppm"
+      }
+    },
+    "composition_raw": "C:160 ppm, Si:99 ppm, Al:65 ppm",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Refreshed Test",
+    "property_name": "weight change",
+    "domain": "corrosion",
+    "value": 1670.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk4",
+    "page_or_fig": "table",
+    "evidence_span": "Heat No. D Lot No. 1 ppm of C 160 ppm of Si 99 ppm of Al 65 Refreshed Test Δ W, mg/dm{2 1670 1500 Static Test ΔW, mg/dm{2 2170",
+    "alloy_name": null,
+    "composition": {
+      "C": {
+        "value": 160,
+        "unit": "ppm"
+      },
+      "Si": {
+        "value": 99,
+        "unit": "ppm"
+      },
+      "Al": {
+        "value": 65,
+        "unit": "ppm"
+      }
+    },
+    "composition_raw": "C:160 ppm, Si:99 ppm, Al:65 ppm",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Refreshed Test",
+    "property_name": "weight change",
+    "domain": "corrosion",
+    "value": 1500.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk4",
+    "page_or_fig": "table",
+    "evidence_span": "Heat No. D Lot No. 1 ppm of C 160 ppm of Si 99 ppm of Al 65 Refreshed Test Δ W, mg/dm{2 1670 1500 Static Test ΔW, mg/dm{2 2170",
+    "alloy_name": null,
+    "composition": {
+      "C": {
+        "value": 160,
+        "unit": "ppm"
+      },
+      "Si": {
+        "value": 99,
+        "unit": "ppm"
+      },
+      "Al": {
+        "value": 65,
+        "unit": "ppm"
+      }
+    },
+    "composition_raw": "C:160 ppm, Si:99 ppm, Al:65 ppm",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Static Test",
+    "property_name": "weight change",
+    "domain": "corrosion",
+    "value": 2170.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk4",
+    "page_or_fig": "table",
+    "evidence_span": "Heat No. D Lot No. 2 Refreshed Test Δ W, mg/dm{2 1880 Static Test ΔW, mg/dm{2 2870",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Refreshed Test",
+    "property_name": "weight change",
+    "domain": "corrosion",
+    "value": 1880.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk4",
+    "page_or_fig": "table",
+    "evidence_span": "Heat No. D Lot No. 2 Refreshed Test Δ W, mg/dm{2 1880 Static Test ΔW, mg/dm{2 2870",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Static Test",
+    "property_name": "weight change",
+    "domain": "corrosion",
+    "value": 2870.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk4",
+    "page_or_fig": "table",
+    "evidence_span": "Heat No. E Lot No. 3 1 ppm of C 124 ppm of Si 85 ppm of Al 55 Refreshed Test Δ W, mg/dm{2 1470 Static Test ΔW, mg/dm{2 3280",
+    "alloy_name": null,
+    "composition": {
+      "C": {
+        "value": 124,
+        "unit": "ppm"
+      },
+      "Si": {
+        "value": 85,
+        "unit": "ppm"
+      },
+      "Al": {
+        "value": 55,
+        "unit": "ppm"
+      }
+    },
+    "composition_raw": "C:124 ppm, Si:85 ppm, Al:55 ppm",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Refreshed Test",
+    "property_name": "weight change",
+    "domain": "corrosion",
+    "value": 1470.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk4",
+    "page_or_fig": "table",
+    "evidence_span": "Heat No. E Lot No. 3 1 ppm of C 124 ppm of Si 85 ppm of Al 55 Refreshed Test Δ W, mg/dm{2 1470 Static Test ΔW, mg/dm{2 3280",
+    "alloy_name": null,
+    "composition": {
+      "C": {
+        "value": 124,
+        "unit": "ppm"
+      },
+      "Si": {
+        "value": 85,
+        "unit": "ppm"
+      },
+      "Al": {
+        "value": 55,
+        "unit": "ppm"
+      }
+    },
+    "composition_raw": "C:124 ppm, Si:85 ppm, Al:55 ppm",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Static Test",
+    "property_name": "weight change",
+    "domain": "corrosion",
+    "value": 3280.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk4",
+    "page_or_fig": "table",
+    "evidence_span": "Heat No. E Lot No. 2 Refreshed Test Δ W, mg/dm{2 1490 Static Test ΔW, mg/dm{2 5350",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Refreshed Test",
+    "property_name": "weight change",
+    "domain": "corrosion",
+    "value": 1490.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk4",
+    "page_or_fig": "table",
+    "evidence_span": "Heat No. E Lot No. 2 Refreshed Test Δ W, mg/dm{2 1490 Static Test ΔW, mg/dm{2 5350",
+    "alloy_name": null,
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Static Test",
+    "property_name": "weight change",
+    "domain": "corrosion",
+    "value": 5350.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk4",
+    "page_or_fig": "table",
+    "evidence_span": "Heat No. E Lot No. 1 ppm of C 151 ppm of Si 80 ppm of Al 54 Refreshed Test Δ W, mg/dm{2 1620 Static Test ΔW, mg/dm{2 2610",
+    "alloy_name": null,
+    "composition": {
+      "C": {
+        "value": 151,
+        "unit": "ppm"
+      },
+      "Si": {
+        "value": 80,
+        "unit": "ppm"
+      },
+      "Al": {
+        "value": 54,
+        "unit": "ppm"
+      }
+    },
+    "composition_raw": "C:151 ppm, Si:80 ppm, Al:54 ppm",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Refreshed Test",
+    "property_name": "weight change",
+    "domain": "corrosion",
+    "value": 1620.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk5",
+    "page_or_fig": "Table 5",
+    "evidence_span": "Heat 238: Sn 1.17, Fe 0.170, Cr 0.058, O 0.135 ppm, P 120 ppm, Si 7 6 ppm, Refreshed Test Δ W 2628 mg/dm2, Static Test Δ W 3103 mg/dm2",
+    "alloy_name": "Type IIb material",
+    "composition": {
+      "Sn": {
+        "value": 1.17,
+        "unit": "wt%"
+      },
+      "Fe": {
+        "value": 0.17,
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value": 0.058,
+        "unit": "wt%"
+      },
+      "O": {
+        "value": 0.135,
+        "unit": "ppm"
+      },
+      "P": {
+        "value": 120,
+        "unit": "ppm"
+      },
+      "Si": {
+        "value": 7.6,
+        "unit": "ppm"
+      }
+    },
+    "composition_raw": "Sn:1.17%, Fe:0.170%, Cr:0.058%, O:0.135 ppm, P:120 ppm, Si:7 6 ppm",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "high pressure steam test",
+    "property_name": "weight change",
+    "domain": "corrosion",
+    "value": 2628,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm2",
+    "conditions": {
+      "temp_C": null,
+      "medium": "steam",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk6",
+    "page_or_fig": "table",
+    "evidence_span": "83, (j), 1050°C-5 K/s, 66",
+    "alloy_name": "",
+    "composition": {},
+    "composition_raw": "",
+    "specimen_state": "",
+    "process_step": "1050°C-5 K/s",
+    "test_type": "Refreshed Test",
+    "property_name": "weight change",
+    "value": 66,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm2",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": 1050,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk6",
+    "page_or_fig": "table",
+    "evidence_span": "83, (k), 1050°C-500 K/s + 750°C/8 h, 61",
+    "alloy_name": "",
+    "composition": {},
+    "composition_raw": "",
+    "specimen_state": "",
+    "process_step": "1050°C-500 K/s + 750°C/8 h",
+    "test_type": "Refreshed Test",
+    "property_name": "weight change",
+    "value": 61,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm2",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": 1050,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 8,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk6",
+    "page_or_fig": "table",
+    "evidence_span": "83, (l), 1050°C-5 K/s + 750°C/8 h, 697",
+    "alloy_name": "",
+    "composition": {},
+    "composition_raw": "",
+    "specimen_state": "",
+    "process_step": "1050°C-5 K/s + 750°C/8 h",
+    "test_type": "Refreshed Test",
+    "property_name": "weight change",
+    "value": 697,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm2",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": 1050,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 8,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk6",
+    "page_or_fig": "table",
+    "evidence_span": "66, 27, (a), 118, 173",
+    "alloy_name": "",
+    "composition": {
+      "Si": {
+        "value": 66,
+        "unit": "ppm"
+      },
+      "Al": {
+        "value": 27,
+        "unit": "ppm"
+      }
+    },
+    "composition_raw": "Si: 66 ppm, Al: 27 ppm",
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "Refreshed Test",
+    "property_name": "weight change",
+    "value": 118,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm2",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk6",
+    "page_or_fig": "table",
+    "evidence_span": "66, 27, (a), 118, 173",
+    "alloy_name": "",
+    "composition": {
+      "Si": {
+        "value": 66,
+        "unit": "ppm"
+      },
+      "Al": {
+        "value": 27,
+        "unit": "ppm"
+      }
+    },
+    "composition_raw": "Si: 66 ppm, Al: 27 ppm",
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "Static Test",
+    "property_name": "weight change",
+    "value": 173,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm2",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk6",
+    "page_or_fig": "table",
+    "evidence_span": "66, 27, (b), 892, 59",
+    "alloy_name": "",
+    "composition": {
+      "Si": {
+        "value": 66,
+        "unit": "ppm"
+      },
+      "Al": {
+        "value": 27,
+        "unit": "ppm"
+      }
+    },
+    "composition_raw": "Si: 66 ppm, Al: 27 ppm",
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "Refreshed Test",
+    "property_name": "weight change",
+    "value": 892,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm2",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk6",
+    "page_or_fig": "table",
+    "evidence_span": "66, 27, (b), 892, 59",
+    "alloy_name": "",
+    "composition": {
+      "Si": {
+        "value": 66,
+        "unit": "ppm"
+      },
+      "Al": {
+        "value": 27,
+        "unit": "ppm"
+      }
+    },
+    "composition_raw": "Si: 66 ppm, Al: 27 ppm",
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "Static Test",
+    "property_name": "weight change",
+    "value": 59,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm2",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk6",
+    "page_or_fig": "table",
+    "evidence_span": "(c), hot rolled, 355",
+    "alloy_name": "",
+    "composition": {},
+    "composition_raw": "",
+    "specimen_state": "hot rolled",
+    "process_step": "hot rolled",
+    "test_type": "Refreshed Test",
+    "property_name": "weight change",
+    "value": 355,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm2",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk6",
+    "page_or_fig": "table",
+    "evidence_span": "(d), 1st anneal, 1266",
+    "alloy_name": "",
+    "composition": {},
+    "composition_raw": "",
+    "specimen_state": "",
+    "process_step": "1st anneal",
+    "test_type": "Refreshed Test",
+    "property_name": "weight change",
+    "value": 1266,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm2",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk6",
+    "page_or_fig": "table",
+    "evidence_span": "(e), cold rolled + 2nd anneal, 1876",
+    "alloy_name": "",
+    "composition": {},
+    "composition_raw": "",
+    "specimen_state": "cold rolled + 2nd anneal",
+    "process_step": "cold rolled + 2nd anneal",
+    "test_type": "Refreshed Test",
+    "property_name": "weight change",
+    "value": 1876,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm2",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk6",
+    "page_or_fig": "table",
+    "evidence_span": "(f), cold rolled + 3rd anneal, 1805, ..",
+    "alloy_name": "",
+    "composition": {},
+    "composition_raw": "",
+    "specimen_state": "cold rolled + 3rd anneal",
+    "process_step": "cold rolled + 3rd anneal",
+    "test_type": "Refreshed Test",
+    "property_name": "weight change",
+    "value": 1805,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm2",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk6",
+    "page_or_fig": "table",
+    "evidence_span": "(g), cold rolled, 340, 325",
+    "alloy_name": "",
+    "composition": {},
+    "composition_raw": "",
+    "specimen_state": "cold rolled",
+    "process_step": "cold rolled",
+    "test_type": "Refreshed Test",
+    "property_name": "weight change",
+    "value": 340,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm2",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk7",
+    "page_or_fig": "table",
+    "evidence_span": "11; 0.58; 0.05; 0.05; 30; 0.062; 2593; 4702; 80; 114; 1752; 3060",
+    "alloy_name": "Alloy 11",
+    "composition": {
+      "Sn": {
+        "value": 0.58,
+        "unit": "wt%"
+      },
+      "Fe": {
+        "value": 0.05,
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value": 0.05,
+        "unit": "wt%"
+      },
+      "Ni": {
+        "value": 30,
+        "unit": "ppm"
+      }
+    },
+    "composition_raw": "Sn: 0.58 wt%, Fe: 0.05 wt%, Cr: 0.05 wt%, Ni: 30 ppm",
+    "specimen_state": "Annealed",
+    "process_step": "",
+    "test_type": "Refreshed Test",
+    "property_name": "Weight gain",
+    "value": 2593,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk7",
+    "page_or_fig": "table",
+    "evidence_span": "11; 0.58; 0.05; 0.05; 30; 0.062; 2593; 4702; 80; 114; 1752; 3060",
+    "alloy_name": "Alloy 11",
+    "composition": {
+      "Sn": {
+        "value": 0.58,
+        "unit": "wt%"
+      },
+      "Fe": {
+        "value": 0.05,
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value": 0.05,
+        "unit": "wt%"
+      },
+      "Ni": {
+        "value": 30,
+        "unit": "ppm"
+      }
+    },
+    "composition_raw": "Sn: 0.58 wt%, Fe: 0.05 wt%, Cr: 0.05 wt%, Ni: 30 ppm",
+    "specimen_state": "Annealed",
+    "process_step": "",
+    "test_type": "Static Test",
+    "property_name": "Weight gain",
+    "value": 4702,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk7",
+    "page_or_fig": "table",
+    "evidence_span": "11; 0.58; 0.05; 0.05; 30; 0.062; 2593; 4702; 80; 114; 1752; 3060",
+    "alloy_name": "Alloy 11",
+    "composition": {
+      "Sn": {
+        "value": 0.58,
+        "unit": "wt%"
+      },
+      "Fe": {
+        "value": 0.05,
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value": 0.05,
+        "unit": "wt%"
+      },
+      "Ni": {
+        "value": 30,
+        "unit": "ppm"
+      }
+    },
+    "composition_raw": "Sn: 0.58 wt%, Fe: 0.05 wt%, Cr: 0.05 wt%, Ni: 30 ppm",
+    "specimen_state": "1050°C/Water Quenched",
+    "process_step": "",
+    "test_type": "Refreshed Test",
+    "property_name": "Weight gain",
+    "value": 80,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk8",
+    "page_or_fig": "Fig. 4",
+    "evidence_span": "Samples with lower carbon concentration generally have less weight gain at the point of transition from low to high weight gains than samples with carbon content in the range where carbide particles are to be expected",
+    "alloy_name": null,
+    "composition": {
+      "C": {
+        "value": null,
+        "unit": "wt%",
+        "raw": "low carbon"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion test",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk8",
+    "page_or_fig": "Fig. 4",
+    "evidence_span": "Type IIb material which were beta quenched at final size with a cooling rate similar to that of the as-processed strip (5 K/s) and subsequently annealed at 750°C for 8 h show moderate weight gains in spite of the high ΣA_i value of 8×10^-17 h",
+    "alloy_name": "Type IIb",
+    "composition": {},
+    "specimen_state": "beta quenched",
+    "process_step": "annealing at 750°C for 8 h",
+    "test_type": "corrosion test",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 750,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 8,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk8",
+    "page_or_fig": "Table 5",
+    "evidence_span": "samples very rapidly quenched from the beta range (500 K/s) do not show nodular corrosion at all, even after 750°C 8 h annealing",
+    "alloy_name": null,
+    "composition": {},
+    "specimen_state": "beta quenched",
+    "process_step": "annealing at 750°C for 8 h",
+    "test_type": "corrosion test",
+    "property_name": "nodular corrosion",
+    "domain": "corrosion",
+    "value": 0,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 750,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 8,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk8",
+    "page_or_fig": "Table",
+    "evidence_span": "Alloy 11: Sn=0.58 wt%, Refreshed Spacing Test ΔW at 500°/16 h=2593 mg/dm²",
+    "alloy_name": "Alloy 11",
+    "composition": {
+      "Sn": {
+        "value": 0.58,
+        "unit": "wt%",
+        "raw": "Sn=0.58 wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Refreshed Spacing Test",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": 2593,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": 500,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 16,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk8",
+    "page_or_fig": "Table",
+    "evidence_span": "Alloy 12: Sn=0.24 wt%, Fe=0.05-0.53 wt%, Cr=0.05 wt%, Ni=30 ppm, Refreshed Spacing Test ΔW at 500°/16 h=38 mg/dm²",
+    "alloy_name": "Alloy 12",
+    "composition": {
+      "Sn": {
+        "value": 0.24,
+        "unit": "wt%",
+        "raw": "Sn=0.24 wt%"
+      },
+      "Fe": {
+        "value_min": 0.05,
+        "value_max": 0.53,
+        "unit": "wt%",
+        "raw": "Fe=0.05-0.53 wt%"
+      },
+      "Cr": {
+        "value": 0.05,
+        "unit": "wt%",
+        "raw": "Cr=0.05 wt%"
+      },
+      "Ni": {
+        "value": 30,
+        "unit": "ppm",
+        "raw": "Ni=30 ppm"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Refreshed Spacing Test",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": 38,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": 500,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 16,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk8",
+    "page_or_fig": "Table",
+    "evidence_span": "Alloy 4: Sn=0.28 wt%, Fe=0.05 wt%, Cr=1.05 wt%, Ni=30 ppm, Refreshed Spacing Test ΔW at 500°/16 h=34 mg/dm²",
+    "alloy_name": "Alloy 4",
+    "composition": {
+      "Sn": {
+        "value": 0.28,
+        "unit": "wt%",
+        "raw": "Sn=0.28 wt%"
+      },
+      "Fe": {
+        "value": 0.05,
+        "unit": "wt%",
+        "raw": "Fe=0.05 wt%"
+      },
+      "Cr": {
+        "value": 1.05,
+        "unit": "wt%",
+        "raw": "Cr=1.05 wt%"
+      },
+      "Ni": {
+        "value": 30,
+        "unit": "ppm",
+        "raw": "Ni=30 ppm"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Refreshed Spacing Test",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": 34,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": 500,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 16,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk8",
+    "page_or_fig": "Table",
+    "evidence_span": "Alloy 10: Sn=1.22 wt%, Fe=0.34 wt%, Cr=0.56 wt%, Ni=30 ppm, Refreshed Spacing Test ΔW at 500°/16 h=34 mg/dm²",
+    "alloy_name": "Alloy 10",
+    "composition": {
+      "Sn": {
+        "value": 1.22,
+        "unit": "wt%",
+        "raw": "Sn=1.22 wt%"
+      },
+      "Fe": {
+        "value": 0.34,
+        "unit": "wt%",
+        "raw": "Fe=0.34 wt%"
+      },
+      "Cr": {
+        "value": 0.56,
+        "unit": "wt%",
+        "raw": "Cr=0.56 wt%"
+      },
+      "Ni": {
+        "value": 30,
+        "unit": "ppm",
+        "raw": "Ni=30 ppm"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Refreshed Spacing Test",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": 34,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": 500,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 16,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk8",
+    "page_or_fig": "Table",
+    "evidence_span": "Alloy 13: Sn=1.52 wt%, Fe=0.10 wt%, Cr=0.04 wt%, Ni=30 ppm, Refreshed Spacing Test ΔW at 500°/16 h=2331 mg/dm²",
+    "alloy_name": "Alloy 13",
+    "composition": {
+      "Sn": {
+        "value": 1.52,
+        "unit": "wt%",
+        "raw": "Sn=1.52 wt%"
+      },
+      "Fe": {
+        "value": 0.1,
+        "unit": "wt%",
+        "raw": "Fe=0.10 wt%"
+      },
+      "Cr": {
+        "value": 0.04,
+        "unit": "wt%",
+        "raw": "Cr=0.04 wt%"
+      },
+      "Ni": {
+        "value": 30,
+        "unit": "ppm",
+        "raw": "Ni=30 ppm"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Refreshed Spacing Test",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": 2331,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": 500,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 16,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk8",
+    "page_or_fig": "Table",
+    "evidence_span": "Alloy 1: Sn=1.58 wt%, Fe=0.21 wt%, Cr=0.12 wt%, Ni=30 ppm, Refreshed Spacing Test ΔW at 500°/16 h=1743 mg/dm²",
+    "alloy_name": "Alloy 1",
+    "composition": {
+      "Sn": {
+        "value": 1.58,
+        "unit": "wt%",
+        "raw": "Sn=1.58 wt%"
+      },
+      "Fe": {
+        "value": 0.21,
+        "unit": "wt%",
+        "raw": "Fe=0.21 wt%"
+      },
+      "Cr": {
+        "value": 0.12,
+        "unit": "wt%",
+        "raw": "Cr=0.12 wt%"
+      },
+      "Ni": {
+        "value": 30,
+        "unit": "ppm",
+        "raw": "Ni=30 ppm"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Refreshed Spacing Test",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": 1743,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": 500,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 16,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk8",
+    "page_or_fig": "Table",
+    "evidence_span": "Alloy 9: Sn=1.64 wt%, Fe=0.12 wt%, Cr=0.58 wt%, Ni=30 ppm, Refreshed Spacing Test ΔW at 500°/16 h=700 mg/dm²",
+    "alloy_name": "Alloy 9",
+    "composition": {
+      "Sn": {
+        "value": 1.64,
+        "unit": "wt%",
+        "raw": "Sn=1.64 wt%"
+      },
+      "Fe": {
+        "value": 0.12,
+        "unit": "wt%",
+        "raw": "Fe=0.12 wt%"
+      },
+      "Cr": {
+        "value": 0.58,
+        "unit": "wt%",
+        "raw": "Cr=0.58 wt%"
+      },
+      "Ni": {
+        "value": 30,
+        "unit": "ppm",
+        "raw": "Ni=30 ppm"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Refreshed Spacing Test",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": 700,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": 500,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 16,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk8",
+    "page_or_fig": "Table",
+    "evidence_span": "Alloy 14: Sn=1.58 wt%, Fe=0.42 wt%, Cr=0.24 wt%, Ni=30 ppm, Refreshed Spacing Test ΔW at 500°/16 h=28 mg/dm²",
+    "alloy_name": "Alloy 14",
+    "composition": {
+      "Sn": {
+        "value": 1.58,
+        "unit": "wt%",
+        "raw": "Sn=1.58 wt%"
+      },
+      "Fe": {
+        "value": 0.42,
+        "unit": "wt%",
+        "raw": "Fe=0.42 wt%"
+      },
+      "Cr": {
+        "value": 0.24,
+        "unit": "wt%",
+        "raw": "Cr=0.24 wt%"
+      },
+      "Ni": {
+        "value": 30,
+        "unit": "ppm",
+        "raw": "Ni=30 ppm"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Refreshed Spacing Test",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": 28,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": 500,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 16,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk8",
+    "page_or_fig": "Table",
+    "evidence_span": "Alloy 19: Sn=1.62 wt%, Fe=0.42 wt%, Cr=0.24 wt%, Ni=30 ppm, Refreshed Spacing Test ΔW at 500°/16 h=34 mg/dm²",
+    "alloy_name": "Alloy 19",
+    "composition": {
+      "Sn": {
+        "value": 1.62,
+        "unit": "wt%",
+        "raw": "Sn=1.62 wt%"
+      },
+      "Fe": {
+        "value": 0.42,
+        "unit": "wt%",
+        "raw": "Fe=0.42 wt%"
+      },
+      "Cr": {
+        "value": 0.24,
+        "unit": "wt%",
+        "raw": "Cr=0.24 wt%"
+      },
+      "Ni": {
+        "value": 30,
+        "unit": "ppm",
+        "raw": "Ni=30 ppm"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "Refreshed Spacing Test",
+    "property_name": "weight gain",
+    "domain": "corrosion",
+    "value": 34,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mg/dm²",
+    "raw_unit": "mg/dm²",
+    "conditions": {
+      "temp_C": 500,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 16,
+      "atmosphere": null
+    },
+    "metric_type": "measurement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk10",
+    "page_or_fig": "text",
+    "evidence_span": "high nickel, iron, and chromium concentrations as well as beta quenching result in material relatively immune to nodular corrosion",
+    "alloy_name": "zirconium alloys",
+    "composition": {
+      "Ni": {
+        "value": null,
+        "unit": "wt%",
+        "raw": "high"
+      },
+      "Fe": {
+        "value": null,
+        "unit": "wt%",
+        "raw": "high"
+      },
+      "Cr": {
+        "value": null,
+        "unit": "wt%",
+        "raw": "high"
+      }
+    },
+    "composition_raw": "high nickel, iron, and chromium concentrations",
+    "specimen_state": "",
+    "process_step": "beta quenching",
+    "test_type": "corrosion test",
+    "property_name": "nodular corrosion immunity",
+    "domain": "corrosion",
+    "value": "relatively immune",
+    "value_min": null,
+    "value_max": null,
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk10",
+    "page_or_fig": "text",
+    "evidence_span": "Increasing tin content leads to deterioration of the nodular corrosion resistance of zirconium alloys in $5 0 0 ^ { \\circ } \\mathrm { C }$ tests",
+    "alloy_name": "zirconium alloys",
+    "composition": {
+      "Sn": {
+        "value": null,
+        "unit": "wt%",
+        "raw": "increasing"
+      }
+    },
+    "composition_raw": "tin content",
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "corrosion test",
+    "property_name": "nodular corrosion resistance",
+    "domain": "corrosion",
+    "value": "deterioration",
+    "value_min": null,
+    "value_max": null,
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": 500,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk10",
+    "page_or_fig": "text",
+    "evidence_span": "in Zircaloy the effect becomes pronounced only at levels above $1 . 5 ~ \\mathrm { w t } \\%$",
+    "alloy_name": "Zircaloy",
+    "composition": {
+      "Sn": {
+        "value": 1.5,
+        "unit": "wt%",
+        "raw": "above 1.5 wt%"
+      }
+    },
+    "composition_raw": "tin content above 1.5 wt%",
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "corrosion test",
+    "property_name": "nodular corrosion resistance",
+    "domain": "corrosion",
+    "value": "pronounced deterioration",
+    "value_min": null,
+    "value_max": null,
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk10",
+    "page_or_fig": "text",
+    "evidence_span": "Carbon, silicon, and phosphorus, like tin, increase nodular corrosion, but only when the material is in the transition range",
+    "alloy_name": "zirconium alloys",
+    "composition": {
+      "C": {
+        "value": null,
+        "unit": "wt%",
+        "raw": "present"
+      },
+      "Si": {
+        "value": null,
+        "unit": "wt%",
+        "raw": "present"
+      },
+      "P": {
+        "value": null,
+        "unit": "wt%",
+        "raw": "present"
+      }
+    },
+    "composition_raw": "Carbon, silicon, phosphorus",
+    "specimen_state": "transition range",
+    "process_step": "",
+    "test_type": "corrosion test",
+    "property_name": "nodular corrosion",
+    "domain": "corrosion",
+    "value": "increase",
+    "value_min": null,
+    "value_max": null,
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk10",
+    "page_or_fig": "text",
+    "evidence_span": "Oxygen reduces the tendency for nodular corrosion as does cold work",
+    "alloy_name": "zirconium alloys",
+    "composition": {
+      "O": {
+        "value": null,
+        "unit": "wt%",
+        "raw": "present"
+      }
+    },
+    "composition_raw": "Oxygen",
+    "specimen_state": "",
+    "process_step": "cold work",
+    "test_type": "corrosion test",
+    "property_name": "nodular corrosion tendency",
+    "domain": "corrosion",
+    "value": "reduces",
+    "value_min": null,
+    "value_max": null,
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk10",
+    "page_or_fig": "text",
+    "evidence_span": "The maximum interparticle spacing appears to correlate more closely to nodular corrosion weight gain than other parameters examined",
+    "alloy_name": "zirconium alloys",
+    "composition": {},
+    "composition_raw": "",
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "corrosion test",
+    "property_name": "nodular corrosion weight gain",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk10",
+    "page_or_fig": "text",
+    "evidence_span": "All the correlations described in this study are only valid for the high-temperature, highpressure steam tests performed $( 5 0 0 ^ { \\circ } \\mathbb { C }$ , 105 to 125 bar)",
+    "alloy_name": "zirconium alloys",
+    "composition": {},
+    "composition_raw": "",
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "steam test",
+    "property_name": "corrosion correlations",
+    "domain": "corrosion",
+    "value": "valid",
+    "value_min": null,
+    "value_max": null,
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": 500,
+      "medium": "steam",
+      "pressure_MPa": 10.5,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk10",
+    "page_or_fig": "text",
+    "evidence_span": "All the correlations described in this study are only valid for the high-temperature, highpressure steam tests performed $( 5 0 0 ^ { \\circ } \\mathbb { C }$ , 105 to 125 bar)",
+    "alloy_name": "zirconium alloys",
+    "composition": {},
+    "composition_raw": "",
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "steam test",
+    "property_name": "corrosion correlations",
+    "domain": "corrosion",
+    "value": "valid",
+    "value_min": null,
+    "value_max": null,
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": 500,
+      "medium": "steam",
+      "pressure_MPa": 12.5,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk10",
+    "page_or_fig": "text",
+    "evidence_span": "Klepfer and Mehner [13] reported nodules (referred to at the time as \"pimples\") in a Zr-2Cr-0.16Fe alloy",
+    "alloy_name": "Zr-2Cr-0.16Fe",
+    "composition": {
+      "Cr": {
+        "value": 2.0,
+        "unit": "wt%",
+        "raw": "2Cr"
+      },
+      "Fe": {
+        "value": 0.16,
+        "unit": "wt%",
+        "raw": "0.16Fe"
+      }
+    },
+    "composition_raw": "2Cr-0.16Fe",
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "corrosion test",
+    "property_name": "nodular corrosion",
+    "domain": "corrosion",
+    "value": "nodules present",
+    "value_min": null,
+    "value_max": null,
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk10",
+    "page_or_fig": "text",
+    "evidence_span": "Johnson [14] reported nodule formation in the same alloy",
+    "alloy_name": "Zr-2Cr-0.16Fe",
+    "composition": {
+      "Cr": {
+        "value": 2.0,
+        "unit": "wt%",
+        "raw": "2Cr"
+      },
+      "Fe": {
+        "value": 0.16,
+        "unit": "wt%",
+        "raw": "0.16Fe"
+      }
+    },
+    "composition_raw": "2Cr-0.16Fe",
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "corrosion test",
+    "property_name": "nodular corrosion",
+    "domain": "corrosion",
+    "value": "nodule formation",
+    "value_min": null,
+    "value_max": null,
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk10",
+    "page_or_fig": "text",
+    "evidence_span": "Zircaloy-2 and Zircaloy-4 show significant differences in response to heat treatment in the high alpha phase region; only Zircaloy-2 shows improvement in nodular corrosion resistance",
+    "alloy_name": "Zircaloy-2",
+    "composition": {},
+    "composition_raw": "",
+    "specimen_state": "",
+    "process_step": "heat treatment in high alpha phase region",
+    "test_type": "corrosion test",
+    "property_name": "nodular corrosion resistance",
+    "domain": "corrosion",
+    "value": "improvement",
+    "value_min": null,
+    "value_max": null,
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk10",
+    "page_or_fig": "text",
+    "evidence_span": "Both alloys, however, become highly resistant to nodular corrosion after receiving heat treatment in the alpha-beta or beta phase fields at temperatures above ${ \\bf 8 3 0 ^ { \\circ } C }$",
+    "alloy_name": "Zircaloy-2",
+    "composition": {},
+    "composition_raw": "",
+    "specimen_state": "",
+    "process_step": "heat treatment in alpha-beta or beta phase fields",
+    "test_type": "corrosion test",
+    "property_name": "nodular corrosion resistance",
+    "domain": "corrosion",
+    "value": "highly resistant",
+    "value_min": null,
+    "value_max": null,
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": 830,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk10",
+    "page_or_fig": "text",
+    "evidence_span": "Both alloys, however, become highly resistant to nodular corrosion after receiving heat treatment in the alpha-beta or beta phase fields at temperatures above ${ \\bf 8 3 0 ^ { \\circ } C }$",
+    "alloy_name": "Zircaloy-4",
+    "composition": {},
+    "composition_raw": "",
+    "specimen_state": "",
+    "process_step": "heat treatment in alpha-beta or beta phase fields",
+    "test_type": "corrosion test",
+    "property_name": "nodular corrosion resistance",
+    "domain": "corrosion",
+    "value": "highly resistant",
+    "value_min": null,
+    "value_max": null,
+    "unit": "",
+    "raw_unit": "",
+    "conditions": {
+      "temp_C": 830,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk11",
+    "page_or_fig": "1",
+    "evidence_span": "Zircaloy components in the cores of boiling water reactors (BWRs) have experienced variable degrees of nodular corrosion susceptibility",
+    "alloy_name": "Zircaloy",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "in-reactor components",
+    "process_step": "operation",
+    "test_type": "corrosion test",
+    "property_name": "nodular corrosion susceptibility",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": "BWR core water",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk11",
+    "page_or_fig": "1",
+    "evidence_span": "Whitish nodular oxide is normally thicker and more susceptible to delamination than the black uniform oxide",
+    "alloy_name": "Zircaloy",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "oxidized",
+    "process_step": "corrosion",
+    "test_type": "corrosion test",
+    "property_name": "oxide thickness",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_032_chunk11",
+    "page_or_fig": "1",
+    "evidence_span": "Whitish nodular oxide is normally thicker and more susceptible to delamination than the black uniform oxide",
+    "alloy_name": "Zircaloy",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "oxidized",
+    "process_step": "corrosion",
+    "test_type": "corrosion test",
+    "property_name": "delamination susceptibility",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  }
+]

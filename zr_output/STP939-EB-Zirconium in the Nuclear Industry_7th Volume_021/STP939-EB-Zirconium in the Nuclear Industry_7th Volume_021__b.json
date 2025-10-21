@@ -1,0 +1,1627 @@
+[
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "UNS R 60001: nuclear-grade pure zirconium",
+    "alloy_name": "UNS R60001",
+    "composition_raw": "nuclear-grade pure zirconium",
+    "composition": {
+      "Zr": {
+        "value": 100.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "dose": null,
+      "time": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "UNS R 60702: pure zirconium; called '702'",
+    "alloy_name": "UNS R60702",
+    "composition_raw": "pure zirconium",
+    "composition": {
+      "Zr": {
+        "value": 100.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "dose": null,
+      "time": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "UNS R 60802: Zircaloy-2; called '802'",
+    "alloy_name": "UNS R60802",
+    "composition_raw": "Zircaloy-2",
+    "composition": {
+      "Zr": {
+        "value": 98.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.5,
+        "unit": "wt%"
+      },
+      "Fe": {
+        "value": 0.15,
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value": 0.1,
+        "unit": "wt%"
+      },
+      "Ni": {
+        "value": 0.05,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "dose": null,
+      "time": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "UNS R 60804: Zircaloy-4; called '804'",
+    "alloy_name": "UNS R60804",
+    "composition_raw": "Zircaloy-4",
+    "composition": {
+      "Zr": {
+        "value": 98.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.5,
+        "unit": "wt%"
+      },
+      "Fe": {
+        "value": 0.2,
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value": 0.1,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "dose": null,
+      "time": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "UNS R 60704: Zr-1.5Sn; called '704'",
+    "alloy_name": "UNS R60704",
+    "composition_raw": "Zr-1.5Sn",
+    "composition": {
+      "Zr": {
+        "value": 98.5,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "dose": null,
+      "time": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "UNS R 60901: nuclear grade $\\mathbf { Z } \\mathbf { r } { - } 2 . 5 \\mathbf { N } \\mathbf { b }$ ;called '901'",
+    "alloy_name": "UNS R60901",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "dose": null,
+      "time": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "UNS R 60705: commercial grade $\\mathbf { Z } \\mathbf { r } { - } 2 . 5 \\mathbf { N } \\mathbf { b }$ ; called '705'",
+    "alloy_name": "UNS R60705",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "dose": null,
+      "time": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "DHC has only been observed in the alloys, not in pure zirconium",
+    "alloy_name": "zirconium alloys",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "DHC observation",
+    "property_name": "DHC susceptibility",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "dose": null,
+      "time": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "The first components to fail by DHC were experimental fuel elements made from 901",
+    "alloy_name": "UNS R60901",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "fuel element sheath",
+    "process_step": "welding",
+    "test_type": "DHC failure",
+    "property_name": "DHC susceptibility",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": 25.0,
+      "stress": null,
+      "environment": "air",
+      "dose": null,
+      "time": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "failed during storage at room temperature",
+    "alloy_name": "UNS R60901",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "fuel element sheath",
+    "process_step": "welding",
+    "test_type": "DHC failure",
+    "property_name": "failure temperature",
+    "domain": "hardening",
+    "value": 25.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "°C",
+    "raw_unit": "°C",
+    "conditions": {
+      "temperature": 25.0,
+      "stress": null,
+      "environment": null,
+      "dose": null,
+      "time": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "The pressure tubes in Units 3 and 4 of the Pickering Nuclear Generating Station were made from 901",
+    "alloy_name": "UNS R60901",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "pressure tube",
+    "process_step": "rolled joint",
+    "test_type": "DHC failure",
+    "property_name": "DHC susceptibility",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "dose": null,
+      "time": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Cracking only occurred when the pressure tubes were cold (i.e., less than about 410 K)",
+    "alloy_name": "UNS R60901",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": 97.5,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "pressure tube",
+    "process_step": null,
+    "test_type": "DHC failure",
+    "property_name": "DHC temperature threshold",
+    "domain": "hardening",
+    "value": 137.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "°C",
+    "raw_unit": "°C",
+    "conditions": {
+      "temperature": 137.0,
+      "stress": null,
+      "environment": null,
+      "dose": null,
+      "time": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "The pressure tubes in this reactor are fabricated from cold-worked 802",
+    "alloy_name": "UNS R60802",
+    "composition_raw": "Zircaloy-2",
+    "composition": {
+      "Zr": {
+        "value": 98.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.5,
+        "unit": "wt%"
+      },
+      "Fe": {
+        "value": 0.15,
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value": 0.1,
+        "unit": "wt%"
+      },
+      "Ni": {
+        "value": 0.05,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "cold-worked",
+    "process_step": "cold working",
+    "test_type": "DHC failure",
+    "property_name": "DHC susceptibility",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "dose": null,
+      "time": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Failure was in the form of an approximately $2 \\textrm { \\textmu m }$ long axial crack",
+    "alloy_name": "UNS R60802",
+    "composition_raw": "Zircaloy-2",
+    "composition": {
+      "Zr": {
+        "value": 98.0,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.5,
+        "unit": "wt%"
+      },
+      "Fe": {
+        "value": 0.15,
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value": 0.1,
+        "unit": "wt%"
+      },
+      "Ni": {
+        "value": 0.05,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": "cold-worked pressure tube",
+    "process_step": null,
+    "test_type": "DHC failure",
+    "property_name": "crack length",
+    "domain": "hardening",
+    "value": 2.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "μm",
+    "raw_unit": "μm",
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "dose": null,
+      "time": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.8
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk1",
+    "page_or_fig": "text",
+    "evidence_span": "Zirconium hydride is about $1 5 \\%$ less dense than zirconium",
+    "alloy_name": "zirconium hydride",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "density measurement",
+    "property_name": "density reduction",
+    "domain": "density",
+    "value": 15.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "%",
+    "raw_unit": "%",
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "dose": null,
+      "time": null
+    },
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "One of these alloys is Excel $( \\mathbf { Z r { - } 2 . 5 S n { - } 0 . 8 M o { - } 0 . 8 N b } )$",
+    "alloy_name": "Excel",
+    "composition_raw": "Zr-2.5Sn-0.8Mo-0.8Nb",
+    "composition": {
+      "Zr": {
+        "value": 95.9,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 2.5,
+        "unit": "wt%"
+      },
+      "Mo": {
+        "value": 0.8,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 0.8,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "stress": null,
+      "environment": null,
+      "dose": null,
+      "time": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "If the grains are elongated, cracks tend to be longer in the direction of the greatest dimension of the grains",
+    "alloy_name": "",
+    "composition": {},
+    "composition_raw": "",
+    "specimen_state": "elongated grains",
+    "process_step": "",
+    "test_type": "",
+    "property_name": "crack orientation",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": "",
+    "domain": "hardening",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "$\\mathrm { T S S } = 1 2 \\exp \\left( \\frac { - 3 5 9 0 0 } { R T _ { s } } \\right)$",
+    "alloy_name": "",
+    "composition": {},
+    "composition_raw": "",
+    "specimen_state": "",
+    "process_step": "",
+    "test_type": "",
+    "property_name": "TSS",
+    "value": 12.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "wt%",
+    "raw_unit": "wt%",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "equation",
+    "confidence": 1.0
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "Cracks initiate in 901 over the temperature range 295 to 625 K",
+    "alloy_name": "901",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "crack initiation",
+    "property_name": "crack initiation temperature range",
+    "value": null,
+    "value_min": 295.0,
+    "value_max": 625.0,
+    "unit": "K",
+    "raw_unit": "K",
+    "domain": "hardening",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "range",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "cracking has only been observed in 802 in the range 475 to 575 K",
+    "alloy_name": "802",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "crack initiation",
+    "property_name": "crack initiation temperature range",
+    "value": null,
+    "value_min": 475.0,
+    "value_max": 575.0,
+    "unit": "K",
+    "raw_unit": "K",
+    "domain": "hardening",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "range",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "the failure time for specimens thermally cycled to 525 K with added hydrogen is much less than for specimens tested at 350 K without any hydrogen added",
+    "alloy_name": "901",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "cold-worked",
+    "process_step": null,
+    "test_type": "thermal cycling",
+    "property_name": "failure time",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "hardening",
+    "conditions": {
+      "temp_C": 525.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "the failure time for specimens thermally cycled to 525 K with added hydrogen is much less than for specimens tested at 350 K without any hydrogen added",
+    "alloy_name": "901",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": "cold-worked",
+    "process_step": null,
+    "test_type": "thermal cycling",
+    "property_name": "failure time",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "hardening",
+    "conditions": {
+      "temp_C": 350.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "At 350 K the probability of cracking is increased if the hydrogen concentration is increased",
+    "alloy_name": "901",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "crack initiation",
+    "property_name": "cracking probability",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "hardening",
+    "conditions": {
+      "temp_C": 350.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "at higher temperatures increasing the hydrogen concentration above TSS did not have any effect",
+    "alloy_name": "901",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "crack initiation",
+    "property_name": "cracking probability",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "hardening",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "The specification for 702, 704, and 705 is 0.005 wt% maximum",
+    "alloy_name": "702, 704, 705",
+    "composition": {
+      "H": {
+        "value": 0.005,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "H: 0.005 wt% max",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "composition specification",
+    "property_name": "hydrogen concentration",
+    "value": 0.005,
+    "value_min": null,
+    "value_max": null,
+    "unit": "wt%",
+    "raw_unit": "wt%",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "maximum",
+    "confidence": 0.95
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "For the nuclear grades, 802, 804, and 901, it is lowered to 0.0025 wt% maximum",
+    "alloy_name": "802, 804, 901",
+    "composition": {
+      "H": {
+        "value": 0.0025,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "H: 0.0025 wt% max",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "composition specification",
+    "property_name": "hydrogen concentration",
+    "value": 0.0025,
+    "value_min": null,
+    "value_max": null,
+    "unit": "wt%",
+    "raw_unit": "wt%",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "maximum",
+    "confidence": 0.95
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "alloys can be made that have less than 0.001%",
+    "alloy_name": null,
+    "composition": {
+      "H": {
+        "value": 0.001,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "H: <0.001 wt%",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "composition specification",
+    "property_name": "hydrogen concentration",
+    "value": 0.001,
+    "value_min": null,
+    "value_max": null,
+    "unit": "wt%",
+    "raw_unit": "wt%",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "maximum",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "The temperatures above which these three concentrations of hydrogen would all be in solution are 555 K, 495 K, and 465 K respectively",
+    "alloy_name": null,
+    "composition": {
+      "H": {
+        "value": 0.005,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "H: 0.005 wt%",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "solubility",
+    "property_name": "solution temperature",
+    "value": 555.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "K",
+    "raw_unit": "K",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "value",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "The temperatures above which these three concentrations of hydrogen would all be in solution are 555 K, 495 K, and 465 K respectively",
+    "alloy_name": null,
+    "composition": {
+      "H": {
+        "value": 0.0025,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "H: 0.0025 wt%",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "solubility",
+    "property_name": "solution temperature",
+    "value": 495.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "K",
+    "raw_unit": "K",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "value",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk3",
+    "page_or_fig": "text",
+    "evidence_span": "The temperatures above which these three concentrations of hydrogen would all be in solution are 555 K, 495 K, and 465 K respectively",
+    "alloy_name": null,
+    "composition": {
+      "H": {
+        "value": 0.001,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "H: 0.001 wt%",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "solubility",
+    "property_name": "solution temperature",
+    "value": 465.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "K",
+    "raw_unit": "K",
+    "domain": "corrosion",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "value",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk3",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Smooth surfaces and notches ≤0.1 mm, 290 K, 802, 804: no cracking",
+    "alloy_name": "802, 804",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "crack initiation",
+    "property_name": "cracking susceptibility",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "hardening",
+    "conditions": {
+      "temp_C": 290.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.95
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk3",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Smooth surfaces and notches ≤0.1 mm, 525 K, 802, 804: no cracking",
+    "alloy_name": "802, 804",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "crack initiation",
+    "property_name": "cracking susceptibility",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "domain": "hardening",
+    "conditions": {
+      "temp_C": 525.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.95
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk3",
+    "page_or_fig": "Table 1",
+    "evidence_span": "Smooth surfaces and notches ≤0.1 mm, 290 K, 901: ≥ 550 MPa",
+    "alloy_name": "901",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "crack initiation",
+    "property_name": "stress threshold",
+    "value": 550.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "MPa",
+    "raw_unit": "MPa",
+    "domain": "hardening",
+    "conditions": {
+      "temp_C": 290.0,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "minimum",
+    "confidence": 0.95
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk4",
+    "page_or_fig": "Table 3",
+    "evidence_span": "Alloys: 705 901; Condition: 30% cold worked; Temperature, K: 290; UTS, MPaa: 600; Maximum Design Stress (σ), MPa: 200; Flaw Depth (a), mmb: 0.13",
+    "alloy_name": "705 901",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": "30% cold worked",
+    "process_step": null,
+    "test_type": "crack initiation",
+    "property_name": "flaw depth",
+    "value": 0.13,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mm",
+    "raw_unit": "mm",
+    "conditions": {
+      "temp_C": 16.85,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "hardening",
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk4",
+    "page_or_fig": "Table 3",
+    "evidence_span": "Alloys: 705 901; Condition: 30% cold worked; Temperature, K: 575; UTS, MPaa: 410; Maximum Design Stress (σ), MPa: 165; Flaw Depth (a), mmb: 1.0",
+    "alloy_name": "705 901",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": "30% cold worked",
+    "process_step": null,
+    "test_type": "crack initiation",
+    "property_name": "flaw depth",
+    "value": 1.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mm",
+    "raw_unit": "mm",
+    "conditions": {
+      "temp_C": 301.85,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "hardening",
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk4",
+    "page_or_fig": "Table 3",
+    "evidence_span": "Alloys: 705 901; Condition: 30% cold worked; Temperature, K: 290→575c; UTS, MPaa: 410; Maximum Design Stress (σ), MPa: 165; Flaw Depth (a), mmb: 0.19",
+    "alloy_name": "705 901",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": "30% cold worked",
+    "process_step": "thermal cycle",
+    "test_type": "crack initiation",
+    "property_name": "flaw depth",
+    "value": 0.19,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mm",
+    "raw_unit": "mm",
+    "conditions": {
+      "temp_C": 16.85,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "hardening",
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk4",
+    "page_or_fig": "text",
+    "evidence_span": "pressure tubes made from 901 are inspected at several stages of their fabrication by ultrasonic and eddy current techniques to ensure that there is a 95% probability that there are no defects present > 0.076 mm deep",
+    "alloy_name": "901",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": "fabrication",
+    "test_type": "nondestructive inspection",
+    "property_name": "defect depth",
+    "value": 0.076,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mm",
+    "raw_unit": "mm",
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "hardening",
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk4",
+    "page_or_fig": "text",
+    "evidence_span": "cracking in welds in fuel elements made from 901 was prevented by redesigning the end cap to eliminate the notch and heat treating at 825 K for 5 h to lower the residual stresses",
+    "alloy_name": "901",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": "heat treatment",
+    "test_type": "residual stress reduction",
+    "property_name": "residual stress",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 551.85,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 5.0,
+      "atmosphere": null
+    },
+    "domain": "hardening",
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk4",
+    "page_or_fig": "text",
+    "evidence_span": "The residual stresses in the overextended rolled joints in the pressure tubes made from 901 were lowered by either a heat treatment of 825 K for 15 min, which lowered the stresses from 600 MPa to less than 100 MPa",
+    "alloy_name": "901",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": "heat treatment",
+    "test_type": "residual stress reduction",
+    "property_name": "residual stress",
+    "value": 100.0,
+    "value_min": null,
+    "value_max": null,
+    "unit": "MPa",
+    "raw_unit": "MPa",
+    "conditions": {
+      "temp_C": 551.85,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 0.25,
+      "atmosphere": null
+    },
+    "domain": "hardening",
+    "metric_type": "measurement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "all the alloys have similar susceptibilities to delayed hydride cracking as measured by minimum $K _ { \\mathrm { I H } }$",
+    "alloy_name": "Zircaloy-2, Zr-2.5Nb, Excel",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": "same metallurgical condition",
+    "process_step": null,
+    "test_type": "delayed hydride cracking",
+    "property_name": "minimum K_IH",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "hardening",
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "Stage II crack velocities are sensitive to alloy composition",
+    "alloy_name": "Zircaloy-2, Zr-2.5Nb, Excel",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": "coldworked condition",
+    "process_step": "coldworked",
+    "test_type": "delayed hydride cracking",
+    "property_name": "Stage II crack velocity",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 25,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "hardening",
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "crack velocities are in the ratio of about $1 { : } 1 0 { : } 6 0$ for Zircaloy-2, $\\mathbf { Z r } { - } 2 . 5 \\mathbf { N } \\mathbf { b }$ , and Excel, respectively",
+    "alloy_name": "Zircaloy-2",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": "coldworked condition",
+    "process_step": "coldworked",
+    "test_type": "delayed hydride cracking",
+    "property_name": "Stage II crack velocity",
+    "value": 1,
+    "value_min": null,
+    "value_max": null,
+    "unit": "ratio",
+    "raw_unit": "ratio",
+    "conditions": {
+      "temp_C": 25,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "hardening",
+    "metric_type": "relative",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "crack velocities are in the ratio of about $1 { : } 1 0 { : } 6 0$ for Zircaloy-2, $\\mathbf { Z r } { - } 2 . 5 \\mathbf { N } \\mathbf { b }$ , and Excel, respectively",
+    "alloy_name": "Zr-2.5Nb",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": 97.5,
+      "Nb": 2.5
+    },
+    "specimen_state": "coldworked condition",
+    "process_step": "coldworked",
+    "test_type": "delayed hydride cracking",
+    "property_name": "Stage II crack velocity",
+    "value": 10,
+    "value_min": null,
+    "value_max": null,
+    "unit": "ratio",
+    "raw_unit": "ratio",
+    "conditions": {
+      "temp_C": 25,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "hardening",
+    "metric_type": "relative",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "crack velocities are in the ratio of about $1 { : } 1 0 { : } 6 0$ for Zircaloy-2, $\\mathbf { Z r } { - } 2 . 5 \\mathbf { N } \\mathbf { b }$ , and Excel, respectively",
+    "alloy_name": "Excel",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": "coldworked condition",
+    "process_step": "coldworked",
+    "test_type": "delayed hydride cracking",
+    "property_name": "Stage II crack velocity",
+    "value": 60,
+    "value_min": null,
+    "value_max": null,
+    "unit": "ratio",
+    "raw_unit": "ratio",
+    "conditions": {
+      "temp_C": 25,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "hardening",
+    "metric_type": "relative",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "When Zircaloy has been irradiated, it takes on properties similar to those of the high strength, lean alloy, alpha-titanium alloys, like Ti-6Al-4V",
+    "alloy_name": "Zircaloy",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": "irradiated",
+    "process_step": "irradiated",
+    "test_type": null,
+    "property_name": "mechanical properties",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "irradiation_creep",
+    "metric_type": "judgement",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "Such brittle failures at stress levels below yield were a major problem in using titanium alloys as structural materials",
+    "alloy_name": "titanium alloys",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "stress rupture",
+    "property_name": "failure stress",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "elastoplastic_model",
+    "metric_type": "judgement",
+    "confidence": "medium"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "The most common form of the test is exposure to steam at 672 K, $1 0 . 3 \\ : \\mathrm { M P a }$ $7 5 0 ^ { \\circ } \\mathbf { F }$ , 1500 psi) for three days",
+    "alloy_name": "Zircaloy",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "steam corrosion autoclave test",
+    "property_name": "corrosion resistance",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 399,
+      "medium": "steam",
+      "pressure_MPa": 10.3,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 72,
+      "atmosphere": "steam"
+    },
+    "domain": "corrosion",
+    "metric_type": "test_condition",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "a test at 723 to $7 7 3 \\ \\bf { K }$ would produce nodular corrosion on Zircaloy products",
+    "alloy_name": "Zircaloy",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "nodular corrosion test",
+    "property_name": "nodular corrosion susceptibility",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 450,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "corrosion",
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_021_chunk5",
+    "page_or_fig": "text",
+    "evidence_span": "a test at 723 to $7 7 3 \\ \\bf { K }$ would produce nodular corrosion on Zircaloy products",
+    "alloy_name": "Zircaloy",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "nodular corrosion test",
+    "property_name": "nodular corrosion susceptibility",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 500,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "domain": "corrosion",
+    "metric_type": "judgement",
+    "confidence": "high"
+  }
+]

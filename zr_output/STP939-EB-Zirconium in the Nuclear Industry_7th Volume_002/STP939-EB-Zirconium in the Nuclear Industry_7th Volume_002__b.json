@@ -1,0 +1,341 @@
+[
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_002_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "Zircaloy (basically a Zr-1.5Sn alloy with small additions of Fe, Cr, and Ni)",
+    "alloy_name": "Zircaloy",
+    "composition_raw": "Zr-1.5Sn alloy with small additions of Fe, Cr, and Ni",
+    "composition": {
+      "Zr": {
+        "value": "base",
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1.5,
+        "unit": "wt%"
+      },
+      "Fe": {
+        "value": "small",
+        "unit": "wt%"
+      },
+      "Cr": {
+        "value": "small",
+        "unit": "wt%"
+      },
+      "Ni": {
+        "value": "small",
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_002_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "Zr-1Nb",
+    "alloy_name": "Zr-1Nb",
+    "composition_raw": "Zr-1Nb",
+    "composition": {
+      "Zr": {
+        "value": "base",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 1.0,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_002_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "Zr-2.5Nb",
+    "alloy_name": "Zr-2.5Nb",
+    "composition_raw": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": "base",
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": null,
+    "domain": null,
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_002_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "these alloys have adequate mechanical properties, corrosion resistance, and neutron capture cross sections",
+    "alloy_name": "Zircaloy, Zr-1Nb, Zr-2.5Nb",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "mechanical properties, corrosion resistance, neutron capture cross sections",
+    "domain": "corrosion",
+    "value": "adequate",
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_002_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "a comprehensive review of irradiation growth in zirconium alloys is presented by V. Fidleris, R. P. Tucker, and R. B. Adamson",
+    "alloy_name": "zirconium alloys",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "irradiation growth",
+    "property_name": "irradiation growth",
+    "domain": "irradiation_swelling",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_002_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "new information on the effects of microstructure, temperature, and high neutron fluence have changed our expectations of growth phenomena",
+    "alloy_name": "zirconium alloys",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "irradiation growth",
+    "property_name": "irradiation growth",
+    "domain": "irradiation_swelling",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": "high",
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_002_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "Zircaloy cladding behavior under conditions expected in a loss-of-coolant accident is reviewed by F. J. Erbacher and S. Leistikow",
+    "alloy_name": "Zircaloy",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": "cladding",
+    "process_step": null,
+    "test_type": "loss-of-coolant accident",
+    "property_name": "cladding behavior",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_002_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "a quarter of the papers published address nodular corrosion",
+    "alloy_name": "Zircaloy",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "corrosion",
+    "property_name": "nodular corrosion",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_002_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "including laboratory testing techniques, in-reactor characteristics, microstructural relationships, and mechanisms",
+    "alloy_name": "Zircaloy",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "laboratory testing",
+    "property_name": "nodular corrosion",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  },
+  {
+    "source_id": "STP939-EB-Zirconium in the Nuclear Industry_7th Volume_002_chunk2",
+    "page_or_fig": "text",
+    "evidence_span": "microchemical analysis techniques are extensively used to relate microstructure to Zircaloy corrosion phenomena",
+    "alloy_name": "Zircaloy",
+    "composition_raw": null,
+    "composition": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "microchemical analysis",
+    "property_name": "corrosion",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": "high"
+  }
+]

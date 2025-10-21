@@ -1,0 +1,542 @@
+[
+  {
+    "source_id": "STP754-EB-Zirconium in the Nuclear Industry_5th Volume_011_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "The iron-contaminated Zircaloy had a laminar microstructure that could be transformed into a spheroidal microstructure by heating below the zirconium-iron eutectoid temperature.",
+    "alloy_name": "Zircaloy",
+    "composition": {
+      "Fe": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "iron-contaminated",
+    "specimen_state": "laminar microstructure",
+    "process_step": "heating below eutectoid temperature",
+    "test_type": null,
+    "property_name": "microstructure",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP754-EB-Zirconium in the Nuclear Industry_5th Volume_011_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "The iron-contaminated Zircaloy had a laminar microstructure that could be transformed into a spheroidal microstructure by heating below the zirconium-iron eutectoid temperature.",
+    "alloy_name": "Zircaloy",
+    "composition": {
+      "Fe": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "iron-contaminated",
+    "specimen_state": "spheroidal microstructure",
+    "process_step": "heating below eutectoid temperature",
+    "test_type": null,
+    "property_name": "microstructure",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP754-EB-Zirconium in the Nuclear Industry_5th Volume_011_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "The spheroidal structure could be transformed back into the laminar microstructure by heating above the eutectoid temperature.",
+    "alloy_name": "Zircaloy",
+    "composition": {
+      "Fe": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "iron-contaminated",
+    "specimen_state": "laminar microstructure",
+    "process_step": "heating above eutectoid temperature",
+    "test_type": null,
+    "property_name": "microstructure",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP754-EB-Zirconium in the Nuclear Industry_5th Volume_011_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "When the microstructure was in the laminar shape, the Zircaloy would turn white and flake in autoclave tests.",
+    "alloy_name": "Zircaloy",
+    "composition": {
+      "Fe": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "iron-contaminated",
+    "specimen_state": "laminar microstructure",
+    "process_step": null,
+    "test_type": "autoclave test",
+    "property_name": "corrosion behavior",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 360,
+      "medium": "water",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP754-EB-Zirconium in the Nuclear Industry_5th Volume_011_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "When the microstructure was in the spheroidal shape, its corrosion rate was similar to normal Zircaloy-2.",
+    "alloy_name": "Zircaloy",
+    "composition": {
+      "Fe": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "iron-contaminated",
+    "specimen_state": "spheroidal microstructure",
+    "process_step": null,
+    "test_type": "autoclave test",
+    "property_name": "corrosion rate",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": "mm/y",
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 360,
+      "medium": "water",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP754-EB-Zirconium in the Nuclear Industry_5th Volume_011_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "No effect due to microstructure was noted in $4 0 0 ^ { \\circ } C$ steam tests.",
+    "alloy_name": "Zircaloy",
+    "composition": {
+      "Fe": {
+        "value": null,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "iron-contaminated",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "steam test",
+    "property_name": "corrosion behavior",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 400,
+      "medium": "steam",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP754-EB-Zirconium in the Nuclear Industry_5th Volume_011_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "One of the new alloys with the composition of $\\mathbf { Z r }$ -1Nb-1Sn-0.5Fe has significantly improved properties.",
+    "alloy_name": null,
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 1,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1,
+        "unit": "wt%"
+      },
+      "Fe": {
+        "value": 0.5,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-1Nb-1Sn-0.5Fe",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "properties",
+    "domain": "hardening",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP754-EB-Zirconium in the Nuclear Industry_5th Volume_011_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "The zirconium-niobium alloys have corrosion properties similar to Zircaloy-2 in the temperature range 240 to $\\pmb { 4 0 0 } \\pmb { \\circ } \\mathbf { C }$",
+    "alloy_name": "zirconium-niobium alloys",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "corrosion properties",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 240,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP754-EB-Zirconium in the Nuclear Industry_5th Volume_011_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "The zirconium-niobium alloys have corrosion properties similar to Zircaloy-2 in the temperature range 240 to $\\pmb { 4 0 0 } \\pmb { \\circ } \\mathbf { C }$",
+    "alloy_name": "zirconium-niobium alloys",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "corrosion properties",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 400,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP754-EB-Zirconium in the Nuclear Industry_5th Volume_011_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "they are better at ${ \\bf 4 5 0 ^ { \\circ } C }$ and above.",
+    "alloy_name": "zirconium-niobium alloys",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "corrosion properties",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": 450,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP754-EB-Zirconium in the Nuclear Industry_5th Volume_011_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "Conditions leading to nodular corrosion in Zircaloy-2 did not produce nodular attack on the Zr1Nb-1Sn-0.5Fe alloy, or on $\\mathbf { Z } _ { \\mathbf { r } - 2 . 5 \\mathbf { N } \\mathbf { b } }$",
+    "alloy_name": "Zr-1Nb-1Sn-0.5Fe",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 1,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1,
+        "unit": "wt%"
+      },
+      "Fe": {
+        "value": 0.5,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-1Nb-1Sn-0.5Fe",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "nodular corrosion resistance",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP754-EB-Zirconium in the Nuclear Industry_5th Volume_011_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "Conditions leading to nodular corrosion in Zircaloy-2 did not produce nodular attack on the Zr1Nb-1Sn-0.5Fe alloy, or on $\\mathbf { Z } _ { \\mathbf { r } - 2 . 5 \\mathbf { N } \\mathbf { b } }$",
+    "alloy_name": "Zr-2.5Nb",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 2.5,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-2.5Nb",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": null,
+    "property_name": "nodular corrosion resistance",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": null,
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP754-EB-Zirconium in the Nuclear Industry_5th Volume_011_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "The niobium-containing alloys fail to suffer intergranular cracking in iodine-methanol solution even when stressed to 80 percent of their yield strength for more than 60 days.",
+    "alloy_name": "niobium-containing alloys",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "iodine-methanol test",
+    "property_name": "intergranular cracking resistance",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": "iodine-methanol solution",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": 1440,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP754-EB-Zirconium in the Nuclear Industry_5th Volume_011_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "The other alloys failed at 30 percent of yield strength in a few hours.",
+    "alloy_name": "other alloys",
+    "composition": {},
+    "composition_raw": null,
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "iodine-methanol test",
+    "property_name": "intergranular cracking resistance",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temp_C": null,
+      "medium": "iodine-methanol solution",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  },
+  {
+    "source_id": "STP754-EB-Zirconium in the Nuclear Industry_5th Volume_011_chunk1",
+    "page_or_fig": "1",
+    "evidence_span": "Preliminary iodine-argon iodine-pressurized burst tests indicate some improvement for the $\\mathbf { Z r } { - } 1 \\mathbf { N } \\mathbf { b } { - } \\mathbf { 1 } \\mathbf { S } \\mathbf { n } { - } \\mathbf { 0 } . 5 \\mathbf { F } \\mathbf { e }$ alloy compared with Zircaloy-2 with a five to ten times increase in time to failure for the same stress level.",
+    "alloy_name": "Zr-1Nb-1Sn-0.5Fe",
+    "composition": {
+      "Zr": {
+        "value": null,
+        "unit": "wt%"
+      },
+      "Nb": {
+        "value": 1,
+        "unit": "wt%"
+      },
+      "Sn": {
+        "value": 1,
+        "unit": "wt%"
+      },
+      "Fe": {
+        "value": 0.5,
+        "unit": "wt%"
+      }
+    },
+    "composition_raw": "Zr-1Nb-1Sn-0.5Fe",
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "iodine-pressurized burst test",
+    "property_name": "time to failure",
+    "domain": "corrosion",
+    "value": null,
+    "value_min": 5,
+    "value_max": 10,
+    "unit": "times",
+    "raw_unit": "times",
+    "conditions": {
+      "temp_C": null,
+      "medium": "iodine-argon",
+      "pressure_MPa": null,
+      "strain_rate_s-1": null,
+      "dpa": null,
+      "fluence": null,
+      "time_h": null,
+      "atmosphere": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9
+  }
+]

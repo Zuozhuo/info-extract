@@ -1,0 +1,31 @@
+[
+  {
+    "source_id": "STP681-EB-Zirconium in the Nuclear Industry_4th Volume_003_chunk1",
+    "page_or_fig": "5-18",
+    "evidence_span": "Progress since 1955 in the technology of zirconium and its alloys is reviewed primarily from an applications viewpoint",
+    "alloy_name": "zirconium alloys",
+    "composition_raw": null,
+    "composition": {},
+    "specimen_state": null,
+    "process_step": null,
+    "test_type": "review",
+    "property_name": "technology development",
+    "value": null,
+    "value_min": null,
+    "value_max": null,
+    "unit": null,
+    "raw_unit": null,
+    "conditions": {
+      "temperature": null,
+      "pressure": null,
+      "environment": null,
+      "irradiation_dose": null,
+      "time": null,
+      "strain_rate": null,
+      "stress": null
+    },
+    "metric_type": "judgement",
+    "confidence": 0.9,
+    "domain": "corrosion"
+  }
+]
